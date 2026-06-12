@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "finance-skills@claude-code-skills": true
+  }
+}
