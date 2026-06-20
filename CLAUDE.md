@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repository Is
 
-A personal equity research repository for Indian publicly-listed mid-cap, small-cap and micro-cap stocks. Each company gets its own folder containing:
+A personal equity research repository for publicly-listed companies (primarily Indian mid-cap, small-cap, and micro-cap stocks; also includes select US-listed companies). Each company gets its own folder containing:
 1. A Markdown analysis file — the primary research document
 2. Supporting PDFs — earnings call transcripts, investor presentations, regulatory filings
 
