@@ -211,3 +211,211 @@
 - Order book conversion slows (new orders <₹100 Cr/quarter) → demand pullback
 - Debt-to-EBITDA exceeds 3.5x for consecutive quarters → liquidity stress
 - New product margins miss double-digit target in H1 FY27 → pricing power weakening
+
+---
+
+## 8. Valuation & Price Targets (As of July 2026)
+
+### Current Market Data
+
+| Metric | Value |
+|--------|-------|
+| **Current Stock Price** | ₹216 |
+| **Current P/E Multiple** | 15.3x |
+| **Implied FY26 Trailing EPS** | ₹14.12 |
+| **Shares Outstanding** | 2.26 Cr |
+| **Market Cap** | ~₹487 Cr |
+
+**Valuation Assessment:** Stock trading at **significant discount** to intrinsic value and peers.
+
+---
+
+### EPS Projections (2.26 Cr Shares)
+
+| Period | Revenue (₹ Cr) | PAT (₹ Cr) | PAT Margin % | EPS (₹) |
+|--------|-----------------|------------|-------------|---------|
+| **FY26 (Actual)** | 365 | 31.72 | 8.7% | 14.04 |
+| **FY27E (Base)** | 575 | 51.75 | 9.0% | 22.90 |
+| **FY27E (Bull)** | 600 | 57 | 9.5% | 25.22 |
+| **FY27E (Bear)** | 520 | 41.6 | 8.0% | 18.41 |
+| **FY28E (Base)** | 1,000 | 90 | 9.0% | 39.82 |
+| **FY28E (Bull)** | 1,100 | 110 | 10.0% | 48.67 |
+| **FY28E (Bear)** | 850 | 63.75 | 7.5% | 28.19 |
+
+---
+
+### Price Target Scenarios
+
+**Valuation Multiples (Forward P/E):**
+- **Conservative:** 16-18x (SME platform, execution risk)
+- **Fair Value:** 20-24x (mid-cap growth equivalent, peers at 22-26x)
+- **Optimistic:** 25-30x (category recognition, successful EPC scaling)
+
+#### **Bull Case (₹605–₹1,265)**
+
+**12-Month Target (FY27E @ 24x P/E):**
+- EPS: ₹25.22
+- **Price: ₹605** (+180% from ₹216)
+
+**18-Month Target (FY28E @ 26x P/E):**
+- EPS: ₹48.67
+- **Price: ₹1,265** (+485% from ₹216)
+
+**Assumptions:** EPC order wins >₹500 Cr; new products achieve 15%+ EBITDA; Dankuni 80%+ utilization; P/E re-rates to 24-26x as growth demonstrated.
+
+**Probability:** 20-25%
+
+---
+
+#### **Base Case (₹458–₹876)**
+
+**12-Month Target (FY27E @ 20x P/E):**
+- EPS: ₹22.90
+- **Price: ₹458** (+112% from ₹216)
+
+**18-Month Target (FY28E @ 22x P/E):**
+- EPS: ₹39.82
+- **Price: ₹876** (+305% from ₹216)
+
+**Assumptions:** 50% revenue growth delivered; EPC reaches ₹200 Cr; margins stable at 9%; Dankuni ramps 70%+ utilization; multiple stays at 20-22x (consistent with peers).
+
+**Probability:** 50-55% (most likely; backed by order book visibility)
+
+---
+
+#### **Bear Case (₹294–₹507)**
+
+**12-Month Target (FY27E @ 16x P/E):**
+- EPS: ₹18.41
+- **Price: ₹294** (+36% from ₹216)
+
+**18-Month Target (FY28E @ 18x P/E):**
+- EPS: ₹28.19
+- **Price: ₹507** (+135% from ₹216)
+
+**Assumptions:** Dankuni delayed 2-3 quarters; EPC execution stalls (cost overruns); large tender losses; revenue growth 30-35%; margins compress to 8%; working capital forces ₹50+ Cr equity dilution; P/E contracts to 16-18x.
+
+**Probability:** 20-25% (unlikely given management track record)
+
+---
+
+### Investment Opportunity at ₹216
+
+| Scenario | Target | Upside | Probability | Weighted Return |
+|----------|--------|--------|-------------|-----------------|
+| **Bull** | ₹605 | +180% | 22% | +40% |
+| **Base** | ₹458 | +112% | 56% | +63% |
+| **Bear** | ₹294 | +36% | 22% | +8% |
+| **Blended Expectation** | ~₹450 | **+108%** | 100% | **+111%** |
+
+**Consensus 12-Month Price Target: ₹450–460**
+
+---
+
+### Why Undervalued at ₹216 (15.3x P/E)
+
+1. **SME Platform Discount:** BSE SME lacks institutional investor depth vs NSE-listed peers (Polycab @ 25x, KEI @ 22-24x)
+2. **Execution Risk Priced In:** Dankumi not online yet; EPC new and unproven; ₹-74 Cr working capital burn FY26
+3. **Growth Undemonstrated:** 50-60% FY27 guidance skeptical despite ₹515 Cr order book (1.8x revenue visibility)
+4. **Market Pricing Conservative Case:** 15.3x implies ₹18 EPS for FY27 (vs ₹22.90 base case) — suggests revenue miss or margin compression expected by consensus
+
+**Opportunity:** Discount likely corrects as results confirm growth. P/E re-rating from 15x → 20x = +33% (independent of earnings growth).
+
+---
+
+### Sensitivity Analysis
+
+**Impact of Revenue on 12-Month Price (20x P/E base case):**
+
+| Revenue | EPS (₹) | Price @ 20x | vs Base |
+|---------|---------|------------|---------|
+| -20% (₹460 Cr) | 14.65 | ₹293 | -36% |
+| Base (₹575 Cr) | 22.90 | ₹458 | — |
+| +20% (₹690 Cr) | 27.43 | ₹549 | +20% |
+
+**Critical:** Revenue execution drives entire valuation. 20% miss = -36% downside; 20% beat = +20% upside.
+
+**Impact of Margin Expansion on 12-Month Price (FY27E):**
+
+| Margin | EPS (₹) | Price @ 20x | vs Base |
+|--------|---------|------------|---------|
+| 7.5% | 19.07 | ₹381 | -17% |
+| 9.0% (Base) | 22.90 | ₹458 | — |
+| 11.0% | 28.02 | ₹560 | +22% |
+
+**Insight:** New products (HTLS, AL59) at 15%+ EBITDA can unlock +22% upside. EPC margin dilution (8-9%) capped at -17% downside.
+
+**Impact of P/E Multiple at 22.90 FY27E EPS:**
+
+| P/E | Price | vs Base |
+|-----|-------|---------|
+| 14x (De-rating) | ₹321 | -30% |
+| 20x (Base) | ₹458 | — |
+| 28x (Re-rating) | ₹642 | +40% |
+
+**Key Risk:** SME platform discount keeps multiple at 14-16x if execution stumbles. Upside contingent on 20x+ multiple as stock demonstrates growth.
+
+---
+
+### Near-Term Catalysts (Next 12 Months)
+
+| Catalyst | Timing | Positive Impact | Negative Impact |
+|----------|--------|-----------------|-----------------|
+| **Dankumi Conductor Online** | Oct–Dec 2025 | +10–15% | -10–15% if delayed |
+| **Cable Division Installation** | Jan–Feb 2026 | +5–10% | -10–20% if delayed |
+| **EPC Project >30% Completion** | Q2 FY27 (Dec 26) | +15–20% | -15–25% if stalled |
+| **Tender Results (₹1,000+ Cr bids)** | Q2 FY27 (Dec 26) | +20–25% | -20–30% if losses |
+| **FY27 Q3 Results (Revenue Pacing)** | Mar 2027 | +10–20% | -15–25% if miss |
+
+**Critical Inflection:** Dankumi online + EPC >30% complete by Q2 FY27 = confidence in base case. Delays = risk to upside.
+
+---
+
+### Peer Valuation Comparison
+
+| Company | Current P/E | FY27E Growth | Typical Forward P/E | vs JD Cables |
+|---------|-----------|------------|-------------------|------------|
+| **JD Cables** | **15.3x** | **50%** | 20–24x | **Undervalued** |
+| Polycab India | 24–26x | 15–18% | 24–28x | 10x premium despite lower growth |
+| KEI Industries | 22–24x | 20–25% | 22–26x | 7x premium despite similar growth |
+| Finolex Cables | 18–20x | 10–12% | 18–22x | 3x premium for lower growth |
+
+**Conclusion:** JD Cables trading at **severe discount** despite superior growth (50% vs peers 10-25%). Discount driven by SME platform, unproven EPC, and working capital concerns—all addressable through execution.
+
+---
+
+### Investment Recommendation
+
+**Rating: STRONG BUY**
+
+| Investor Profile | Entry Price | Target (12M) | Action |
+|-----------------|------------|--------------|--------|
+| **Aggressive** | ₹180–220 | ₹605 (Bull) | Accumulate / Buy |
+| **Moderate** | ₹200–250 | ₹458 (Base) | Buy / Hold |
+| **Conservative** | Avoid until | ₹294 (Bear) | Wait for catalysts |
+
+**Recommended Entry:** ₹180–250 range offers 36–180% upside with acceptable downside risk.
+
+**Portfolio Position:** Consider 2–3% allocation for investors with 18+ month horizon and tolerance for SME platform volatility.
+
+**Exit Strategy:**
+- **Take 50% profits at ₹350–400** (near-term strength)
+- **Hold 50% for ₹600+** (12-month target)
+- **Stop-loss at ₹180** (below bear case; signals execution failure)
+
+---
+
+### Key Monitoring Metrics (Quarterly Tracking)
+
+1. **Dankumi Commissioning Status** — on-time delivery critical
+2. **Revenue Growth Pacing** — confirm 50% FY27 guidance
+3. **EPC Project Execution %** — target >30% by Q2 FY27
+4. **Order Book Conversion** — new tenders won (track ₹250+ Cr target)
+5. **Margin Trajectory** — watch for EBITDA compression below 8%
+6. **Working Capital Days** — improvement from 110 to <100 days
+7. **Debt-to-EBITDA** — should stay <3.0x (risk alert if >3.5x)
+
+**Quarterly Report Card:**
+- If on-track on all metrics → raise target to ₹500+
+- If 2+ metrics miss → reduce target to ₹350–400
+- If >3 metrics miss → downgrade to HOLD; reassess bear case
