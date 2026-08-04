@@ -345,3 +345,130 @@ Arman is undergoing a major business model overhaul to deleverage MFI and scale 
 3. **Q3 FY26 guidance (Jan 2026):** Profitability path visibility
 4. **Capital raise announcement:** If needed, dilution risk materializes
 5. **Competitor performance:** How are other MFIs performing? Is recovery sector-wide or Arman-specific?
+
+---
+
+## 8. Valuation Analysis @ ₹1,999 (37.1x P/E, 1.05 Cr Shares)
+
+**Current Market Data:**
+- **Stock Price:** ₹1,999
+- **P/E Multiple:** 37.1x (EXPENSIVE)
+- **Shares Outstanding:** 1.05 Cr (105 million)
+- **Market Capitalization:** ₹2,102 Cr
+- **Implied Annual EPS:** ₹1,999 / 37.1 = **₹53.90 per share**
+- **Implied Annual PAT:** ₹53.90 × 1.05 Cr = **₹56.60 Cr** (aligned with FY25 actual PAT ₹52 Cr)
+
+**Valuation Context: 37.1x P/E is a PREMIUM, NOT a VALUE**
+
+| Metric | Arman @ 37.1x | Industry Comparison | Assessment |
+|--------|---------------|-------------------|-----------|
+| **Current P/E** | 37.1x | NBFC avg 12-18x | **2.5-3x premium** |
+| **Risk profile** | High (turnaround, losses) | Low-medium | Should trade DISCOUNT not premium |
+| **Earnings visibility** | Low (losses in Q1 FY26) | Stable | Justifies LOWER multiple |
+| **Sector comparison** | — | Bandhan Bank 9x, SKB 10x | Arman 3-4x MORE expensive than stressed MFI peers |
+| **Growth rate** | Negative MFI (-23%), +29% standalone | Positive for peers | Should compress multiple |
+
+**Market is pricing:** A V-shaped recovery to FY25 profitability levels immediately, while ignoring:
+- Q1 FY26 loss of ₹15 Cr
+- FY26E likely loss (₹10)-(₹20) Cr
+- 2-3 year path back to normalized earnings
+
+---
+
+### Valuation Scenarios @ 37.1x P/E
+
+**Conservative Case: Stock should trade 12x FY27E PAT**
+
+- **Assumption:** Stabilization takes 18-24 months; FY27E PAT ₹40-50 Cr
+- **Fair Value @ 12x:** ₹480-600 per share
+- **Downside from ₹1,999:** **-70 to -76%**
+- **Trigger:** Losses persist into FY27; recovery delayed
+
+**Base Case: Stock should trade 15x FY27E PAT**
+
+- **Assumption:** Stabilization by Q4 FY26; FY27E PAT ₹50-60 Cr
+- **Fair Value @ 15x:** ₹750-900 per share
+- **Downside from ₹1,999:** **-55 to -62%**
+- **Trigger:** On-track turnaround; losses end by Q3 FY26
+
+**Bull Case: Stock trades 20x FY27E PAT (stretched)**
+
+- **Assumption:** Early stabilization (Q3 FY26); FY27E PAT ₹70-80 Cr (above guidance)
+- **Fair Value @ 20x:** ₹1,400-1,600 per share
+- **Downside from ₹1,999:** **-20 to -30%**
+- **Trigger:** Standalone growth exceeds expectations; MFI collections 99%+; all initiatives execute flawlessly
+
+**Current Valuation @ 37.1x (Unjustified):**
+
+| Time Horizon | Fair P/E | Fair Value | vs ₹1,999 |
+|--------------|----------|-----------|----------|
+| **FY26E** (6 months) | N/A (loss) | ₹0-200 | -90% downside |
+| **FY27E** (18 months) | 12-15x | ₹480-900 | -55% to -76% downside |
+| **FY28E** (30 months) | 15-18x | ₹1,200-1,600 | -20% to +20% |
+
+**Stock would need to fall 55-76% just to reach fair value at normalized earnings levels.**
+
+---
+
+### Key Valuation Risks (Downside Triggers)
+
+**Why Stock Could Fall to ₹400-800 (80% crash):**
+
+1. **Q2 FY26 results disappoint:** Collections stay <95%, rejections >75%, losses continue
+2. **Cost structure doesn't improve:** OCR stays >42% instead of normalizing to 38-40%
+3. **Attrition accelerates:** Staff turnover >50% undermines execution
+4. **Capital raise forced:** Unexpected dilution (₹300-400 Cr raise = 10-15% dilution)
+5. **MFI AUM spiral:** Falls below ₹1,400 Cr (free-fall below 30% of portfolio)
+6. **Monsoon failure / rural crisis:** Agricultural distress extends recovery timeline to FY27+
+7. **Peer comparison:** If Bandhan Bank reports better numbers, Arman's premium disappears
+
+**Why Stock Might Hold ₹1,200-1,600 (30-40% fall):**
+
+1. **Bull case executes:** All initiatives on track by Q3 FY26
+2. **Standalone accelerates:** MSME/2-wheeler growth hits 30%+ YoY
+3. **Collections improve faster:** 0-DPD bucket hits 99%+ by Q2 FY26
+4. **Cost leverage materializes:** OCR improves to 39% by Q3 FY26
+5. **CGFMU guarantees work:** Reduces credit cost ₹20-30 Cr annually
+6. **Market gives credit for turnaround:** Investors buy "recovery story" narrative
+
+---
+
+### Recommendation: STRONG SELL
+
+**At ₹1,999 (37.1x P/E), Arman is OVERVALUED by 55-75%.**
+
+**Investment Thesis:**
+
+| Metric | Reality | Market Pricing | Gap |
+|--------|---------|-----------------|-----|
+| **FY26E PAT** | (₹15)-(₹20) Cr loss | ₹52-56 Cr | Ignoring Q1 loss! |
+| **P/E basis** | Should be negative/N/A | 37.1x | Meaningless multiple |
+| **Normalized (FY27E) PAT** | ₹40-50 Cr | ₹56 Cr (static) | Market not adjusting |
+| **Fair P/E (turnaround stock)** | 12-15x | 37.1x | 2.5-3x too high |
+| **Price Target (FY27E)** | ₹600-900 | ₹1,999 current | -55% to -70% downside |
+
+**Action Plan:**
+
+- **Current Holders:** SELL immediately; lock in profits or cut losses
+- **New Buyers:** AVOID entirely; wait for ₹800-1,200 range before reconsidering
+- **Target Entry Points:**
+  - ₹1,200-1,400 (20-40% fall): Still expensive; needs confirmation of Q2 improvement
+  - ₹800-1,000 (50-60% fall): Fair value if losses persist; consider entry with 3-5 year horizon
+  - ₹400-600 (70-80% fall): Distressed entry for turnaround specialists only
+
+**Why Market is Wrong @ 37.1x P/E:**
+
+1. **Backward-looking multiple:** Based on FY25 earnings (₹52 Cr), ignoring Q1 FY26 loss
+2. **Ignoring near-term losses:** FY26E likely (₹10)-(₹20) Cr loss; stock should be trading 0-10x normalized earnings, not 37x
+3. **No risk premium:** Stock priced for pristine growth company (Bajaj Finance level) but has MFI distress + execution risk
+4. **Recovery priced in:** Market assuming immediate return to FY25 profitability, but turnaround is 18-24 months minimum
+5. **Peer comparison disconnect:** Bandhan (9x), SKB (10x) are stressed MFI plays; Arman should trade at similar or lower multiples due to worse trajectory
+
+**Key Catalysts to Watch Before Re-rating:**
+
+- **Q2 FY26 (Oct 2025):** Must show collections >96%, rejections <72%, cost-to-income <42%
+- **Q3 FY26 (Jan 2026):** Must approach profitability (PPOP ₹80+ Cr)
+- **FY26 full-year:** Must achieve near-breakeven (PAT >₹5 Cr)
+- **FY27 guidance:** Clear path to ₹50+ Cr PAT with ROA 1.5%+
+
+**Until these milestones are achieved, stock deserves 12-15x fair value (₹600-900 range), not 37.1x.**
