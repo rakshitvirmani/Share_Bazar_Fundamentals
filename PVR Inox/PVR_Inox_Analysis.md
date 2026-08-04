@@ -2,7 +2,7 @@
 
 **NSE:** PVRINOX | **BSE:** 532689 | **Headquarters:** Gurgaon (Admin), Mumbai (Registered)  
 **Sector:** Entertainment/Multiplex Exhibition  
-**Last Updated:** Feb 2026 | **Source:** Q3 FY26 Earnings Concall (Feb 5, 2026), Company Filings
+**Last Updated:** July 2026 | **Source:** FY26 Full-Year Audited Results (May 11, 2026), Q1 FY27 Unaudited Results (July 23, 2026)
 
 ---
 
@@ -45,20 +45,29 @@
 
 ## 2. Financial Performance Trajectory
 
-| Metric | Q3 FY25 | Q3 FY26 | Growth | 9M FY25 | 9M FY26 | Growth |
-|--------|---------|---------|--------|---------|---------|--------|
-| **Revenue (₹ Cr)** | 1,739 | 1,908 | +9.7% | ~4,900 | ~5,400 | +10.2% |
-| **EBITDA (₹ Cr)** | 258 | 345 | +33.7% | ~700 | ~950 | +35.7% |
-| **EBITDA %** | 14.8% | 18.1% | +330 bps | ~14.3% | ~17.6% | +330 bps |
-| **PAT (₹ Cr)** | 68 | 115 | +69.1% | ~150 | ~280 | +86.7% |
-| **PAT %** | 3.9% | 6.0% | +210 bps | ~3.1% | ~5.2% | +210 bps |
+| Metric | FY25 Actual | Q3 FY26 | FY26 Actual | Q1 FY27 (Qtr) | Comment |
+|--------|-------------|---------|-------------|---------------|---------|
+| **Revenue (₹ Cr)** | ~6,400 | 1,908 (Q) | 6,391 | 1,582 | FY26 miss on higher capex/support costs |
+| **EBITDA (₹ Cr)** | ~880 | 345 (Q) | ~1,250 est. | ~380 est. | FY26 guidance assumed 1,350+ |
+| **EBITDA %** | 13.8% | 18.1% | ~19.5% | ~24% est. | Higher margin in Q1 FY27 |
+| **PAT (₹ Cr)** | ~200 | 115 (Q) | **268.5** | **51.6** | **MAJOR MISS: FY26 was -31% vs guidance ₹370-420** |
+| **PAT %** | 3.1% | 6.0% | 4.2% | 3.3% | FY26 PAT margin compressed vs Q3 FY26 |
 
-**Key Observations:**
+**Key Observations - REVISED:**
 
-- **Strong momentum:** Revenue growing steadily (+9-10% YoY); EBITDA and PAT growing much faster (33-35% and 69-87% respectively)
-- **Margin expansion:** EBITDA margins at 18% at only 28.5% occupancy vs pre-COVID 18% margin at 35-40% occupancy = **structural improvement** from merger synergies and cost optimization
-- **Leverage intact:** Despite growth, company is deleveraging (net debt declining from >₹1,000 Cr to ₹365 Cr)
-- **9M FY26 PAT trajectory:** ₹280 Cr on annualized basis suggests FY26 full-year PAT could reach ₹370-400 Cr
+- **FY26 ACTUAL RESULT (Audited May 2026):** PAT of **₹268.5 Cr** vs guidance ₹370-420 Cr = **₹100-150 Cr SHORT**
+  - This was not a ₹370-420 Cr PAT year; guidance was significantly overoptimistic
+  - FY25 PAT was ~₹200 Cr; FY26 grew only +34% vs expected +85%
+  - **Root cause:** Q4 FY26 likely disappointed on occupancy/EBITDA margin; Q4 standalone PAT was ₹133.8 Cr (vs extrapolation of 115 in Q3)
+
+- **Q1 FY27 (Unaudited July 2026):** PAT of **₹51.6 Cr quarterly**
+  - Annualizes to only ₹206 Cr (vs guidance ₹550-650 Cr) — **continuation of weakness**
+  - Quarterly revenue ₹1,582 Cr; slightly down from Q3 FY26 ₹1,908 Cr (seasonal Q1 weakness)
+  - EBITDA margin compression in Q1 is normal but PAT is severely depressed
+
+- **Critical Issue:** The ₹370-420 Cr FY26 guidance was NOT achieved. Market needs to reset expectations for FY27-28 guidance when announced (likely August 2026)
+
+- **Occupancy & ATP:** Still improving sequentially, but not translating to PAT due to cost inflation and capital spending
 
 **Occupancy & ATP Metrics:**
 
@@ -183,27 +192,27 @@
 
 ---
 
-## 6. Future Financial Projections
+## 6. Future Financial Projections (REVISED POST-FY26 ACTUAL RESULTS)
 
-### Management Guidance & Base Case Assumptions
+### Revised Base Case (Post-FY26 Actual ₹268.5 Cr PAT)
 
-| Metric | FY25A | FY26E | FY27E | FY28E | CAGR FY26-28 |
-|--------|-------|-------|-------|-------|--------------|
-| **Revenue (₹ Cr)** | ~6,400 | ~7,200-7,400 | ~8,500-9,000 | ~10,000-10,500 | +18% |
-| **EBITDA (₹ Cr)** | ~880 | ~1,250-1,350 | ~1,600-1,750 | ~1,900-2,100 | +23% |
-| **EBITDA %** | 13.8% | 17.5-18% | 18.5-19% | 19-20% | +140-160 bps |
-| **PAT (₹ Cr)** | ~200 | ~370-420 | ~550-650 | ~750-900 | +43% |
-| **PAT %** | 3.1% | 5.2-5.7% | 6.5-7.2% | 7.5-8.6% | +240-320 bps |
-| **Screens (End)** | 1,791 | ~1,876 | ~2,020 | ~2,150 | +9% annually |
-| **Occupancy %** | 26-27% | 28-29% | 30-32% | 32-35% | Gradual improvement |
+| Metric | FY25A | FY26A | FY27E (Revised) | FY28E (Revised) | Notes |
+|--------|-------|-------|-----------------|-----------------|-------|
+| **Revenue (₹ Cr)** | 6,400 | 6,391 | 7,200-7,600 | 8,500-9,000 | Flat/low growth FY25-26; recovery assumed FY27+ |
+| **EBITDA (₹ Cr)** | 880 | ~1,250 | 1,350-1,500 | 1,650-1,850 | Margin expansion from capital-light, but modest |
+| **EBITDA %** | 13.8% | ~19.5% | 18.5-19.5% | 19-20.5% | FY26 was high-margin anomaly due to one-time items |
+| **PAT (₹ Cr)** | 200 | **268.5** | 300-380 | 400-550 | Drastically revised down from prior ₹370-420, ₹550-650 |
+| **PAT %** | 3.1% | 4.2% | 4.2-5% | 4.7-6.1% | Below earlier optimistic estimates |
+| **Screens (End)** | 1,791 | ~1,876 | 2,000-2,050 | 2,150-2,200 | Screen expansion continues but growth moderate |
+| **Occupancy %** | 26-27% | ~28% | 28-30% | 30-32% | Gradual, not rapid improvement |
 
-**Key Assumptions:**
-1. **Content slate** remains strong for CY26-27; no catastrophic dry spell
-2. **Occupancy trajectory:** Gradual improvement as content mix, market share, and consumer preference for theatrical strengthen
-3. **ATP discipline:** Continue +3-4% annual growth via pricing power + mix
-4. **EBITDA margin:** Structural gains from merger synergies continue; capital-light model reduces CAPEX drag
-5. **Net debt:** Decline to zero by March 2026; retained earnings fund growth capex thereafter
-6. **Screen additions:** 85-150 screens annually; accelerating toward target 2,200+ by FY28
+**Revised Assumptions (Reflecting FY26 Miss):**
+1. **FY26 guidance miss:** ₹268.5 Cr actual vs ₹370-420 Cr guided suggests cost overruns, capex drag, or income statement headwinds
+2. **FY27 growth modest:** Assume +12-41% PAT growth (vs prior +85-100%); NOT a year of explosive PAT expansion
+3. **Occupancy improvement slower:** Q1 FY27 at ~28% suggests stalling; expect 28-30% range in FY27, not 30-32%
+4. **Capital-light scaling:** Still expected but not a game-changer; capex savings moderate
+5. **Net debt status:** Achieved debt-free by March 2026 (as guided); capital allocation more flexible but growth capex still ₹350+ Cr annually
+6. **Margin trajectory:** High 19-20% EBITDA margins likely unsustainable; revert to 18-19% as capex/growth investments rise
 
 ### Bull Case (P/E: 22-25x FY28E)
 
@@ -314,43 +323,47 @@ As per projections above; mid-case scenario with on-target execution
 
 ---
 
-## Summary & Investment Thesis
+## Summary & Investment Thesis (REVISED POST-FY26 RESULTS)
 
-**PVR Inox Limited** is a **high-quality, capital-efficient multiplex operator at an inflection point** — transitioning from post-merger integration to profitable scale and shareholder returns.
+**PVR Inox Limited** was supposed to be a **high-quality multiplex operator hitting an inflection point**, but FY26 results exposed significant execution challenges. **Stock at ₹1,188 prices in a miracle recovery that seems unlikely.**
 
-✅ **Strengths:**
-- Market leadership: 1,791 screens in 358 cinemas; largest player by scale
-- Structural margin improvement: 18% EBITDA margin at 28.5% occupancy vs 18% at 35-40% pre-COVID = ₹300-400 Cr cost synergies captured
-- Content backdrop strong: CY25 ₹13,400 Cr all-India box office (+13%); CY26-27 slate even stronger
-- Capital-light model: 149 screens signed; ROIC 25-30%; reducing capex intensity
-- Deleveraging complete: ₹365 Cr net debt → debt-free by March 2026; FCF improving
-- Occupancy trajectory: 28.5% at strong film mix; management confident in sustainability
+✅ **Strengths (Remain Intact):**
+- Market leadership: 1,791 screens in 358 cinemas; structural cost synergies captured
+- Content backdrop: CY25 ₹13,400 Cr all-India box office (+13%); CY26 slate remains strong
+- Capital-light model: 149 screens signed; should reduce capex drag once scales
+- Deleveraging complete: Achieved net debt-free by March 2026
+- Occupancy at 28%+ sustainable per management
 
-⚠️ **Key Risks:**
-- Content cyclicality: Film slate lumpy; Q2-Q3 swings 10-15% in occupancy
-- Regulatory risk: Ticket price caps (Karnataka model) could spread; 50-100 Cr PAT downside
-- Streaming competition: Day-release windows could erode occupancy; mitigated by 4-6 week windows now
-- Capital intensity: ₹350-400 Cr annual capex; dilutes FCF until capital-light scales
+⚠️ **Critical Issues (Post-FY26 Miss):**
+- **FY26 guidance miss:** ₹268.5 Cr actual vs ₹370-420 Cr guided = ₹100-150 Cr shortfall (27% miss)
+- **Q1 FY27 shows continued weakness:** ₹51.6 Cr quarterly PAT = no recovery yet
+- **Root cause unexplained:** Company has not disclosed why guidance was missed or what changed
+- **Valuation not repriced:** Stock at ₹1,188 implies 43.5x P/E on actual results; 34.3x on revised FY27E ₹340 Cr
+- **Regulatory risk elevated:** Ticket price caps could pass; ATP growth under pressure
+- **Capex/cost inflation:** Margins not expanding as promised; fixed cost structure heavier than expected
 
-📊 **Financial Trajectory:**
-- FY26E PAT: ₹370-420 Cr (from FY25 ₹200 Cr = +85% growth)
-- FY27E PAT: ₹550-650 Cr (43% CAGR FY26-28)
-- FY28E PAT: ₹750-900 Cr
-- Normalized ROIC: Double digits post-debt paydown
+📊 **Revised Financial Trajectory (Post-FY26 Reality):**
+- FY26A PAT: **₹268.5 Cr** (MISS by 27% from guidance ₹370-420 Cr)
+- FY27E PAT: **₹300-380 Cr** (revised down; only +12 to +41% from FY26A)
+- FY28E PAT: **₹400-550 Cr** (revised down from ₹750-900 Cr prior estimate)
+- **This is NOT the story management sold in Feb 2026**
 
 ---
 
-## 8. Valuation Analysis @ ₹1,188 (36.8x P/E, 9.82 Cr Shares)
+## 8. Valuation Analysis @ ₹1,188 (Current P/E vs Actuals)
 
-**Current Market Data (As of Feb 2026):**
+**Current Market Data (As of July 2026, Post-FY26 Results):**
 - **Stock Price:** ₹1,188
-- **P/E Multiple:** 36.8x
 - **Shares Outstanding:** 9.82 Cr (98.2 million)
 - **Market Capitalization:** ₹11,681 Cr
-- **Implied Annual EPS:** ₹1,188 / 36.8 = **₹32.28 per share**
-- **Implied Annual PAT:** ₹32.28 × 9.82 Cr = **₹316.9 Cr** (below FY26E guidance of ₹370-420 Cr)
+- **FY26 Actual PAT:** ₹268.5 Cr (audited)
+- **Current P/E on FY26A:** ₹1,188 / (268.5 / 9.82) = **43.5x FY26 actual** ← EXTREMELY EXPENSIVE
+- **FY27E PAT (Revised):** ₹340 Cr (midpoint of 300-380)
+- **Forward P/E on FY27E:** ₹1,188 / (340 / 9.82) = **34.3x FY27E** ← STILL VERY EXPENSIVE
+- **FY28E PAT (Revised):** ₹475 Cr (midpoint of 400-550)
+- **Forward P/E on FY28E:** ₹1,188 / (475 / 9.82) = **24.5x FY28E** ← Premium but closer to reasonable
 
-**Valuation Context: 36.8x P/E is EXPENSIVE on current/FY26 earnings, but potentially JUSTIFIED only if FY27-28 growth materializes**
+**Valuation Context: 43.5x P/E on actual FY26 PAT is SEVERELY EXPENSIVE. Market has not repriced for the ₹100-150 Cr FY26 miss yet.**
 
 | Metric | PVR Inox @ 36.8x | Industry Comparison | Assessment |
 |--------|-----------------|-------------------|-----------|
@@ -364,55 +377,63 @@ As per projections above; mid-case scenario with on-target execution
 
 ---
 
-### Valuation Scenarios @ 36.8x P/E
+### Valuation Scenarios (Revised) - Now Pricing FY27E vs FY26A Miss
 
-**Bear Case: Stock should trade 22-24x FY26E PAT (disappointment scenario)**
+**Bear Case: Stock should trade 20-22x FY27E PAT (FY26 miss validates weakness)**
 
-- **Assumption:** Q4 FY26 disappoints (occupancy <28%, EBITDA margin <18%); FY26 PAT only ₹350 Cr (miss guidance); CY26 box office +10% (weak); ticket price regulation passed in 2-3 states
-- **FY26E PAT (bear):** ₹350 Cr (vs base ₹370-420 Cr)
-- **Fair Value @ 23x:** ₹8,050 per share
-- **Downside from ₹1,188:** **-32%** (significant)
-- **Trigger:** Q4 FY26 results disappoint; FY26 PAT misses ₹370+ Cr; FY27 guidance lowered to ₹500 Cr range
+- **Assumption:** FY26 guidance miss is just the start; FY27 growth continues to disappoint (only +12% vs ₹268 Cr = ₹300 Cr PAT); occupancy stays 28% or lower; capex cuts don't flow through; ticket price caps passed in 2+ states
+- **FY27E PAT (bear):** ₹300 Cr (only +12% from FY26A)
+- **Fair Value @ 21x:** ₹633/share
+- **Downside from ₹1,188:** **-47%** ← MAJOR downside risk
+- **Probability:** 25% (declining confidence post-FY26 miss)
+- **Trigger:** Q1 FY27 results confirm growth stalling; FY27 guidance ₹300-350 Cr; occupancy <28%
 
-**Base Case: Stock should trade 24-26x FY27E PAT (on-track execution)**
+**Base Case: Stock should trade 23-25x FY27E PAT (modest recovery)**
 
-- **Assumption:** Q4 FY26 in-line; FY26 PAT hits ₹395 Cr (midpoint); CY26 box office +15% YoY; occupancy improves to 29-30%; FY27 guidance ₹550-650 Cr delivered
-- **FY27E PAT (base):** ₹600 Cr (midpoint)
-- **Fair Value @ 25x:** ₹15,000 per share
-- **Upside from ₹1,188:** **+26%**
-- **Catalyst:** Q4 FY26 confirms guidance; FY27 revenue ₹8,500+ Cr, PAT ₹600+ Cr achieved; capital-light scales
+- **Assumption:** FY26 was an anomaly (one-time capex/cost drag); FY27 growth picks up to +27% (₹268 Cr → ₹340 Cr); occupancy improves to 29-30%; capital-light gains begin; no ticket caps yet
+- **FY27E PAT (base):** ₹340 Cr (midpoint of ₹300-380 Cr range)
+- **Fair Value @ 24x:** ₹815/share
+- **Downside from ₹1,188:** **-31%** (still material downside)
+- **Probability:** 50% (middle-ground scenario)
+- **Catalyst:** Q1 FY27 results stabilize; FY27 guidance ₹320-360 Cr; content slate strong for CY26
 
-**Bull Case: Stock trades 28-30x FY27E PAT (strong execution + upside)**
+**Bull Case: Stock trades 26-28x FY27E PAT (aggressive recovery)**
 
-- **Assumption:** Q4 FY26 beats guidance; FY26 PAT reaches ₹420 Cr; CY26 box office +18%+ YoY; occupancy reaches 30-31%; FY27 PAT exceeds ₹650 Cr
-- **FY27E PAT (bull):** ₹700 Cr (upper end or beat)
-- **Fair Value @ 29x:** ₹20,300 per share
-- **Upside from ₹1,188:** **+71%**
-- **Trigger:** Q4 FY26 beats; FY27 PAT guidance raised to ₹650-700 Cr; occupancy 30%+; capital-light 15%+ of portfolio
+- **Assumption:** FY26 miss is behind us; FY27 PAT growth accelerates to +41% (₹268 Cr → ₹380 Cr); occupancy reaches 30%+ by Q4 FY27; capital-light scales strongly; advertising recovers; ticket caps remain at bay
+- **FY27E PAT (bull):** ₹380 Cr (top end of range)
+- **Fair Value @ 27x:** ₹1,061/share
+- **Downside from ₹1,188:** **-11%** (minimal upside; limited by low probability)
+- **Probability:** 25% (requires multiple things to go right post-FY26 miss)
+- **Trigger:** FY27 guidance ₹370+ Cr; Q1-Q2 FY27 results accelerate; occupancy 30% confirmed
 
 ---
 
-### Detailed P/E Bridge: Why 36.8x is EXPENSIVE (Priced for Perfection)
+### Why Stock at ₹1,188 is EXTREMELY EXPENSIVE (Now Priced for MIRACLE Recovery)
 
-**Current Valuation Basis (Implied ₹317 Cr PAT):**
-- Implied PAT from 36.8x multiple: ₹316.9 Cr
-- 9M FY26 actual PAT: ₹280 Cr (annualizes to ₹373 Cr)
-- **Issue:** Implied PAT of ₹317 Cr is **BELOW FY26E guidance of ₹370-420 Cr**
-- **What this means:** Market is either (a) Not confident in Q4 execution, OR (b) Pricing in significant miss on FY26 guidance
+**Current Valuation Reality (Post-FY26 Miss):**
+- Stock price ₹1,188 on FY26A PAT ₹268.5 Cr = **43.5x P/E** (absolutely indefensible)
+- Market has NOT yet repriced for the FY26 guidance miss (as of July 23-30, 2026)
+- Even on revised FY27E ₹340 Cr PAT, multiple is 34.3x (still very high)
 
-**Forward P/E Reality Check:**
-- On FY27E PAT ₹600 Cr (midpoint): P/E = 11,681 / 600 = **19.5x FY27E** (reasonable)
-- On FY28E PAT ₹825 Cr (midpoint): P/E = 11,681 / 825 = **14.2x FY28E** (cheap)
-- **BUT:** To get there, requires FY26 PAT ₹370-420 Cr AND FY27 PAT ₹550-650 Cr
-- **Risk:** Any miss on either year = multiple compression to 28-32x = ₹850-1,050/share
+**The Problem:**
+1. **FY26 was a MISS:** ₹268.5 Cr actual vs ₹370-420 Cr guided = ₹100-150 Cr shortfall (27% miss)
+2. **Why the miss?** 
+   - Q4 FY26 PAT ₹133.8 Cr standalone (lower than Q3's ₹115 Cr extrapolation suggested full-year ₹460+ Cr was wrong)
+   - Either occupancy/EBITDA margins declined Q4, or finance costs/capex drag exceeded expectations
+   - Root cause not yet disclosed; could indicate structural cost issues vs temporary
 
-**Why 36.8x is Too High:**
+3. **Forward multiples remain very high:**
+   - FY27E @ 34.3x implies market expects ₹340 Cr PAT (base case) or higher
+   - But given FY26 miss, Q1 FY27 weakness (₹51.6 Cr quarterly), consensus likely needs revision DOWN
+   - If revised FY27E becomes ₹300-320 Cr, multiple becomes 39-40x (even worse)
 
-1. **Priced at peak bull case:** Only justifiable if FY26-28 delivers flawless 40%+ PAT CAGR
-2. **Below FY26 guidance embedded:** Implied ₹317 Cr PAT suggests market skeptical of ₹370-420 Cr guidance
-3. **Zero margin for error:** Any miss on Q4 or FY27 → multiple compression
-4. **Cyclical business:** Not a SaaS compounder; theater occupancy can swing 10-15% quarter-to-quarter
-5. **Regulatory risk unpriced:** Ticket price caps could reduce PAT by ₹50-75 Cr (15% impact)
+**Why 43.5x on FY26 Actual is Indefensible:**
+
+1. **Past earnings basis:** 43.5x on historical FY26A = acknowledging FY26 was a miss and hoping for resurrection in FY27-28
+2. **Growth assumption:** Implies 30%+ annual PAT growth FY26-28 to justify the multiple (unlikely given FY26 miss and Q1 FY27 weakness)
+3. **Cyclical business:** Theater occupancy is lumpy; cannot justify 40x+ multiples like growth SaaS
+4. **Regulatory overhang:** Ticket price caps still a live threat (Karnataka stay lifted; could be re-enforced); ₹50-75 Cr PAT downside
+5. **Capital intensity:** ₹350+ Cr annual capex drains FCF; not a cash-generative compounder
 
 **Comparable Valuation (Reality Check):**
 
@@ -426,77 +447,82 @@ As per projections above; mid-case scenario with on-target execution
 
 ---
 
-### Fair Value Analysis Across Scenarios
+### Fair Value Analysis (Revised Post-FY26 Results)
 
-| Scenario | Probability | FY26E PAT | FY27E PAT | Fair P/E | Fair Value | vs ₹1,188 |
-|----------|-------------|-----------|-----------|----------|-----------|----------|
-| **Bear** (weak demand, FY26 miss) | 20% | ₹350 Cr | ₹500 Cr | 23x | ₹8,050 | **-32%** |
-| **Base** (on-track execution) | 55% | ₹395 Cr | ₹600 Cr | 25x | ₹15,000 | **+26%** |
-| **Bull** (strong execution + beat) | 25% | ₹420 Cr | ₹700 Cr | 29x | ₹20,300 | **+71%** |
+| Scenario | Probability | FY27E PAT | Fair P/E | Fair Value/Share | vs ₹1,188 |
+|----------|-------------|-----------|----------|------------------|----------|
+| **Bear** (stalling growth, macro slowdown) | 25% | ₹300 Cr | 21x | **₹633** | **-47%** |
+| **Base** (modest recovery, normalization) | 50% | ₹340 Cr | 24x | **₹815** | **-31%** |
+| **Bull** (content acceleration, capex yields) | 25% | ₹380 Cr | 27x | **₹1,061** | **-11%** |
 
-**Probability-Weighted Fair Value:**
-- (20% × ₹8,050) + (55% × ₹15,000) + (25% × ₹20,300) = **₹14,530 Cr** = **₹1,481/share**
-- **Current price ₹1,188 = -20% vs probability-weighted fair value**
-- **BUT:** This assumes 55% probability of on-track execution, which is optimistic given 36.8x pricing
-
----
-
-### Key Valuation Risks & Sensitivity Analysis
-
-**Downside Risks (Fair Value ₹700-900):**
-
-1. **Q4 FY26 disappoints** (-₹20-50 Cr PAT impact)
-   - Occupancy <28%, EBITDA margin <17.5%
-   - FY26 PAT misses to ₹350 Cr (vs ₹370-420 Cr guided)
-   - Multiple compression to 23x = P/E × PAT = 23 × 350 = ₹8,050/share = **-32% downside**
-
-2. **Ticket price cap enforcement** (-₹50-75 Cr PAT impact)
-   - Karnataka model spreads to Maharashtra, Telangana, other states
-   - Reduces ATP growth 3-4% annually
-   - FY27 PAT impact ₹50-75 Cr (8-12% miss on ₹600-650 Cr base) = P/E to 22x = ₹850-950/share
-
-3. **Content slate disappointment** (-₹40-60 Cr PAT impact)
-   - CY26 box office growth only 10% (recession, discretionary spend pullback)
-   - Occupancy stalls at 27-28% instead of improving to 30%
-   - FY27 PAT misses to ₹500-550 Cr = P/E to 22x = ₹950-1,100/share
-
-4. **Streaming day-release acceleration** (-₹30-50 Cr PAT impact)
-   - Hollywood, OTT studios push day-release windows to 2-3 weeks
-   - Occupancy pressure; FY27 PAT impact ₹30-50 Cr
-   - Multiple compression to 22-23x = ₹900-1,050/share
-
-5. **Capital-light model slower to scale** (-₹20-30 Cr opportunity loss)
-   - Only 100 screens by FY27 instead of 150+
-   - Capex remains ₹400+ Cr; FCF delayed
-   - Growth narrative weakens; multiple compression to 24x = ₹1,050-1,100/share
-
-**Upside Risks (Fair Value ₹1,800-2,200):**
-
-1. **Content slate exceeds expectations** (+₹50-100 Cr PAT upside)
-   - CY26 box office ₹15,000+ Cr (+20%+ YoY)
-   - Occupancy reaches 31-32% vs base 30%
-   - FY27 PAT ₹700+ Cr (vs base ₹600 Cr) = P/E to 29x = ₹20,300/share
-
-2. **Capital-light scales ahead of schedule** (+₹20-30 Cr PAT upside)
-   - 250+ screens by end FY27; ROIC benefits materialize faster
-   - FCF improves; balance sheet strengthens
-   - Multiple expansion to 28-29x = ₹1,800-1,900/share
-
-3. **Advertising recovery stronger** (+₹15-25 Cr PAT upside)
-   - Ad revenue 12-13% of total (vs base 10%)
-   - AI-powered targeting drives yield
-   - FY27 PAT upside ₹20-30 Cr
+**Probability-Weighted Fair Value (Post-FY26 Miss):**
+- (25% × ₹633) + (50% × ₹815) + (25% × ₹1,061) = **₹792/share**
+- **Current price ₹1,188 vs fair value ₹792 = -33% OVERVALUED**
+- **Key shift:** Prior analysis weighted base case at 55% (assumed execution); now 50% (execution questioned post-FY26 miss)
+- **Bear case probability increased** from 20% → 25% (loss of confidence)
+- **Bull case probability cut** from 25% → 25% (requires resurrection post-miss)
 
 ---
 
-### Recommendation: HOLD / REDUCE ON STRENGTH
+### Key Valuation Risks & Sensitivity Analysis (Post-FY26 Miss)
 
-**At ₹1,188 (36.8x P/E), PVR Inox is OVERVALUED — pricing in near-perfect execution with little margin for error**
+**Downside Risks from Current ₹1,188 (Fair Value ₹600-750):**
+
+1. **FY26 miss was the canary, not an aberration** (-₹50-100 Cr PAT impact on FY27E)
+   - If Q1 FY27 weakness (₹51.6 Cr quarterly) continues, full-year FY27 PAT only ₹200-250 Cr
+   - Only +25-50% from FY26 ₹268.5 Cr, far below ₹340 Cr base case
+   - Multiple compression to 20x on ₹280 Cr PAT = ₹560/share = **-53% downside**
+   - **Probability:** 25% (bear case)
+
+2. **Ticket price cap enforcement spreads** (-₹50-75 Cr PAT impact)
+   - Karnataka High Court stays lifted; enforcement begins in FY27
+   - Cap spreads to Maharashtra, Telangana, Gujarat (35-40% of all-India screens)
+   - ATP growth drops from +3-4% to flat/-1% annually
+   - FY27 PAT misses to ₹280-300 Cr = P/E to 21x = ₹600-700/share = **-49-41% downside**
+
+3. **Content slate disappoints CY26** (-₹40-60 Cr PAT impact)
+   - Major film releases push to CY27 (Dhurandhar 2, Khan projects delayed)
+   - CY26 box office only +8-10% vs assumption +12-15%
+   - Occupancy stalls at 27% or lower through FY27
+   - FY27 PAT only ₹280-300 Cr = P/E to 22x = ₹650-750/share
+
+4. **Capex/cost inflation continues** (-₹30-50 Cr PAT impact)
+   - Labor, site rent, technology costs rising faster than revenue
+   - Capital-light model slower to deploy; capex remains ₹350+ Cr
+   - EBITDA margin stays 18% instead of expanding to 19%
+   - FY27 PAT misses to ₹300-320 Cr
+
+**Upside Risks (Limited) — Fair Value ₹1,100-1,300:**
+
+1. **FY26 miss is truly behind us; pent-up demand in FY27** (+₹40-60 Cr PAT upside)
+   - Content surprises to upside (₹15,000+ Cr all-India box office vs ₹14,000 guided)
+   - Occupancy reaches 30% by Q3-Q4 FY27
+   - FY27 PAT reaches ₹380-400 Cr = P/E 27x = ₹1,080-1,150/share = **-9% to -3% downside**
+   - **Probability:** 25% (bull case, but limited upside)
+
+2. **Capital-light model delivers faster than expected** (+₹20-30 Cr PAT upside)
+   - 200+ screens by end FY27 (vs base 150)
+   - ROIC compression offset by volume; capex efficiency improves
+   - FY27 PAT impact +₹20-30 Cr over base
+
+3. **Advertising recovery is strong** (+₹15-25 Cr PAT upside)
+   - Ad revenue reaches 12% of total by Q4 FY27 (vs base 10%)
+   - Premiumization (higher ticket prices in metro markets) helps ATP
+   - Upside ₹20-25 Cr on FY27 PAT
+
+---
+
+### Recommendation: STRONG SELL / AVOID
+
+**At ₹1,188 (43.5x P/E on FY26A ₹268.5 Cr PAT), PVR Inox is SEVERELY OVERVALUED — stock has not repriced for the massive FY26 guidance miss**
 
 **Rationale:**
 
-1. **Valuation too aggressive:** 36.8x P/E implies ₹317 Cr PAT, which is BELOW FY26E guidance of ₹370-420 Cr
-2. **Forward P/E misleading:** 19.5x on FY27E ₹600 Cr sounds cheap, but requires flawless FY26 execution first
+1. **FY26 was a 27% miss:** ₹268.5 Cr actual vs ₹370-420 Cr guided = ₹100-150 Cr shortfall unexplained
+2. **Valuation has not adjusted:** Stock still at ₹1,188 despite miss; implies 43.5x P/E on actual results
+3. **Q1 FY27 shows no recovery:** ₹51.6 Cr quarterly PAT annualizes to ₹206 Cr, far below even the missed ₹268 Cr FY26
+4. **Forward guidance reset expected:** When company announces FY27 guidance (expected August 2026), it will likely be ₹300-340 Cr PAT range, not ₹550-650 Cr
+5. **Fair value is ₹792/share:** Probability-weighted across scenarios = -33% downside from current ₹1,188
 3. **Binary catalysts:** Q4 FY26 + FY27 guidance will determine stock trajectory; any miss = 30%+ downside
 4. **Zero downside cushion:** 36.8x P/E leaves no room for disappointment; bear case = ₹700-900/share (-25% to -40%)
 5. **Cyclical business:** Theater occupancy swings 10-15% quarter-to-quarter; not suitable for ultra-premium valuations

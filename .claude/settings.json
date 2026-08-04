@@ -1,5 +1,14 @@
 {
   "enabledPlugins": {
     "finance-skills@claude-code-skills": true
+  },
+  "skills": {
+    "local": [
+      {
+        "name": "pdf-to-markdown",
+        "path": "./.claude/skills/claude-skill-pdf-to-markdown-main",
+        "enabled": true
+      }
+    ]
   }
 }

@@ -2,7 +2,6 @@
 **NASDAQ: GFS**
 *Comprehensive Equity Research Note*
 *Based on Q1 2025 – Q1 2026 Earnings Slides*
-
 ---
 
 ## 1. Business Model Overview
