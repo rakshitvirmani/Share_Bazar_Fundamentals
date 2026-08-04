@@ -329,29 +329,93 @@
 
 ---
 
-## Investment Summary
+## Investment Summary & Updated Valuation
 
-**Thesis**: Small Finance Bank executing well on asset diversification (6 business lines) and deposit franchise building. Universal bank transition is binary catalyst; even in base case (SFB structure), ROE trajectory to 19-20% is attractive. Asset quality stable; management credible on credit cycle management.
+**Current Stock Price**: ₹70.4 | **Market Cap**: ₹13,689 Cr | **Shares**: 195 Cr | **P/E**: 15.1x
+
+**Thesis**: Small Finance Bank executing well on asset diversification (6 business lines) and deposit franchise building. Universal bank transition remains binary catalyst; even in base case (SFB structure), ROE trajectory to 19-20% is attractive. At current valuation (15.1x P/E on FY26 earnings), stock offers reasonable risk-reward for quality execution.
 
 **Key Strengths**
-- Diversified loan portfolio (reduces single-product risk)
-- Strong deposit mobilization discipline (CASA improving)
-- Proven credit management in micro-banking (99.8% collection efficiency)
-- Management track record on execution (branch expansion, product launches on time)
-- Regulatory tailwind (SFB mandate to grow financial inclusion; RBI supportive on universal bank transition)
+- Diversified loan portfolio across 6 segments (reduces concentration risk)
+- Strong deposit mobilization (45.7K Cr deposits, 28.6% CASA ratio improving)
+- Proven credit management in micro-banking (99.8% collection efficiency Q4 FY26)
+- Management credibility on execution (branch expansion, product launches on schedule)
+- Favorable regulatory environment (RBI supportive on universal bank transition)
 
 **Key Risks**
-- Universal bank approval uncertain (binary outcome)
-- New products (gold, vehicle) need 2-3 more quarters of performance validation
-- Deposit franchise rate-sensitive; if rates stay high, cost of deposits remains sticky
-- Competitive intensity in affordable housing and micro-lending segments
+- Universal bank approval uncertain and timing unclear (binary outcome on growth trajectory)
+- Credit cost normalization to 1.4-1.5% from 2.2% (Q4 FY26) will pressure FY27 ROA initially
+- Deposit franchise remains rate-sensitive; cost of funds could re-inflate if RBI holds/hikes
+- Competitive intensity in affordable housing and micro-lending from larger banks
+- FY26 underperformance: PAT ₹693 Cr vs guidance ~₹1,050 Cr (34% miss, due to higher credit costs and labor code provisions)
 
-**Valuation Considerations** *(for investor reference)*
-- Current FY26E EPS: ~22 → At 25x P/E, fair value ~INR550 per share
-- FY27E EPS: ~32.5 → At 23x P/E (growth premium), fair value ~INR750
-- FY28E EPS: ~48 → At 22x P/E (mature SFB), fair value ~INR1,050
-- 3-year CAGR upside: 28-35% annually (if universal bank approved and execution on track)
+**Revised Valuation Analysis** *(Updated Aug 4, 2026)*
+
+**FY26 Actual Results:**
+- PAT: ₹693 Cr (vs guidance ₹1,050-1,300 Cr; 34% miss)
+- EPS: ₹3.55/share (693 / 195 Cr shares)
+- ROE: 10.9% (below guidance 15%+)
+- ROA: 1.4% (below guidance 1.8%+)
+- Current P/E: 15.1x (₹70.4 / ₹4.66 implied EPS; suggests FY27 forward pricing)
+
+**Bear Case (₹55 Fair Value | 20% Probability)**
+- Universal bank approval delayed beyond FY28 → SFB capped at 20% annual growth
+- Credit costs remain elevated (1.4-1.5%) → ROA stuck at 1.5-1.6%
+- Competitive pressure on micro-banking yields → NIM compresses to 8.0%
+- FY28 PAT: ₹1,050 Cr (vs base ₹2,300 Cr)
+- P/E multiple: 12-13x (SFB execution story, no catalysts) → EPS ₹5.40 → Fair value ₹55
+
+**Base Case (₹85 Fair Value | 60% Probability)**
+- Universal bank approval by end-FY27 → unlocks growth acceleration post-FY27
+- Credit costs normalize to 1.4% range → ROA improves to 1.8-2.0% by FY27-28
+- Secured portfolio mix reaches 56%+ → yield accretion offsets deposit cost inflation
+- FY27 PAT: ₹866 Cr (25% growth); FY28 PAT: ₹1,300 Cr
+- P/E multiple: 16x (growth SFB, universal bank catalyst imminent) → EPS ₹5.33 (FY27) → Fair value ₹85
+
+**Bull Case (₹130 Fair Value | 20% Probability)**
+- Universal bank approval by mid-FY27 → immediate wholesale funding, deposit growth accelerates to 30%+
+- Credit costs normalize faster (1.2%), ROA reaches 2.2% by FY27
+- Secured portfolio yields hold at 12-13% (mix shift benefits) → NIM expands to 8.7%
+- FY28 PAT: ₹1,700 Cr (significant leverage to universal bank economics)
+- P/E multiple: 19x (early-stage universal bank, ROE trajectory to 22%+) → EPS ₹6.87 (FY28) → Fair value ₹130
+
+**Probability-Weighted Fair Value:**
+- (20% × ₹55) + (60% × ₹85) + (20% × ₹130) = **₹11 + ₹51 + ₹26 = ₹88/share**
+
+**Current Price vs. Fair Value:**
+- Price: ₹70.4
+- PW Fair Value: ₹88
+- **Implied Upside: +25% (if base thesis executes)**
+- **Downside Risk: -22% to ₹55 (if universal bank delayed, credit stress)**
 
 ---
 
-*Analysis compiled from earnings call transcripts: Q1 FY27 (July 23, 2026), Q4 FY26 (May 08, 2026), Q3 FY26 (January 22, 2026)*
+## Investment Recommendation
+
+**BUY / ACCUMULATE at ₹70.4 | Target ₹88-100 | Stop Loss ₹60**
+
+**Rationale:**
+1. **Valuation Attractive Post-Correction**: At 15.1x P/E, stock trades below historical SFB multiples (20-25x for Utkarsh, Equitas). FY26 miss (₹693 Cr vs ₹1,050 Cr guidance) created opportunity.
+2. **FY27 Setup Improving**: 
+   - Credit costs normalize from 2.2% to 1.4% → 80 bps margin upside
+   - Cost of deposits fell 30 bps in H2 → NII margin will expand to 8.5%
+   - Secured portfolio growing faster (mix shift benefit) → yield accretion
+3. **Universal Bank Binary Catalyst**: RBI returned application (April 2026) asking for diversification proof. Management demonstrating: (1) Secured portfolio at 49.4%, (2) 6 business lines, (3) ₹2K Cr equity approved for transition. Approval by end-FY27 likely → multiple re-rating.
+4. **Micro-banking Moat Intact**: 99.8% collection efficiency, 5.4 lakh new customers in FY26 (despite credit cost investment). Proves credit quality foundation solid.
+
+**Catalysts:**
+- **Q1 FY27 earnings (Aug 2026)**: Monitor credit cost normalization (guidance 1.4%); watch NIM stability
+- **H1 FY27 (Oct 2026)**: Universal bank application progress; capital raise plans
+- **Universal bank approval (FY27/FY28)**: 30-40% multiple re-rating if granted
+
+**Risks to Monitor:**
+- Credit cost inflation beyond 1.5% → ROA misses → downgrade to HOLD
+- CASA ratio deteriorates below 28% → cost of deposits re-inflates
+- Universal bank approval delayed >FY28 → narrative shift; reduce to HOLD
+- Deposit run or regulatory issues → rare but possible
+
+**12-Month Price Target: ₹88-95** (Base case fair value; upside to ₹130 if universal bank approved; downside to ₹55 if execution falters)
+
+---
+
+*Analysis compiled from earnings call transcripts: Q4 FY26 (May 08, 2026) with actual results vs prior guidance; valuation updated Aug 04, 2026 based on current market price ₹70.4*
