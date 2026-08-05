@@ -2,6 +2,8 @@
 
 **Specialty Pharmaceutical & Chemical Intermediates Company | CDMO Platform | India-focused manufacturing**
 
+**CMP:** ₹595 | **Market Cap:** ₹11,262 Cr | **Shares Outstanding:** 18.9 Cr (189 Mn) | **P/E:** 48x
+
 ---
 
 ## 1. Business Model Overview
@@ -429,25 +431,39 @@ FY25 was an **anomaly quarter** driven by:
 
 ### Valuation Framework:
 
-**Current Valuation (CMP assumption ~₹525/share; market cap ₹9,941 Cr):**
-- EV/Revenue (FY26): 1.05x
-- EV/EBITDA (FY26): 3.38x
-- P/E (FY26): 6.2x (appears attractive)
-- Free-float market cap: ₹2,670 Cr (thin; ADTV ₹35 Cr)
+**Current Valuation (CMP ₹595; market cap ₹11,262 Cr; post-QIP dilution 189 Mn shares):**
+- P/E (FY26 basis): 48x on implied PAT ~₹2,346 Mn (normalized run-rate)
+- EV/Revenue (FY26): 1.19x
+- EV/EBITDA (FY26): 3.83x
+- Implied market pricing: Low growth expectation or FY27 concerns; P/E 48x not cheap for single-digit growth profile
 
-**Fair Value Scenarios:**
+**Fair Value Scenarios (Post-QIP Dilution, 189 Mn Shares):**
 
-| Scenario | FY30E PAT (₹ Mn) | Target P/E | Market Cap (₹ Cr) | Per Share | Upside/(Downside) |
-|----------|-----------------|-----------|-------------------|-----------|-------------------|
-| **Bear** | 3,900 | 16x | ₹6,240 | ~₹330 | -37% |
-| **Base** | 4,300 | 20x | ₹8,600 | ~₹455 | -13% |
-| **Bull** | 4,600 | 24x | ₹11,040 | ~₹585 | +11% |
+| Scenario | FY30E PAT (₹ Mn) | FY30E EPS (₹) | Target P/E | Fair Value/Share | vs CMP ₹595 |
+|----------|-----------------|---------------|-----------|------------------|-----------|
+| **Bear** | 3,900 | 20.6 | 16x | **₹329** | **-45%** |
+| **Base** | 4,300 | 22.8 | 20x | **₹456** | **-23%** |
+| **Bull** | 4,600 | 24.3 | 22x | **₹535** | **-10%** |
+
+**Probability-Weighted Fair Value (FY30E):**
+= (₹535 × 25%) + (₹456 × 50%) + (₹329 × 25%)  
+= ₹134 + ₹228 + ₹82  
+= **₹444/share**
+
+**At CMP ₹595: Stock trading at 34% premium to probability-weighted fair value**
+
+**Implied Growth Assumptions at Current Price:**
+- CMP ₹595 implies market is pricing ~32x P/E on FY27E PAT of ~₹2,700 Mn
+- This assumes modest FY27E growth (+5–8% from FY26 ₹2,478 Mn) and 32x multiple
+- Highly dependent on execution: Vizag capex ROI, PI & API growth, margin expansion
+- Little margin for error; any FY27 miss = significant downside
 
 **DCF Valuation (Rough):**
-- PAT FY30E: ₹4,300 Mn; growth post-FY30: 7% perpetuity
+- PAT FY30E: ₹4,300 Mn; growth post-FY30: 6% perpetuity
 - WACC: 8% (low-risk pharma CDMO, debt-free)
-- Terminal value: ₹4,300 × 1.07 / (0.08 – 0.07) = ₹459 Bn discounted to PV
-- **Implied fair value range:** ₹450–550/share
+- Terminal value: ₹4,300 × 1.06 / (0.08 – 0.06) = ₹227.9 Bn discounted to PV
+- **Implied fair value range:** ₹380–450/share (based on risk-adjusted WACC)
+- Current CMP ₹595 implies aggressive growth + multiple expansion; high execution risk
 
 ---
 
@@ -506,33 +522,52 @@ FY25 was an **anomaly quarter** driven by:
 
 ## Investment Verdict
 
-### Bull Case (Fair Value ₹600–700):
-- Specialty pharma CDMO platform with niche positioning; 25+ year customer relationships
-- Revenue ₹9,473 Cr → ₹14,000–15,500 Cr by FY30 (10–12% CAGR) achievable via PI & API scaling
-- EBITDA margin 31% → 36–38% by FY30 (operating leverage) = 15–18% earnings CAGR
-- ROCE 24.9% → 31% = strong capital efficiency; QIP capex expected to exceed 25% ROCE
-- Debt-free balance sheet; ₹8,000 Mn QIP capital provides growth visibility
-- Vizag greenfield facility = 500–800 KL capacity (25–30% revenue boost by FY30)
-- **Upside drivers:** CDMO platform traction, India CDMO wave, customer diversification, capex ROI
+### Current Recommendation: **HOLD / REDUCE** (at CMP ₹595)
 
-### Bear Case (Fair Value ₹300–350):
-- Revenue growth <10% (capex execution delays, PI & API pipeline weakness)
-- Margin expansion fails (raw material inflation, CMI pricing pressure, HIS commoditization)
-- Large customer loss or concentration increases
-- Vizag capex delays >1 year; cost overruns compress returns
-- ROCE on capex disappoints (<20%); capital destruction risk
-- Post-QIP dilution; EPS deleveraging if growth misses
+**Why to REDUCE at Current Levels:**
+1. **34% premium to probability-weighted fair value** (₹444/share)
+2. **P/E 48x is expensive** for a company with 10–12% expected revenue CAGR and modest single-digit earnings growth near-term
+3. **Risk/reward unfavorable**: 23–45% downside to Base/Bear case vs. only 10% upside to Bull case
+4. **Execution risk high**: Vizag capex ($95+ Mn), PI & API pipeline, margin expansion all critical; any miss = re-rating lower
+5. **Dilution drag**: Post-QIP 22% share dilution; EPS accretion requires high ROCE on ₹8,000 Mn capex (not guaranteed)
 
-### Base Case (Fair Value ₹450–550):
-- **Rating: BUY** (with execution risk management focus)
+**Bull Case (Fair Value ₹535, 25% probability):**
+- CDMO platform scaling; PI & API reaches 40%+ of revenue by FY28
+- Vizag facility operational on schedule; production ramp ahead of plan
+- Revenue ₹9,473 Mn → ₹14,500–15,500 Mn by FY30 (12%+ CAGR)
+- EBITDA margin 31% → 36–38% by FY30 (operating leverage) = 18%+ earnings CAGR
+- ROCE improves to 28–31%; capex ROI exceeds 25%
+- **Upside drivers:** CDMO wave, India localization, innovator pharma customer wins, margin expansion
+- **Upside from CMP ₹595:** Only 10% to ₹535 fair value (limited upside for high execution risk)
+
+**Base Case (Fair Value ₹456, 50% probability): EXPECTED SCENARIO**
 - Revenue 10–12% CAGR FY26–FY30; EBITDA margin gradually expands to 35%+
 - Earnings CAGR 12–15% via margin expansion + operating leverage
-- ROCE improves to 28–31% as capital deployed for high-return projects (Vizag, R&D)
-- Strong fundamental: debt-free, cash-rich (₹3.6 Bn), long-term customer contracts (70% CMI backed)
-- Valuation: 18–20x forward P/E reasonable for specialty pharma CDMO (quality, niche, margins)
-- Best suited for: Quality-growth investors, 3–5 year horizon, comfort with capex/execution risks
+- ROCE improves to 28–31% as capital deployed for Vizag, R&D
+- Vizag capex on plan; phased ramp FY28–29
+- PI & API grows 12–15% but competition increases
+- **Expected per-share return:** **-23% downside** from CMP ₹595 to fair value ₹456
 
-**Key Watch:** FY27–FY28 execution; Vizag capex progress; PI & API growth trajectory; margin sustainability
+**Bear Case (Fair Value ₹329, 25% probability):**
+- Revenue growth <10% (Vizag delays, PI & API pipeline weak)
+- Margin expansion fails due to raw material inflation, CMI pricing pressure, HIS commoditization
+- Vizag capex delays >6 months; cost overruns compress returns
+- ROCE on capex <20%; capital partially destroyed
+- Large customer loss or concentration increases
+- **Downside from CMP ₹595:** -45% to fair value ₹329
+
+### Entry Points & Strategy:
+
+| Price Level | Recommendation | Risk/Reward |
+|-------------|-----------------|-------------|
+| **Above ₹550** | REDUCE | Expensive; exit positions |
+| **₹450–550** | HOLD | Fair value territory; wait for catalysts |
+| **₹400–450** | ACCUMULATE | Good entry (Base case + margin of safety) |
+| **Below ₹400** | BUY | Attractive (Bear case priced in; Bull case upside available) |
+
+**Current CMP ₹595 verdict:** Not attractive for new buyers. Existing holders should consider trimming on strength; better entry points likely below ₹450.
+
+**Key Watch:** Q2FY27 revenue growth trajectory; Vizag capex commentary; PI & API momentum; CMI pricing trends; margin sustainability
 
 ---
 
