@@ -1,6 +1,6 @@
 # Shree Refrigerations Limited – Equity Analysis
 
-**CMP:** ~₹450–500 (as of May 2026 post-IPO) | **Market Cap:** ~₹1,000 Cr | **Shares Outstanding:** ~2.3 Cr
+**CMP:** ₹334 | **Market Cap:** ₹1,196 Cr | **Shares Outstanding:** 3.58 Cr | **P/E:** 55x
 
 ---
 
@@ -51,13 +51,13 @@ Shree Refrigerations is a 30-year-old, niche manufacturer of **mission-critical 
 | **EBITDA Margin %** | 24% | 25% | 27% | 11.2% | 20–22% | 20–22% | 20–22% |
 | **PAT (₹ Cr)** | 4.0 | 7.2 | 12.8 | 1.45 | 20–21 | 27–34 | 40–54 |
 | **PAT Margin %** | 7.4% | 9.7% | 12.5% | 2.9% | 13–14% | 13–14% | 13–14% |
-| **EPS (₹)** | 1.75 | 3.14 | 5.04 | — | 8.7–9.1 | 11.7–14.8 | 17.4–23.5 |
+| **EPS (₹)** | 1.12 | 2.01 | 3.57 | — | 5.6–5.9 | 7.5–9.5 | 11.2–15.1 |
 | **Order Book (₹ Cr)** | — | — | — | 215 | 327 | 400–500 | 600–800 |
 
 **Notes:**
 - *H1 FY26 was muted due to customer delivery schedules; H2 FY26 expected significantly stronger (100%+ QoQ growth)* ✓ (per June 2026 call)
 - *FY26 full-year revenue guidance: ₹140–150 Cr (management); adjusted upward to ₹150 Cr based on ₹327 Cr order book and execution pace*
-- *EPS FY26E assumes 2.3 Cr shares (post-IPO dilution)*
+- *EPS assumes 3.58 Cr shares outstanding (actual post-IPO dilution)*
 - *CAGR FY25–FY28E: Revenue 56%, PAT 56%*
 
 ### Key Operating Metrics
@@ -195,33 +195,35 @@ Shree Refrigerations is a 30-year-old, niche manufacturer of **mission-critical 
 
 ### Per-Share Valuation (FY28E Estimates)
 
-Assuming 2.3 Cr shares post-IPO:
+Assuming 3.58 Cr shares outstanding:
 
-| Scenario | FY28E PAT (₹ Cr) | FY28E EPS (₹) | PEG Multiple (P/E) | Fair Value Per Share |
-|----------|-----------------|--------------|-------------------|---------------------|
-| **Bull** | 60 | 26.1 | 20x | ₹522 |
-| **Base** | 45 | 19.6 | 18x | ₹353 |
-| **Bear** | 33 | 14.3 | 15x | ₹214 |
+| Scenario | FY28E PAT (₹ Cr) | FY28E EPS (₹) | P/E Multiple | Fair Value Per Share |
+|----------|-----------------|--------------|--------------|---------------------|
+| **Bull** | 60 | 16.76 | 20x | **₹335** |
+| **Base** | 45 | 12.57 | 18x | **₹226** |
+| **Bear** | 33 | 9.22 | 15x | **₹138** |
 
 **Probability-Weighted Fair Value (FY28E):**
-= (Bull ₹522 × 25%) + (Base ₹353 × 50%) + (Bear ₹214 × 25%)  
-= ₹130.5 + ₹176.5 + ₹53.5  
-= **₹360 per share**
+= (Bull ₹335 × 25%) + (Base ₹226 × 50%) + (Bear ₹138 × 25%)  
+= ₹84 + ₹113 + ₹35  
+= **₹232 per share**
 
-### Entry-Point Recommendations (vs. CMP ~₹450–500)
+### Entry-Point Recommendations (vs. CMP ₹334)
 
-| Price Level | Recommendation | Upside/Downside | Thesis |
-|-------------|-----------------|------------------|--------|
-| **Below ₹300** | **BUY** | +20% upside to Base case | Significant margin of safety; Base case (₹353) offers 17–18% IRR; Bull case provides 74% upside |
-| **₹300–350** | **ACCUMULATE** | +2–17% upside | Fair entry point to Base case value; Good risk/reward for 18–24 month horizon |
-| **₹350–400** | **HOLD** | -2% to +12% upside | Near Base case fair value; wait for catalysts (Phase 1 capex payoff, FY27 revenue ramp) |
-| **₹400–500** | **HOLD / REDUCE** | -28% to +12% upside | Trading above Base case; priced for Bull case execution; high risk/reward unfavorable |
-| **Above ₹500** | **REDUCE** | -29% downside | Significant premium to Base case; implies data centre + marine scale earlier than realistic |
+| Price Level | Recommendation | Upside/Downside to FV | Thesis |
+|-------------|-----------------|---------------------|--------|
+| **Below ₹220** | **BUY** | +5–53% upside | Significant margin of safety; 15%+ below Base case (₹226); Bull case provides 53% upside |
+| **₹220–260** | **ACCUMULATE** | +−13% to +5% upside | Fair entry point to Base case value; Good risk/reward for 18–24 month horizon; wait for order book confirmation |
+| **₹260–320** | **HOLD** | -14% to +44% upside | Modest upside to Bull case; downside risk to Base case; wait for catalysts (Phase 1 payoff, FY27 ramp) |
+| **₹320–370** | **REDUCE** | -32% to +44% upside | Trading above Base case fair value (₹226); priced for Bull case execution; poor risk/reward |
+| **Above ₹370** | **AVOID** | -37% downside to Base | Significant premium requires all catalysts to hit; unfavorable risk/reward; wait for major pullback |
 
-**Current CMP ~₹450–500 implies:**
-- 12–26% downside to Base case fair value (₹353)
-- Breakeven to 17% upside if Bull case (50% odds + ₹522) materializes
-- Risk/reward marginally unfavorable at IPO levels; wait for consolidation or order book confirmation
+**Current CMP ₹334 implies:**
+- **44% premium** to probability-weighted fair value (₹232)
+- **32% downside** to Base case fair value (₹226)
+- Stock priced for Bull case; risk/reward **heavily unfavorable**
+- Market likely overestimating FY27–28 CAGR or data centre upside
+- Better entry points: ₹220–260 (ACCUMULATE) or below ₹220 (BUY)
 
 ---
 
@@ -272,30 +274,31 @@ Assuming 2.3 Cr shares post-IPO:
 
 ## 8. Investment Verdict
 
-### Probability-Weighted Fair Value: **₹360 per share**
+### Probability-Weighted Fair Value: **₹232 per share**
 
-**Bull Case:** ₹522 (+45% upside) — 25% probability  
-**Base Case:** ₹353 (flat) — 50% probability  
-**Bear Case:** ₹214 (-41% downside) — 25% probability
+**Bull Case:** ₹335 (+44% upside) — 25% probability  
+**Base Case:** ₹226 (-32% downside) — 50% probability  
+**Bear Case:** ₹138 (-59% downside) — 25% probability
 
-### Current Recommendation: **HOLD / WAIT** (at CMP ₹450–500)
+### Current Recommendation: **REDUCE / AVOID** (at CMP ₹334)
 
-**Why not BUY at IPO levels:**
-1. IPO pricing already reflected near Base case value (₹353)
-2. Heavy premium (27% above Base) implies Bull case must execute flawlessly
-3. Uncertainty on Phase 1 capex ROI and data centre traction not yet proven
-4. Seasonality (H1 weak, H2 strong) means next 6 months will test H2 FY26 guidance (₹90–100 Cr)
+**Why to AVOID at current levels (₹334):**
+1. **44% premium** to weighted fair value; stock priced for flawless Bull case execution
+2. **32% downside** to Base case (most likely scenario) if order book or margins disappoint
+3. P/E 55x is expensive for a ₹150 Cr FY26E revenue company; implies market overestimating CAGR or data centre upside
+4. H2 FY26 guidance critical test (₹90–100 Cr); if missed, stock re-rates lower
 
-**Why to ACCUMULATE on dips:**
-1. Durable moat (naval certifications, 5–7 year entry barrier for competitors)
-2. 40–50% CAGR guidance credible if 50%+ market share maintained on ₹1+ Tr bid pipeline
-3. Spares/data centre diversification reduces Navy concentration risk from 100% → 70% by FY28
-4. Working capital management improving (570 → 370 days); cash generation potential strong by FY27+
+**When to BUY / ACCUMULATE:**
+1. **Below ₹220**: Durable moat (naval certifications, 5–7 year entry barrier) makes this attractive
+2. **₹220–260**: Fair entry to Base case with 15%+ margin of safety
+3. 40–50% CAGR guidance credible *if* 50%+ market share maintained on ₹1+ Tr bid pipeline
+4. Spares/data centre diversification reduces Navy concentration from 100% → 70% by FY28
+5. Working capital improving (570 → 370 days); cash generation potential strong by FY27+
 
 **Entry Strategy:**
-- **Attractive entry**: Below ₹350 (6–17% IRR to Base case over 3 years)
-- **Fair entry**: ₹350–400 (4–6% IRR to Base case)
-- **Expensive entry**: Above ₹450 (risk/reward unfavorable; wait for pull-back)
+- **Avoid entry**: Above ₹320 (risk/reward unfavorable)
+- **Fair entry**: ₹220–260 (Base case +15% IRR over 3 years)
+- **Attractive entry**: Below ₹220 (Base case +25%+ IRR, Bull case optionality)
 
 ### Probability Shifters (Events That Change Odds)
 
@@ -314,12 +317,17 @@ Assuming 2.3 Cr shares post-IPO:
 
 ---
 
-## Summary: 30-Year-Old Navy HVAC Specialist with Emerging Platform Optionality
+## Summary: 30-Year-Old Navy HVAC Specialist – Interesting Business, Expensive Valuation
 
 **The Thesis:**
-Shree Refrigerations dominates a mission-critical, high-barrier niche (Indian Navy HVAC, 64% share, ₹3–3.5 Tr TAM). With ₹327 Cr order book, a new manufacturing facility coming online, and emerging optionality in merchant marine + data centre, the company has 3–5 years of visibility and potential to 3x revenue to ₹330–400 Cr by FY28. At current IPO levels, fair value is ₹360 (Base case), implying 28% downside risk if execution stumbles. Upside to ₹520+ is real if all catalysts hit (Bull case, 25% odds).
+Shree Refrigerations dominates a mission-critical, high-barrier niche (Indian Navy HVAC, 64% market share, ₹3–3.5 Tr TAM). With ₹327 Cr order book, a new manufacturing facility coming online, and emerging optionality in merchant marine + data centre, the company has 3–5 years of visibility and potential to 3x revenue to ₹330–400 Cr by FY28. **However, at CMP ₹334, the stock is trading at a 44% premium to probability-weighted fair value (₹232), leaving minimal upside if Base case materializes and 32% downside if execution falters.**
 
-**Best suited for:** Growth-at-reasonable-price (GARP) investors with 3-year horizon, tolerance for 20–30% volatility, and thesis confidence in defence procurement + data centre scaling in India.
+**Why to AVOID at ₹334:**
+- P/E 55x implies perfect execution; any order book delays or margin compression = sharp re-rating lower
+- Base case (50% odds) implies ₹226 fair value; 32% downside from here if most likely scenario occurs
+- Better entry points available (₹220–260 range offers 3-year IRR of 15%+)
 
-**Worst case scenario:** Execution delays + macro slowdown = 40% downside to ₹210–240. Upside if Phase 1 ramps and bid wins materialize = 45% to ₹520+.
+**Best suited for:** Tactical traders betting on near-term catalysts (H2 FY26 delivery, bid wins); not for value investors seeking margin of safety.
+
+**Best case scenario:** Bull case (25% odds) + Phase 1 capex outperforms = 44% upside to ₹335. **Downside if Base case**: 32% loss to ₹226. Risk/reward **unfavorable at current price**; wait for pullback to ₹220–260 range.
 
