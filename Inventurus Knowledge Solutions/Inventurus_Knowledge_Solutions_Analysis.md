@@ -2,7 +2,7 @@
 
 **Current Valuation**: Price ₹1,862 | Market Cap ₹31,962 Cr | P/E 44.3x | Shares 17.2 Cr | EPS implied ₹42.04
 
----
+---Analy
 
 ## 1. Business Model Overview
 
@@ -10,7 +10,7 @@
 - Inventurus Knowledge Solutions Limited (trading as IKS Health)
 - Listed on NSE (IKS) and BSE (544309) in December 2024 (~7 months post-IPO at time of analysis)
 - Headquarters: Thane, Belapur Road, Navi Mumbai
-- Registered office: 801, Building No. 5 & 6, 8th Floor, Mindspace Business Park (SEZ)
+- Registered office: 801, Building No. 5 & 6, 8th Floor, MindAnalspace Business Park (SEZ)
 - Workforce: 13,331+ employees (5% growth YoY), ~1,981 clinically trained staff, 550+ technologists
 - Leadership: Sachin Gupta (Founder & Global CEO), Nithya Balasubramanian (Whole-Time Director & CFO)
 
