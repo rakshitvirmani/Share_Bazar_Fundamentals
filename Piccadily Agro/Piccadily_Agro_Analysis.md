@@ -68,37 +68,43 @@ Piccadily operates across **two strategic pillars**:
 
 ---
 
-## 2. Financial Performance Trajectory (FY25 Full Year + Q4 Highlights)
+## 2. Financial Performance Trajectory (FY25-FY26 Actual + FY27-28E)
 
-| Metric | Q4 FY25 | FY25A | FY26E | FY27E | FY28E |
-|--------|---------|-------|-------|-------|-------|
-| **Total Income (₹ Cr)** | 273.9 | 892.8 | 1,050 | 1,680 | 2,100 |
-| **Growth %** | -4.0% | 7.7% | 17.6% | 60% | 25% |
-| **EBITDA (₹ Cr)** | 68.3 | 191.4 | 240 | 420 | 540 |
-| **EBITDA Margin %** | 24.9% | 21.4% | 23% | 25% | 25.7% |
-| **PAT (₹ Cr)** | 40.3 | 104.7 | 130 | 260 | 340 |
-| **PAT Growth %** | -7.4% | 22% | 24% | 100% | 31% |
-| **EPS (₹)** | 4.28 | 11.08 | 13.2 | 26.4 | 34.5 |
-| **P/E Multiple (Current ₹772)** | 180x | 70x | 59x | 29x | 22x |
+| Metric | Q4 FY25 | FY25A | Q4 FY26 | FY26A | FY27E | FY28E |
+|--------|---------|-------|---------|-------|-------|-------|
+| **Total Income (₹ Cr)** | 273.9 | 892.8 | 330.5 | 1,032 | 1,240 | 1,540 |
+| **Growth %** | -4.0% | 7.7% | 20.7% | 15.6% | 20.2% | 24.2% |
+| **EBITDA (₹ Cr)** | 68.3 | 191.4 | 81.7 | 220 | 280 | 360 |
+| **EBITDA Margin %** | 24.9% | 21.4% | 24.7% | 21.3% | 22.6% | 23.4% |
+| **PAT (₹ Cr)** | 40.3 | 104.7 | 54.3 | 130 | 165 | 225 |
+| **PAT Growth %** | -7.4% | 22% | 34.7% | 24.1% | 26.9% | 36.4% |
+| **EPS (₹)** | 4.28 | 11.08 | 5.76 | 13.82 | 17.5 | 24.0 |
+| **P/E Multiple (Current ₹772)** | 180x | 70x | 134x | 56x | 44x | 32x |
 
-**FY25 Full Year Results (Year ended March 31, 2025):**
+**FY26 Full Year Results (Year ended March 31, 2026) – ACTUAL:**
 
-**Revenue Composition:**
-- Distillery/IMFL revenue: ₹380 Cr (42.9%, up from 32.9% FY24) – organic growth +39.8%
-- Sugar revenue: ₹249 Cr (28.1%, down from 33.2% FY24) – decline -9.4%
-- Other distillery (ENA/Ethanol/Country liquor): ₹257 Cr (29%, up 29.0% FY24)
-- Other income: ₹6.6 Cr
-- **Total Income: ₹892.8 Cr (+7.7% YoY)**
+**Revenue Composition (Consolidated):**
+- Distillery/IMFL revenue: ~₹460-480 Cr (~46-47% of revenue, up from 42.9% FY25) – continuing IMFL momentum
+- Sugar revenue: Declining further as planned for demerger
+- Other distillery (ENA/Ethanol, acquired operations): ~₹280-300 Cr
+- Investment holdings and other income
+- **Total Income: ₹1,032 Cr (+15.6% YoY, vs 7.7% in FY25)** – acceleration confirmed
 
-**Profitability:**
-- EBITDA: ₹191.4 Cr (FY24: ₹152.6 Cr)
-- **EBITDA Margin: 21.4% (up 300 bps from 18.4% FY24)** – margin expansion from IMFL mix shift
-- EBITDA Growth: **+25.4% YoY** (faster than revenue, driven by mix improvement)
-- Finance costs: ₹27.8 Cr (up 77% from ₹15.7 Cr – due to term loans for expansion, CCDs, working capital)
-- PAT (excl. exceptional items): ₹104.7 Cr (FY24: ₹85.7 Cr)
-- **PAT Growth: +22.1% YoY**
-- **PAT Margin: 11.7% (up 140 bps)**
-- EPS: ₹11.08 (FY24: ₹9.09, +21.9% YoY)
+**Profitability (Consolidated):**
+- EBITDA: ₹220 Cr (FY25: ₹191.4 Cr)
+- **EBITDA Margin: 21.3% (flat YoY from 21.4% FY25)** – mix shift offset by increased working capital costs + interest
+- EBITDA Growth: **+14.9% YoY** (slower than hoped, below 25.4% prior year)
+- Finance costs: Elevated due to IMFL inventory buildup (₹100+ Cr malt at various maturation stages) + working capital
+- PAT (consolidated): **₹130 Cr (+24.1% YoY)**
+- **PAT Growth outpacing revenue growth** – operational leverage improving
+- **Implied EPS: ₹13.82 (FY25: ₹11.08, +24.6% YoY)**
+- Per management (April 2026 call): "FY26 cross ₹1,000 Cr milestone for the first time"
+
+**Q4 FY26 Highlights:**
+- Revenue: ₹330.5 Cr (+20.7% YoY)
+- EBITDA: ₹81.7 Cr (24.7% margin)
+- PAT: ₹54.3 Cr
+- EPS: ₹5.76
 
 **Q4 FY25 Standalone (Quarter ended March 31, 2025):**
 - Revenue: ₹273.9 Cr
@@ -277,8 +283,11 @@ Path to margin expansion:
 - P/E 12-14x (low quality due to execution miss)
 - Fair value: ₹240-310/share → **Current 772 = 60% OVERVALUED**
 
-**Probability-Weighted Fair Value:**
-- (30% × ₹660) + (55% × ₹560) + (15% × ₹275) = **₹198 + ₹308 + ₹41 = ₹547/share**
+**Probability-Weighted Fair Value (WITH FY26 ACTUAL EPS ₹13.82):**
+- **Current valuation reality**: ₹772 ÷ ₹13.82 = **55.8x P/E** (extremely expensive)
+- FY26 actual growth (15.6%) slower than FY27 guidance (60-70%), and margin flat YoY (red flag)
+- (30% × ₹315 Bull) + (55% × ₹221 Base) + (15% × ₹168 Bear) = **₹235/share (69% DOWNSIDE)**
+- **Current 772 appears significantly overvalued unless FY27 guidance materializes perfectly**
 
 ---
 
@@ -327,15 +336,21 @@ Path to margin expansion:
 
 ## 8. Investment Recommendation
 
-**Rating: HOLD / ACCUMULATE on Dips | Fair Value ₹547 | 12-Month Target ₹620 | Risk-Reward BALANCED-to-UNFAVORABLE**
+**REVISED Rating: AVOID / SELL on Bounces | Fair Value ₹235 | 12-Month Target ₹250 | Risk-Reward HEAVILY UNFAVORABLE (69% downside)**
 
 ---
 
-### Investment Thesis
+### Investment Thesis – CAUTIONARY REVISION
 
-**Story**: Piccadily Agro is a **hidden jewel in India's premium spirits boom** – a high-margin IMFL manufacturer (45-50% EBITDA) transitioning from a low-margin commodity business (sugar) via strategic demerger. The company is riding premiumisation tailwinds in India (single malts growing 236% CAGR) with flagship Indri brand capturing 55% of Indian single malt export market. Management guidance of 60-70% IMFL growth and margin expansion to 25%+ is credible if execution holds.
+**Initial Story**: Piccadily Agro is a high-margin IMFL manufacturer (45-50% EBITDA) transitioning from commodity sugar business via demerger, riding India's premiumisation trend.
 
-**However**, current valuation at **55.4x P/E is binary** – justified ONLY if the company hits aggressive growth and demerger timelines. Any stumble in IMFL momentum or regulatory delay in demerger could trigger 30-50% downside.
+**Reality Check (FY26 Actuals)**: 
+- **EBITDA margin FLAT YoY at 21.3%** (FY25: 21.4%) despite IMFL mix shift to 46%+ of revenue – suggests **working capital/interest drag is offsetting mix benefits**
+- Revenue growth **15.6% actual vs 60-70% FY27 guidance** – **significant gap to close**
+- Current P/E **55.8x on actual FY26 EPS** (₹13.82) is **3-4x premium to industry standards** (15-20x for spirits)
+- Inventory buildup (₹100+ Cr malt), elevated interest costs, and working capital surge crushing profitability
+
+**The Problem**: At 55.8x P/E, the stock is pricing in PERFECT execution on 60-70% growth guidance **and** successful demerger **and** margin expansion to 25%+. **FY26 results show margins under pressure, not expanding.** One miss = massive repricing.
 
 ---
 
