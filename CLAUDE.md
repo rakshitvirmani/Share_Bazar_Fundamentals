@@ -39,6 +39,65 @@ Each Markdown analysis file follows this structure (in order):
 - **Dates on filenames**: Use `Mar2026`, `Q3FY26` style for naming analysis files
 - **PDF naming**: Match the earnings call month/quarter — `Q3FY26_Concall.pdf`, `Nov2025.pdf`
 
+## Valuation Framework – Probability-Weighted Analysis (Mandatory)
+
+**For EVERY company analysis, Section 6 (Future Financial Projections) MUST include:**
+
+### Fair Value Scenarios with Explicit Probabilities:
+
+Create a table with:
+- **Bull Case** (typically 20–30% probability): Aggressive execution, all upside catalysts hit, best-case margins/growth
+- **Base Case** (typically 50–60% probability): Management guidance realized, normal execution, aligned with historical track record
+- **Bear Case** (typically 15–25% probability): Macro headwinds, execution misses, competitive pressure, margin compression
+
+For each scenario, calculate:
+- FY27E PAT (or latest full-year estimate)
+- Justified P/E multiple (based on growth rate and risk profile)
+- Implied Market Cap & Per-Share Fair Value
+
+### Probability-Weighted Fair Value Calculation:
+
+**Formula:** `(Bull Price × Bull %) + (Base Price × Base %) + (Bear Price × Bear %)`
+
+**Example:**
+- Bull: ₹400/share × 25% = ₹100
+- Base: ₹292/share × 50% = ₹146
+- Bear: ₹216/share × 25% = ₹54
+- **Weighted Fair Value = ₹300/share**
+
+### Entry-Point Recommendation Table:
+
+Map current/assumed CMP to actionable recommendations:
+- **Below 10% discount to weighted FV**: BUY
+- **0–10% discount**: ACCUMULATE
+- **0–5% premium**: HOLD
+- **Above 5% premium**: REDUCE
+
+Calculate expected return at each price level to weighted fair value.
+
+### Probability Shifters:
+
+Explicitly state what events/metrics would shift probabilities between scenarios:
+- **Bull probability ↑** if: [specific catalysts, e.g., "Digital growth >20% YoY", "Margin >11%"]
+- **Bear probability ↑** if: [specific headwinds, e.g., "Revenue growth <5%", "Customer loss"]
+
+### FY30+ Terminal Value:
+
+Include long-term fair value (FY30 onwards):
+- Calculate FY30E PAT using normalized assumptions
+- Apply terminal value multiple (e.g., 15–18x P/E for mature businesses)
+- Discount back to present value (optional, for DCF context)
+
+---
+
+**Investment Verdict Template (Section 7):**
+
+1. **Lead with Weighted Fair Value & Entry Recommendations** (keyed to current CMP)
+2. **Detail Bull Case** (with 25% probability example): What needs to go right
+3. **Detail Base Case** (with 50% probability example): Most likely path
+4. **Detail Bear Case** (with 25% probability example): What could go wrong
+5. **Clear Rating**: BUY/ACCUMULATE/HOLD/REDUCE (matched to probability-weighted price)
+
 ## Working with PDFs to Generate Analysis
 
 When PDFs are present in a company's folder, read them all before writing or updating the analysis. The PDFs fall into three categories — extract different things from each:
