@@ -444,19 +444,35 @@
 - EV/EBITDA (FY26): ~8.4x
 - P/E (FY26): ~13.7x
 
-**Fair Value Scenarios:**
+**Fair Value Scenarios with Probability Weighting:**
 
-| Scenario | FY27E PAT | P/E Multiple | Market Cap (₹ Cr) | Per Share | Upside/(Downside) |
-|----------|-----------|--------------|-------------------|-----------|-------------------|
-| **Bear (6% growth, 9% margin)** | ₹260 Cr | 12x | ₹3,120 Cr | ~₹216 | -13% to -7% |
-| **Base (12% growth, 10.3% margin)** | ₹280 Cr | 15x | ₹4,200 Cr | ~₹292 | +17% to +23% |
-| **Bull (15% growth, 11% margin)** | ₹320 Cr | 18x | ₹5,760 Cr | ~₹400 | +60% to +80% |
+| Scenario | Probability | FY27E PAT | P/E Multiple | Market Cap (₹ Cr) | Per Share | Upside/(Downside) | Prob-Weighted Value |
+|----------|------------|-----------|--------------|-------------------|-----------|-------------------|-------------------|
+| **Bear (6% growth, 9% margin)** | 25% | ₹260 Cr | 12x | ₹3,120 Cr | ~₹216 | -13% to -7% | ₹54 |
+| **Base (12% growth, 10.3% margin)** | 50% | ₹280 Cr | 15x | ₹4,200 Cr | ~₹292 | +17% to +23% | ₹146 |
+| **Bull (15% growth, 11% margin)** | 25% | ₹320 Cr | 18x | ₹5,760 Cr | ~₹400 | +60% to +80% | ₹100 |
+
+**Probability-Weighted Fair Value (FY27 Framework):**
+- **Weighted Fair Value: ₹300/share** (54 + 146 + 100)
+- Base assumption CMP: ~₹250/share
+- Implied upside: +20% (to weighted fair value)
+- **Risk-adjusted recommendation:** ACCUMULATE on weakness toward ₹260–280; REDUCE above ₹320
+
+**Scenario Probability Rationale:**
+
+| Scenario | Key Drivers | Achievement Probability | Supporting Factors | Headwind Factors |
+|----------|------------|------------------------|-------------------|------------------|
+| **Bull (25%)** | Digital inflection; margin expansion to 11%+; Germany recovery; all execution on plan | 25% | Digital already at 44% (44%→50% tight); in-house brands achieved 50% target early; ROCE strong (24%); capex returns >24% | Macro headwinds; digital saturation; TV secular decline; FX headwind; competition from aggregators |
+| **Base (50%)** | Digital steady 50% by FY27; margin to 10.3%; balanced growth 10–12%; normal execution | 50% | Management guidance aligned; track record of delivering; digital growth 21% YoY shows momentum; in-house brands 57% (above target); cash position strong | Digital growth may slow as base grows; new markets (Germany) still fragile; macro uncertainty; FX volatility |
+| **Bear (25%)** | Digital growth stalls <15% YoY; margin compression from CAC inflation; macro slowdown; Germany losses resume | 25% | TV secular decline accelerates; digital CAC inflation visible; Germany 1% margin fragile; M&A integration issues (Ideal World/Mindful Souls); consumer discretionary weakness | Repeat customer base strong (23 pieces/year); long-term relationships; branded portfolio; omnichannel diversification |
 
 **FY30 Fair Value (Base Case):**
 - FY30E PAT: ₹500 Cr (mid-range)
 - P/E Multiple: 16x (mid-cap consumer, higher quality)
 - Market Cap: ₹8,000 Cr
-- CAGR (CMP to FY30): ~15–20%
+- Fair Value Per Share: ~₹550 (assuming 1.45bn shares post-potential dilution)
+- CAGR (CMP ~₹250 to FY30 ₹550): ~22% (attractive risk-adjusted return)
+- Terminal Value (beyond FY30): Assuming 7% perpetual growth → additional value capture
 
 ---
 
@@ -523,7 +539,19 @@
 
 ## Investment Verdict
 
-### Bull Case (Fair Value ₹350–420):
+### Probability-Weighted Summary:
+
+**Weighted Fair Value: ₹300/share (Base: ₹292 × 50% + Bull: ₹400 × 25% + Bear: ₹216 × 25%)**
+
+| Entry Point | Recommendation | Expected Return (to FY27 ₹300) | Risk-Adjusted View |
+|------------|-----------------|-------------------------------|------------------|
+| **Below ₹260** | **BUY** | +15% downside to ₹260 + 15% to ₹300 = 19% expected return | High conviction; asymmetric risk-reward |
+| **₹260–₹290** | **ACCUMULATE** | +3–11% to ₹300; 20–25% upside to bull case | Attractive risk-reward; size positions |
+| **₹290–₹320** | **HOLD/TRIM** | 0–3% to base case; 25–40% upside to bull; 15% downside to bear | Fairly valued; build patience |
+| **Above ₹320** | **REDUCE** | -7% downside to ₹300; 25% downside to bear case | Risk-reward unfavorable; take profits |
+
+### Bull Case (Fair Value ₹350–420 | Probability 25%):
+- **Requires:** Digital inflection to 50%+ (ahead of schedule), EBITDA margin sustained >11%, Germany/Europe turns profitable (>5% margin), all execution flawless
 - Global omnichannel consumer company with 65% gross margin, 24% ROCE, net cash ₹296 Cr
 - Digital transformation inflecting; 50% target achievable FY27; 60%+ by FY30
 - In-house brands (57%) rapidly improving margin structure; licensing wind-down complete
@@ -532,9 +560,12 @@
 - Repeat customer base (23 pieces/year) highly valuable; LTV strong
 - 15–20 consecutive quarters of dividend payouts signal management conviction
 - FY26 revenue ₹3,692 Cr → ₹5,000–5,500 Cr FY30 achievable (10–12% CAGR); EBITDA margin 13.5%+
+- **Catalyst:** Digital reaches 50%+ FY27 (ahead of plan); Germany margin >5%; Mindful Souls scales to $50mn+
 - **Upside drivers:** Digital acceleration, margin expansion, geographic scale, M&A optionality
+- **Path to Bull:** Execute digital migration flawlessly; manage CAC efficiently; Germany recovery; macro tailwinds
 
-### Bear Case (Fair Value ₹180–220):
+### Bear Case (Fair Value ₹180–220 | Probability 25%):
+- **Requires:** Digital growth slows <12% YoY, macro headwinds hit consumer demand, Germany/Europe deteriorates, integration issues
 - TV home shopping secular decline; revenue growth likely <8–10% CAGR (cyclical slowdown)
 - Digital saturation as penetration rises; CAC inflation compresses digital margins
 - Germany still fragile (€6mn revenue, 1% margin); European expansion unproven
@@ -543,9 +574,12 @@
 - Macro downturn (US consumer weakness, UK retail slump) kills discretionary demand
 - Dividend payout sustainability if FCF deteriorates
 - Competition from aggregators (Amazon, Shopify, TikTok Shop) eroding margins
+- **Trigger:** Digital growth <12% YoY for 2 quarters; EBITDA margin <10%; Germany loss-making; FX headwind >150 bps
+- **Risk factors:** TV decline accelerates; digital CAC inflation; macro recession; competitive pressure from aggregators
 
-### Base Case (Fair Value ₹280–340):
+### Base Case (Fair Value ₹280–340 | Probability 50% | Recommended Entry):
 - **Rating: ACCUMULATE** (for patient, quality-growth investors)
+- **Execution:** Digital 44% → 50% by FY27 (on track; 21% YoY growth); in-house brands sustained at 55%+ (achieved 57.2%); margin stability at 10.3%
 - Global scale + vertical integration + omnichannel provides structural advantage
 - Digital inflection (44% → 50%+ of B2C) = growth accelerant
 - Margin expansion (9.9% → 13.5% EBITDA) = earnings leverage
@@ -553,10 +587,14 @@
 - ROCE 24% → 32% = shareholder value creation
 - Strong FCF generation enables 40–50% dividend payout + organic growth investments + M&A optionality
 - Valuation at ~15x forward P/E reasonable for quality, growth, resilience
+- **Confidence Level:** High; management track record strong; digital momentum real; customer engagement proven
 
-**Best Fit:** Long-term growth investor, 3–5 year horizon, comfort with omnichannel/digital transformation execution risk, exposure to USD/GBP currency benefit
+**Best Fit for Base Case:** Long-term growth investor, 3–5 year horizon, comfort with omnichannel/digital transformation execution risk, exposure to USD/GBP currency benefit
 
-**Key Watch:** FY27 digital growth & margin trends (Q2–Q3); Germany/Europe inflection; Ideal World/Mindful Souls contribution
+**Key Watch (Determines Probability Shift):**
+- **To Bull (25% → 35%+):** Digital >22% YoY growth sustained; EBITDA margin >11%; Germany EBITDA margin >3% by Q2 FY27
+- **To Bear (25% → 40%+):** Digital growth <15% YoY; EBITDA margin <10.2%; macro headwinds visible (consumer spending weakness)
+- **FY27 Q2–Q3 Results:** Critical for validating base case; digital growth trends, margin durability, Germany recovery trajectory
 
 ---
 
