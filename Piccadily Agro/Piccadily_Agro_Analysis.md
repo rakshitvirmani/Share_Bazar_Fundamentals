@@ -171,13 +171,26 @@ Piccadily operates across **two strategic pillars**:
 
 ## 4. Key Catalysts & Growth Drivers
 
-**1. IMFL Volume & Revenue Explosion (60-70% Growth FY27 Guidance)**
+**1. IMFL Volume & Revenue Explosion – FY27 Guidance of 60-70% (BUT HIGH EXECUTION RISK)**
 
-**Near-term Drivers:**
-- Indri brand: 37% volume growth momentum continuing; 55% export market share in Indian singles malts
-- Camikara rum: 310% growth phase (moving from tiny base to ₹100+ Cr revenue)
-- Whistler: 54% growth; capturing blended whisky market
-- New product launches: Game of Thrones edition, city series, collector's editions → premium positioning → 14-15% growth in premium segment
+**FY26 Actual Performance vs Guidance:**
+- FY26 overall IMFL growth: **42% YoY** (₹639 Cr → ₹908 Cr) ✓ Strong
+- **BUT Indri brand (flagship) only grew 16% in FY26** ✗ MISSED 25-30% prior guidance by 40%
+- Camikara rum: Growing 310% (from tiny base) ✓ Momentum
+- Whistler: Growing 54% ✓ Momentum
+- **Implication**: Indri growth gap was offset by Camikara/Whistler. At current trajectory, Indri will NOT drive 60-70% FY27 growth alone.
+
+**FY27 Management Guidance: 60-70% Overall Alco-Bev Growth**
+- Management claims: "We see growth of 60% to 70% in our Alco-Bev business, keeping in mind the growth of our current portfolio there are a lot of new product pipeline which will add to it."
+- Reality check: If Indri (core, ₹250 Cr revenue) grows 20%, Camikara (₹100 Cr) grows 50%, Whistler (₹60 Cr) grows 40%, blended growth = ~30-35%, NOT 60-70%
+- **Only way to hit 60-70%**: Chhattisgarh IMFL production (requires malt aging 3-5+ years) would need to contribute significantly in FY27 = **unrealistic** (new malt won't be ready for premium IMFL until FY27-28)
+- **Likely scenario**: FY27 Alco-Bev growth closer to 30-40% (still strong, but 30-50% miss vs guidance)
+
+**Near-term Drivers (Conservative View):**
+- Indri brand: Likely 15-25% growth (supply-constrained by maturation timeline; capacity expansion still ramping)
+- Camikara rum: 50-100% growth (leverage new capacity; penetrating premium on-trade)
+- Whistler: 40-50% growth
+- New product launches: Kashmir Vodka (May 2025 launch), Game of Thrones, City Series = incremental revenue
 
 **Structural Drivers:**
 - **Premiumisation in India**: Younger consumers preferring quality over quantity; single malts growing 236% (FY22-FY25 CAGR)
@@ -223,7 +236,8 @@ Path to margin expansion:
 | **Extreme P/E of 55.4x** | **9/10** | Stock trading at 55x current earnings (70x on FY25 actual ₹11 EPS). This is justified ONLY if FY27 guidance (60-70% growth) is achieved. If growth disappoints, massive downside. | Management has hit guidance recently (7.7% revenue, 25% EBITDA growth actual vs expectations). Guidance track record needed. But 55x is binary bet. |
 | **Working Capital Spike** | **6/10** | FY25 short-term borrowings jumped 132% to ₹312 Cr (from CCD issuance, term loans, working capital facilities). Malt inventory at ₹100 Cr+ (aging requirement), trade receivables at 90-day DSO. If liquidity tightens, company faces near-term refinancing risk. | Chhattisgarh capex complete; capex guidance declining. Working capital should normalize as IMFL business scales (standardizes collections, inventory turns). But 2-3 year refinancing cycle risk. |
 | **Sugar Business Losses** | **5/10** | Sugar segment burning ₹0.3 Cr EBITDA on ₹249 Cr revenue (negative margin). Commodity sugar prices volatile. If demerger delayed or takes 2+ years, continues dragging profitability. | Demerger scheme filed with SEBI; expected approval by FY27. Clear exit timeline. But SEBI/NCLT approval uncertain. |
-| **Execution Risk on Growth Guidance** | **7/10** | 60-70% growth guidance is aggressive. Depends on: (1) Indri brand continued momentum (supply constraints already noted earlier), (2) Camikara scaling without brand fatigue, (3) new product adoption, (4) export markets absorbing growth. If any pillar slows, guidance misses. | IMFL grew 40%+ in FY25; 37% Indri growth in last 3 months shows momentum. But 60-70% is step change. Single malt category growing 236% CAGR but off small base; risk of deceleration. |
+| **Indri Brand Growth Miss – RED FLAG** | **8/10** | FY26 Indri growth: **16% YoY** (vs prior guidance of 25-30%). This is CRITICAL because: (1) Indri is flagship/core growth pillar, (2) expansion to 220 KLPD capacity was supposed to unleash growth, (3) only 16% suggests supply-side constraints from maturation timeline + brand saturation at ₹250 Cr revenue level. If Indri's growth remains stuck at 15-20%, FY27's 60-70% overall guidance **becomes unrealistic**. | Management explanation: "Constrained by supplies, we've already pushed up Indri to over 100,000 cases FY24 and ramping it further. This quarter growth was 16% but next 3 years will see this expand much higher." BUT maturation timeline (whisky aging 3-5+ years) suggests *new* supply will only release in FY27-28, not FY26. High risk of FY27 miss. |
+| **Execution Risk on Growth Guidance** | **7/10** | Overall Alco-Bev 60-70% guidance depends on: (1) Camikara rum scaling from ₹92 Cr (310% growth) without loss of pricing power, (2) Whistler maintaining 50%+ growth, (3) New product launches gaining traction, (4) Chhattisgarh ramping faster than expected. BUT if Indri remains at 15-20% (most likely), rest of portfolio must exceed 100%+ growth to hit 60-70% target = unrealistic. | IMFL grew 42% YoY in FY26 (₹640 Cr → ₹908 Cr). If Indri at 16%, Camikara+Whistler must have grown 60-70%+ to offset. But FY27's 60-70% target for *entire* Alco-Bev likely overstated unless Chhattisgarh IMFL production (requires 3-5yr aging) starts contributing in FY27 (unlikely). |
 | **Chhattisgarh Monetization Risk** | **5/10** | Chhattisgarh distillery commissioned Dec 2025 targeting ₹250-400 Cr revenue. If ramp slower than expected (supply constraints, market absorption), capex ROI suffers. Early-stage facility risk. | Management confident in ENA/ethanol demand (industrial use, fuel grade). But premium IMFL production from Chhattisgarh requires time for malt maturation (3-5 year pipeline delay). Revenue targets likely from ENA/bulk sales, not IMFL. |
 | **Demerger Execution** | **5/10** | Demerger scheme filed but regulatory approval uncertain. SEBI review → NCLT approval required. Timeline could extend beyond FY27, delaying Piccadily's re-rating as pure-play IMFL company. | Management committed; SEBI filing already done. But regulatory processes unpredictable (6-12 months typical). |
 | **Competition & Import Substitution** | **4/10** | Indri's premium positioning threatened by: (1) Global single malt imports increasing (Macallan, Glenlivet gaining share), (2) other Indian distilleries scaling (Radico, Diageo subsidiaries entering premium segment), (3) home-grown brands. | Indri has first-mover advantage, 55% market share in Indian singles, award-winning quality, climate advantage. But market share could compress if competitors scale. Premium segment still growing fast (30-40% CAGR) so room for multiple players. |
@@ -233,61 +247,94 @@ Path to margin expansion:
 
 ## 6. Financial Projections & Valuation (FY26-28)
 
-**Base Case Assumptions:**
-- FY26 IMFL growth: 40% (conservative vs 60-70% guidance)
-- FY27 IMFL growth: 50% (guidance realization phase)
-- FY26-27 EBITDA margin: 23-24% (mix shift benefit)
-- FY28 EBITDA margin: 25%+ (full demerger benefit + scale)
-- Chhattisgarh revenue contribution: ₹200 Cr by FY27, ₹400 Cr by FY28
-- Sugar demerger: FY27 (reduces consolidated revenue/PAT by 12-15%)
+**Base Case Assumptions (REVISED after FY26 actuals + earnings call):**
+- FY26 IMFL growth ACTUAL: **42% YoY** ✓ (but driven by Camikara/Whistler; Indri only 16% miss)
+- **FY27 IMFL growth REVISED DOWN**: 30-35% (NOT 60-70% per management guidance; Indri likely 20%, Camikara 50-75%, Whistler 40%)
+- **FY26-27 EBITDA margin: 21-23%** (FLAT, NOT expanding; working capital costs + interest offsetting mix benefit)
+- FY28 EBITDA margin: 23-24% (modest improvement as demerger benefit + capex cycle complete)
+- Chhattisgarh revenue contribution: ₹150-200 Cr by FY27 (ENA/ethanol focus; IMFL production delayed until FY28-29 due to maturation)
+- Sugar demerger: FY27-FY28 (SEBI approval uncertain; regulatory risk 6-12 months)
+- **KEY ASSUMPTION CHANGE**: Indri is supply-constrained by maturation timeline (3-5 year aged whisky cycle), not demand. New capacity (220 KLPD) will take 3-5 years to release premium IMFL for sale.
 
-**Projections (Standalone + consolidated pre-demerger):**
+**Projections (REVISED – Standalone + consolidated pre-demerger):**
 
-| Metric | FY26E | FY27E | FY28E |
-|--------|-------|-------|-------|
-| **IMFL Revenue (₹ Cr)** | 530 | 795 | 1,200 |
-| **Other Distillery (₹ Cr)** | 340 | 400 | 450 |
-| **Sugar (₹ Cr)** | 220 | 150 | — |
-| **Total Revenue (₹ Cr)** | 1,090 | 1,345 | 1,650 |
-| **Organic Growth %** | 22% | 24% | 23% |
-| **EBITDA (₹ Cr)** | 250 | 337 | 425 |
-| **EBITDA Margin %** | 23% | 25% | 26% |
-| **Finance Costs (₹ Cr)** | 32 | 25 | 20 |
-| **PAT (₹ Cr)** | 145 | 240 | 325 |
-| **EPS (₹)** | 14.7 | 24.3 | 33.0 |
-| **P/E at ₹772 stock** | 53x | 32x | 23x |
+| Metric | FY26A | FY27E (Conservative) | FY28E |
+|--------|--------|-----|-------|
+| **IMFL Revenue (₹ Cr)** | 460-480 | 580-620 | 750-800 |
+| **Other Distillery (₹ Cr)** | 280-300 | 350-380 | 420-450 |
+| **Sugar (₹ Cr)** | 220-250 | 120-150 | — |
+| **Total Revenue (₹ Cr)** | 1,032 | 1,150-1,200 | 1,350-1,400 |
+| **YoY Growth %** | 15.6% | 12-16% | 15-20% |
+| **EBITDA (₹ Cr)** | 220 | 250-270 | 310-340 |
+| **EBITDA Margin %** | 21.3% | 21.5-22.5% | 23-24% |
+| **Finance Costs (₹ Cr)** | 28-32 | 25-28 | 20-22 |
+| **PAT (₹ Cr)** | 130 | 155-185 | 230-270 |
+| **EPS (₹)** | 13.82 | 16.5-19.5 | 24-28 |
+| **P/E at ₹772 stock** | 56x | 40-47x | 28-32x |
+| **Implied 12M Target** | — | ₹350-410 | ₹520-600 |
 
-**Sensitivity Analysis:**
+**Key Projection Changes (vs Prior Estimate):**
+- FY27 growth: 24% → **12-16%** (Indri stuck at 15-20%, not 25-30%; no magic from Chhattisgarh IMFL)
+- FY27 EBITDA margin: 25% → **21.5-22.5%** (flat, not expanding; finance costs remain elevated)
+- FY27 PAT: ₹240 Cr → **₹155-185 Cr** (35-40% lower than prior bull-case assumption)
+- FY27 EPS: ₹24.3 → **₹16.5-19.5** (40% miss vs bull case)
 
-**Bull Case (30% probability):**
-- IMFL grows 50-60% (hits guidance upper end)
-- Chhattisgarh ramps IMFL capacity faster
-- Demerger closes early (FY26-27 vs FY27-28)
-- FY28 EPS ₹40+, EBITDA ₹500 Cr
-- P/E derating to 15-18x on pure IMFL company
-- Fair value: ₹600-720/share → **Current 772 = FAIR**
+**Sensitivity Analysis (REVISED – Updated with FY26 Indri miss & flat margins):**
 
-**Base Case (55% probability):**
-- IMFL grows 40-45% (conservative vs guidance)
-- Chhattisgarh ENA ramps, IMFL production phase takes 3-4 years
-- Demerger closes FY27
-- FY28 EPS ₹33, standalone IMFL EPS ₹40
-- Standalone Piccadily post-demerge P/E 16-18x
-- Fair value: ₹520-600/share → **Current 772 = 30% OVERVALUED**
+**Bull Case (20% probability – Indri accelerates, guidance hits, demerger approved early):**
+- Indri growth recovers to 25-30% (new capacity releases premium IMFL faster than expected)
+- Camikara+Whistler grow 50-60% combined
+- FY27 IMFL growth: 40% (beats current conservative 30-35%)
+- Chhattisgarh IMFL contribution by FY27-28: ₹50-100 Cr
+- Demerger closes FY27 (SEBI fast-tracks)
+- FY28 EPS ₹28-32, EBITDA ₹340 Cr
+- Post-demerge Piccadily P/E re-rates to 18-20x (pure IMFL premium play)
+- Fair value: **₹500-620/share** → **Current 772 = EXPENSIVE**
 
-**Bear Case (15% probability):**
-- IMFL growth disappoints to 20-25% (macro slowdown, competition)
-- Chhattisgarh takes longer to monetize
-- Demerger delayed to FY28 or faces regulatory issues
-- FY28 EPS ₹20-22
-- P/E 12-14x (low quality due to execution miss)
-- Fair value: ₹240-310/share → **Current 772 = 60% OVERVALUED**
+**Base Case (60% probability – Indri plateaus at 15-20%, margins flat, demerger FY27-28):**
+- Indri growth: 15-20% (constrained by maturation timeline; new capacity bottlenecked by aging requirements)
+- Camikara: 50-75% growth (on larger ₹100 Cr base; market absorption slowing)
+- Whistler: 30-40% growth
+- FY27 overall IMFL: 25-30% (vs 60-70% management guidance = **40% MISS**)
+- FY27 EPS: ₹16.5-19.5 (vs bull ₹24-28)
+- EBITDA margin: stays flat at 21.5-22.5% (no expansion)
+- Demerger closes FY27-28; modest P/E re-rating to 16-18x
+- Fair value: **₹280-380/share** → **Current 772 = 50-65% OVERVALUED**
 
-**Probability-Weighted Fair Value (WITH FY26 ACTUAL EPS ₹13.82):**
-- **Current valuation reality**: ₹772 ÷ ₹13.82 = **55.8x P/E** (extremely expensive)
-- FY26 actual growth (15.6%) slower than FY27 guidance (60-70%), and margin flat YoY (red flag)
-- (30% × ₹315 Bull) + (55% × ₹221 Base) + (15% × ₹168 Bear) = **₹235/share (69% DOWNSIDE)**
-- **Current 772 appears significantly overvalued unless FY27 guidance materializes perfectly**
+**Bear Case (20% probability – Indri growth rolls over, competition intensifies, demerger delayed):**
+- Indri growth: <10% (brand saturation at ₹250 Cr, competitive pressure from imports)
+- Camikara: 20-30% growth (deceleration from 310% base, market fatigue)
+- FY27 overall IMFL: 10-15% (macro slowdown + execution miss)
+- Chhattisgarh ramp delayed due to supply chain issues
+- Demerger delayed to FY28-29 (SEBI/NCLT complications)
+- FY27 EPS: ₹12-14 (vs base ₹17)
+- P/E: 12-14x (low quality, guidance miss)
+- Fair value: **₹150-200/share** → **Current 772 = 75% OVERVALUED**
+
+**Probability-Weighted Fair Value (FINAL – WITH FY26 ACTUAL EPS ₹13.82 + Indri Miss):**
+
+**Current Valuation Reality:**
+- Current P/E on FY26A EPS: ₹772 ÷ ₹13.82 = **55.8x** (among highest in Indian market; justifiable ONLY if 60-70% FY27 growth materializes)
+- FY26 actual growth 15.6% is HALF the FY27 guidance (60-70%)
+- Indri brand (core pillar) grew only 16% (MISSED 25-30% guidance by 40%)
+- EBITDA margins FLAT YoY at 21.3% (NOT expanding to 25%+ as bull case assumed)
+
+**Revised Fair Value Calculation:**
+- Bull Case (20% prob × ₹560 FV): ₹112
+- Base Case (60% prob × ₹330 FV): ₹198
+- Bear Case (20% prob × ₹175 FV): ₹35
+- **Probability-Weighted Fair Value: ₹345/share**
+
+**Comparison to Current Price:**
+- Current: ₹772 (Aug 5, 2026)
+- Fair Value: ₹345
+- **Implied Downside: 55% (₹427/share)**
+
+**Investment Decision – AVOID / SELL ON BOUNCES:**
+At current valuation, stock is pricing in PERFECT execution on FY27 60-70% guidance. Evidence from FY26 (Indri miss, margin flatness) suggests management guidance is optimistic. Even in base case (60% probability), stock is 55% overvalued. Only buy if:
+1. Stock corrects to ₹400-450 (14-15x FY27 EPS estimate)
+2. Management proves FY27 growth track record in Q1-Q2 FY27 (Jun-Sep 2026)
+3. Demerger approval timeline becomes concrete
 
 ---
 
@@ -336,7 +383,20 @@ Path to margin expansion:
 
 ## 8. Investment Recommendation
 
-**REVISED Rating: AVOID / SELL on Bounces | Fair Value ₹235 | 12-Month Target ₹250 | Risk-Reward HEAVILY UNFAVORABLE (69% downside)**
+**FINAL Rating: AVOID / SELL on Bounces | Fair Value ₹345 | 12-Month Target ₹400-420 | Risk-Reward HEAVILY UNFAVORABLE (55% downside)**
+
+**Recommendation Rationale:**
+- Stock trading at 55.8x P/E on FY26A EPS (₹13.82), pricing in perfect execution of 60-70% FY27 growth guidance
+- FY26 results show Indri brand (core, 27% of revenue) grew only **16% YoY** = **40% miss vs 25-30% prior guidance** = **execution risk is REAL**
+- EBITDA margins FLAT at 21.3% despite IMFL mix shift to 46% = working capital costs + interest offsetting operational benefits = **margin expansion unlikely near-term**
+- Management FY27 guidance of 60-70% growth is unrealistic given Indri's maturation timeline constraints + Camikara/Whistler deceleration expected
+- **More realistic FY27 IMFL growth**: 25-30% (not 60-70%), implying ₹16.5-19.5 EPS (not bull ₹24-28)
+- At ₹345 fair value, even base case has 55% downside; only attractive below ₹400
+
+**Action:**
+- **DO NOT BUY** at ₹772 (wait for ₹400-420 correction or better)
+- **SELL** into strength/bounces to ₹800+
+- **HOLD** existing positions if long-term, but reassess on Q1-Q2 FY27 earnings (target: proof of 30%+ IMFL growth + margin stability)
 
 ---
 
