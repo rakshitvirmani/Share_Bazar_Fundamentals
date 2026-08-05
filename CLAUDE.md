@@ -100,7 +100,32 @@ Include long-term fair value (FY30 onwards):
 
 ## Working with PDFs to Generate Analysis
 
-When PDFs are present in a company's folder, read them all before writing or updating the analysis. The PDFs fall into three categories — extract different things from each:
+### Critical First Step: Convert ALL PDFs to Markdown BEFORE Reading
+
+**WORKFLOW:**
+1. **Identify all PDF files** in the company folder
+2. **Convert every PDF to Markdown** using the pymupdf4llm tool (via ~/.claude/skills/pdf-to-markdown/.venv/bin/python)
+3. **Only then start reading** the markdown files to extract data
+
+**Why this order matters:**
+- Ensures all documents are available in text format before analysis begins
+- Avoids re-reading the same PDF multiple times
+- Enables efficient grep/search across markdown files
+- Prevents missing documents due to extraction order
+- Allows parallel processing of large PDFs
+
+**Conversion Command Template:**
+```bash
+~/.claude/skills/pdf-to-markdown/.venv/bin/python ~/.claude/skills/pdf-to-markdown/scripts/pdf_to_md.py "[PDF_PATH]"
+```
+
+**For multiple PDFs in a folder, create a batch script** (see past sessions for examples)
+
+---
+
+### Then Read & Extract from Markdown Files
+
+When PDFs are converted to markdown, read them to extract data. The PDFs fall into three categories — extract different things from each:
 
 **Annual Reports**
 
