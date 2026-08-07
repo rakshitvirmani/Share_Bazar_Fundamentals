@@ -1,7 +1,8 @@
 ---
 source: PittiFeb2026Concall.pdf
 total_pages: 14
-extracted_at: 2026-08-07T18:20:50.612107
+extracted_at: 2026-08-07T18:42:53.363615
+from_cache: true
 images_dir: images
 ---
 

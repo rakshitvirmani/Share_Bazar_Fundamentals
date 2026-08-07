@@ -1,5 +1,17 @@
+---
+source: June206.pdf
+total_pages: 27
+extracted_at: 2026-08-07T18:43:13.982569
+from_cache: true
+images_dir: images
+---
+
 **01**<sup>**st**</sup> **June  2026** 
 
+
+![](images/June206.pdf-0001-01.png)
+
+**[Image: June206.pdf-0001-01.png (1211x219, 34.0KB)]**
 
 
 To, 
@@ -27,7 +39,15 @@ Thanking you,
 **For and on behalf of Shree Refrigerations Limited** Tanmay Digitally signed by Tanmay Mukund Mukund Pethkar Date: 2026.06.01 Pethkar 14:34:17 +05'30' **_____________________ Tanmay Mukund Pethkar Company Secretary and Compliance Officer Membership No. A53618 6th Floor," Samarth House”, Survey No.116/3/1, 3/3,3/10, Near shell Petrol Pump, Warje, Pune, Maharashtra, India – 411058** 
 
 
+![](images/June206.pdf-0001-14.png)
 
+**[Image: June206.pdf-0001-14.png (1240x115, 52.3KB)]**
+
+
+
+![](images/June206.pdf-0002-00.png)
+
+**[Image: June206.pdf-0002-00.png (481x155, 18.2KB)]**
 
 
 # **Shree Refrigerations Limited** 
@@ -44,6 +64,10 @@ Mr. Ravalnath Gopinath Shende - CMD CMDE. Sunil Kaushik NM,VSM (Retd.) - WTD Mr.
 
 ### **Call Coordinator** 
 
+
+![](images/June206.pdf-0002-08.png)
+
+**[Image: June206.pdf-0002-08.png (263x91, 20.4KB)]**
 
 
 Strategy & Investor Relations Consulting 
@@ -526,3 +550,14 @@ call it explosion and this gives a great opportunity for a company that was an e
 
 Page 26 of 26 
 
+
+---
+
+## Extracted Images
+
+| # | File | Dimensions | Size |
+|---|------|------------|------|
+| 1 | June206.pdf-0001-01.png | 1211x219 | 34.0KB |
+| 2 | June206.pdf-0001-14.png | 1240x115 | 52.3KB |
+| 3 | June206.pdf-0002-00.png | 481x155 | 18.2KB |
+| 4 | June206.pdf-0002-08.png | 263x91 | 20.4KB |

@@ -1,7 +1,7 @@
 ---
 source: Written Transcript 141125.pdf
 total_pages: 18
-extracted_at: 2026-08-07T17:57:08.348553
+extracted_at: 2026-08-07T18:40:18.664208
 from_cache: true
 images_dir: images
 ---

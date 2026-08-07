@@ -1,7 +1,8 @@
 ---
 source: Pitti2025AnnualReport.pdf
 total_pages: 134
-extracted_at: 2026-08-07T18:20:45.799696
+extracted_at: 2026-08-07T18:42:54.261235
+from_cache: true
 images_dir: images
 ---
 

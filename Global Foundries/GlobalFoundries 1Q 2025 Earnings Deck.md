@@ -1,7 +1,8 @@
 ---
 source: GlobalFoundries 1Q 2025 Earnings Deck.pdf
 total_pages: 32
-extracted_at: 2026-08-07T18:19:02.859559
+extracted_at: 2026-08-07T18:40:07.780586
+from_cache: true
 images_dir: images
 ---
 

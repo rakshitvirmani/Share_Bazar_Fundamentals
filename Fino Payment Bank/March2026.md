@@ -1,3 +1,15 @@
+---
+source: March2026.pdf
+total_pages: 19
+extracted_at: 2026-08-07T18:37:15.663132
+from_cache: true
+images_dir: images
+---
+
+
+![](images/March2026.pdf-0001-00.png)
+
+**[Image: March2026.pdf-0001-00.png (518x78, 35.7KB)]**
 
 
 March 04, 2026 
@@ -11,10 +23,18 @@ March 04, 2026
 Dear Sir/Madam, 
 
 
+![](images/March2026.pdf-0001-06.png)
+
+**[Image: March2026.pdf-0001-06.png (1084x330, 91.5KB)]**
+
 
 <!-- Start of picture text -->
 Sub: Transcript of the Group Investors call with the investors and analysts held on March<br>02, 2026 - Disclosure under Regulation 30 of the Securities and Exchange Board of<br>India (Listing Obligations and Disclosure Requirements) Regulations, 2015<br>Ref: Group Conference call with Investors and Analysts on March 02, 2026<br>In continuation to our letter dated February 28, 2026 and March 02, 2026, please find enclosed<br>herewith the transcript of the Group Investors call with the investors and analysts held on March<br>02, 2026.<br>This disclosure is also available on the Bank’s website i.e.  www.fino.bank.in<br><!-- End of picture text -->
 
+
+![](images/March2026.pdf-0001-07.png)
+
+**[Image: March2026.pdf-0001-07.png (889x330, 33.1KB)]**
 
 
 <!-- Start of picture text -->
@@ -31,6 +51,10 @@ Yours faithfully,
 Digitally signed by Basavraj Basavraj Shivanand Loni Shivanand Loni Date: 2026.03.04 17:01:42 +05'30' **Basavraj Loni Company Secretary & Compliance Officer** 
 
 
+![](images/March2026.pdf-0001-13.png)
+
+**[Image: March2026.pdf-0001-13.png (860x330, 15.9KB)]**
+
 
 Place: Navi Mumbai 
 
@@ -39,15 +63,31 @@ Place: Navi Mumbai
 **Fino Payments Bank Limited Registered Office:** Mindspace Juinagar, Plot No Gen 2/1/F, Tower 1, 8<sup>th</sup> Floor, TTC Industrial Area, MIDC Shirwane, Juinagar, Navi Mumbai  - 400 706 | CIN: L65100MH2007PLC171959 | Tel: (+91 22) 7104 7000 | Website: www.fino.bank.in | Email: <u>cs@fino.bank.in</u> 
 
 
+![](images/March2026.pdf-0002-00.png)
+
+**[Image: March2026.pdf-0002-00.png (364x92, 14.8KB)]**
+
 
 # “Fino Payments Bank Limited 
 
 # Business Update Call” March 02, 2026 
 
 
+![](images/March2026.pdf-0002-03.png)
+
+**[Image: March2026.pdf-0002-03.png (275x44, 8.0KB)]**
 
 
 
+![](images/March2026.pdf-0002-04.png)
+
+**[Image: March2026.pdf-0002-04.png (280x74, 9.4KB)]**
+
+
+
+![](images/March2026.pdf-0002-05.png)
+
+**[Image: March2026.pdf-0002-05.png (221x111, 5.5KB)]**
 
 
 **– MANAGEMENT: MR. KETAN MERCHANT CHIEF FINANCIAL OFFICER – FINO PAYMENTS BANK LIMITED – MR. ANUP AGARWAL HEAD, FINANCE AND – INVESTOR RELATIONS FINO PAYMENTS BANK LIMITED** 
@@ -58,6 +98,10 @@ Page **1** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0003-01.png)
+
+**[Image: March2026.pdf-0003-01.png (363x93, 15.1KB)]**
 
 
 ## **Moderator:** 
@@ -87,6 +131,10 @@ Page **2** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0004-01.png)
+
+**[Image: March2026.pdf-0004-01.png (363x93, 15.1KB)]**
+
 
 of the bank continue to be uninterrupted and there is no impact on services of the bank to its customers or on normal functioning of the bank. A special Board meeting was convened on February 27, 2026, where the Board formally requested that I oversee day-to-day functioning of the bank during this interim period to ensure seamless continuity until further decisions are taken or Mr. Gupta resumes office. 
 
@@ -108,6 +156,10 @@ Page **3** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0005-01.png)
+
+**[Image: March2026.pdf-0005-01.png (363x93, 15.1KB)]**
 
 
 correspondents, and merchants. Just to provide some statistical data, our daily average CASA opening numbers are maintained at around 10,000 and our throughput remains in the range of INR1,300 crores per day. This, if you recollect of in our earlier calls and submissions, this is in line with the average and in certain cases even better given that there were weekends. 
@@ -143,6 +195,10 @@ Page **4** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0006-01.png)
+
+**[Image: March2026.pdf-0006-01.png (363x93, 15.1KB)]**
+
 
 ## **Ketan Merchant:** 
 
@@ -176,6 +232,10 @@ Page **5** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0007-01.png)
+
+**[Image: March2026.pdf-0007-01.png (363x93, 15.1KB)]**
 
 
 So all of this has been -- RBI has been monitoring. And one thing which you have essentially clarified and to the knowledge of RBI, which they are also cognizant of, that this was something which was pertaining to a particular program manager. 
@@ -221,6 +281,10 @@ Page **6** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0008-01.png)
+
+**[Image: March2026.pdf-0008-01.png (363x93, 15.1KB)]**
+
 
 **Shailesh Pandey:** Yes. The program manager throughput will be about 80% in this quarter. **Ravi Mehta:** And is there any internal exercise done to screen any future accidents? **Shailesh Pandey:** I missed you. Future what? **Ravi Mehta:** I mean, if such things doesn't recur, so is there any way of screening the program managers with a fresh lens? **Ketan Merchant:** Yes. I think Tejas will be better equipped to take this one. **Tejas Maniar:** Hi, good morning. Yes, to answer your questions, there are strict monitoring controls, both at a pre-onboarding level and post-monitoring, post-onboarding level which are regularly conducted on a frequent basis. So to answer your questions, yes. **Ravi Mehta:** Okay. Thanks. I'll come back. **Moderator:** The next question is from the line of Anand Dama from Emkay Global Financial Services Limited. Please go ahead. **Anand Dama:** Yes. Thank you for the opportunity and good to have this call in the morning. My first question is the program manager or the multiple program managers which are involved in this issue, are they operating also with other banks or payment players, one. And secondly, I think you said that these three program managers had significant business through Fino Payment Banks? **Ketan Merchant:** Let me take the first question first and I think in somewhere in our earlier disclosures we've made as well and we've said that and I will just read it so that it is reiterated and registered across: Further, as part of our onboarding check, one of the precondition is that merchants referred by the program managers need to have existing banking relationship with other banks for facilitating UPI transactions. This also answers Ravi's point earlier as well. So when we are onboarding any of the guys which have been referred by program managers, we have a precondition that he has been operating through other banks as well besides all the other checks which we essentially do on that. Sorry, I missed your second question, Anand. What was that? 
 
@@ -232,6 +296,10 @@ Page **7** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0009-01.png)
+
+**[Image: March2026.pdf-0009-01.png (363x93, 15.1KB)]**
 
 
 **Ketan Merchant:** 
@@ -269,6 +337,10 @@ Page **8** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0010-01.png)
+
+**[Image: March2026.pdf-0010-01.png (363x93, 15.1KB)]**
+
 
 **Ketan Merchant:** No I think whatever data which they have been asking across we have been giving across to them. Their focus primarily is around these two-three program managers and merchants and the relevant information etcetera which they have seek from us and maybe from some other banks as well, I'm not aware. But we've been providing all our inputs to them as they have been asking across. **Anand Dama:** Sure. And the R&D business basically. **Moderator:** Mr. Dama, I am sorry to interrupt you sir. Sir we have others who are waiting for their turn. **Anand Dama:** I'll come back in the queue. **Moderator:** Thank you so much sir. The next question is from the line of Kaushik from AK Investments. Please go ahead. **Kaushik:** Yes, thanks for the opportunity. Firstly, a quick question: this case is pertaining to which year? Because if I go into the details, right, I mean the guy was arrested in 2024 I guess. So this case was related to which year whatever we are being accountable for? **Anup Agarwal:** So hi, so this case is pertaining to the current financial year. So they have currently, the authorities have been asking the information relating to the current financial year. **Kaushik:** Okay. Okay. And what is the revenue which got generated through this or it was non -- I mean, not on the books? What was the thing? How much revenue? **Anup Agarwal:** So, we cannot comment upon what revenue they were generating or the program managers were generating. As we have clarified that whatever revenue we were generating from these program managers, which was a small component of as a percentage of our revenue, was -- and we have discharged all the GST liabilities on the same. **Kaushik:** Sorry, I did not understand clearly. Can you be more clear? **Anup Agarwal:** So, we will not be able to comment on the revenue generated by the program manager overall. We can only speak about that we have discharged all the GST on the revenue earned by Fino through the transactions routed through this program manager. **Ketan Merchant:** Kaushik, just to add, how much of the revenue which the so-alleged program managers are generating, as the earlier said, we are not the only banks through whom they are operating it off. So we do not have site on what has been their functioning across all the spectrum of the banks and across their business and that's what Anup was trying to emphasize on. **Kaushik:** Okay. From our side, how much that we discharge? **Ketan Merchant:** Shailesh, do you have an idea on what is attributable to us in terms of revenue or else we can just come back later? 
 
@@ -276,6 +348,10 @@ Page **9** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0011-01.png)
+
+**[Image: March2026.pdf-0011-01.png (363x93, 15.1KB)]**
 
 
 **Shailesh Pandey:** Yes, we'll have to, have a look from the revenue perspective. But as I told you, we'll come back on this. Yes, as I said earlier, these program managers in question do about 8% to 10% of the throughput, so we calculate and we'll come back. **Kaushik:** Okay. Okay. And sir, this whatever the digital services we were doing, can you -- how concentrated our throughput is coming from? Can you share some light on the growth trajectory of digital services also and which are the industries are contributing heavy? Are there any, I mean, one-offs or we are getting throughput? Can you throw some light on digital services? **Ketan Merchant:** So, Kaushik, I think as Sheetal earlier said, this is a call with the intent of a particular incidence which has happened off. I think we should just restrict it to that. Maybe in our other calls and other publication which we are doing across, we can give a detailed update and on the same. **Kaushik:** Okay. Thanks. Thank you. **Moderator:** Thank you. We'll take the next question from the line of Prateek Chaudhary from Samarthya Capital. Please go ahead. **Prateek Chaudhary:** So, you mentioned that the transactions were pertaining to this financial year. So just wanted to seek a clarification that are these transactions pre the ban coming into place or post the ban coming into place? **Anup Agarwal:** So as mentioned by us that the gaming -- the transactions which were involving real money gaming were also blocked by the bank effective whenever the regulations blocking the real gaming partners. We have also blocked those transactions on that day in August 2025. So, this pertaining to that period. The real money gaming transactions are not happening post August 2025. **Prateek Chaudhary:** So, all of this investigation is for all the transactions that happened before the ban came into place? **Ketan Merchant:** Yes, all relating to the real money gaming. So we will presume that it is all pertaining to the prior period. **Prateek Chaudhary:** Okay. Thank you, sir. **Moderator:** Thank you. The next question is from the line of Siddharth Gupta from Voyager Capital. Please go ahead. **Siddharth Gupta:** Hi Ketan and team. Thank you for these clarifications. Just a quick couple of more questions. To clarify, does Rishi have any Directorship on any unlisted any company or partners that are currently in allegation because that's also something that has popped up in media reports that this could have been linked to that? 
@@ -286,6 +362,10 @@ Page **10** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0012-01.png)
+
+**[Image: March2026.pdf-0012-01.png (363x93, 15.1KB)]**
 
 
 substantially lower. I know you said you'll come back with a precise number, but an approximation would also be helpful? 
@@ -333,6 +413,10 @@ Page **11** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0013-01.png)
+
+**[Image: March2026.pdf-0013-01.png (363x93, 15.1KB)]**
+
 
 **Suraj Singhania:** Yes, hi. My questions have been answered. Thank you. 
 
@@ -358,6 +442,10 @@ Page **12** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0014-01.png)
+
+**[Image: March2026.pdf-0014-01.png (363x93, 15.1KB)]**
 
 
 You are right that there have been a couple of sections where the allegations have come across and these are sections pertaining to the GST Act. Our fundamental point is does bank or Mr. Gupta carry any of these liabilities on account of the tax evasion? We do not -- it cannot be as a process because it is ownership of the respective program manager, etcetera. 
@@ -403,6 +491,10 @@ Page **13** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0015-01.png)
+
+**[Image: March2026.pdf-0015-01.png (363x93, 15.1KB)]**
+
 
 **Adarsh:** And you did mention account openings remain normal, even the balances are not impacted or is there an impact? 
 
@@ -420,6 +512,10 @@ Page **14** of **18**
 
 _Fino Payments Bank Limited March 02, 2026_ 
 
+
+![](images/March2026.pdf-0016-01.png)
+
+**[Image: March2026.pdf-0016-01.png (363x93, 15.1KB)]**
 
 
 ## **Moderator:** 
@@ -461,6 +557,10 @@ Page **15** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0017-01.png)
+
+**[Image: March2026.pdf-0017-01.png (363x93, 15.1KB)]**
+
 
 **Anand Dama:** Just a clarification. I think you already provided but just reconfirming is that the RMG business revenue in third quarter was zero for us as a whole, not only from these partners but for any partners, right? 
 
@@ -481,6 +581,10 @@ Page **16** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0018-01.png)
+
+**[Image: March2026.pdf-0018-01.png (363x93, 15.1KB)]**
+
 
 ## **Shailesh Pandey:** 
 
@@ -493,6 +597,10 @@ Page **17** of **18**
 _Fino Payments Bank Limited March 02, 2026_ 
 
 
+![](images/March2026.pdf-0019-01.png)
+
+**[Image: March2026.pdf-0019-01.png (363x93, 15.1KB)]**
+
 
 ## **Moderator:** 
 
@@ -500,3 +608,35 @@ Thank you members of the management. Ladies and gentlemen, on behalf of Go India
 
 Page **18** of **18** 
 
+
+---
+
+## Extracted Images
+
+| # | File | Dimensions | Size |
+|---|------|------------|------|
+| 1 | March2026.pdf-0001-00.png | 518x78 | 35.7KB |
+| 2 | March2026.pdf-0001-06.png | 1084x330 | 91.5KB |
+| 3 | March2026.pdf-0001-07.png | 889x330 | 33.1KB |
+| 4 | March2026.pdf-0001-13.png | 860x330 | 15.9KB |
+| 5 | March2026.pdf-0002-00.png | 364x92 | 14.8KB |
+| 6 | March2026.pdf-0002-03.png | 275x44 | 8.0KB |
+| 7 | March2026.pdf-0002-04.png | 280x74 | 9.4KB |
+| 8 | March2026.pdf-0002-05.png | 221x111 | 5.5KB |
+| 9 | March2026.pdf-0003-01.png | 363x93 | 15.1KB |
+| 10 | March2026.pdf-0004-01.png | 363x93 | 15.1KB |
+| 11 | March2026.pdf-0005-01.png | 363x93 | 15.1KB |
+| 12 | March2026.pdf-0006-01.png | 363x93 | 15.1KB |
+| 13 | March2026.pdf-0007-01.png | 363x93 | 15.1KB |
+| 14 | March2026.pdf-0008-01.png | 363x93 | 15.1KB |
+| 15 | March2026.pdf-0009-01.png | 363x93 | 15.1KB |
+| 16 | March2026.pdf-0010-01.png | 363x93 | 15.1KB |
+| 17 | March2026.pdf-0011-01.png | 363x93 | 15.1KB |
+| 18 | March2026.pdf-0012-01.png | 363x93 | 15.1KB |
+| 19 | March2026.pdf-0013-01.png | 363x93 | 15.1KB |
+| 20 | March2026.pdf-0014-01.png | 363x93 | 15.1KB |
+| 21 | March2026.pdf-0015-01.png | 363x93 | 15.1KB |
+| 22 | March2026.pdf-0016-01.png | 363x93 | 15.1KB |
+| 23 | March2026.pdf-0017-01.png | 363x93 | 15.1KB |
+| 24 | March2026.pdf-0018-01.png | 363x93 | 15.1KB |
+| 25 | March2026.pdf-0019-01.png | 363x93 | 15.1KB |

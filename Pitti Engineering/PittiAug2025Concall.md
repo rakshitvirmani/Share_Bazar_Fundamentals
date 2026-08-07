@@ -1,7 +1,8 @@
 ---
 source: PittiAug2025Concall.pdf
 total_pages: 20
-extracted_at: 2026-08-07T18:20:48.631031
+extracted_at: 2026-08-07T18:42:53.636872
+from_cache: true
 images_dir: images
 ---
 

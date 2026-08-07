@@ -1,7 +1,8 @@
 ---
 source: GlobalFoundries 1Q 2026 Earnings Deck (1).pdf
 total_pages: 32
-extracted_at: 2026-08-07T18:19:09.595320
+extracted_at: 2026-08-07T18:40:05.732768
+from_cache: true
 images_dir: images
 ---
 

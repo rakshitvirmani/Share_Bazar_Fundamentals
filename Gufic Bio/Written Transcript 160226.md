@@ -1,7 +1,7 @@
 ---
 source: Written Transcript 160226.pdf
 total_pages: 17
-extracted_at: 2026-08-07T17:57:08.589581
+extracted_at: 2026-08-07T18:40:19.305330
 from_cache: true
 images_dir: images
 ---
