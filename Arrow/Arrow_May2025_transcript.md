@@ -1,0 +1,1603 @@
+---
+source: May2025.pdf
+total_pages: 40
+extracted_at: 2026-08-07T17:58:19.321261
+images_dir: images
+---
+
+
+![](images/May2025.pdf-0001-00.png)
+
+**[Image: May2025.pdf-0001-00.png (129x123, 28.0KB)]**
+
+
+## ARROW GREENTECH LTD 
+
+###### **May 20, 2025** 
+
+To Manager (CRD)                                                           Manager (CRD) **BSE Ltd. National Stock Exchange of India Ltd. (NSE)** P.J. Towers, Dalal Street,                                            Exchange Plaza, Bandra Kurla Complex Mumbai 400 001                                                          Bandra (E), Mumbai - 400051 **Script Code- 516064                                                  Script Code- ARROWGREEN** 
+
+**<u>Ref:  Script Code- 516064                                          Script Code- ARROWGREEN</u> Sub: Presentation on Business Performance of the Company** 
+
+Dear Sir, 
+
+With reference to captioned subject matter, please find enclosed herewith presentation on business performance of the Company. 
+
+This is for your information and records. 
+
+Thanking you, 
+
+Yours faithfully, 
+
+###### _For_ **Arrow Greentech Limited** 
+
+POONAM Digitally signed by POONAM BANSAL Poonam Bansal BANSAL Date: 2025.05.20 12:53:44 +05'30' **Company Secretary Membership No. F9965** 
+
+
+![](images/May2025.pdf-0001-12.png)
+
+**[Image: May2025.pdf-0001-12.png (119x92, 20.2KB)]**
+
+
+###### <u>ARROW GREENTECH LTD</u> 
+
+CIN No.: L21010MH1992PLC069281 
+
+**Registered Office: 1/F Laxmi Industrial Estate, New Link Road, Andheri (West), Mumbai 400 053, Maharashtra, Phone: +91 22-4974 3758 , Email : contact@arrowgreentech.com Website: www.arrowgreentech com Works: Plot No 531 0,5311, GIDC, Ankleshwar 392002, Gujarat, INDIA Phone : +912646-224743/224744 E-mail :** **<u>ank@arrowgreentech.com</u>** 
+
+
+![](images/May2025.pdf-0002-00.png)
+
+**[Image: May2025.pdf-0002-00.png (2000x1125, 1152.9KB)]**
+
+
+<!-- Start of picture text -->
+ARROW<br>GREENTECH LTD.<br>Investor Presentation<br>www.arrowgreentech.com<br><!-- End of picture text -->
+
+## Safe Harbor 
+
+
+![](images/May2025.pdf-0003-01.png)
+
+**[Image: May2025.pdf-0003-01.png (203x89, 13.1KB)]**
+
+
+This presentation and the accompanying slides (the “Presentation”), which have been prepared by **Arrow Greentech Limited** (the “Company”), have been prepared solely for information purposes and do not constitute any offer, recommendation or invitation to purchase or subscribe for any securities, and shall not form the basis or be relied on in connection with any contract or binding commitment what so ever. No offering of securities of the Company will be made except by means of a statutory offering document containing detailed information about the Company. 
+
+This Presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Company makes no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and reasonableness of the contents of this Presentation. This Presentation may not be all inclusive and may not contain all of the information that you may consider material. Any liability in respect of the contents of, or any omission from, this Presentation is expressly excluded. 
+
+Certain matters discussed in this Presentation may contain statements regarding the Company’s market opportunity and business prospects that are individually and collectively forward-looking statements. Such forward-looking statements are not guarantees of future performance and are subject to known and unknown risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties include, but are not limited to, the performance of the Indian economy and of the economies of various international markets, the performance of the industry in India and world-wide, competition, the company’s ability to successfully implement its strategy, the Company’s future levels of growth and expansion, technological implementation, changes and advancements, changes in revenue, income or cash flows, the Company’s market preferences and its exposure to market risks, as well as other risks. The Company’s actual results, levels of activity, performance or achievements could differ materially and adversely from results expressed in or implied by this Presentation. The Company assumes no obligation to update any forward-looking information contained in this Presentation. Any forward-looking statements and projections made by third parties included in this Presentation are not adopted by the Company and the Company is not responsible for such third party statements and projections. 
+
+**2** 
+
+
+![](images/May2025.pdf-0004-00.png)
+
+**[Image: May2025.pdf-0004-00.png (1078x1125, 1499.6KB)]**
+
+
+
+![](images/May2025.pdf-0004-01.png)
+
+**[Image: May2025.pdf-0004-01.png (830x596, 30.9KB)]**
+
+
+# Q4 & FY25 – Results Highlights 
+
+## Chairman & MD’s Comments on Results 
+
+
+![](images/May2025.pdf-0005-01.png)
+
+**[Image: May2025.pdf-0005-01.png (203x89, 13.1KB)]**
+
+
+### **Chairman and MD Mr. Shilpan Patel |** 
+
+
+![](images/May2025.pdf-0005-03.png)
+
+**[Image: May2025.pdf-0005-03.png (420x420, 182.7KB)]**
+
+
+_“We are pleased to report that Arrow Greentech has delivered the highest-ever revenue of Rs. 2,434 million in FY25 - a robust year-on-year growth of 64%. We have consistently exceeded our performance benchmarks year after year, and this sustained momentum reinforces our confidence in the company’s long-term growth trajectory. Our profitability has also shown significant improvement, with Profit After Tax (PAT) doubling to Rs. 630 million in FY25 from Rs. 293 million in the previous year — representing a growth of 115%. This performance is particularly commendable given the challenging macroeconomic environment, and it reflects the strength, resilience, and adaptability of our business model._ 
+
+_The Hightech Products has been a key growth driver, registering an impressive growth of 79% yoy. This growth reflects our continued commitment to anticounterfeit solutions and our ability to capture opportunities in high-value securitization globally. We believe this segment still holds immense potential, and we are well-positioned to capitalize on it in the coming years. Within our Green Products, we remain focused on business development by identifying new application areas and strengthening our presence across a wider range of industry verticals._ 
+
+_During the Q4 quarter, we were granted a US patent (No. 12194771) for its “Dual-Color Shift Security Film” an innovative solution that enhances document security through color-shifting features and improved counterfeit resistance. This development further strengthens our intellectual property portfolio and underlines our commitment to innovation-driven growth._ 
+
+_Looking ahead, we remain focused on strengthening our product portfolio by expanding and diversifying our product basket to meet the evolving demands of the industry. Our commitment to sustainable growth is unwavering, driven by continuous innovation, cutting-edge product development and the strategic filing of new intellectual property. With a clear roadmap, strong R&D capabilities, and a dedicated team, we are confident in our ability to sustain this momentum and deliver long-term, sustainable value to all stakeholders”_ 
+
+##### **<u>Operational/Financial Highlights</u>** 
+
+- Revenue from operations for FY25 stood at Rs 2,434 Millions, as compared to Rs. 1,485 Millions in FY24, registering a growth of 64% 
+
+- EBITDA for FY25 was Rs. 883 Millions, as compared to Rs. 463 Millions in FY24 
+
+- EBITDA margin for FY25 stood at 36.3% as against 31.2% in FY24 which showcase expansion in margins by 510 bps 
+
+- PAT for FY25 was at Rs. 630 Millions, registering a growth of 115% on Y-o-Y basis; PAT margins expand by 593 bps in FY25 as compared to FY24 
+
+- The Board of Directors has declared a dividend of ₹4 per equity share for the financial year 2024-25 
+
+**4** 
+
+## Q4 FY25 Result Highlights 
+
+**O** **<mark>p</mark> eratin** **<mark>g</mark> Revenue** **<mark>(</mark> Rs. In Mn** **<mark>)</mark>** 
+
+
+![](images/May2025.pdf-0006-02.png)
+
+**[Image: May2025.pdf-0006-02.png (974x334, 12.1KB)]**
+
+
+<!-- Start of picture text -->
++13%<br>573<br>506<br>Q4 FY24 Q4 FY25<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0006-03.png)
+
+**[Image: May2025.pdf-0006-03.png (175x24, 2.3KB)]**
+
+
+<!-- Start of picture text -->
+PAT (Rs. In Mn)<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0006-04.png)
+
+**[Image: May2025.pdf-0006-04.png (942x439, 14.0KB)]**
+
+
+<!-- Start of picture text -->
+19.5% 19.3%<br>+14%<br>114<br>100<br>Q4 FY24 Q4 FY25<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0006-05.png)
+
+**[Image: May2025.pdf-0006-05.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0006-06.png)
+
+**[Image: May2025.pdf-0006-06.png (221x24, 2.8KB)]**
+
+
+<!-- Start of picture text -->
+EBITDA  ( Rs. In Mn )<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0006-07.png)
+
+**[Image: May2025.pdf-0006-07.png (912x436, 14.2KB)]**
+
+
+<!-- Start of picture text -->
+30.8% 28.0%<br>+3%<br>156 160<br>Q4 FY24 Q4 FY25<br><!-- End of picture text -->
+
+**Segment Wise (In Mn)** 
+
+
+![](images/May2025.pdf-0006-09.png)
+
+**[Image: May2025.pdf-0006-09.png (874x313, 14.8KB)]**
+
+
+<!-- Start of picture text -->
+Q4 FY24 +5%<br>Q4 FY25<br>503<br>481<br>+178%<br>70<br>25<br><!-- End of picture text -->
+
+**5** 
+
+## FY25 Result Highlights 
+
+
+![](images/May2025.pdf-0007-01.png)
+
+**[Image: May2025.pdf-0007-01.png (203x89, 13.1KB)]**
+
+
+**O** **<mark>p</mark> eratin** **<mark>g</mark> Revenue** **<mark>(</mark> Rs. In Mn** **<mark>)</mark>** 
+
+###### **<mark>EBITDA (Rs. In Mn)</mark>** 
+
+
+![](images/May2025.pdf-0007-04.png)
+
+**[Image: May2025.pdf-0007-04.png (1949x905, 70.0KB)]**
+
+
+<!-- Start of picture text -->
+31.2% 36.3%<br>+64%<br>+91%<br>2,434<br>883<br>1,485<br>463<br>FY24 FY25<br>FY24 FY25<br>PAT  ( Rs. In Mn ) Segment Wise (In Mn)<br>19.4% 25.3%<br>FY24 FY25 +79%<br>+115%<br>630 2,191<br>1,227<br>293<br>-6%<br>258 243<br>FY24 FY25 Green Products Hightech Products<br>6<br><!-- End of picture text -->
+
+**6** 
+
+## Consolidated Profit & Loss Statement 
+
+
+![](images/May2025.pdf-0008-01.png)
+
+**[Image: May2025.pdf-0008-01.png (203x89, 13.1KB)]**
+
+
+|**Particulars (Rs.Mn)**|**Q4 FY25**|**Q4 FY24**|**Y-O-Y**|**Q3 FY25**|**Q-o-Q**|**FY25**|**FY24**|**Y-o-Y**|
+|---|---|---|---|---|---|---|---|---|
+|Revenue from Operations|573|506||551||2,434|1,485||
+|**Total Revenue**|**573**|**506**|**13%**|**551**|**4%**|**2,434**|**1,485**|**64%**|
+|Cost of Material Consumed|145|214||145||727|544||
+|Purchase of stock in trade|133|0||106||339|83||
+|Change in Inventories of Finishedgoods & Work in Progress|14|-24||21||54|-40||
+|**Total Raw Material**|**291**|**190**||**272**||**1,121**|**587**||
+|**Gross Profit**|**282**|**316**|**-11%**|**279**|**1%**|**1,313**|**898**|**46%**|
+|**Gross Profit Margin(%)**|**49.1%**|**62.4%**||**50.6%**||**54.0%**|**60.5%**||
+|Employee Expenses|40|39||39||153|137||
+|Other Expenses|81|121||61||277|297||
+|**EBITDA**|**160**|**156**|**3%**|**179**|**-11%**|**883**|**463**|**91%**|
+|**EBITDA Margin(%)**|**28.0%**|**30.8%**||**32.5%**||**36.3%**|**31.2%**||
+|Other Income|18|7||16||53|26||
+|Depreciation|20|21||19||74|78||
+|**EBIT**|**158**|**142**|**11%**|**176**|**-10%**|**862**|**411**|**110%**|
+|**EBIT Margin(%)**|**27.5%**|**28.1%**||**31.9%**||**35.4%**|**27.7%**||
+|Finance Cost|0|2||1||2|4||
+|**Profit before Tax**|**157**|**141**|**12%**|**175**|**-10%**|**860**|**407**|**112%**|
+|**Profit before Tax(%)**|**27.4%**|**27.8%**||**31.8%**||**35.3%**|**27.4%**||
+|Tax|43|41||47||230|113||
+|**Profit After Tax**|**114**|**100**|**14%**|**128**|**-11%**|**630**|**293**|**115%**|
+|**PAT Margin(%)**|**19.3%**|**19.5%**||**22.6%**||**25.3%**|**19.4%**||
+|EPS(Asper Profit after Tax)|7.58|6.72||8.52||41.83|19.56|**7**|
+
+
+
+## Consolidated Balance Sheet 
+
+|**Assets(**₹**in mn)**|**FY25**|**FY24**|
+|---|---|---|
+|**Non-Current Assets**|||
+|(a)Property, plant and equipment|311|306|
+|(b)Capital Work-in-Progress|12|21|
+|(c)Right  of use assets|4|6|
+|(d)Other Intangible Asset|14|20|
+|(e)Intangible Asset under development|12|11|
+|(f)Investment Property|46|43|
+|**Financial Assets**|||
+|(a)Investments|2|2|
+|(b)Other Financial Assets|60|134|
+|Deferred tax assets|78|73|
+|Income tax assets|15|0|
+|Other Non Current Assets|2|1|
+|**Total Non-Current Assets**|**558**|**616**|
+|**Current Assets**|||
+|Inventories|202|223|
+|**Financial Assets**|||
+|(i)Investments|454|3|
+|(ii)Trade Receivable|293|322|
+|(iii)CashandCash Equivalents|167|76|
+|(iv)Bank balances other than(iii)above|291|143|
+|(v)Loans|2|1|
+|(vi) Other financialassets|4|3|
+|Other current assets|114|67|
+|**Total Current Assets**|**1,526**|**838**|
+|**Total Assets**|**2,084**|**1,454**|
+
+
+
+
+![](images/May2025.pdf-0009-02.png)
+
+**[Image: May2025.pdf-0009-02.png (203x89, 13.1KB)]**
+
+
+|**Equity & Liabilities(₹  in mn)**|**FY25**|**FY24**|
+|---|---|---|
+|**Equity**|||
+|(a)EquityShare Capital|151|151|
+|(b)Other Equity|1,732|1118|
+|**Equity Attributable to Owners**|**1,883**|**1,269**|
+|Non-controllinginterest|18|19|
+|**Total Equity**|**1,900**|**1,288**|
+|**Non-Current Liabilities**|||
+|(a)Financial Liabilities|||
+|(i)Borrowings|0|1|
+|(ii)Lease Liabilities|5|7|
+|(b)Provisions|5|4|
+|(c)Income Tax liabilities|26|14|
+|**Total Non-Current Liabilities**|**36**|**26**|
+|**Current Liabilities**|||
+|Financial Liabilities|||
+|(i)Borrowings|0|2|
+|(ii)Trade Payables|||
+|Total outstandingdue to micro and small enterprises|21|8|
+|Total outstandingdue to others|68|42|
+|(iii)Other financial liabilities|44|73|
+|(iv)Lease Liabilities|2|2|
+|Provisions|5|4|
+|Other current liabilities|9|9|
+|**Total Current Liabilities**|**148**|**140**|
+|**Total Equity & Liabilities**|**2,084**|**1,454**|
+
+
+
+**8** 
+
+## Consolidated Cashflow Statement 
+
+
+![](images/May2025.pdf-0010-01.png)
+
+**[Image: May2025.pdf-0010-01.png (203x89, 13.1KB)]**
+
+
+|**Cash Flow Statement (Rs. mn)**|**FY25**|**FY24**|
+|---|---|---|
+|**Cash Flow from Operating Activities**|||
+|**Profit before Tax**|**860**|**407**|
+|Adjustment for Non-Operating Items|53|71|
+|**Operating Profit before Working Capital Changes**|**913**|**477**|
+|Changes in Working Capital|1|-151|
+|**Cash Generated from Operations**|**914**|**326**|
+|Less: Direct Taxes paid|-239|-148|
+|**Net Cash from Operating Activities**|**676**|**178**|
+|Cash Flow from Investing Activities|-546|-130|
+|Cash Flow from Financing Activities|-39|-43|
+|**Net increase/ (decrease) in Cash & Cash equivalent**|**91**|**6**|
+|Cash and cash equivalents at the beginning of the year|76|71|
+|**Cash and cash equivalents at the end of the year**|**167**|**76**|
+
+
+
+**9** 
+
+
+![](images/May2025.pdf-0011-00.png)
+
+**[Image: May2025.pdf-0011-00.png (830x596, 30.9KB)]**
+
+
+# ABOUT THE COMPANY 
+
+
+![](images/May2025.pdf-0011-02.png)
+
+**[Image: May2025.pdf-0011-02.png (1078x1125, 1086.6KB)]**
+
+
+## Leadership Team :Board Of Directors 
+
+
+![](images/May2025.pdf-0012-01.png)
+
+**[Image: May2025.pdf-0012-01.png (209x286, 90.3KB)]**
+
+
+
+![](images/May2025.pdf-0012-02.png)
+
+**[Image: May2025.pdf-0012-02.png (208x286, 102.5KB)]**
+
+
+
+![](images/May2025.pdf-0012-03.png)
+
+**[Image: May2025.pdf-0012-03.png (228x28, 2.7KB)]**
+
+
+<!-- Start of picture text -->
+Mr. Shilpan P. Patel<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0012-04.png)
+
+**[Image: May2025.pdf-0012-04.png (218x67, 4.7KB)]**
+
+
+<!-- Start of picture text -->
+Mr. Neil Patel<br>Jt. Managing Director<br><!-- End of picture text -->
+
+###### Chairman & M.D 
+
+He holds a Master's in Business Administration from Sam Houston State University, Texas. With experience in the coating industry from Grace Paper Industries Pvt. Ltd, he developed the award-winning Water Soluble Film in 1990, a product with significant environmental impact. 
+
+He possess excellent entrepreneurship and organizational skills and demonstrating keen interest in assuming operational responsibilities since joining the company. 
+
+He serves as a member of the Audit and Stakeholders Relationship committee of the company. 
+
+Appointed to the Board on October 30, 1992, Mr. Patel oversees Business Development and Strategic Management. Under his leadership, Arrow  has secured over 40 patents worldwide and received several awards, including the National IP Award for Patents & Commercialization. 
+
+
+![](images/May2025.pdf-0012-10.png)
+
+**[Image: May2025.pdf-0012-10.png (209x286, 92.2KB)]**
+
+
+**Mr. Prashant Mehta** Independent Director 
+
+He is a  Company Secretary with over 40 years of experience, has held key roles in renowned companies such as Premier Ltd, Jindal Iron and Steel Co Ltd. (now JSW Steel), and Shoppers Stop, bringing invaluable expertise in legal and secretarial affairs to the table. 
+
+
+![](images/May2025.pdf-0012-13.png)
+
+**[Image: May2025.pdf-0012-13.png (203x89, 13.1KB)]**
+
+
+**11** 
+
+## Leadership Team :Board Of Directors 
+
+
+![](images/May2025.pdf-0013-01.png)
+
+**[Image: May2025.pdf-0013-01.png (209x286, 114.3KB)]**
+
+
+
+![](images/May2025.pdf-0013-02.png)
+
+**[Image: May2025.pdf-0013-02.png (208x286, 75.9KB)]**
+
+
+###### **Mrs. Jigisha Patel** 
+
+**Mr. Yogesh Gajjar** Independent Director 
+
+Woman  Director 
+
+She possess a great knowledge in supervising and co-ordinating the administration along with Managing and Handling Team. 
+
+He had done Diploma in Electronics from Government Polytechnic College in the year 1975. He is into Business of Electricals and Electronics services for last 45 years. 
+
+She also have a wide range of experience and knowledge in Corporate Affairs. 
+
+He possesses good entrepreneurship and excellent organizational spirit. He has vast experience & knowledge in the field of electronics. He is based in Ahmedabad. 
+
+
+![](images/May2025.pdf-0013-10.png)
+
+**[Image: May2025.pdf-0013-10.png (209x286, 88.4KB)]**
+
+
+**Mrs. Barkharani Nevatia** Independent Director 
+
+She is a Chartered Accountant practicing in Pune and Mumbai, offers extensive experience in 
+
+corporate tax, statutory audits, and specialized knowledge in GST and Income Tax, backed by an LLB degree from Mumbai University and education from Narsee Monjee College of Commerce and Economics. 
+
+
+![](images/May2025.pdf-0013-14.png)
+
+**[Image: May2025.pdf-0013-14.png (203x89, 13.1KB)]**
+
+
+**12** 
+
+
+![](images/May2025.pdf-0014-00.png)
+
+**[Image: May2025.pdf-0014-00.png (2000x1125, 652.9KB)]**
+
+
+<!-- Start of picture text -->
+Arrow Greentech In A  Snapshot…<br>Largest Manufacturer of<br>Water Soluble Films in India<br>Caters to<br>the Niche Market<br>Vastly Experienced<br>Research & Development Team<br>State of the Art 27 registered patents<br>Manufacturing Facility  located  across the globe<br>in Ankleshwar, Gujarat<br>13<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0015-00.png)
+
+**[Image: May2025.pdf-0015-00.png (2000x1125, 514.7KB)]**
+
+
+<!-- Start of picture text -->
+Corporate Structure<br>Arrow Greentech Limited<br>India<br>100% 100% 100% 51%<br>Arrow Green Technologies Arrow Secure Technology  Avery Pharmaceuticals Pvt.  LQ Arrow Security Products<br>(UK) Ltd. Pvt. Ltd. (India) Ltd. (India) (India) Pvt. Ltd.<br>95% 100% 46% 49%<br>Advance IP Technologies  Advance Secure Products  SP Arrow Bio-polymer  Sphere Bio-polymer Pvt.<br>Limited (UK)  B.V. Netherlands  Products Pvt. Ltd. (India) Ltd. (India)*<br>* - Applied for closing of company<br>14<br><!-- End of picture text -->
+
+## Business Overview 
+
+
+![](images/May2025.pdf-0016-01.png)
+
+**[Image: May2025.pdf-0016-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0016-02.png)
+
+**[Image: May2025.pdf-0016-02.png (459x413, 178.4KB)]**
+
+
+
+![](images/May2025.pdf-0016-03.png)
+
+**[Image: May2025.pdf-0016-03.png (262x222, 93.7KB)]**
+
+
+###### **Water Soluble Films** 
+
+###### **Other** 
+
+The other segments include Klenz Pro and BioPlast. 
+
+Development, Production & Marketing of Wide Range of Water Soluble Films 
+
+- › **KlenzPro:** The most concentrated range of hygiene products which are supplied in watersoluble capsules, without generating plastic waste 
+
+
+![](images/May2025.pdf-0016-09.png)
+
+**[Image: May2025.pdf-0016-09.png (450x248, 157.4KB)]**
+
+
+- › **Bioplast:** The bio-compostable film is an ecofriendly alternative to replace single-use plastic for our future generations 
+
+###### **Intellectual Property** 
+
+###### **Avery Pharma** 
+
+Total of 27 granted patents across the World across all key business verticals of paper and packing industry, Security products, Health, Hygiene & Food and Printing & PSA Materials 
+
+A 100% wholly-owned subsidiary of Arrow Greentech Limited, the company is committed to the cause of enhancing patient outcomes with a novel approach to oral drug administration, via its Mouth Dissolving Strips (MDS) 
+
+###### **Security Products** 
+
+Security products include Anti-counterfeit security thread for high security papers, brand protection technologies etc. 
+
+
+![](images/May2025.pdf-0016-17.png)
+
+**[Image: May2025.pdf-0016-17.png (1885x206, 2.7KB)]**
+
+
+**15** 
+
+
+![](images/May2025.pdf-0017-00.png)
+
+**[Image: May2025.pdf-0017-00.png (1078x1125, 1258.0KB)]**
+
+
+
+![](images/May2025.pdf-0017-01.png)
+
+**[Image: May2025.pdf-0017-01.png (276x121, 19.8KB)]**
+
+
+
+![](images/May2025.pdf-0017-02.png)
+
+**[Image: May2025.pdf-0017-02.png (265x59, 8.7KB)]**
+
+
+# WATER SOLUBLE FILM (WSF) 
+
+## What Is Water Soluble Film (WSF)? 
+
+
+![](images/May2025.pdf-0018-01.png)
+
+**[Image: May2025.pdf-0018-01.png (203x89, 13.1KB)]**
+
+
+#### **<mark>Applications of WSF</mark>** 
+
+Packaging material that is environmentally safe & fully biodegradable when disposed in water. 
+
+Arrow manufactures water-soluble PVA / PVOH (Poly Vinyl Alcohol) film by solution casting. Casting machines are custom-built to suit the customer’s requirements best 
+
+**Properties of WSF** Optimum Tensile Strength Excellent Moisture/Heat Sealing Flexibility for using in multiple Eco-friendly forms of packaging 
+
+**Watersol is the trademark product of Arrow Greentech Ltd.** 
+
+**Eco Friendly Packaging Industrial Printing** (Agrochem **Consumables** (Hydrographic / Packaging, Detergent (Mould release, Hydro dipping) Packaging, other Embroidery, etc.) Primary Packaging) **Other Applications Protective** (Battery separator, **Laundry Bags Packaging Film** active embedded film, anti counterfeit film) **RM** PVA + Other Additives **Process** Batching - Casting - Slitting - PVA film **Value Addition** Embossing – Printing 
+
+**17** 
+
+## Features 
+
+
+![](images/May2025.pdf-0019-01.png)
+
+**[Image: May2025.pdf-0019-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0019-02.png)
+
+**[Image: May2025.pdf-0019-02.png (1971x980, 1528.5KB)]**
+
+
+<!-- Start of picture text -->
+01 02<br>Optimum tensile strength to handle weight  Excellent moisture/ heat sealing for blocks,<br>from 10 grams to 10 kg.  bars, powder, and granular product<br>packaging.<br>03 04<br>Helps achieve an Accurate dosing system. Optimum tear strength.<br>05 06<br>Flexible for machine automation. Non-toxic and safe for the environment.<br>07 08<br>High puncture resistance. Excellent organic solvent resistance.<br>18<br><!-- End of picture text -->
+
+## Use Of Water-soluble Film 
+
+**Cement / Dye Enzyme Film** 
+
+**Toilet Cleaning Blocks** 
+
+
+![](images/May2025.pdf-0020-03.png)
+
+**[Image: May2025.pdf-0020-03.png (169x169, 59.3KB)]**
+
+
+
+![](images/May2025.pdf-0020-04.png)
+
+**[Image: May2025.pdf-0020-04.png (170x169, 60.8KB)]**
+
+
+
+![](images/May2025.pdf-0020-05.png)
+
+**[Image: May2025.pdf-0020-05.png (170x169, 49.0KB)]**
+
+
+
+![](images/May2025.pdf-0020-06.png)
+
+**[Image: May2025.pdf-0020-06.png (169x169, 61.7KB)]**
+
+
+**Infection Control Laundry Bags** 
+
+**Dishwasher Tablet** 
+
+**Laundry Bags** 
+
+**Liquid Detergents** 
+
+
+![](images/May2025.pdf-0020-11.png)
+
+**[Image: May2025.pdf-0020-11.png (168x169, 48.4KB)]**
+
+
+
+![](images/May2025.pdf-0020-12.png)
+
+**[Image: May2025.pdf-0020-12.png (168x169, 50.4KB)]**
+
+
+
+![](images/May2025.pdf-0020-13.png)
+
+**[Image: May2025.pdf-0020-13.png (168x169, 50.2KB)]**
+
+
+**Embroidery Backing Sheet** 
+
+
+![](images/May2025.pdf-0020-15.png)
+
+**[Image: May2025.pdf-0020-15.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0020-16.png)
+
+**[Image: May2025.pdf-0020-16.png (170x169, 48.9KB)]**
+
+
+**Agrochemical Film** 
+
+**19** 
+
+## Water Soluble Films (WSF) Industry Snapshot 
+
+The growing packaging industry, rising demand for small or unit dose packs for household items and increasing concerns for protecting industrial workers from direct contact with hazardous materials are some of the key factors driving the market. 
+
+WSF Market size  is expected to reach $517mn by 2028 at CAGR of 
+
+Based on End-use, the Packaging is expected to register a CAGR of 
+
+**5.7%** 
+
+**8.3%** 
+
+
+![](images/May2025.pdf-0021-06.png)
+
+**[Image: May2025.pdf-0021-06.png (203x89, 13.1KB)]**
+
+
+. 
+
+
+![](images/May2025.pdf-0021-08.png)
+
+**[Image: May2025.pdf-0021-08.png (336x259, 15.1KB)]**
+
+
+
+![](images/May2025.pdf-0021-09.png)
+
+**[Image: May2025.pdf-0021-09.png (337x257, 13.9KB)]**
+
+
+
+![](images/May2025.pdf-0021-10.png)
+
+**[Image: May2025.pdf-0021-10.png (337x257, 18.6KB)]**
+
+
+
+![](images/May2025.pdf-0021-11.png)
+
+**[Image: May2025.pdf-0021-11.png (336x257, 16.5KB)]**
+
+
+
+![](images/May2025.pdf-0021-12.png)
+
+**[Image: May2025.pdf-0021-12.png (355x257, 14.9KB)]**
+
+
+
+![](images/May2025.pdf-0021-13.png)
+
+**[Image: May2025.pdf-0021-13.png (336x257, 17.9KB)]**
+
+
+**~40%** 
+
+The market was valued at **USD 390 mn** in 2023 
+
+The market is FRAGMENTED with many players accounting for majority market revenue share 
+
+of global market revenue was accounted for by Asia Pacific in 2022 
+
+**20** 
+
+## State Of The Art Manufacturing Facilities 
+
+
+![](images/May2025.pdf-0022-01.png)
+
+**[Image: May2025.pdf-0022-01.png (203x89, 13.1KB)]**
+
+
+#### **ANKLESHWAR, GUJARAT** 
+
+
+![](images/May2025.pdf-0022-03.png)
+
+**[Image: May2025.pdf-0022-03.png (1885x206, 285.2KB)]**
+
+
+**21** 
+
+## Global Presence 
+
+
+![](images/May2025.pdf-0023-01.png)
+
+**[Image: May2025.pdf-0023-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0023-02.png)
+
+**[Image: May2025.pdf-0023-02.png (178x41, 5.4KB)]**
+
+
+- Presence in Europe, Asia, North & South America and Africa – mainly 3 supply points located in India, United Kingdom and South America 
+
+- Wide Distribution channel to service our clients from around the world 
+
+
+![](images/May2025.pdf-0023-05.png)
+
+**[Image: May2025.pdf-0023-05.png (663x347, 33.8KB)]**
+
+
+
+![](images/May2025.pdf-0023-06.png)
+
+**[Image: May2025.pdf-0023-06.png (249x279, 16.7KB)]**
+
+
+
+![](images/May2025.pdf-0023-07.png)
+
+**[Image: May2025.pdf-0023-07.png (561x272, 21.1KB)]**
+
+
+
+![](images/May2025.pdf-0023-08.png)
+
+**[Image: May2025.pdf-0023-08.png (1007x64, 17.4KB)]**
+
+
+<!-- Start of picture text -->
+Factory Warehousing Facility  Supply Zones Direct Supply Secondary Supply<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0023-09.png)
+
+**[Image: May2025.pdf-0023-09.png (63x43, 3.9KB)]**
+
+
+**22** 
+
+
+![](images/May2025.pdf-0024-00.png)
+
+**[Image: May2025.pdf-0024-00.png (830x596, 30.9KB)]**
+
+
+# SECURITY PRODUCTS 
+
+
+![](images/May2025.pdf-0024-02.png)
+
+**[Image: May2025.pdf-0024-02.png (1078x1125, 762.4KB)]**
+
+
+## Security Products 
+
+
+![](images/May2025.pdf-0025-01.png)
+
+**[Image: May2025.pdf-0025-01.png (76x76, 3.4KB)]**
+
+
+<!-- Start of picture text -->
+04<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0025-02.png)
+
+**[Image: May2025.pdf-0025-02.png (130x128, 7.3KB)]**
+
+
+<!-- Start of picture text -->
+05<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0025-03.png)
+
+**[Image: May2025.pdf-0025-03.png (522x388, 81.6KB)]**
+
+
+<!-- Start of picture text -->
+Supplier to leading<br>03<br>paper mills<br>02<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0025-04.png)
+
+**[Image: May2025.pdf-0025-04.png (68x68, 3.8KB)]**
+
+
+
+![](images/May2025.pdf-0025-05.png)
+
+**[Image: May2025.pdf-0025-05.png (75x78, 6.0KB)]**
+
+
+
+![](images/May2025.pdf-0025-06.png)
+
+**[Image: May2025.pdf-0025-06.png (284x283, 108.5KB)]**
+
+
+
+![](images/May2025.pdf-0025-07.png)
+
+**[Image: May2025.pdf-0025-07.png (70x69, 4.5KB)]**
+
+
+
+![](images/May2025.pdf-0025-08.png)
+
+**[Image: May2025.pdf-0025-08.png (380x302, 56.5KB)]**
+
+
+<!-- Start of picture text -->
+01<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0025-09.png)
+
+**[Image: May2025.pdf-0025-09.png (63x64, 3.9KB)]**
+
+
+
+![](images/May2025.pdf-0025-10.png)
+
+**[Image: May2025.pdf-0025-10.png (130x130, 8.9KB)]**
+
+
+<!-- Start of picture text -->
+06<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0025-11.png)
+
+**[Image: May2025.pdf-0025-11.png (130x130, 7.7KB)]**
+
+
+<!-- Start of picture text -->
+07<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0025-12.png)
+
+**[Image: May2025.pdf-0025-12.png (203x89, 13.1KB)]**
+
+
+**24** 
+
+
+![](images/May2025.pdf-0026-00.png)
+
+**[Image: May2025.pdf-0026-00.png (830x596, 30.9KB)]**
+
+
+# INTELLECTUAL PROPERTY 
+
+
+![](images/May2025.pdf-0026-02.png)
+
+**[Image: May2025.pdf-0026-02.png (1078x1125, 1147.8KB)]**
+
+
+## Intellectual Property 
+
+
+![](images/May2025.pdf-0027-01.png)
+
+**[Image: May2025.pdf-0027-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0027-02.png)
+
+**[Image: May2025.pdf-0027-02.png (1916x895, 118.0KB)]**
+
+
+<!-- Start of picture text -->
+01 02 03 04<br>27 Patents granted across Globe  Our inhouse R&D and IP team is  Monetization  of  key  patents  Patent filed in the area of<br>including the India, UK, USA,  continuously working on new  through out-licensing of patents  security  products,  brand<br>South Africa, Europe and Eurasia  innovation and patents and  production  of  patented  protection,  security  papers,<br>products security films, self adhesive<br>material,  healthcare,  bio-<br>compostable material etc.<br>05 06 07 08<br>State of Art R&D Lab and IP cell  Innovation is focused on green  30 Indian patent applications and  40  registered  trademark  in<br>in Mumbai and high-tech products 13 foreign patent applications  India.<br>under process covering various<br>sectors and  geographies.<br><!-- End of picture text -->
+
+**26** 
+
+## Arrow’s Intellectual Property 
+
+
+![](images/May2025.pdf-0028-01.png)
+
+**[Image: May2025.pdf-0028-01.png (203x89, 13.1KB)]**
+
+
+###### **<mark>Granted Patents</mark>** 
+
+Arrow Greentech Limited at present has 27 granted patents globally covering the territories of – India, UK, USA, South Africa, Europe and Eurasia 
+
+###### **<mark>Patent Applications</mark>** 
+
+Arrow Greentech Limited also has 30 Indian patent applications and 13 foreign patent applications under process covering various sectors, through mainly covering Water-Soluble Films and Security Section 
+
+###### **<mark>Trademarks</mark>** 
+
+Arrow Greentech Limited has 40 in-force registered Trademarks along with 8 Trademark application currently under processing 
+
+###### **<mark>Group 1 – Paper and Packing Industry</mark>** 
+
+|**Cold Water**<br>**Soluble**<br>**Film**|**High strength**<br>**process of m**|**paper and**<br>**anufacture**|**High security**<br>**process of m**|**paper and**<br>**anufacture**|**Self d**|**estructive irrever**|**sible security pack**|**aging film**|**Method of pro**<br>**security fil**<br>**security film**<br>**the said**|**ducing  a high**<br>**m and high**<br>**produced by**<br>**method**|**Bio-Compostable**<br>**Multi-Layered composite**<br>**and methods of manufacturing the**<br>**Same**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**India**<br>(20.02.24)|**United States**<br>(22.11.11)|**Europe**<br>(23.08.17)|**Europe**<br>(13.09.17)|**India**<br>(03.01.18)|**India**<br>(21.01.09)|**Eurasia**<br>(30.12.09)|**Europe**<br>(05.05.10)|**United States**<br>(23.08.2016)<br>(Div) (07.12.21)|**Europe**<br>(15.08.12)|**India**<br>(31.10.18)|**India**<br>(10.01.24)|
+
+
+
+###### **<mark>Group 2 – Packaging Industry</mark>** 
+
+|**Improved Water**<br>**Soluble Film and**<br>**method of making**<br>**the same**|**Cold Water Soluble Film**|**High strength**<br>**process of m**|**paper and**<br>**anufacture**|**Self des**|**tructive irreversibl**|**e security packa**|**ging film**|**Bio-Compostable**<br>**Multi-Layered composite**<br>**and methods of manufacturing**<br>**them**|**Edible water soluble packaging**<br>**film and package made out of**<br>**the said film**|
+|---|---|---|---|---|---|---|---|---|---|
+|**India**<br>(12.12.23)|**India**<br>(20.02.24)|**United States**<br>(22.11.11)|**Europe**<br>(23.08.17)|**India**<br>(21.01.09)|**Eurasia**<br>(30.12.09)|**Europe**<br>**(**05.05.10)|**United States**<br>**(**23.08.16)<br>(Div) (07.12.21)|**India**<br>(10.01.24)|**India**<br>(05.06.12)|
+
+
+
+**27** 
+
+## Arrow’s Intellectual Property 
+
+
+![](images/May2025.pdf-0029-01.png)
+
+**[Image: May2025.pdf-0029-01.png (203x89, 13.1KB)]**
+
+
+###### **<mark>Group 3 – Security Products</mark>** 
+
+|**Security**<br>**Laminates**|**High security pap**<br>**manuf**|**er and process of**<br>**acture**|**S**|**elf destructive irreversibl**|**e security packaging fil**|**m**|**Method of pro**<br>**security film and**<br>**produced by th**|**ducing  a high**<br>**high security film**<br>**e said method**|**Security Yarn**|**Dual  Color Shift**<br>**Security Film**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||||||**United States**|||||
+|**UK**<br>(24.01.24)|**Europe**<br>(13.09.17)|**India**<br>(03.01.18)|**India**<br>(21.01.09)|**Eurasia**<br>(30.12.09)|**Europe**<br>(05.05.10)|(23.08.16)<br>(Div) (07.12.21)|**Europe**<br>(15.08.12)|**India**<br>(31.10.18)|**India**<br>(08.09.23)|**United States**<br>(14.01.25)|
+
+
+
+###### **<mark>Group 4 – Health, Hygiene & Food</mark>** 
+
+|**Improved Water Soluble Film**<br>**and method of making the same**|**Cold Water Soluble Film**|**Medicated Bands**|**Edible water soluble**<br>**packaging film and package**<br>**made out of the said film**|**A water solu**<br>**samples**|**ble film based matri**<br>**extracted from livin**|**x to contain**<br>**g species**|**A Cleaning Device with**<br>**Sustained Release of Actives**|
+|---|---|---|---|---|---|---|---|
+|**India**|**India**|**India**|**India**|**India**|**Europe**|**USA**|**India**|
+|(12.12.23)|(20.02.24)|(13.05.24)|(05.06.12)|(27.03.12)|(24.07.13)|(18.03.14)|(01.02.23)|
+
+
+
+###### **<mark>Group 5 – Printing and PSA Materials</mark>** 
+
+**New Improved Self adhesive materials with a water Self Adhesive Wall Paper with Reduced Adhesive Material and soluble films Self adhesive materials with a water soluble protective layer Water Soluble Film India South Africa United States India** (30.10.23) (1.12.08) (09.11.10) (16.03.23) 
+
+**28** 
+
+## Key Granted Patents across the Globe 
+
+
+![](images/May2025.pdf-0030-01.png)
+
+**[Image: May2025.pdf-0030-01.png (203x89, 13.1KB)]**
+
+
+|**Health**|**Hygiene**|**Packaging**|**Security**|**Printing**|**Self-Adhesive**|
+|---|---|---|---|---|---|
+|`o` Mouth Melting strips,<br>Gel strips, Enzyme<br>strips<br>`o` Vitamins, Drugs,<br>Medicine,<br>Disinfectants and<br>other Pharma<br>ingredients<br>`o` For clinical setting like<br>blood, serum, urine<br>testing etc.|`o` Used to add Active<br>ingredients of<br>Detergents,<br>Softeners, Cleaning<br>Laundry, Dishes,<br>Floorings, Walls,<br>Furnitures and other<br>cleaning agents that<br>are retained and<br>remained intact for a<br>longer time|`o` Used in agronutrients<br>such as fertilizers,<br>urea, agrochemicals<br>etc.<br>`o` Used for packaging<br>for food products,<br>liquid cement,<br>shopping bags etc. or<br>other biodegrable<br>material|`o` Used in making<br>security labels or<br>secure packaging of<br>the products for<br>identification<br>`o` Used in<br>manufacturing of<br>security documents<br>such as cheques,<br>bank notes, passport<br>papers etc.|`o` Used for printing<br>fabrics, net or<br>perforated cloth<br>`o` Used for printing<br>paper, vinyl<br>`o` Used in printing of<br>hoardings, one-way<br>vision films|`o` Used in making labels<br>for product<br>identification and/or<br>advertising etc.|
+
+
+
+**29** 
+
+## Key Granted Patents across the Globe 
+
+
+![](images/May2025.pdf-0031-01.png)
+
+**[Image: May2025.pdf-0031-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0031-02.png)
+
+**[Image: May2025.pdf-0031-02.png (1887x962, 103.0KB)]**
+
+
+<!-- Start of picture text -->
+1<br>5<br>1<br>6 UK<br>Europe<br>Eurasia<br>USA<br>13<br>India<br>1<br>South Africa<br>Patents Granted<br><!-- End of picture text -->
+
+**30** 
+
+
+![](images/May2025.pdf-0032-00.png)
+
+**[Image: May2025.pdf-0032-00.png (830x596, 30.9KB)]**
+
+
+# Mouth Dissolving Strip 
+
+
+![](images/May2025.pdf-0032-02.png)
+
+**[Image: May2025.pdf-0032-02.png (1163x1125, 641.8KB)]**
+
+
+## Arrow RX 
+
+
+![](images/May2025.pdf-0033-01.png)
+
+**[Image: May2025.pdf-0033-01.png (149x134, 5.3KB)]**
+
+
+<!-- Start of picture text -->
+01<br><!-- End of picture text -->
+
+Avery Pharmaceuticals Pvt Ltd is 100% Subsidiary company of Arrow Greentech Limited 
+
+
+![](images/May2025.pdf-0033-03.png)
+
+**[Image: May2025.pdf-0033-03.png (149x135, 5.4KB)]**
+
+
+<!-- Start of picture text -->
+02<br><!-- End of picture text -->
+
+Manufacturing of Mouth Dissolving Strips (Pharmaceuticals & Nutraceuticals) 
+
+
+![](images/May2025.pdf-0033-05.png)
+
+**[Image: May2025.pdf-0033-05.png (149x134, 5.5KB)]**
+
+
+<!-- Start of picture text -->
+03<br><!-- End of picture text -->
+
+WHO GMP approved manufacturing facility with state of art plant & machinery and in-house product development center in Sanand (Gujarat) 
+
+
+![](images/May2025.pdf-0033-07.png)
+
+**[Image: May2025.pdf-0033-07.png (149x138, 5.5KB)]**
+
+
+<!-- Start of picture text -->
+04<br><!-- End of picture text -->
+
+Product Approval from Food and Drug Controller Administration (FDCA) and Central FSSAI License received for approx. 50 products including new products i.e. Sildenafil, Ondansetron, Amoldipine, Vitamin D3, Vitamin B12, Vitamin K2, Vitamin B3, Folic Acid, Iron, Zinc strips, Nicotine, Curcumin+Piperine etc. 
+
+
+![](images/May2025.pdf-0033-09.png)
+
+**[Image: May2025.pdf-0033-09.png (149x139, 5.7KB)]**
+
+
+<!-- Start of picture text -->
+05<br><!-- End of picture text -->
+
+Who-GMP, FSSAI, GLP, ISO 9001 and ISO 22000 certified facility 
+
+
+![](images/May2025.pdf-0033-11.png)
+
+**[Image: May2025.pdf-0033-11.png (149x134, 5.8KB)]**
+
+
+<!-- Start of picture text -->
+06<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0033-12.png)
+
+**[Image: May2025.pdf-0033-12.png (149x139, 5.5KB)]**
+
+
+<!-- Start of picture text -->
+07<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0033-13.png)
+
+**[Image: May2025.pdf-0033-13.png (149x138, 5.7KB)]**
+
+
+<!-- Start of picture text -->
+08<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0033-14.png)
+
+**[Image: May2025.pdf-0033-14.png (149x138, 5.6KB)]**
+
+
+<!-- Start of picture text -->
+09<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0033-15.png)
+
+**[Image: May2025.pdf-0033-15.png (149x139, 5.5KB)]**
+
+
+<!-- Start of picture text -->
+10<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0033-16.png)
+
+**[Image: May2025.pdf-0033-16.png (203x89, 13.1KB)]**
+
+
+Expertise from parent company on casting of film and embedding various APIs in Lingual,Sub- Lingual and Buccal 
+
+Commercial production began in August 2022 
+
+Long-term contract signed with big MNC company for export markets 
+
+In discussion with various domestic and international companies for long-term supply contract 
+
+The company is undertaking CDMO project (Contract Development and Manufacturing Organization) 
+
+**32** 
+
+## Product Development & Approvals 
+
+
+![](images/May2025.pdf-0034-01.png)
+
+**[Image: May2025.pdf-0034-01.png (203x89, 13.1KB)]**
+
+
+#### **<mark>List of FASSAI Products</mark>** 
+
+|**Sr. No.**|**Name of Approved Products**|**Category**|**Sr. No.**|**Name of Approved Products**|**Category**|
+|---|---|---|---|---|---|
+|1|Vitamin B12 (Cyanocobalamin) 1500 mcg Mouth Dissolving Strip|Nutraceuticals|28|Lutein + Zeaxanthin (10 mg + 2 mg) Mouth Dissolving Strip|Nutraceuticals|
+|2|Food Grade Edible Film for Packaging|Nutraceuticals|29<br>|Curcumin 50 mgMouth DissolvingStrip<br>|Nutraceuticals<br>|
+|3|Vitamin D3 800 IU Mouth Dissolving Strip|Nutraceuticals|30<br>|Astaxanthin 4 mgMouth DissolvingStrip<br>|Nutraceuticals<br>|
+|4|Vitamin D3 + K2 + Calcium (1000 IU + 9 mcg + 90 mg) Mouth Dissolving Strip|Nutraceuticals|31<br>32|Curcumin 100 mgMouth DissolvingStrip<br>Clove Oil 8 mgMouth DissolvingStrip|Nutraceuticals<br>Nutraceuticals|
+|5|Natural Probiotics Strips 5  BCFU Mouth Dissolving Strip|Nutraceuticals|33|HempMouth DissolvingStrip0.3% w/w|Nutraceuticals|
+|6|Folic Acid 400 mcg Mouth Dissolving Strip|Nutraceuticals|34|Melatonin and Valerian (10 mg + 3 mg) Mouth Dissolving Strip|Nutraceuticals|
+|7|Caffeine + Vitamin B12 + Ginkgo (15 mg + 4 mg + 3 mg) Mouth Dissolving Strip|Nutraceuticals|35|Melatonin 10 mg, HOPS 4 mg and Valerian Root 3 mg Mouth Dissolving<br>Strips|Nutraceuticals|
+|8|Hangover Mouth Dissolving Strip|Nutraceuticals|36|Echinacea Purpuria & Honey Propolis (100 mg + 5 mg) Mouth Dissolving<br>Strips|Nutraceuticals|
+|9|L-Methyl Folate 1 mg Mouth Dissolving Strip|Nutraceuticals|37|L-Arginine & Caffeine (10 mg + 25 mg) Mouth Dissolving Strips|Nutraceuticals|
+|10|Vitamin D3 + K2 (2000 IU +15 mcg) Mouth Dissolving Strip|Nutraceuticals|38|Vitamin D3 400 IU Mouth Dissolving Strip (Health Supplements)|Nutraceuticals|
+|11|Vitamin K2 200 mcg Mouth Dissolving Strip|Nutraceuticals|39|Vitamin D3 600 IU Mouth Dissolving Strip (Health Supplements)|Nutraceuticals|
+|12|Folic Acid 500 mcg Mouth Dissolving Strip|Nutraceuticals||Iron 17 mg Mouth Dissolving Strips (Nutraceutical)|Nutraceuticals|
+|13|Astaxanthin 5 mg Mouth Dissolving Strip|Nutraceuticals|40|||
+|14|Vitamin D3 1000 IU Mouth Dissolving Strip|Nutraceuticals|41|Vitamin C 50 mg Mouth Dissolving Strip (Health Supplement)|Nutraceuticals|
+|15|Astaxanthin 10 mg Mouth Dissolving Strip|Nutraceuticals|42|Vitamin C 40 mg Mouth Dissolving Strip (Health Supplement)<br>|Nutraceuticals|
+|16|Vitamin D3 2000 IU Mouth Dissolving Strip|Nutraceuticals|43|Vitamin C + Zinc + Vitamin D3 (40 mg + 10 mg + 400 IU) Mouth<br>DissolvingStrip|Nutraceuticals|
+|17|Vitamin B12 (Cyanocobalamin) 500 mcg Mouth Dissolving Strip|Nutraceuticals|44|Vitamin B3 (Nicotinamide) 14 mg Mouth Dissolving Strip (Health<br>Supplement)|Nutraceuticals|
+|18|Vitamin B-Complex Mouth Dissolving Strip|Nutraceuticals|45|Vitamin B3 (Niacin) 14 mg Mouth Dissolving Strip (Health Supplement)<br>|Nutraceuticals|
+|||||Vitamin C + Zinc (40 mg + 10 mg) Mouth Dissolving Strip (Health||
+|19|Vitamin B12 (Cyanocobalamin) 1000 mcg Mouth Dissolving Strip|Nutraceuticals|46|Supplement)|Nutraceuticals|
+|20|Ashwagandha 50 mg Mouth Dissolving Strip|Nutraceuticals|47|Vitamin K2 55 mcg Mouth Dissolving Strips (Health Supplement)<br>Vitamin D3 + K2 (400 IU + 55 mc) Mouth Dissolvin Stri (Health|Nutraceuticals|
+|21|Ashwagandha 100 mg Mouth Dissolving Strip|Nutraceuticals|48|g  g p<br>Supplement)|Nutraceuticals|
+|22|Curcumin + Piperine (45 mg + 5 mg) Mouth Dissolving Strip|Nutraceuticals|49|Zinc Picolinate 10 mg Mouth Dissolving Strip (Nutraceutical)|Nutraceuticals|
+|23|Melatonin 0.5 mg Mouth Dissolving Strips|Nutraceuticals|50|Caffeine 50 mg Mouth Dissolving Strips (Health Supplements)|Nutraceuticals|
+|24|Melatonin 1 mg Mouth Dissolving Strips|Nutraceuticals|51|Lactoferrin 5 mg Mouth Dissolving Strips (Health Supplements)|Nutraceuticals|
+|25|Melatonin 3 mg Mouth Dissolving Strips|Nutraceuticals|52|Lactoferrin 10 mg Mouth Dissolving Strips (Health Supplements)|Nutraceuticals|
+|26|Melatonin 5 mg Mouth Dissolving Strips|Nutraceuticals||Immune Booster Mouth Dissolving Strips (Nutraceutical)|Nutraceuticals|
+|27|Melatonin 10 mg Mouth Dissolving Strips|Nutraceuticals|53|||
+||||54|Folic Acid 200 mcg Mouth Dissolving Strips (Health Supplement)|Nutraceuticals|
+
+
+
+**33** 
+
+## Product Development & Approvals 
+
+
+![](images/May2025.pdf-0035-01.png)
+
+**[Image: May2025.pdf-0035-01.png (203x89, 13.1KB)]**
+
+
+#### **<mark>List of RX Approved Products</mark>** 
+
+|**SR No**|**Name of Product**|**Strength**|**Grade**|
+|---|---|---|---|
+|1|Sildenafil Citrate|25 mg|IP|
+|2|Sildenafil Citrate|50 mg|IP|
+|3|Ondensentron Hydrochloride Dihydrate|4 mg|IP|
+|4|Ondansetron Hydrochloride Dihydrate|8 mg|IP|
+|5|Amlodipine Besylate|5 mg|IP|
+|6|Amlodipine Besylate|10 mg|IP|
+|7|Sildenafil Citrate|25 mg|USP|
+|8|Sildenafil Citrate|50 mg|USP|
+|9|Ondansetron Hydrochloride Dihydrate|4 mg|USP|
+|10|Ondansetron Hydrochloride Dihydrate|8 mg|USP|
+|11|Vitamin D3 (Cholecalciferol)|2000 IU|IP|
+|12|Vitamin B12 (Methylcobalamin)|1500 mcg|IP|
+|13|Eliglustat Sublingual Film|12/16/20/24 mg|IH|
+|14|Tadalafil|10/20 mg|USP|
+|15|Nicotine Polacrilex|2/4 mg|USP|
+
+
+
+
+![](images/May2025.pdf-0035-04.png)
+
+**[Image: May2025.pdf-0035-04.png (276x93, 12.4KB)]**
+
+
+Dedication To Innovation 
+
+- Various other products are under development or approval phase 
+
+- Inhouse product development team is continuously working on new development and innovation and New drug application projects 
+
+**34** 
+
+## Arrow RX 
+
+
+![](images/May2025.pdf-0036-01.png)
+
+**[Image: May2025.pdf-0036-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0036-02.png)
+
+**[Image: May2025.pdf-0036-02.png (278x93, 12.3KB)]**
+
+
+Dedication To Innovation 
+
+
+![](images/May2025.pdf-0036-04.png)
+
+**[Image: May2025.pdf-0036-04.png (238x230, 63.6KB)]**
+
+
+###### **MDS**<sup>**TM**</sup> **Films – NDDS** 
+
+- Mouth Dissolving Strips (MDS) - Thin Films loaded with Actives for Drug Delivery 
+
+- Taken Orally and melts instantaneously in the mouth when placed on or under the tongue 
+
+- The active substance enters the bloodstream directly via the oral mucosa without having to pass through the gastrointestinal tract 
+
+- Achieve highest loading of active ingredient into mouth dissolving film successfully 
+
+
+![](images/May2025.pdf-0036-10.png)
+
+**[Image: May2025.pdf-0036-10.png (238x230, 77.3KB)]**
+
+
+###### **Novel Drug Delivery Device -NDDD** 
+
+- NDDD contains Actives embedded within and/or coated upon Water Soluble or Water Dispersible Polymers 
+
+- The active ingredients are released at a precise – controlled rate from a readily soluble polymer into an aqueous environment through one or more perforated bio-digestible films, post which DDD dissolves  overtime and is bio absorbed over time 
+
+
+![](images/May2025.pdf-0036-14.png)
+
+**[Image: May2025.pdf-0036-14.png (1887x283, 132.0KB)]**
+
+
+<!-- Start of picture text -->
+RX Matrix<br>• Novel system of collecting and storing blood samples, urine samples, serum samples or any other type of samples extracted from living species to avoid cross<br>infection or spillage of the samples<br>• It eliminates the problem of disposal of used containers<br>•  Non contaminating container for collecting liquid and semi solid bio waste<br><!-- End of picture text -->
+
+**35** 
+
+## Arrow RX 
+
+
+![](images/May2025.pdf-0037-01.png)
+
+**[Image: May2025.pdf-0037-01.png (203x89, 13.1KB)]**
+
+
+
+![](images/May2025.pdf-0037-02.png)
+
+**[Image: May2025.pdf-0037-02.png (278x93, 12.3KB)]**
+
+
+Dedication To Innovation 
+
+#### **<mark>Why Arrow MDS</mark>** 
+
+- Granted Patent for Actives Embedded Water Soluble film (WSF). 
+
+- One or more actives can be embedded or entrapped at selected concentrations and dispositions therein such that the material embedded can be delivered at precise and selected dosages to the point of application 
+
+   - Quick disintegration on contact with saliva. 
+
+   - Customizing MDS as lingual, sublingual & Buccal. 
+
+   - Immediate drug release. 
+
+   - Ensure Precision Dosing. 
+
+   - Increase Bioavailability of drug. 
+
+- Arrow Trade Name – MDS “Mouth Dissolving Strips” 
+
+- Drug gets delivered by three different routes i.e. Lingual, Sublingual and Buccal. The three different route offers benefits of Quick onset of action and sustained release of drug for any of the categories of patients especially, veterinary, psychosomatic, schizophrenic, pediatric and geriatric patients 
+
+- Identified various molecules to be embedded in WSF in first phase 
+
+- Taste masking of bitter drug using patented technology. 
+
+Safer and faster drug  deliverance. 
+
+▪ 
+
+- Enables faster systemic absorption and bypass hepatic metabolism. hence improves bioavailability of drug. 
+
+▪ 
+
+▪ Instant onset of action. 
+
+Longer Shelf life 
+
+▪ 
+
+Reduces side effects as low in chemical combinations. 
+
+▪ 
+
+▪ Can be easily  administered to non-cooperative and difficult patients 
+
+**36** 
+
+
+![](images/May2025.pdf-0038-00.png)
+
+**[Image: May2025.pdf-0038-00.png (830x596, 30.9KB)]**
+
+
+# FINANCIAL OVERVIEW 
+
+
+![](images/May2025.pdf-0038-02.png)
+
+**[Image: May2025.pdf-0038-02.png (1078x1125, 1497.9KB)]**
+
+
+
+![](images/May2025.pdf-0039-00.png)
+
+**[Image: May2025.pdf-0039-00.png (1973x1125, 120.8KB)]**
+
+
+<!-- Start of picture text -->
+FY25 Result Highlights<br>O p eratin g  Revenue ( Rs Mn ) EBITDA(Rs Mn)<br>16% -22% 22% 31% 36%<br>2,434 883<br>+46.8%<br>1,485<br>463<br>1,088<br>235<br>524<br>337 83<br>FY21 FY22 FY23 FY24 FY25 -73<br>FY21 FY22 FY23 FY24 FY25<br>PAT(Rs Mn) Return Ratios   ( % )<br>12% -26% 11% 19% 25%<br>54<br>630 40<br>36<br>26<br>293 21 14<br>9<br>8<br>123<br>68<br>-12<br>-12<br>-93<br>FY21 FY22 FY23 FY24 FY25<br>FY21 FY22 FY23 FY24 FY25<br>ROCE ROE<br>38<br><!-- End of picture text -->
+
+
+![](images/May2025.pdf-0040-00.png)
+
+**[Image: May2025.pdf-0040-00.png (1161x1125, 1314.5KB)]**
+
+
+###### **For further information, please contact:** 
+
+**Company :** 
+
+
+![](images/May2025.pdf-0040-03.png)
+
+**[Image: May2025.pdf-0040-03.png (146x63, 9.1KB)]**
+
+
+**Arrow Greentech Ltd. (BSE: 516064 | NSE: ARROWGREEN)** 
+
+###### **Poonam Bansal** 
+
+Company Secretary & Compliance Officer Email: poonam@arrowgreentech.com 
+
+###### **Investor Relations Advisors :** 
+
+
+![](images/May2025.pdf-0040-08.png)
+
+**[Image: May2025.pdf-0040-08.png (289x68, 6.9KB)]**
+
+
+**MUFG Intime India Private Limited** A part of MUFG Corporate Markets, a division of MUFG Pension & Market Services 
+
+Mr. Bhavya Shah 
+
+Mr. Chirag Bhatiya 
+
++91 80827 48577 
+
++91 81047 78836 
+
+bhavya.shah@in.mpms.mufg.com 
+
+chirag.bhatiya@in.mpms.mufg.com 
+
+Thank You 
+
+
+---
+
+## Extracted Images
+
+| # | File | Dimensions | Size |
+|---|------|------------|------|
+| 1 | May2025.pdf-0001-00.png | 129x123 | 28.0KB |
+| 2 | May2025.pdf-0001-12.png | 119x92 | 20.2KB |
+| 3 | May2025.pdf-0002-00.png | 2000x1125 | 1152.9KB |
+| 4 | May2025.pdf-0003-01.png | 203x89 | 13.1KB |
+| 5 | May2025.pdf-0004-00.png | 1078x1125 | 1499.6KB |
+| 6 | May2025.pdf-0004-01.png | 830x596 | 30.9KB |
+| 7 | May2025.pdf-0005-01.png | 203x89 | 13.1KB |
+| 8 | May2025.pdf-0005-03.png | 420x420 | 182.7KB |
+| 9 | May2025.pdf-0006-02.png | 974x334 | 12.1KB |
+| 10 | May2025.pdf-0006-03.png | 175x24 | 2.3KB |
+| 11 | May2025.pdf-0006-04.png | 942x439 | 14.0KB |
+| 12 | May2025.pdf-0006-05.png | 203x89 | 13.1KB |
+| 13 | May2025.pdf-0006-06.png | 221x24 | 2.8KB |
+| 14 | May2025.pdf-0006-07.png | 912x436 | 14.2KB |
+| 15 | May2025.pdf-0006-09.png | 874x313 | 14.8KB |
+| 16 | May2025.pdf-0007-01.png | 203x89 | 13.1KB |
+| 17 | May2025.pdf-0007-04.png | 1949x905 | 70.0KB |
+| 18 | May2025.pdf-0008-01.png | 203x89 | 13.1KB |
+| 19 | May2025.pdf-0009-02.png | 203x89 | 13.1KB |
+| 20 | May2025.pdf-0010-01.png | 203x89 | 13.1KB |
+| 21 | May2025.pdf-0011-00.png | 830x596 | 30.9KB |
+| 22 | May2025.pdf-0011-02.png | 1078x1125 | 1086.6KB |
+| 23 | May2025.pdf-0012-01.png | 209x286 | 90.3KB |
+| 24 | May2025.pdf-0012-02.png | 208x286 | 102.5KB |
+| 25 | May2025.pdf-0012-03.png | 228x28 | 2.7KB |
+| 26 | May2025.pdf-0012-04.png | 218x67 | 4.7KB |
+| 27 | May2025.pdf-0012-10.png | 209x286 | 92.2KB |
+| 28 | May2025.pdf-0012-13.png | 203x89 | 13.1KB |
+| 29 | May2025.pdf-0013-01.png | 209x286 | 114.3KB |
+| 30 | May2025.pdf-0013-02.png | 208x286 | 75.9KB |
+| 31 | May2025.pdf-0013-10.png | 209x286 | 88.4KB |
+| 32 | May2025.pdf-0013-14.png | 203x89 | 13.1KB |
+| 33 | May2025.pdf-0014-00.png | 2000x1125 | 652.9KB |
+| 34 | May2025.pdf-0015-00.png | 2000x1125 | 514.7KB |
+| 35 | May2025.pdf-0016-01.png | 203x89 | 13.1KB |
+| 36 | May2025.pdf-0016-02.png | 459x413 | 178.4KB |
+| 37 | May2025.pdf-0016-03.png | 262x222 | 93.7KB |
+| 38 | May2025.pdf-0016-09.png | 450x248 | 157.4KB |
+| 39 | May2025.pdf-0016-17.png | 1885x206 | 2.7KB |
+| 40 | May2025.pdf-0017-00.png | 1078x1125 | 1258.0KB |
+| 41 | May2025.pdf-0017-01.png | 276x121 | 19.8KB |
+| 42 | May2025.pdf-0017-02.png | 265x59 | 8.7KB |
+| 43 | May2025.pdf-0018-01.png | 203x89 | 13.1KB |
+| 44 | May2025.pdf-0019-01.png | 203x89 | 13.1KB |
+| 45 | May2025.pdf-0019-02.png | 1971x980 | 1528.5KB |
+| 46 | May2025.pdf-0020-03.png | 169x169 | 59.3KB |
+| 47 | May2025.pdf-0020-04.png | 170x169 | 60.8KB |
+| 48 | May2025.pdf-0020-05.png | 170x169 | 49.0KB |
+| 49 | May2025.pdf-0020-06.png | 169x169 | 61.7KB |
+| 50 | May2025.pdf-0020-11.png | 168x169 | 48.4KB |
+| 51 | May2025.pdf-0020-12.png | 168x169 | 50.4KB |
+| 52 | May2025.pdf-0020-13.png | 168x169 | 50.2KB |
+| 53 | May2025.pdf-0020-15.png | 203x89 | 13.1KB |
+| 54 | May2025.pdf-0020-16.png | 170x169 | 48.9KB |
+| 55 | May2025.pdf-0021-06.png | 203x89 | 13.1KB |
+| 56 | May2025.pdf-0021-08.png | 336x259 | 15.1KB |
+| 57 | May2025.pdf-0021-09.png | 337x257 | 13.9KB |
+| 58 | May2025.pdf-0021-10.png | 337x257 | 18.6KB |
+| 59 | May2025.pdf-0021-11.png | 336x257 | 16.5KB |
+| 60 | May2025.pdf-0021-12.png | 355x257 | 14.9KB |
+| 61 | May2025.pdf-0021-13.png | 336x257 | 17.9KB |
+| 62 | May2025.pdf-0022-01.png | 203x89 | 13.1KB |
+| 63 | May2025.pdf-0022-03.png | 1885x206 | 285.2KB |
+| 64 | May2025.pdf-0023-01.png | 203x89 | 13.1KB |
+| 65 | May2025.pdf-0023-02.png | 178x41 | 5.4KB |
+| 66 | May2025.pdf-0023-05.png | 663x347 | 33.8KB |
+| 67 | May2025.pdf-0023-06.png | 249x279 | 16.7KB |
+| 68 | May2025.pdf-0023-07.png | 561x272 | 21.1KB |
+| 69 | May2025.pdf-0023-08.png | 1007x64 | 17.4KB |
+| 70 | May2025.pdf-0023-09.png | 63x43 | 3.9KB |
+| 71 | May2025.pdf-0024-00.png | 830x596 | 30.9KB |
+| 72 | May2025.pdf-0024-02.png | 1078x1125 | 762.4KB |
+| 73 | May2025.pdf-0025-01.png | 76x76 | 3.4KB |
+| 74 | May2025.pdf-0025-02.png | 130x128 | 7.3KB |
+| 75 | May2025.pdf-0025-03.png | 522x388 | 81.6KB |
+| 76 | May2025.pdf-0025-04.png | 68x68 | 3.8KB |
+| 77 | May2025.pdf-0025-05.png | 75x78 | 6.0KB |
+| 78 | May2025.pdf-0025-06.png | 284x283 | 108.5KB |
+| 79 | May2025.pdf-0025-07.png | 70x69 | 4.5KB |
+| 80 | May2025.pdf-0025-08.png | 380x302 | 56.5KB |
+| 81 | May2025.pdf-0025-09.png | 63x64 | 3.9KB |
+| 82 | May2025.pdf-0025-10.png | 130x130 | 8.9KB |
+| 83 | May2025.pdf-0025-11.png | 130x130 | 7.7KB |
+| 84 | May2025.pdf-0025-12.png | 203x89 | 13.1KB |
+| 85 | May2025.pdf-0026-00.png | 830x596 | 30.9KB |
+| 86 | May2025.pdf-0026-02.png | 1078x1125 | 1147.8KB |
+| 87 | May2025.pdf-0027-01.png | 203x89 | 13.1KB |
+| 88 | May2025.pdf-0027-02.png | 1916x895 | 118.0KB |
+| 89 | May2025.pdf-0028-01.png | 203x89 | 13.1KB |
+| 90 | May2025.pdf-0029-01.png | 203x89 | 13.1KB |
+| 91 | May2025.pdf-0030-01.png | 203x89 | 13.1KB |
+| 92 | May2025.pdf-0031-01.png | 203x89 | 13.1KB |
+| 93 | May2025.pdf-0031-02.png | 1887x962 | 103.0KB |
+| 94 | May2025.pdf-0032-00.png | 830x596 | 30.9KB |
+| 95 | May2025.pdf-0032-02.png | 1163x1125 | 641.8KB |
+| 96 | May2025.pdf-0033-01.png | 149x134 | 5.3KB |
+| 97 | May2025.pdf-0033-03.png | 149x135 | 5.4KB |
+| 98 | May2025.pdf-0033-05.png | 149x134 | 5.5KB |
+| 99 | May2025.pdf-0033-07.png | 149x138 | 5.5KB |
+| 100 | May2025.pdf-0033-09.png | 149x139 | 5.7KB |
+| 101 | May2025.pdf-0033-11.png | 149x134 | 5.8KB |
+| 102 | May2025.pdf-0033-12.png | 149x139 | 5.5KB |
+| 103 | May2025.pdf-0033-13.png | 149x138 | 5.7KB |
+| 104 | May2025.pdf-0033-14.png | 149x138 | 5.6KB |
+| 105 | May2025.pdf-0033-15.png | 149x139 | 5.5KB |
+| 106 | May2025.pdf-0033-16.png | 203x89 | 13.1KB |
+| 107 | May2025.pdf-0034-01.png | 203x89 | 13.1KB |
+| 108 | May2025.pdf-0035-01.png | 203x89 | 13.1KB |
+| 109 | May2025.pdf-0035-04.png | 276x93 | 12.4KB |
+| 110 | May2025.pdf-0036-01.png | 203x89 | 13.1KB |
+| 111 | May2025.pdf-0036-02.png | 278x93 | 12.3KB |
+| 112 | May2025.pdf-0036-04.png | 238x230 | 63.6KB |
+| 113 | May2025.pdf-0036-10.png | 238x230 | 77.3KB |
+| 114 | May2025.pdf-0036-14.png | 1887x283 | 132.0KB |
+| 115 | May2025.pdf-0037-01.png | 203x89 | 13.1KB |
+| 116 | May2025.pdf-0037-02.png | 278x93 | 12.3KB |
+| 117 | May2025.pdf-0038-00.png | 830x596 | 30.9KB |
+| 118 | May2025.pdf-0038-02.png | 1078x1125 | 1497.9KB |
+| 119 | May2025.pdf-0039-00.png | 1973x1125 | 120.8KB |
+| 120 | May2025.pdf-0040-00.png | 1161x1125 | 1314.5KB |
+| 121 | May2025.pdf-0040-03.png | 146x63 | 9.1KB |
+| 122 | May2025.pdf-0040-08.png | 289x68 | 6.9KB |
