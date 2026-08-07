@@ -28,12 +28,12 @@ Each Markdown analysis file follows this structure (in order):
 3. **Capacity Roadmap** — current vs. planned capacity, capex timeline
 4. **Key Catalysts / DNA Shift** — structural growth drivers specific to this company
 5. **Red Flags & Risk Analysis** — risks with severity ratings (X/10 scale)
-6. **Future Financial Projections** — FY26E / FY27E / FY28E estimates
+6. **Future Financial Projections** — FY27E / FY28E / FY29E estimates
 7. **Key Metrics to Monitor** — leading indicators and what to track each quarter
 
 ## Conventions to Follow When Adding/Updating Analysis
 
-- **Projections use FY suffix**: FY26E, FY27E, FY28E (E = Estimate)
+- **Projections use FY suffix**: FY27E, FY28E, FY29E (E = Estimate)
 - **Severity ratings**: Red flags are rated on a 1–10 scale (10 = highest risk)
 - **Financial units**: State clearly (Cr = Crore INR, unless otherwise noted)
 - **Dates on filenames**: Use `Mar2026`, `Q3FY26` style for naming analysis files
@@ -100,32 +100,7 @@ Include long-term fair value (FY30 onwards):
 
 ## Working with PDFs to Generate Analysis
 
-### Critical First Step: Convert ALL PDFs to Markdown BEFORE Reading
-
-**WORKFLOW:**
-1. **Identify all PDF files** in the company folder
-2. **Convert every PDF to Markdown** using the pymupdf4llm tool (via ~/.claude/skills/pdf-to-markdown/.venv/bin/python)
-3. **Only then start reading** the markdown files to extract data
-
-**Why this order matters:**
-- Ensures all documents are available in text format before analysis begins
-- Avoids re-reading the same PDF multiple times
-- Enables efficient grep/search across markdown files
-- Prevents missing documents due to extraction order
-- Allows parallel processing of large PDFs
-
-**Conversion Command Template:**
-```bash
-~/.claude/skills/pdf-to-markdown/.venv/bin/python ~/.claude/skills/pdf-to-markdown/scripts/pdf_to_md.py "[PDF_PATH]"
-```
-
-**For multiple PDFs in a folder, create a batch script** (see past sessions for examples)
-
----
-
-### Then Read & Extract from Markdown Files
-
-When PDFs are converted to markdown, read them to extract data. The PDFs fall into three categories — extract different things from each:
+When PDFs are present in a company's folder, read them all before writing or updating the analysis. The PDFs fall into three categories — extract different things from each:
 
 **Annual Reports**
 

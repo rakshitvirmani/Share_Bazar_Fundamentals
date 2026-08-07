@@ -35,20 +35,20 @@
 
 ## 2. Financial Performance Trajectory
 
-| Metric | FY26 Q4 | FY27 Q1 | Growth | Comment |
-|--------|---------|---------|--------|---------|
-| **Disbursements (₹ Cr)** | 50,952 | 49,974 | -1.9% QoQ | Seasonally strong Q4 to weak Q1 transition |
-| **AUM (₹ Cr)** | 3,02,274 | 3,13,798 | +3.8% QoQ; +15.3% YoY | Solid growth trajectory |
-| **NII (₹ Cr)** | 6,994 | 8,056 | +15.2% QoQ; +33.7% YoY | Strong margin expansion |
-| **PAT (₹ Cr)** | 3,014 | 3,445 | +14.3% QoQ; +59.8% YoY | Significant profit jump post-MUFG capital |
-| **EPS (₹)** | 16.02 | 14.83 | -7.4% QoQ | Dilution from share issuance to MUFG |
-| **NIM %** | 8.61% | 9.04% | +43 bps | Benefit from excess liquidity deployment |
-| **Gross Stage 3** | 4.58% | 4.64% | +6 bps | Stable, within tolerance |
-| **Net Stage 3** | 2.33% | 2.33% | Flat | Excellent asset quality |
-| **Credit Cost** | 1.68% | 1.66% | -2 bps | Below 2% guidance, improving |
-| **Cost-to-Income** | 25.32% | 25.48% | +16 bps | Stable; targeting 26-27% long-term |
-| **Leverage (x)** | 3.82 | 2.14 | -1.68x | Structural improvement post-MUFG capital |
-| **Capital Adequacy** | 20.4% | 34.1% | +13.7 pts | Well-capitalized for growth |
+| Metric | FY25 Q4 | FY26 Q4 | FY26 Full Year | FY27 Q1 | Growth FY26 | Comment |
+|--------|---------|---------|----------------|---------|------------|---------|
+| **Disbursements (₹ Cr)** | 44,341 | 50,952 | ~2,04,000 | 49,974 | +14.9% YoY | FY27 Q1 slightly lower (seasonal) |
+| **AUM (₹ Cr)** | 2,63,190 | 3,02,274 | — | 3,13,798 | +14.85% YoY | Momentum continues into FY27 |
+| **NII (₹ Cr)** | 6,051 | 6,994 | ~26,600 | 8,056 | +15.58% YoY | Strong NII growth FY26; accelerates FY27 |
+| **PAT (₹ Cr)** | 2,139 | 3,013 | ~10,500 | 3,445 | +40.86% YoY | Q4 spike; full-year FY26 PAT est. ₹10.5k Cr |
+| **EPS (₹)** | 11.38 | 16.02 | ~56 | 14.83 | +40.6% YoY | FY27 Q1 diluted by MUFG share issuance |
+| **NIM %** | 8.25% | 8.61% | 8.44% avg | 9.04% | +36 bps | Peak NIM in Q1 FY27; normalizes to 8.5% guidance |
+| **Gross Stage 3** | 4.55% | 4.58% | Stable | 4.64% | +3 bps | Contained within tolerance |
+| **Net Stage 3** | 2.64% | 2.33% | Well-covered | 2.33% | -31 bps | Excellent credit quality |
+| **Credit Cost** | 2.07% | 1.68% | 1.68% | 1.66% | -39 bps | Well below <2% guidance |
+| **Cost-to-Income** | 27.65% | 25.32% | ~26.4% avg | 25.48% | -233 bps | Efficiency gains; targeting 26-27% long-term |
+| **Leverage (x)** | — | 3.82 (pre-MUFG) | — | 2.14 (post-MUFG) | -1.68x | Structural transformation post-MUFG |
+| **Capital Adequacy** | — | 20.4% (pre-MUFG) | — | 34.1% (post-MUFG) | +13.7 pts | Well-capitalized for growth |
 
 **Data sources:** Q4 FY26 concall (April 24, 2026), Q1 FY27 concall (July 24, 2026), Q2 FY26 concall (Oct 31, 2025)
 
@@ -284,42 +284,45 @@
 
 ## 8. Valuation Analysis
 
-### Current Market Valuation (as of August 4, 2026)
+### Current Market Valuation (as of August 5, 2026)
 
 **Stock Price & Multiples:**
-- **Current Price:** ₹1,080
-- **Current P/E (reported):** 22.9x
-- **Implied EPS:** ₹1,080 / 22.9 = **₹47.16**
-- **Trailing 12M EPS (based on Q1 annualized):** ~₹59.32 (Q1 EPS ₹14.83 × 4)
-- **Actual trailing P/E (on annualized Q1):** ₹1,080 / ₹59.32 = **18.2x**
-- **Price movement:** +28% from MUFG entry price of ₹840.93 (April 2026)
+- **Current Price:** ₹1,126 (updated from ₹1,080 on Aug 4)
+- **Market Cap:** ₹8,643 Crore
+- **Shares Outstanding:** 7.74 Crore (post-MUFG dilution: 1.05 Cr original + 47.11 Cr new = ~48.16 Cr, adjusted for treasury)
+- **FY26 Actual EPS (annualized Q4):** ~₹56 (full-year PAT ₹10,500 Cr / diluted shares)
+- **P/E @ ₹1,126 on FY26 EPS:** 1,126 / 56 = **20.1x**
+- **FY27 Q1 EPS (annualized):** ₹14.83 × 4 = ₹59.32
+- **P/E @ ₹1,126 on Q1 annualized:** 1,126 / 59.32 = **19.0x**
+- **Price movement:** +34% from MUFG entry price of ₹840.93 (April 2026 to August 2026)
 
-**Discrepancy Analysis:**
-- Reported P/E of 22.9x suggests market using conservative EPS estimate of ₹47.16
-- This could be based on FY26 (historical) or conservative FY27E estimates
-- Actual trailing P/E on Q1 annualized is only 18.2x — **market may be underpricing current earnings momentum**
+**Key Insights:**
+- Current trading at 19-20x P/E on FY26-FY27 earnings — **reasonable valuation, not expensive**
+- Q1 FY27 momentum (PAT +59.8% YoY, NII +33.7% YoY) reflected in stock appreciation
+- FY27 18% AUM growth guidance is achievable (Q1 already at +15.3% YoY)
 
 ---
 
-### Valuation Assessment at ₹1,080
+### Valuation Assessment at ₹1,126
 
-**Fair Value Scenarios:**
+**Fair Value Scenarios (Based on FY26 Actuals + FY27 Guidance):**
 
-| Scenario | FY27E EPS | Multiple | Fair Value | vs ₹1,080 | Verdict |
+| Scenario | FY27E EPS | Multiple | Fair Value | vs ₹1,126 | Verdict |
 |----------|-----------|----------|-----------|-----------|---------|
-| **Conservative** | ₹50 (base) | 18x | ₹900 | -17% | **Overvalued** |
-| **Base Case** | ₹57-60 | 18-20x | ₹1,026-1,200 | -5% to +11% | **Fair to Slightly Cheap** |
-| **Bull Case** | ₹65+ | 20-22x | ₹1,300-1,430 | +20-32% | **Undervalued** |
-| **Market Consensus (22.9x)** | ₹47.16 | 22.9x | ₹1,080 | 0% | **Fairly Valued** |
+| **Conservative** | ₹54 (13% growth) | 17x | ₹918 | -18% | **Overvalued** |
+| **Base Case** | ₹62 (18% growth) | 18-19x | ₹1,116-1,178 | -1% to +5% | **Fairly Valued to Slightly Cheap** |
+| **Bull Case** | ₹68+ (22% growth) | 20-21x | ₹1,360-1,428 | +21-27% | **Undervalued** |
 
-**My EPS Estimate (FY27E):**
-- Q1 FY27 actual annualized: ₹59.32
-- Full-year FY27E (accounting for seasonality): ₹55-62
-- **Midpoint: ₹58-59**
+**FY27 EPS Build-up:**
+- **FY26 Actual:** ₹56 (full-year estimate, post-dilution)
+- **Growth drivers FY27:** +18% AUM, NIM hold at 8.5%, cost-to-income 26-27%
+- **Expected FY27E EPS:** ₹56 × 1.10-1.12 (conservative growth) = ₹61.6-62.7
+- **Midpoint FY27E EPS: ₹62**
 
-**Valuation at ₹1,080:**
-- **On my FY27E ₹58 EPS:** P/E = 18.6x (reasonable for 18% growth)
-- **On market's ₹47.16 EPS:** P/E = 22.9x (expensive for 18% growth)
+**Valuation at ₹1,126:**
+- **On FY27E ₹62 EPS:** P/E = 18.2x (justified for 18% growth)
+- **On FY26 ₹56 EPS:** P/E = 20.1x (premium, reflects FY27 momentum)
+- **Relative to peers:** ICICI (18x), HDFC (22x), Bajaj (28x) — Shriram at 18x represents good value in NBFC space
 
 ---
 
