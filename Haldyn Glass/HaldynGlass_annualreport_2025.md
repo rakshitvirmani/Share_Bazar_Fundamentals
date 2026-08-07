@@ -1,0 +1,10382 @@
+---
+source: 2025.pdf
+total_pages: 203
+extracted_at: 2026-08-07T17:22:45.381432
+images_dir: images
+---
+
+Ref: BBY/CS/001/24/25 
+
+August 22, 2025 
+
+**The BSE Limited** Department of Corporate Services, Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai - 400 001 
+
+###### **Sub: Annual Report of the Company for the financial year 2024-2025** 
+
+**Ref: 1. Regulation 34(1) and other applicable provisions of Securities and Exchange Board of India** **<u>(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (“SEBI Listing Regulations”)</u> 2. Scrip Code: 515147** 
+
+Dear Sir(s)/Madam(s), 
+
+We hereby wish to inform you that the 34<sup>th</sup> Annual General Meeting (“AGM”) of the members of the Company will be held on Tuesday, September 16, 2025 at 11:30 a.m. at Village Gavasad, Taluka Padra, Dist. Vadodara – 391 430. 
+
+Pursuant to Regulation 34(1) of SEBI Listing Regulations, we hereby submit the Annual Report of the Company for the Financial Year 2024-25 which has been sent through electronic mode to the Members whose email ids are registered with the Company. 
+
+The Notice of 34<sup>th</sup> AGM and Annual Report 2024-25 are also available on the website of the Company at <u>www.haldynglass.com.</u> 
+
+Kindly take this information on your records. 
+
+Thanking you, 
+
+###### Yours faithfully **FOR HALDYN GLASS LIMITED** 
+
+Dhruv Digitally signed by Dhruv Jignesh Mehta Jignesh Date: Mehta 2025.08.22 23:05:34 +05'30' **DHRUV MEHTA COMPANY SECRETARY & COMPLIANCE OFFICER ACS-46874** 
+
+Encl: As above 
+
+**CIN: L51909GJ1991PLC015522** 
+
+
+![](images/2025.pdf-0002-00.png)
+
+**[Image: 2025.pdf-0002-00.png (367x109, 9.9KB)]**
+
+
+## **Performance at a Glance For Standalone Results** 
+
+#### NET WORTH 
+
+
+![](images/2025.pdf-0003-02.png)
+
+**[Image: 2025.pdf-0003-02.png (28x49, 1.0KB)]**
+
+
+
+![](images/2025.pdf-0003-03.png)
+
+**[Image: 2025.pdf-0003-03.png (66x190, 12.2KB)]**
+
+
+
+![](images/2025.pdf-0003-04.png)
+
+**[Image: 2025.pdf-0003-04.png (26x47, 0.9KB)]**
+
+
+
+![](images/2025.pdf-0003-05.png)
+
+**[Image: 2025.pdf-0003-05.png (66x182, 11.9KB)]**
+
+
+
+![](images/2025.pdf-0003-06.png)
+
+**[Image: 2025.pdf-0003-06.png (24x43, 0.8KB)]**
+
+
+
+![](images/2025.pdf-0003-07.png)
+
+**[Image: 2025.pdf-0003-07.png (61x169, 10.8KB)]**
+
+
+
+![](images/2025.pdf-0003-08.png)
+
+**[Image: 2025.pdf-0003-08.png (22x40, 0.8KB)]**
+
+
+
+![](images/2025.pdf-0003-09.png)
+
+**[Image: 2025.pdf-0003-09.png (54x155, 9.4KB)]**
+
+
+
+![](images/2025.pdf-0003-10.png)
+
+**[Image: 2025.pdf-0003-10.png (22x38, 0.8KB)]**
+
+
+
+![](images/2025.pdf-0003-11.png)
+
+**[Image: 2025.pdf-0003-11.png (53x149, 8.9KB)]**
+
+
+
+![](images/2025.pdf-0003-12.png)
+
+**[Image: 2025.pdf-0003-12.png (111x24, 2.7KB)]**
+
+
+#### TOTAL INCOME 
+
+
+![](images/2025.pdf-0003-14.png)
+
+**[Image: 2025.pdf-0003-14.png (82x218, 13.8KB)]**
+
+
+
+![](images/2025.pdf-0003-15.png)
+
+**[Image: 2025.pdf-0003-15.png (151x163, 14.4KB)]**
+
+
+
+![](images/2025.pdf-0003-16.png)
+
+**[Image: 2025.pdf-0003-16.png (64x175, 9.7KB)]**
+
+
+
+![](images/2025.pdf-0003-17.png)
+
+**[Image: 2025.pdf-0003-17.png (72x124, 9.6KB)]**
+
+
+
+![](images/2025.pdf-0003-18.png)
+
+**[Image: 2025.pdf-0003-18.png (66x183, 10.5KB)]**
+
+
+
+![](images/2025.pdf-0003-19.png)
+
+**[Image: 2025.pdf-0003-19.png (74x130, 10.3KB)]**
+
+
+
+![](images/2025.pdf-0003-20.png)
+
+**[Image: 2025.pdf-0003-20.png (47x120, 6.2KB)]**
+
+
+
+![](images/2025.pdf-0003-21.png)
+
+**[Image: 2025.pdf-0003-21.png (103x93, 6.7KB)]**
+
+
+
+![](images/2025.pdf-0003-22.png)
+
+**[Image: 2025.pdf-0003-22.png (40x105, 5.0KB)]**
+
+
+
+![](images/2025.pdf-0003-23.png)
+
+**[Image: 2025.pdf-0003-23.png (80x80, 5.4KB)]**
+
+
+#### PROFIT AFTER TAX 
+
+
+![](images/2025.pdf-0003-25.png)
+
+**[Image: 2025.pdf-0003-25.png (26x53, 1.2KB)]**
+
+
+
+![](images/2025.pdf-0003-26.png)
+
+**[Image: 2025.pdf-0003-26.png (41x17, 1.1KB)]**
+
+
+
+![](images/2025.pdf-0003-27.png)
+
+**[Image: 2025.pdf-0003-27.png (34x76, 2.0KB)]**
+
+
+
+![](images/2025.pdf-0003-28.png)
+
+**[Image: 2025.pdf-0003-28.png (8x86, 1.1KB)]**
+
+
+
+![](images/2025.pdf-0003-29.png)
+
+**[Image: 2025.pdf-0003-29.png (10x86, 1.2KB)]**
+
+
+
+![](images/2025.pdf-0003-30.png)
+
+**[Image: 2025.pdf-0003-30.png (55x22, 1.8KB)]**
+
+
+
+![](images/2025.pdf-0003-31.png)
+
+**[Image: 2025.pdf-0003-31.png (36x78, 2.0KB)]**
+
+
+
+![](images/2025.pdf-0003-32.png)
+
+**[Image: 2025.pdf-0003-32.png (9x89, 1.1KB)]**
+
+
+
+![](images/2025.pdf-0003-33.png)
+
+**[Image: 2025.pdf-0003-33.png (10x89, 1.3KB)]**
+
+
+
+![](images/2025.pdf-0003-34.png)
+
+**[Image: 2025.pdf-0003-34.png (58x24, 1.9KB)]**
+
+
+
+![](images/2025.pdf-0003-35.png)
+
+**[Image: 2025.pdf-0003-35.png (43x137, 6.2KB)]**
+
+
+
+![](images/2025.pdf-0003-36.png)
+
+**[Image: 2025.pdf-0003-36.png (103x132, 6.7KB)]**
+
+
+### **<u>BOARD OF DIRECTORS</u>** 
+
+Mr. Narendra Shetty DIN: 00025868 
+
+Executive Chairman 
+
+Mr. Tarun Shetty DIN: 00587108 
+
+Managing Director 
+
+[Ceased w.e.f. September 09, 2024] 
+
+Mrs. Kishori Udeshi DIN: 01344073 
+
+[Ceased w.e.f. September 09, 2024] 
+
+Mr. Sikandar Talwar DIN: 01630705 
+
+Mr. Rohan Ajila DIN: 01549005 
+
+Mr. Ajit Shah DIN: 02396765 
+
+Mr. G. Padmanabhan DIN: 07130908 
+
+Mrs. Mona Cheriyan [w.e.f. August 13, 2024] DIN: 10479050 
+
+###### **Chief Executive Officer** 
+
+Mr. Niraj Tipre 
+
+###### **Chief Financial Officer** 
+
+Mr. Ganesh P. Chaturvedi [Upto May 31, 2025] Mr. Jitendra [w.e.f. June 01, 2025] Karamchandani FCA: 129652 
+
+###### **Company Secretary** 
+
+Mr. Dhruv Mehta ACS No.: 46874 
+
+###### **<u>COMMITTEES AS ON MARCH 31, 2025</u>** 
+
+###### **Audit Committee** 
+
+Mr. Ajit Shah Chairman Mrs. Mona Cheriyan Mr. G. Padmanabhan Mr. Tarun Shetty 
+
+###### **Nomination and Remuneration Committee** 
+
+Mr. G. Padmanabhan Chairman Mrs. Mona Cheriyan Mr. Rohan Ajila 
+
+###### **Stakeholders Relationship Committee** 
+
+Mr. Ajit Shah Chairman Mrs. Mona Cheriyan Mr. Rohan Ajila 
+
+###### **Corporate Social Responsibility Committee** 
+
+Mr. Tarun Shetty Chairman Mr. Rohan Ajila Mrs. Mona Cheriyan 
+
+###### **Auditors** 
+
+M/s. KNAV & CO. LLP Chartered Accountants FRN: 120458W/W100679 
+
+###### **Registered Office & Works** 
+
+Village Gavasad, Taluka Padra, District Vadodara-391430, Gujarat Telephone : +91 2662 242339/42  |  Fax : +91 2662 245081 E-mail: baroda@haldynglass.com Website: <u>www.haldynglass.com</u> 
+
+###### **Corporate Office** 
+
+B-1201, Lotus Corporate Park, Off Western Express Highway, Goregaon [East], Mumbai - 400 063 Telephone : + 91 22 4287 8900  |  Fax : + 91 22 4287 8910 E-mail: cosec@haldyn.com 
+
+###### **Bankers** 
+
+State Bank of India HDFC Bank Limited 
+
+###### **Registrar & Share Transfer Agents** 
+
+MUFG Intime India Pvt. Ltd.  [Formerly Link Intime India Pvt. Ltd.] Unit: Haldyn Glass Limited 
+
+C-101, 247 Park, L.B.S. Marg, Vikhroli [West], Mumbai - 400083 Telephone : +91 22 4918 6000  |  Fax : +91 22 4918 6060 E-mail: rnt.helpdesk@mpms.mufg.com, Website: <u>www.mpms.mufg.com</u> 
+
+###### **THIRTY FOURTH ANNUAL GENERAL MEETING** 
+
+Day : Tuesday Date : September 16, 2025 Time : 11.30 a.m. Venue :  Village Gavasad, Taluka Padra, Dist. Vadodara - 391430 
+
+|**CO**|**NTENTS**|**PAGE**|
+|---|---|---|
+|»|Directors’ Report|**2**|
+|»|Secretarial Audit Report|**24**|
+|»|Corporate Governance Report|**27**|
+|»|Independent Auditors’ Report|**49**|
+|»|Balance Sheet<br>|**60**|
+|»|Statement of Proft and Loss|**61**|
+|»|Statement of Changes in Equity|**62**|
+|»|Cash Flow Statement|**63**|
+|»|Notes on Financial Statements|**65**|
+|»|Independent Auditors’ Report on|**124**|
+||Consolidated Financial Statements||
+|»|Consolidated Balance Sheet|**132**|
+|»|Consolidated Statement of Proft and Loss|**133**|
+|»|Consolidated Statement of Changes in Equity|**134**|
+|»|Consolidated Cash Flow Statement|**135**|
+|»|Notes to the Consolidated Financial Statements|**137**|
+
+
+
+
+![](images/2025.pdf-0004-42.png)
+
+**[Image: 2025.pdf-0004-42.png (53x21, 0.8KB)]**
+
+
+**1** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+# **DIRECTORS’ REPORT** 
+
+###### Dear Shareholders, 
+
+Your Directors are pleased to present the 34<sup>th</sup> Annual Report on business and operations of Haldyn Glass Limited [“the Company”] along with the Audited Financial Statements [Standalone and Consolidated] for the financial year ended March 31, 2025 [“FY 202425”] and the report of the Auditors thereon. 
+
+###### **1] FINANCIAL HIGHLIGHTS:** 
+
+The financial performance of the Company for the year ended March 31, 2025 on a Standalone and Consolidated basis, is summarized below: 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|Standa|lone|Consoli|dated|
+||**For the**<br>**year ended**<br>**March 31, 2025**|For the<br>year ended<br>March 31, 2024|**For the**<br>**year ended**<br>**March 31, 2025**|For the<br>year ended<br>March 31, 2024|
+|Total Income|38,931.79|31,436.03|38,931.79|31,436.03|
+|Earnings before interest, depreciation and tax [EBITDA]|6,062.42|5,487.19|6,140.00|5,537.91|
+|Interest and Finance Charges|1,495.12|952.53|1,495.12|952.53|
+|Depreciation<br>|2,875.01|1,878.72|2,876.12|1,879.80|
+|Proft before Tax|1,692.29|2,655.94|1,768.76|2,705.58|
+|Provision for Current Tax|-|-|15.32|10.19|
+|Provision for Deferred Tax|419.50|669.25|419.62|668.67|
+|Short / [Excess]provision of earlieryears|[23.72]|111.08|[23.72]|111.08|
+|Proft after tax [before share of Proft of Joint Venture]<br>|1,296.51|1,875.61|1,357.54|1,915.64|
+|Share of Proft of Joint venture<br>|-|-|523.80|541.08|
+|Proft after tax|1,296.51|1,875.61|1,881.34|2,456.72|
+|Other comprehensive income|23.92|146.24|23.65|154.10|
+|Total comprehensive income for theperiod net of Tax|1,320.43|2,021.85|1,904.99|2,610.82|
+|Surplus brought forward from previous year|19,179.50|17,533.91|18,713.33|16,478.77|
+|**Proft available for appropriation**|**20,499.93**|**19,555.76**|**20,618.32**|**19,089.59**|
+|Dividend paid|[376.26]|[376.26]|[376.26]|[376.26]|
+|**Balance carried forward to Balance Sheet**|**20,123.67**|**19,179.50**|**20,242.06**|**18,713.33**|
+
+
+
+###### **2] OPERATIONAL PERFORMANCE / STATE OF COMPANY’S AFFAIRS:** 
+
+###### [a] Standalone Performance: 
+
+During the year under review, the total income of your Company stood at ` 38,931.79 lakhs as against ` 31,436.03 lakhs in the previous year recording a growth of 23.84%. 
+
+The Company earned a profit after tax of ` 1,296.51 lakhs as against ` 1,875.61 lakhs in the previous year recording a decline of 30.88%. The decline in profit after tax is mainly due to increase in finance cost and depreciation. 
+
+Due to decline in the profit, the earning per share decreased from ` 3.49 in the previous year to ` 2.41 in the year under review. 
+
+###### [b] Consolidated Performance: 
+
+During the year under review, the total income of your Company stood at ` 38,931.79 lakhs as against ` 31,436.03 lakhs in the previous year recording a growth of 23.84%. 
+
+The Company earned a profit after tax [including share of profit of joint venture] of ` 1,881.34 lakhs as against ` 2,456.72 lakhs in the previous year recording a decline of 23.42%. The decline in profit after tax is mainly due to increase in finance 
+
+
+![](images/2025.pdf-0005-15.png)
+
+**[Image: 2025.pdf-0005-15.png (56x22, 0.8KB)]**
+
+
+**22** 
+
+cost and depreciation. 
+
+Due to decline in the profit, the earning per share decreased from ` 4.57 in the previous year to ` 3.50 in the year under review. 
+
+###### **3]** 
+
+###### **DIVIDEND:** 
+
+The Board of Directors has recommended a dividend of 70% i.e. ` 0.70 per share of face value of ` 1/- each, for the approval of the members at the ensuing 34<sup>th</sup> Annual General Meeting [“AGM”]. The total pay-out on account of dividend, if approved, by the members will be ` 376.26 lakhs which will be subject to deduction of tax at source as applicable and shall be payable during financial year 2025-26. 
+
+###### **4]** 
+
+###### **TRANSFER TO RESERVES:** 
+
+Your directors do not propose to transfer any amount to reserves for the financial year under review. 
+
+###### **5] SHARE CAPITAL:** 
+
+- [a] Authorized Capital: 
+
+The Authorized share capital of the Company as on March 31, 2025 stood at ` 1,500 lakhs comprising of 15,00,00,000 Equity shares of ` 1/- each. 
+
+###### [b] Paid-up Capital: 
+
+The paid-up share capital of the Company as on March 31, 2025 stood at ` 537.52 lakhs comprising of 5,37,51,700 shares of ` 1/- each. 
+
+The Company has not issued and allotted any securities during the year ended March 31, 2025. 
+
+###### **6] EMPLOYEE STOCK APPRECIATION RIGHTS PLAN:** 
+
+The Company has two ongoing Employee Stock Appreciation Rights Plans i.e. 
+
+- [1] Employee Stock Appreciation Rights Plan - 2021 [“ESAR Plan 2021”]; 
+
+- [2] Employee Stock Appreciation Rights Plan - 2024 [“ESAR Plan 2024”]. 
+
+The Members approved the ESAR Plan 2021 by way of Postal Ballot on May 27, 2021 & ESAR Plan 2024 at 33<sup>rd</sup> AGM held on September 19, 2024, for issuance of the Employee Stock Appreciation Rights [“ESARs”] to the identified employees of the Company and of the subsidiary. 
+
+The Nomination and Remuneration Committee of the Company, inter-alia, administers and monitors ESARs, implemented by the Company in accordance with the relevant provisions of the Act and the SEBI [Share Based Employee Benefits and Sweat Equity] Regulations, 2021, [including any statutory modification[s] and / or re enactment[s] thereof for the time being in force] [“SEBI SBEB Regulations”]. 
+
+During the year under review, there were no material changes in the ESARs of the Company. The details of the ESARs granted under the aforesaid ESAR Plan and the disclosure in compliance with SEBI SBEB Regulations for the year ended March 31, 2025 is annexed as **“Annexure-I”** to this report and has also been uploaded on the website of the Company at <u>www.haldyglass. com.</u> 
+
+###### **7] FINANCIAL STATEMENT:** 
+
+The Audited  financial statements [standalone and consolidated] for the year ended on March 31, 2025 have been prepared in accordance with the Indian Accounting Standards [Ind AS], provisions of the Companies Act, 2013 [hereinafter referred to as “The Act”] read with the Companies [Accounts] Rules, 2014 as amended from time to time and Regulation 33 of the Securities Exchange Board of India [Listing Obligations and Disclosure Requirements] Regulations, 2015 [hereinafter referred to as “Listing Regulations”]. The estimates and judgements relating to the financial statements are made on a prudent basis, so as to reflect in a true and fair manner, the form and substance of transactions and reasonably present the Company’s state of affairs, profits and cash flows for the year ended March 31, 2025. The Notes to the financial statements adequately cover the standalone and consolidated audited statements and form an integral part of this Report. The Audited financial statements 
+
+
+![](images/2025.pdf-0006-23.png)
+
+**[Image: 2025.pdf-0006-23.png (53x22, 0.8KB)]**
+
+
+**3** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+[standalone and consolidated] together with Auditor’s Report form part of the Annual Report. 
+
+###### **8] DEPOSITS COVERED UNDER CHAPTER V OF THE ACT:** 
+
+During the year under review, the Company has not invited / accepted any deposit within the meaning of Section 73 of the Act and rules made thereunder, as amended from time to time. 
+
+###### **9] PARTICULARS OF LOANS, GUARANTEES OR INVESTMENTS:** 
+
+Loans, guarantee and investment covered under section 186 of the Act, form part of the notes to the financial statement provided in this Annual Report. 
+
+###### **10] MANAGEMENT DISCUSSION AND ANALYSIS:** 
+
+###### **[a] INDUSTRY STRUCTURE & DEVELOPMENTS:** 
+
+Your Company is engaged in the business of manufacturing glass containers for packaging alcoholic & non-alcoholic beverages, food, personal care and homecare products. While the liquor industry remains the largest customer segment, your company continues to invest in infrastructure modernization, talent acquisition and skills development to enhance capabilities to diversify product offerings. Consequently, your Company has been able to make good progress in acquiring new international as well as domestic customers/brands in various markets. 
+
+###### **[b]** 
+
+###### **OPPORTUNITIES AND THREATS:** 
+
+The global economy showed remarkable strength in the face of various challenges this past year. Despite ongoing geopolitical tensions and a cost-of-living crisis affecting many countries, it managed to remain resilient. Global inflation decreased from 6.8% in 2023 to 5.9% in 2024, with a further decline to 4.5% in 2025. [Source: World Economic Outlook, IMF [April 2024]]. Global economic growth is expected to reach 2.8% in 2025 and then rise to 3.0% in 2026. 
+
+India has ascended to become the world’s fifth-largest economy by nominal GDP and the third-largest by purchasing power parity [PPP]. India is optimistic about achieving a USD 5 trillion economy by FY 2027-28 and a USD 30 trillion economy by 2047, supported by the central government’s investments in infrastructure, additional reforms, and enhanced technology adoption. 
+
+India’s economic growth is projected to be at 6.2% in 2025, reinforcing India’s trajectory towards becoming the world’s third-largest economy by 2030. This optimistic outlook will be driven by expected vigorous infrastructure investments, strong capital expenditure from the private sector, and a growing financial services industry. With ongoing strategic reforms, India is in a strong position to maintain sustainable long-term economic growth and development.. 
+
+Against a challenging global backdrop, India stands out as one of the fastest-growing major economies, driven by strong domestic consumption, favourable demographics, and increasing disposable incomes. 
+
+Geopolitical tensions, including the Ukraine war and ongoing conflicts in the Middle East, disrupted trade routes and tariff announcements added complexity to the global trade landscape. 
+
+###### **[c] SEGMENT WISE OR PRODUCT WISE PERFORMANCE:** 
+
+Your Company’s business activity falls within a single primary business segment viz. Glass bottles / containers. As such there are no separate reporting segments. 
+
+###### **[d] OUTLOOK:** 
+
+The global economic outlook for 2025-26 presents a mix of positive trends and notable risks due to ongoing geopolitical instability which remains a significant concern. Conflicts and trade disputes could disrupt global trade, impacting economic stability. Additionally, the transition towards cleaner energy sources pose challenges for resource-dependent economies, which may struggle to adapt to the evolving energy landscape. 
+
+Several key elements contribute to India’s favourable outlook. India is poised to harness benefit from increased capital expenditure, and capitalise on proactive government policies. Additionally, strong consumer demand and enhanced consumption prospects play a significant role. 
+
+
+![](images/2025.pdf-0007-21.png)
+
+**[Image: 2025.pdf-0007-21.png (56x22, 0.8KB)]**
+
+
+**44** 
+
+As headline inflation approaches target levels, an uptick in consumption is anticipated. The government’s commitment to capital expenditure and fiscal discipline, coupled with rising consumer and business confidence, creates a positive environment for investment and consumption. 
+
+As inflation trends towards target levels, it is likely that the RBI will adopt more accommodative monetary policies. A significant emphasis on infrastructure, supported by public initiatives, is projected to stimulate gross fixed capital formation. 
+
+###### Haldyn’ s highlight and outlook: 
+
+Our strategic focus remains on driving growth through sustainability and expanding into high-margin product segments. We are committed to maintaining financial prudence, operational efficiency, and sustainable business practices as foundation to our success. 
+
+During the fiscal year 2024-25, Haldyn Glass Limited achieved highest turnover in the history of the Company through its fully operational furnaces and the state-of-the-art inspection and packaging technology. Haldyn is well poised to take advantage of the opportunities in the domestic as well as international markets. 
+
+###### **[e] RISKS AND CONCERNS:** 
+
+The global economy continues to face headwinds, including persistent inflation, high borrowing costs, and geopolitical complexities. Policy uncertainties driven by fiscal constraints, and trade disputes further complicate the mediumterm outlook. However, opportunities lie in the expansion of green/renewable energy and artificial intelligence sectors, alongside potential interest rate cuts in major economies that could stimulate trade. Balancing immediate priorities with sustainability and resilience will be essential to nurturing stable growth in glass industry. 
+
+Competitive environment due to the current surplus capacity in the glass industry will continue to pose some challenges. The Company also faces the risk of volatility in forex, freight & fuel prices. However, we remain confident in our ability to navigate these challenges and take advantage of opportunities that lie ahead through innovation and transformation. 
+
+We work towards our vision for sustained growth and value creation for all our stakeholders. Hence, management is of the opinion that the current challenges are temporary and the future augurs well for the Company. 
+
+###### **[f] INTERNAL CONTROL SYSTEMS AND THEIR ADEQUACY:** 
+
+The Company has established efficient internal control systems and processes tailored to its size and operational scale. The Company’s internal financial control systems are designed to provide assurance regarding the reliability of financial reporting and are commensurate with the nature of its business, it’s size and complexity of its operations. 
+
+Internal controls at the Plant, Corporate Office and in respect of key areas of business are regularly tested and certified by Internal Auditors. Important internal audit observations and follow up actions thereon are reported to the Audit Committee which also reviews the adequacy and effectiveness of the Company’s internal control environment and monitors the implementation of audit recommendations including those relating to strengthening of the Company’s risk management policies and system. 
+
+###### **[g] DISCUSSION ON FINANCIAL PERFORMANCE WITH RESPECT TO OPERATIONAL PERFORMANCE:** 
+
+During the year under review, we undertook several initiatives to improve productivity as well as the quality of products which were well appreciated by our customers. The Financial performance of the Company has been provided in the financial results segment of Directors Report. The Company has achieved 28% increase in Revenue from Operations during the current year in comparison with previous year and a 10% increase in EBITDA in comparison with previous year. 
+
+###### **[h] MATERIAL DEVELOPMENTS IN HUMAN RESOURCE / INDUSTRIAL RELATIONS FRONT, INCLUDING NUMBER OF EMPLOYEES EMPLOYED:** 
+
+Your Directors would like to place on record their appreciation of the commitment and efficient services rendered by all employees of the Company. The industrial relations continued to remain cordial during the year. Employees being a key factor, the Company encourages employees for continuous learning by conducting periodical training programmes 
+
+
+![](images/2025.pdf-0008-16.png)
+
+**[Image: 2025.pdf-0008-16.png (53x22, 0.8KB)]**
+
+
+**5** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### throughout the year. 
+
+At Haldyn Glass limited we have a workplace where employees thrive and unite teams across functions and reflecting our strong people-first culture, we have been certified as a Great Place to Work. 
+
+###### **[i] KEY FINANCIAL RATIOS:** 
+
+The key financial ratios are as below: 
+
+|Sr.|Particulars|S|tandalone||C|onsolidated||
+|---|---|---|---|---|---|---|---|
+|No.||Financial Year<br>2024-25|Financial Year<br>2023-24|Change<br>[%]|Financial Year<br>2024-25|Financial Year<br>2023-24|Change<br>[%]|
+|1|Debtors Turnover [in times]|5.37|4.62|16%|5.37|4.62|16%|
+|2|Inventory Turnover [in times]|6.51|9.01|[28%]|6.51|9.01|[28%]|
+|3|Interest Coverage Ratio [number of times]|4.67|6.80|[31%]|5.18|7.69|[33%]|
+|4|Current Ratio [number of times]|1.08|0.96|12%|1.09|0.96|13%|
+|5|Debt Equity Ratio [number of times]|0.59|0.59|1%|0.59|0.60|[2%]|
+|6|Operating Proft Margin [%]|7.42|11.06|[33%]|8.99|13.03|[31%]|
+|7|Net Proft Margin [%]|3.40|6.28|[46%]|4.93|8.22|[40%]|
+|8|Return on Net Worth [%]|6.20|9.57|[35%]|9.07|13.04|[30%]|
+
+
+
+###### Note: 
+
+- Ratios for the previous year are aligned with the current year wherever required due to reclassification and in consistent with industry practice. 
+
+- Refer Note 43 of standalone as well as consolidated financial statements for reasons relating to significant changes as compared to previous year. 
+
+###### **11] DIRECTORS & KEY MANAGERIAL PERSONNEL:** 
+
+###### **[a]** Directors: 
+
+As on March 31, 2025, the Board comprises of 6 [Six] Directors, out of which 3 [Three] Directors are Non-Executive Independent Directors [including a Woman Director], 1 [One] Director is Non-Executive Non-Independent Director and 2 [Two] are Executive Directors including 1 [One] Founder Chairman and 1 [One] Managing Director as follows: 
+
+- i] Mr. Narendra Shetty – Founder Executive Chairman 
+
+- ii] Mr. Tarun Shetty - Managing Director 
+
+- iii] Mr. Rohan Ajila - Non-Executive Non-Independent Director 
+
+- iv] Mr. Ajit Shah - Non-Executive Independent Director 
+
+- v] Mr. G. Padmanabhan - Non-Executive Independent Director 
+
+- vi] Mrs. Mona Cheriyan - Non-Executive Independent Director [w.e.f. August 13, 2024] 
+
+During the year under review, Mr. Sikandar Talwar, Non-Executive - Independent Director [DIN: 01630705] and Mrs. Kishori Udeshi, Non-Executive - Independent Director [DIN: 01344073], ceased to be Independent Directors of the Company with effect from September 09, 2024, upon completion of their two terms, aggregating to ten years. 
+
+###### **[b]** Key Managerial Personnel: 
+
+As on March 31, 2025, the following are the Key Managerial Personnel [KMP] of the Company  in terms of the provisions of Section 2[51] and Section 203 of the Act: 
+
+- i] Mr. Narendra Shetty – Founder Executive Chairman 
+
+- ii] Mr. Tarun Shetty - Managing Director 
+
+
+![](images/2025.pdf-0009-23.png)
+
+**[Image: 2025.pdf-0009-23.png (56x22, 0.8KB)]**
+
+
+**66** 
+
+- iii] Mr. Niraj Tipre - Chief Executive Officer 
+
+- iv] Mr. Ganesh Chaturvedi - Chief Financial Officer 
+
+- v] Mr. Dhruv Mehta - Company Secretary & Compliance Officer 
+
+Mr. Ganesh Prasad Chaturvedi – Chief Financial Officer [“CFO”] of the Company has retired from his position as CFO with effect from closure of business hours on May 31, 2025. 
+
+On recommendation of the Nomination and Remuneration Committee, the Board has approved the appointment of Mr. Jitendra Karamchandani, as a Chief Financial Officer and Key Managerial Personnel of the Company w.e.f. June 1, 2025. 
+
+###### **[c] Appointment /** Re-appointment / Cessation: 
+
+###### Re-appointment 
+
+During the financial year 2024-25, Mr. Ajit Shah [DIN: 02396765] and Mr. G. Padmanabhan [DIN: 07130908] were reappointed as Non-Executive Independent Directors on the Board with effect from July 17, 2024 for a second term of five years till July 16, 2029 [both days inclusive] and their re-appointment was approved by the members at their meeting held on September 19, 2024 [i.e. 33<sup>rd</sup> AGM] 
+
+###### Re-appointment of Director retiring by rotation 
+
+In terms of Section 152 of the Act and the Articles of Association of the Company, Mr. Rohan Ajila [DIN: 01549005], NonExecutive Non-Independent Director of the Company, retires by rotation at the ensuing AGM and being eligible offers himself for re-appointment. The Board of Directors recommends his re-appointment, acknowledging his invaluable contributions to the board and the Company at large. 
+
+###### Appointment 
+
+During the financial year 2024-25, Mrs. Mona Cheriyan [DIN: 10479050] was appointed as Non-Executive Independent Director on the Board of the Company with effect from August 13, 2024 for a period of five years till August 12, 2029 [both days inclusive] and her appointment was approved by the members at their meeting held on September 19, 2024 [i.e. 33<sup>rd</sup> AGM] 
+
+###### Cessation 
+
+During the year under review, Mr. Sikandar Talwar [Din: 01630705] , Non-Executive - Independent Director and Mrs. Kishori Udeshi [Din: 01344073], Non-Executive - Independent Director, ceased to be Independent Directors of the Company with effect from September 09, 2024, upon completion of their two terms, aggregating to ten years. The Board places on record deep appreciation for valuable services and guidance provided by them during their tenure of Directorship. 
+
+###### **[d] Declaration by Independent Directors:** 
+
+All the Independent Directors of Company have given the declarations that they meet the criteria of Independence as prescribed pursuant to the provisions of Section 149[6] of the Act and Regulation 25[8] and 16[1][b] of Listing Regulations, as amended from time to time and are independent of the management. 
+
+The Independent Directors have complied with the Code for Independent Directors prescribed under Schedule IV of the Act and Listing Regulations. The Board is of the opinion that the Independent Directors of the Company possess requisite qualifications, experience and expertise and highest standards of integrity. 
+
+###### **[e] Number of meetings of the Board:** 
+
+During the year under review, 6 [Six] Board Meetings were convened and held. The intervening gap between the Meetings was within the period prescribed under the Act and the Listing Regulations. Detailed information on the meetings of the Board is included in the Corporate Governance Report, which forms a part of this Annual Report. 
+
+###### **[f] Committees of the Boar** d: 
+
+The Company has constituted various Committees of the Board as required under the Act and the Listing Regulations. For details like composition, number of meetings held, attendance of members, etc. of such Committees, please refer to the Corporate Governance Report which forms a part of this Annual Report. 
+
+
+![](images/2025.pdf-0010-21.png)
+
+**[Image: 2025.pdf-0010-21.png (53x22, 0.8KB)]**
+
+
+**7** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### **[g] Familiarization program for Independent Directors:** 
+
+The Company has set Familiarization programme for Independent Directors with regard to their roles, rights, responsibilities in the Company, nature of the industry in which the Company operates, the business model of the Company etc. 
+
+The details of the Familiarization Programme for Independent Directors are posted on the website of the Company i.e. <u>www.haldynglass.com and the weblink thereto is http://www.haldynglass.com/direct/familiarisation-program-2024-25. pdf</u> 
+
+For details of the Familiarisation programme conducted, kindly refer Corporate Governance Report which forms part of this Annual Report. 
+
+###### **[h] Evaluation of the Board, Its Committees and Directors:** 
+
+During the year, the Board carried out an annual evaluation of its performance as well as of the working of its committees and individual Directors, including the Chairman of the Board pursuant to the provisions of the Act and the Listing Regulations. 
+
+The exercise was carried out through a structured questionnaire prepared separately for the Board, Committees, Chairman and individual Directors. The Chairman’s performance evaluation was carried out by Independent Directors at a separate meeting. 
+
+The parameters assessed included various aspects of the Board’s functioning, such as effectiveness, information flow between Board members and the Management, quality and transparency of Board discussions, Board dynamics, Board composition and understanding of roles and responsibilities, succession and evaluation, and possession of required experience and expertise by Board members, among other matters. The performance of the Committees was evaluated on the basis of their effectiveness in carrying out their respective mandates. 
+
+The overall performance of Chairman, Executive Directors, Non-Executive Directors, Board and Committees of the Board was found satisfactory. 
+
+###### **12] CORPORATE GOVERNANCE REPORT:** 
+
+A separate section on Corporate Governance practices followed by the Company, together with a certificate from the Practising Company Secretary confirming compliance, forms a part of this Annual Report, as per the Listing Regulations. 
+
+###### **13] CONSERVATION OF ENERGY, TECHNOLOGY ABSORPTION, FOREIGN EXCHANGE EARNINGS AND OUTGO:** 
+
+As required by the Companies [Accounts] Rules, 2014, the relevant information pertaining to conservation of energy, technology absorption, foreign exchange earnings and outgoings respectively, is given in the “Annexure-II” to this report. 
+
+###### **14] CORPORATE SOCIAL RESPONSIBILITY [CSR] – INITIATIVES:** 
+
+In terms of the provisions of Section 135 of the Act read with Companies [Corporate Social Responsibility] Rules, 2014, as amended from time to time, the Board of Directors has constituted a Corporate Social Responsibility [“CSR”] Committee under the Chairmanship of Mr. Tarun Shetty, Managing Director [DIN:00587108]. The other members of the Committee are Mr. Rohan Ajila, Non-Executive Non-Independent Director [DIN: 01549005] and Mrs. Mona Cheriyan, Non-Executive Independent Director [DIN: 10479050]. Your Company also has in place a CSR policy and the same is available on your Company’s website at <u>http://www.haldynglass.com/direct/csr-policy.pdf.</u> 
+
+During the year under review, the Company was required to spend ` 40,97,047/- towards CSR initiatives. The CSR Committee has approved the activities to be undertaken for spending CSR towards promotion of healthcare. 
+
+During the FY 2024-25, the Company has spent the amount of ` 41,89,000/- towards CSR initiatives. The Report on CSR activities as required under the Companies [Corporate Social Responsibility] Rules, 2014, as amended from time to time, is annexed as “Annexure - III” forming part of this Report. 
+
+###### **15] EXTRACT OF ANNUAL RETURN:** 
+
+Pursuant to Section 92[3] read with Section 134[3][a] of the Act, the Annual Return as on March 31, 2025 is available on the Company’s website at <u>https://www.haldynglass.com/fnancial_results2.aspx?SubCatID=2</u> 
+
+
+![](images/2025.pdf-0011-20.png)
+
+**[Image: 2025.pdf-0011-20.png (56x22, 0.8KB)]**
+
+
+**88** 
+
+###### **16] MATERIAL CHANGES AND COMMITMENTS, IF ANY, AFFECTING THE FINANCIAL POSITION OF THE COMPANY WHICH HAVE OCCURRED BETWEEN THE END OF THE FINANCIAL YEAR OF THE COMPANY TO WHICH THE FINANCIAL STATEMENTS RELATE AND THE DATE OF THE REPORT:** 
+
+There have been no other reportable material changes and commitments affecting the financial position of the Company which have occurred between the end of the financial year of the Company to which the financial statements relate and the date of this report. 
+
+###### **17] DETAILS OF SIGNIFICANT AND MATERIAL ORDERS PASSED BY THE REGULATORS/ COURTS/ TRIBUNALS IMPACTING THE GOING CONCERN STATUS AND THE COMPANY’S OPERATIONS IN FUTURE:** 
+
+There are no significant and material orders passed by the Regulators/courts that would impact the going concern status of the Company and its future operations. 
+
+###### **18] DETAILS OF SUBSIDIARY / JOINT VENTURES / ASSOCIATE COMPANIES:** 
+
+The Company has one wholly owned subsidiary as well as one joint venture Company as at the end of the financial year ended March 31, 2025. Details of the same are as follows: 
+
+|**Sr.**<br>**No.**|**Name and Address of the Company**|**CIN/GLN/EIN**|**Holding/**<br>**Subsidiary/**<br>**Associate**|**% of equity**<br>**shares held**|**Applicable**<br>**Section**|
+|---|---|---|---|---|---|
+|1.|Haldyn Glass USA Inc.|92-0490518|Wholly<br>Owned<br>Subsidiary|100%|2[87] of the Act|
+|2.|Haldyn Heinz Fine Glass Private Limited<br>[“HHFGPL”]<br>B-1202, Lotus Corporate Park,<br>Off Western Express Highway,<br>Goregaon [East], Mumbai – 400 063|U26960MH2015PTC261972|Associate|56.80%|2[6] of the Act|
+
+
+
+*  The shareholding of the Company in HHFGPL is 56.80% as on March 31, 2025. Though this has resulted in HHFGPL becoming a subsidiary of the Company based on percentage holding, however, the Company will exercise rights and control in accordance with the terms of the agreements entered with joint venture partners. As the Company’s substantive rights would remain restricted, HHFGPL will continue to be an Associate/ Joint Venture of the Company. 
+
+Pursuant to the provisions of section 129[3] of the Act, a statement containing salient features of the financial statements of the Company’s wholly owned subsidiary as well as associate Company in Form AOC-1 is attached to the financial statements of the Company as **“Annexure- IV”** to this Report. 
+
+Further, pursuant to the provisions of section 136 of the Act, the financial statements of the Company, consolidated financial statements along with relevant documents are available on the website of the Company at <u>www.haldynglass.com.</u> 
+
+###### **PERFORMANCE HIGHLIGHTS:** 
+
+###### **HHFGPL:** 
+
+The Board of Directors is pleased to inform you that we continue to be excited and optimistic about our joint venture[“JV”], which has been accretive to our profitability in our endeavour to build out our capabilities and global presence. The JV has reported a healthy profit of ` 922.18 Lakhs this year and continues to show regular growth. [Refer Note 47 of Consolidated Financial Statements]. 
+
+###### **Haldy Glass USA Inc:** 
+
+The Company has incorporated a wholly owned subsidiary in USA to provide marketing services. It has earned profit of ` 55.16 Lakhs during this year. [Refer Note 46 of Consolidated Financial Statements]. 
+
+###### **19] CONSOLIDATED FINANCIAL STATEMENTS:** 
+
+As stipulated under the provisions of the Act and the Listing Regulations, the Consolidated Financial Statements have been prepared by the Company in accordance with the applicable Accounting Standards issued under provisions of the Act. The Audited Consolidated Financial Statement together with Auditors’ Report forms part of the Annual Report. 
+
+
+![](images/2025.pdf-0012-17.png)
+
+**[Image: 2025.pdf-0012-17.png (53x22, 0.8KB)]**
+
+
+**9** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### **20] NOMINATION AND REMUNERATION POLICY:** 
+
+In terms of the provisions of the Act and the Listing Regulations as amended from time to time, the policy on nomination and remuneration of Directors, Key Managerial Personnel, Senior Management and other Employees has been formulated by the Committee and approved by the Board by Directors. The details of the policy is available on the Company’s website at http:// <u>www.haldynglass.com/direct/nomination-remunerationpolicy.pdf</u> . 
+
+###### **21] PARTICULARS OF EMPLOYEES AND RELATED DISCLOSURES:** 
+
+The information containing details of employees as required under Section 197 of the Act read with Rule 5[1] of the Companies [Appointment and Remuneration of Managerial Personnel] Rules, 2014 is attached herewith as “Annexure-V”. 
+
+The statement containing names of top ten employees in terms of remuneration drawn and the particulars of employees as required under Section 197[12] of the Act read with Rule 5[2] and 5[3] of the Companies [Appointment and Remuneration of Managerial Personnel] Rules, 2014, is provided in a separate annexure forming part of this report. 
+
+Further, the report and the accounts are being sent to the Members excluding the aforesaid annexure. In terms of Section 136 of the Act, the said annexure is open for inspection and any Member interested in obtaining a copy of the same may write to the Company Secretary of the Company. 
+
+###### **22] VIGIL MECHANISM / WHISTLE BLOWER POLICY:** 
+
+The Company has a vigil mechanism / Whistle Blower Policy to deal with instance of fraud and mismanagement, if any. The objective of the Policy is to explain and encourage the directors and employees to report genuine concerns or grievances about unethical behaviour, actual or suspected fraud or violation of the company’s Code of Conduct. The Whistle Blower Policy is available on the website of the Company at <u>http://www.haldynglass.com/direct/vigil-mech.pdf.</u> 
+
+###### **23] RISK MANAGEMENT:** 
+
+We firmly believe that efficient monitoring and management of risks are essential for the Company to achieve its strategic objectives. To accomplish this, the Company has in place a Risk Management Policy. The main objective of this policy is to ensure sustainable business growth with stability and to promote proactive approach to identifying, evaluating and resolving risks associated with its business. In order to achieve the key objective, the policy establishes structured and disciplined approach to risk management in order to guide decisions on risk related issues. 
+
+Under the current challenging, competitive and disruptive environment, the strategy for mitigating inherent risks in accomplishing the growth plan of the Company is imperative. The common risks inter-alia are regulatory risk, competition, financial risk, technology obsolescence, human resources risk, political risks, investments, retention of talents, expansion of facilities and product price risk. 
+
+###### **24] DIRECTORS’ RESPONSIBILITY STATEMENT:** 
+
+Pursuant to the requirements under Section 134[5] of the Act, your Directors hereby state and confirm that: 
+
+- i] In the preparation of the annual accounts, the applicable accounting standards have been followed and there have been no material departures. 
+
+- ii] Appropriate accounting policies have been selected and applied consistently and judgments and estimates have been made that are reasonable and prudent to give a true and fair view of the Company’s state of affairs as on March 31, 2025 and of the Company’s profit for the year ended on that date. 
+
+- iii] Proper and sufficient care has been taken for the maintenance of adequate accounting records in accordance with the provisions of the Act, for safeguarding the assets of the Company and for preventing and detecting fraud and other irregularities. 
+
+- iv] The annual financial statements have been prepared on a going concern basis. 
+
+- v] The internal financial controls were laid down to be followed and that such internal financial controls were adequate and were operating effectively. 
+
+- vi] Proper systems were devised to ensure compliance with the provisions of all laws applicable to the Company and that such systems were adequate and operating effectively. 
+
+
+![](images/2025.pdf-0013-20.png)
+
+**[Image: 2025.pdf-0013-20.png (56x22, 0.9KB)]**
+
+
+**1010** 
+
+###### **25] RELATED PARTY TRANSACTIONS:** 
+
+All related party transactions that were entered into during the FY 2024-25 were on arm’s length basis and in the ordinary course of business and in compliance with the applicable provisions of the Act, Rules made thereunder and the Listing Regulations. 
+
+All Related Party Transactions are placed before the Audit Committee, the Board and the shareholders, if required for approval. Prior omnibus approval of the Audit Committee is obtained for transactions which are foreseen and repetitive in nature. The transactions entered into pursuant to omnibus approval so granted, are subsequently audited and a statement giving details of all related party transactions is placed before the Audit Committee and the Board of Directors for their approval on a quarterly basis. 
+
+The details of transactions with Related Parties are given in the notes to the Financial Statements in accordance with the Accounting Standards. 
+
+There were no material transactions of the Company with any of its related parties as per the Act. Therefore, the disclosure of the Related Party Transactions as required under Section 134[3][h] of the Act in e-form AOC -2 is not applicable to the Company for FY 2024-25. 
+
+The Company has not given any loan to its Associate Company and hence disclosure under Part A of Schedule V read with regulation 34 [3] of Listing Regulations is not required. 
+
+As required under Regulation 23[1] of the Listing Regulations, the Company has formulated a policy on dealing with Related Party Transactions. The policy on dealing with Related Party Transactions as approved by the Board is uploaded on the Company’s website at <u>http://www.haldynglass.com/direct/relatedparty.pdf</u> 
+
+###### **26] AUDITORS AND AUDITORS’ REPORTS:** 
+
+###### a] Statutory Auditor: 
+
+At the Company’s 31<sup>st</sup> Annual General Meeting held on September 14, 2022, M/s. KNAV & CO. LLP [Firm Registration No. 120458W / W100679], Chartered Accountants were appointed as statutory Auditors of the Company for a period of 5 [five]years, till the conclusion of 36<sup>th</sup> Annual General Meeting. 
+
+The Auditors Report to the shareholders for the year under review does not contain any qualification, reservation, disclaimers or adverse remarks. 
+
+###### b] Secretarial Auditor: 
+
+In terms of provisions of Section 204 of the Act and relevant rules thereunder, read with Regulation 24A of the Listing Regulation, every listed company is required to annex with its Board’s Report, a secretarial audit report, issued by a Practicing Company Secretary. The Board of Directors of the Company had appointed M/s P. Diwan & Associates, Company Secretaries, to undertake Secretarial Audit of the Company for the financial year ended March 31, 2025. Secretarial Audit Report issued by the Secretarial Auditor is annexed herewith as “Annexure-VI”. 
+
+The Secretarial Audit report, as issued by the auditors in Form MR-3 does not contain any observation or qualification requiring explanation or comments from the Board under Section 134[3] of the Act. 
+
+SEBI vide its notification dated December 12, 2024, amended the provisions of Regulation 24A of the Listing Regulations. The amended regulations require companies to obtain shareholders’ approval for appointment of Secretarial Auditor on the basis of recommendation of the Board of Directors. Further, such Secretarial Auditor must be a peer reviewed company secretary and should not have incurred any of the disqualifications as specified by SEBI. 
+
+The Board of Directors, on the recommendation of the Audit Committee, has proposed the appointment of Mr. Ashish C. Doshi, Practicing Company Secretary having Peer Review Certificate No – 6704/2025, holding Membership No. F3544 and Certificate of Practice No. 2356, as the Secretarial Auditor of the Company for a term of five consecutive financial years commencing from FY 2025-26 to FY 2029-30, to conduct the secretarial audit of the Company as prescribed under the Act and the rules made thereunder. 
+
+###### c] Cost Audit: 
+
+Maintenance of cost records and requirements of cost audit as prescribed under the provisions of Section 148[1] of the Act are not applicable for the business activities carried out by the Company. 
+
+
+![](images/2025.pdf-0014-18.png)
+
+**[Image: 2025.pdf-0014-18.png (53x22, 0.8KB)]**
+
+
+**11** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### **27] PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE:** 
+
+As per the requirement of the Sexual Harassment of Women at Workplace [Prevention, Prohibition and Redressal] Act, 2013 [‘POSH Act’] and Rules made thereunder, the Company has formed Internal Complaints Committee [‘ICC’] to address complaints pertaining to sexual harassment in accordance with the POSH Act. The Company has a detailed policy for prevention of sexual harassment which ensures a free and fair enquiry process. While maintaining the highest governance norms, the Company has appointed external committee member who has prior experience in the areas of women empowerment and prevention of sexual harassment. 
+
+The details pertaining to complaints filed under the Sexual Harassment of Women at Work-place [Prevention, Prohibition and Redressal] Act, 2013 during the year under review were: 
+
+|Particulars|Number of Complaints|
+|---|---|
+|Number of complaints received duringFY 2024-25|0|
+|Number of complaints disposed off duringFY 2024-25|0|
+|Number of casespendingfor more than 90 days|0|
+
+
+
+The said policy for prevention of sexual harassment is uploaded on the website of the Company at http://www.haldynglass. <u>com/direct/sexualharassment.pdf</u> 
+
+###### **28] COMPLIANCE WITH MATERNITY BENEFIT ACT, 1961** 
+
+In accordance with the provisions of Section 134[3][q] of the Act read with Rule 8[5] of the Companies [Accounts] Rules, 2014, the Company hereby confirms that it has complied with the applicable provisions of the Maternity Benefit Act, 1961 during the financial year FY 2024-25. 
+
+###### **29] REPORTING OF FRAUDS:** 
+
+There was no instance of fraud during the year under review, which required the Statutory Auditors to report to the Audit Committee and /or Board under Section 143[12] of the Act and Rules framed thereunder. 
+
+###### **30] TRANSFER TO INVESTOR EDUCATION AND PROTECTION FUND [IEPF]:** 
+
+During the year under review, your Company has transferred a sum of ` 5,98,095.85 [Five Lakh Ninety-Eight Thousand and Ninety-Five Rupees and Eighty-Five paise only] to Investor Education and Protection Fund, in compliance with the provisions of Section 125 of the Companies Act, 2013. The said amount represents dividend for the financial year 2016-17 which remained unclaimed by the members of the Company for a period exceeding 7 years from its due date of payment. 
+
+As per the Investor Education and Protection Fund Authority [Accounting, Audit, Transfer and Refund] Rules, 2016, as amended [‘IEPF Rules’], the Company has uploaded the information in respect of the unclaimed dividends on the website of the Company at <u>www.haldynglass.com.</u> 
+
+Pursuant to the provisions of Section 124 of the Act read with the IEPF Rules, all the shares on which dividends remain unpaid or unclaimed for a period of seven consecutive years or more shall be transferred to the demat account of the IEPF Authority as notified by the Ministry of Corporate Affairs. Accordingly, the Company has transferred 27,010 Equity Shares of face value ` 1/- per share to the demat account of the IEPF Authority during financial year 2024-25. 
+
+The Company had sent individual notice to all the Members whose shares were due to be transferred to the IEPF Authority and had also published newspaper advertisements in this regard. The details of such shares transferred to IEPF are uploaded on the website of the Company at <u>www.haldynglass.com</u> 
+
+The Company has appointed a Nodal Officer under the provisions of IEPF, the details of which are available on the Company’s website at <u>www.haldynglass.com</u> 
+
+
+![](images/2025.pdf-0015-16.png)
+
+**[Image: 2025.pdf-0015-16.png (56x22, 0.8KB)]**
+
+
+**1212** 
+
+###### **31] THE DETAILS OF APPLICATION MADE OR ANY PROCEEDING PENDING UNDER THE INSOLVENCY AND BANKRUPTCY CODE, 2016 [31 OF 2016] DURING THE YEAR ALONGWITH THEIR STATUS AS AT THE END OF THE FINANCIAL YEAR:** 
+
+There was no application made against the company or no proceeding pending under the Insolvency and Bankruptcy Code, 2016 [31 of 2016] during the year. 
+
+###### **32] GREEN INITIATIVE:** 
+
+Your Company has considered and adopted the initiative of going green minimizing the impact on the environment. To support the company’s ‘Green Initiative’, members who have not yet registered their email addresses are requested to register the same with their DPs in case the shares are held by them in electronic form and with our Registrar and Share Transfer AgentM/s. MUFG Intime India Private Limited [“RTA”] in case the shares are held by them in physical form. Your Company appeals other Members also to register themselves for receiving Annual Report/documents in electronic form. 
+
+###### **33] ACKNOWLEDGEMENT:** 
+
+The Directors would like to extend their sincere gratitude to the Company’s customers, vendors, and investors for their unwavering confidence and patronage. We are deeply appreciative of the continuous support received from financial institutions, business associates, regulatory and governmental authorities, whose cooperation, support, and guidance have been instrumental in our success. 
+
+The Directors express their utmost appreciation for the dedicated efforts and contributions of every employee including the workmen at our manufacturing plants, who have demonstrated unwavering support and resilience during these challenging times. It is through the collective efforts of our stakeholders and employees that we continue to thrive and achieve our goals. 
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+###### **Narendra Shetty** 
+
+Place : Mumbai Date : August 14, 2025 
+
+Founder Executive Chairman [DIN: 00025868] 
+
+
+![](images/2025.pdf-0016-11.png)
+
+**[Image: 2025.pdf-0016-11.png (53x22, 0.9KB)]**
+
+
+**13** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+##### Annexure-I to the Directors’ Report 
+
+Disclosure as per Regulation 14 of SEBI [Share Based Employee Benefits and Sweat Equity] Regulations, 2021 as on March 31, 2025: 
+
+|**Sr.**<br>**No.**<br>**Particulars**|**Details**||
+|---|---|---|
+|1<br>Relevant disclosures in terms of the accounting standards<br>prescribed by the Central Government in terms of section 133<br>of the Companies Act, 2013 [18 of 2013] including the 'Guidance<br>note on accounting for employee share-based payments' issued<br>in that regard from time to time.|Relevant disclosures are given i<br>Consolidated Financial Statements|n notes of Standalone as well as<br>for the year ended March 31, 2025.|
+|2<br>Diluted EPS on issue of shares pursuant to all the schemes<br>covered under the regulations shall be disclosed in accordance<br>with 'Accounting Standard - Earnings Per Share' issued by Central<br>Government or any other relevant accounting standards as issued<br>from time to time.|The Basic and Diluted EPS has be<br>Ind AS 33 in note no. 33 of Standal<br>Statements for the year ended Marc|en disclosed in accordance with the<br>one as well as Consolidated Financial<br>h 31, 2025.|
+|3<br>**Details related to ESARs:**|ESAR Plan 2021|ESAR Plan 2024|
+|i]<br>a]<br>Date of shareholders’ approval|May 27, 2021 [through postal<br>ballot]|September 19, 2024|
+|b]<br>Total number of shares approved under the ESAR plan Total<br>number of shares approved under the ESAR plan|Not exceeding 10,00,000 [Ten Lakh]<br>equity shares of face value of`1/-<br>each fully paid-up of the Company.|<br> <br>Not exceeding 15,00,000 [Fifteen<br>Lakh] equity shares of face value<br>of`1/- each fully paid-up of the<br>Company.|
+|c]<br>Vesting requirements|All the ESARs granted on any date<br>shall vest not earlier than minimum<br>of 1 [One] year and not later than a<br>maximum of 5 [Five] years from the<br>date of grant of ESARs as may be<br>determined by the Committee.|<br> <br> <br> <br> <br>All the ESARs granted on any date<br>shall vest not earlier than minimum<br>of 1 [One] year and not later than a<br>maximum of 5 [Five] years from the<br>date of grant of ESARs as may be<br>determined by the Committee.|
+||The Committee may extend,<br>shorten or otherwise vary the<br>vesting period from time to time<br>subject to these minimum and<br>maximum vesting period.|<br> <br> <br> <br>The Committee may extend, shorten<br>or otherwise vary the vesting period<br>from time to time subject to these<br>minimum and maximum vesting<br>period.|
+|d]<br>ESARs price or pricing formula|The price per ESAR shall not be less<br>than the face value of equity shares<br>of the Company as on the grant<br>date of such ESARs.|<br> <br> <br>The price per ESAR shall not be less<br>than the face value of equity shares<br>of the Company as on the grant date<br>of such ESARs.|
+|e]<br>Maximum term of ESARs granted|Maximum term of ESARs refers<br>to aggregate of maximum vesting<br>period i.e 5 years from date of grant<br>and maximum exercise period i.e. 5<br>years from date of vesting.|<br> <br> <br> <br>Maximum term of ESARs refers<br>to aggregate of maximum vesting<br>period i.e 5 years from date of grant<br>and maximum exercise period i.e. 5<br>years from date of vesting.|
+|f]<br>Source of shares [primary, secondaryor combination]|Primary|Primary|
+|g]<br>Variation in terms of plan|During the relevant fnancial year,<br>there was no variation|<br>During the relevant fnancial year,<br>there was no variation|
+|ii]<br>Method used to account for ESARs - Intrinsic or fair value.|Fair value|Fair value|
+|iii]<br>Where the company opts for expensing of the ESARs using the<br>intrinsic value of the ESARs, the difference between the employee<br>compensation cost so computed and the employee compensation<br>cost that shall have been recognized if it had used the fair value<br>of the ESARs shall be disclosed. The impact of this difference on<br>profts and on EPS of the companyshall also be disclosed.|Not applicable as the Company<br>has used Fair Value method of<br>accounting.|<br> <br>Not applicable as the Company<br>has used Fair Value method of<br>accounting.|
+
+
+
+
+![](images/2025.pdf-0017-04.png)
+
+**[Image: 2025.pdf-0017-04.png (56x22, 0.8KB)]**
+
+
+**1414** 
+
+|**Sr.**<br>**No.**<br>**Particulars**|**Details**|
+|---|---|
+|iv]<br>**ESARs movement during the year [For each ESAR plan]:**|**ESAR Plan 2021**<br>**ESAR Plan 2024**|
+|Number of options outstanding at the beginning of the period|11,11,000<br>-|
+|Number of options granted during the year|-<br>-|
+|Number of options forfeited during the year|-<br>-|
+|Number of options lapsed during the year|-<br>-|
+|Number of options vested during the year|2,32,610<br>-|
+|Number of options exercised during the year|-<br>-|
+|Number of shares arising as a result of exercise of options|-<br>-|
+|Money realized by exercise of options [INR], if scheme is<br>implemented directlybythe company|-<br>-|
+|Loan repaid by the Trust during the year from exercise price<br>received|-<br>-|
+|Number of options outstanding at the end of the year|8,78,390<br>-|
+|Number of options exercisable at the end of the year|2,32,610<br>-|
+|v]<br>**Weighted-average exercise prices and weighted average fair**<br>**values of ESARs:**||
+|Weighted-average exercise prices of ESARs granted during the<br>year for ESARs whose|Exercise price equals to market<br>price of the stock – Not Applicable<br>Exercise price exceeds market<br>price of the stock – Not Applicable<br>Exercise price is less than the<br>market price of the stock - Not<br>Applicable|
+|Weighted-average fair values of ESARs granted during the year<br>for ESARs whose|Fair value equals to market price of<br>the stock – Not Applicable<br>Fair value exceeds market price of<br>the stock – Not Applicable|
+||Fair value is less than the market<br>price of the stock - Not Applicable<br>|
+|vi]<br>Employee-wise details of ESARs granted during the fnancial year<br>|2024-25: Not applicable<br>|
+|Vii] Description of the method and signifcant assumption used duri<br>information:|ng the year to estimate the fair value of ESARs including the following|
+|The weighted-average values of share price, exercise price,<br>expected volatility, expected option life, expected dividends, the<br>risk-free interest rate and any other inputs to the model;|Please refer Note No. 44 of Standalone as well as Consolidated Financial<br>Statements for the year ended March 31, 2025|
+|The method used and the assumptions made to incorporate the<br>effects of expected early exercise||
+|How expected volatility was determined, including an explanation<br>of the extent to which expected volatility was based on historical<br>volatility;||
+|Whether and how any other features of the ESARs grant were<br>incorporated into the measurement of fair value, such as market<br>condition||
+
+
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+Place : Mumbai Date : August 14, 2025 
+
+**Narendra Shetty** Founder Executive Chairman [DIN: 00025868] 
+
+
+![](images/2025.pdf-0018-04.png)
+
+**[Image: 2025.pdf-0018-04.png (53x22, 0.9KB)]**
+
+
+**15** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+##### Annexure-II to the Directors’ Report 
+
+###### **CONSERVATION OF ENERGY, TECHNOLOGY ABSORPTION AND FOREIGN EXCHANGE EARNINGS AND OUTGO** 
+
+###### **A. CONSERVATION OF ENERGY:** 
+
+In our endeavour to promote ‘green living’, your Company initiated several measures to prevent water and air pollution at all the departments of the Plant. 
+
+Simultaneously, your Company is also making continuous efforts to reduce wastage and optimise energy consumption by adopting innovative measures. 
+
+Following steps are in place/planned for energy conservation: 
+
+- By directly circulating cooling tower water, we were able to stop the compressor cooling secondary circuit PHE pumps, optimizing the cooling process, resulting in reduction in power consumption. 
+
+- By modifying the water distribution line, we were able to stop four cooling tower fans, leading to energy savings. 
+
+- Additional filters were installed on the Atlas 3 compressor to enhance filtration, extend filter life, reduction in power consumption. 
+
+- Vibrator tray magnetic coils replaced with unbalanced motor. 
+
+- At present 1.5 MW of Company’s power requirement is met through renewable power. 
+
+- Energy audit conducted by certified agency and recommendations are being implemented. 
+
+- All conventional lights in the plant are being replaced by LED lights. 
+
+- Through the implementation of energy efficiency measures guided by our GHG consultant, we achieved a significant reduction of 9,734 metric tons of CO2 emissions. 
+
+- Significant progress in water conservation led to a further reduction of 60 Kl in water consumption, achieved through various recycling and conservation initiatives. 
+
+###### **B. TECHNOLOGY ABSORPTION, ADAPTATION AND INNOVATION:** 
+
+Your Company focused its efforts on process improvement and product re-development, which has helped in optimising productivity. 
+
+###### Efforts in brief, made towards technology absorption, adaptation and innovation: 
+
+During the year, the Company upgraded many of its processes using efficient/ automatic equipment imbibing advanced technology to optimise productivity and cost. 
+
+Followings technology upgradation has been done in various areas: 
+
+- State-of-the-art automatic inspection E-Lab installed in quality lab to get dimensional report of sample. 
+
+- The implementation of Narrow Neck Press and Blow [NNPB] technology has enabled the optimization of bottle weight and the attainment of uniform glass distribution. 
+
+- To ensure precision, a Sonicam Gauging machine was installed for accurate mould gauge inspection. 
+
+- In an effort to protect both human health and the environment, a dedusting system was installed. 
+
+###### **C. FOREIGN EXCHANGE EARNINGS AND OUTGO:** 
+
+|**Sr. No.**|**Particulars**|**Amount [**`**in lakhs]**|
+|---|---|---|
+|1.|Foreign Exchange Earnings|8,061.43|
+|2.|Foreign Exchange Outgo|4,735.78|
+
+
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+Place : Mumbai Date : August 14, 2025 
+
+**Narendra Shetty** Founder Executive Chairman [DIN: 00025868] 
+
+
+![](images/2025.pdf-0019-30.png)
+
+**[Image: 2025.pdf-0019-30.png (56x22, 0.9KB)]**
+
+
+**1616** 
+
+##### Annexure-III to the Directors’ Report 
+
+###### **ANNUAL REPORT ON CSR ACTIVITIES TO BE INCLUDED IN THE BOARD’S REPORT FOR FINANCIAL YEAR 2024-25** 
+
+###### **1. Brief outline on CSR Policy of the Company:** 
+
+Corporate Social Responsibility [“CSR”] embodies the various initiatives and programs of the Company in the communities and environment in which Company operates. It represents the continuing commitment and actions of the Company to contribute towards economic and social development and growth. 
+
+The projects undertaken are within the broad framework of schedule VII of the Companies Act, 2013. 
+
+Details of the CSR Policy and projects or programs undertaken by the Company are available on the website of the Company on <u>www.haldynglass.com</u> 
+
+###### **2. Composition of CSR Committee:** 
+
+|Sr.<br>No.|Name of Director|Designation / Nature of Directorship|Number of meetings of<br>CSR Committee held<br>duringtheyear|Number of meetings<br>of CSR Committee<br>attended duringtheyear|
+|---|---|---|---|---|
+|1.|Mr. Tarun Shetty|Chairman of CSR Committee<br>[ManagingDirector]|2|2|
+|2.|Mrs. Kishori Udeshi<br>[upto 06.09.2024]|Member of CSR Committee [Non-<br>Executive, Independent Director]|2|1*|
+|3.|Mr. Sikandar Talwar<br>[upto 06.09.2024]|<br>Member of CSR Committee [Non-<br>Executive, Independent Director]|2|1*|
+|4.|Mrs. Mona Cheriyan<br>[w.e.f. 06.09.2024]|<br>Member of CSR Committee [Non-<br>Executive, Independent Director]|2|1*|
+|5.|Mr. Rohan Ajila<br>[w.e.f. 06.09.2024]|Member of CSR Committee [Non-<br>Executive, Non-Independent Director]|2|1*|
+
+
+
+*Note: The Board of Directors re-constituted the CSR Committee effective 06.09.2024. 
+
+###### **3. Provide the web-link where Composition of CSR committee, CSR Policy and CSR projects approved by the board are disclosed on the website of the company:** 
+
+|Sr.|Particulars|Web-link|
+|---|---|---|
+|No.|||
+|1.|Composition of the CSR Committee|https://www.haldynglass.com/direct/csr-committeecomposition.pdf|
+|2.|CSRpolicy|https://www.haldynglass.com/direct/csr-policy.pdf|
+|3.|CSRprojects|https://www.haldynglass.com/direct/csr-projects-2024-2025.pdf|
+
+
+
+**4. Provide the executive summary along with web-link[s] of Impact Assessment of CSR Projects carried out in pursuance of sub-rule [3] of rule 8, if applicable:** Not applicable 
+
+**5.** [a] Average net profit of the company as per sub-section [5] of section 135: ` 20,48,52,333/- 
+
+   - [b] Two percent of average net profit of the company as per sub-section [5] of section 135: ` 40,97,047/- 
+
+   - [c] Surplus arising out of the CSR projects or programmes or activities of the previous financial years: Nil 
+
+   - [d] Amount required to be set off for the financial year, if any: Nil 
+
+   - [e] Total CSR obligation for the financial year [[b]+[c]-[d]]: ` 40,97,047/- 
+
+
+![](images/2025.pdf-0020-17.png)
+
+**[Image: 2025.pdf-0020-17.png (53x22, 0.8KB)]**
+
+
+**17** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**6.** [a] Amount spent on CSR Projects [both Ongoing Project and other than Ongoing Project]: ` 41,89,000/- spent on other than ongoing projects. 
+
+   - [b] Amount spent in Administrative Overheads: Nil 
+
+   - [c] Amount spent on Impact Assessment, if applicable: Not applicable 
+
+   - [d] Total amount spent for the Financial Year [[a]+[b]+[c]]: ` 41,89,000/- 
+
+   - [e] CSR amount spent or unspent for the Financial Year: 
+
+
+![](images/2025.pdf-0021-06.png)
+
+**[Image: 2025.pdf-0021-06.png (988x440, 65.5KB)]**
+
+
+<!-- Start of picture text -->
+Total Amount   Amount Unspent [in  ` ]<br>Spent for the<br>Financial Year   Total Amount transferred to   Amount transferred to any fund specified under Schedule VII as<br>[in  ` ] Unspent CSR Account as per   per second proviso to sub-section [5] of section 135<br>sub-section [6] of section 135<br>Amount Date of Transfer Name of the Fund Amount Date of Transfer<br>`  41,89,000/- Nil Nil Nil Nil Nil<br>Excess amount for set off, if any:<br>Sr.  Particular Amount [in  ` ]<br>No.<br>[i] Two percent of average net profit of the company as per sub-section [5] of section 135 `  40,97,047/-<br>[ii] Total amount spent for the Financial Year `  41,89,000/-<br>[iii] Excess amount spent for the financial year [[ii]-[i]] `  91,953/-<br>[iv] Surplus arising out of the CSR projects or programmes or activities of the previous financial years, if any Nil<br>[v] Amount available for set off in succeeding financial years [[iii]-[iv]] `  91,953/-<br><!-- End of picture text -->
+
+   - [f] Excess amount for set off, if any: 
+
+7. Details of Unspent Corporate Social Responsibility amount for the preceding three financial years: 
+
+|Sr.<br>No.|Preceding<br>Financial<br>Year[s]|Amount transferred to<br>Unspent CSR Account<br>under Sub-section [6]<br>of section 135<br>[in`]|Balance Amount in Unspent<br>CSR Account under sub-<br>section [6] of section 135<br>[in`]|Amount<br>Spent<br>in the<br>Financial<br>Year<br>[in`]|Amount<br>as speci<br>VII as p<br>sec<br>Name<br>of the<br>fund|transferred<br>fed under<br>er sub-sect<br>tion 135, if<br>Amount<br>[in`]|to a fund<br>Schedule<br>ion [5] of<br>any<br>Date of<br>transfer|Amount<br>remaining to<br>be spent in<br>succeeding<br>fnancial<br>years<br>[in`]|Defciency,<br>if any|
+|---|---|---|---|---|---|---|---|---|---|
+|1.|FY-1|||||||||
+|2.|FY-2|||N.A.||||||
+|3.|FY-3|||||||||
+
+
+
+8. Whether any capital assets have been created or acquired through Corporate Social Responsibility amount spent in the Financial Year: 
+
+Yes No 
+
+If Yes, enter the number of Capital assets created/ acquired: NA 
+
+Furnish the details relating to such asset[s] so created or acquired through Corporate Social Responsibility amount spent in the Financial Year: Not Applicable 
+
+
+![](images/2025.pdf-0021-14.png)
+
+**[Image: 2025.pdf-0021-14.png (56x22, 0.9KB)]**
+
+
+**1818** 
+
+|**Sl.**|**Short**|**Pincode of**|**Date of  creation**|**Amount of CSR**|**Details of entity/ Autho**|**rity/benefciary**|**of the registered owner**|
+|---|---|---|---|---|---|---|---|
+||**particulars of**|**the**||||||
+|**No.**|<br>**the property or**<br>**asset[s]**<br>**[including**<br>**complete**<br>**address and**<br>**location of the**<br>**property]**|**property**<br>**or asset[s]**||**amount spent**|**CSR Registration**<br>**Number, if**<br>**applicable**|**Name**|**Registered address**|
+|||||N.A.|CSR Registration<br>Number, if applicable|Name|Registered address|
+
+
+
+[All the fields should be captured as appearing in the revenue record, flat no, house no, Municipal Office/Municipal Corporation/ Gram panchayat are to be specified and also the area of the immovable property as well as boundaries] 
+
+**9. Specify the reason[s], if the company has failed to spend two per cent of the average net profit as per sub-section [5] of section 135:** Not applicable 
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+Place : Mumbai Date : August 14, 2025 
+
+Tarun Shetty Managing Director and Chairman of CSR Committee [DIN: 00587108] 
+
+
+![](images/2025.pdf-0022-06.png)
+
+**[Image: 2025.pdf-0022-06.png (53x22, 0.9KB)]**
+
+
+**19** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+##### Annexure-IV to the Directors’ Report 
+
+###### **Form AOC-1** 
+
+[Pursuant to first proviso to sub-section [3] of section 129 read with rule 5 of Companies [Accounts] Rules, 2014] 
+
+###### Statement containing salient features of the financial statement of subsidiaries/ associate companies/joint ventures 
+
+###### Part “A”: Subsidiaries 
+
+###### [information in respect of each subsidiary to be presented with amounts in ` lakhs] 
+
+|S. No.|Particulars|Details|
+|---|---|---|
+|1.|Name of the subsidiary|Haldyn Glass USA Inc.|
+|2.|The date since when subsidiary acquired|December 19, 2022|
+|3.|Reporting period for the subsidiary concerned, if different from the holding Company’s reporting<br>period|March 31, 2025|
+|4.|Reporting currency and Exchange rate as on the last date of the relevant fnancial year in the<br>case of foreign subsidiaries|INR [85.5814/$]|
+|5.|Share Capital|0.83|
+|6.|Reserves and surplus|123.69|
+|7.|Total assets|269.40|
+|8.|Total Liabilities|144.88|
+|9.|Investments|Nil|
+|10.|Turnover|1,176.53|
+|11.|Proft / [loss] before taxation|70.60|
+|12.|Provision for taxation|15.44|
+|13.|Proft / [loss] after taxation|55.16|
+|14.|Proposed Dividend|Nil|
+|15.|Extent of shareholding [in percentage]|100%|
+
+
+
+1. Names of subsidiaries which are yet to commence operations. - N.A. 2. Names of subsidiaries which have been liquidated or sold during the year. - N.A. 
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+Place : Mumbai Date : August 14, 2025 
+
+**Narendra Shetty** Founder Executive Chairman [DIN: 00025868] 
+
+
+![](images/2025.pdf-0023-12.png)
+
+**[Image: 2025.pdf-0023-12.png (56x22, 0.9KB)]**
+
+
+**2020** 
+
+###### **Part “B”: Associates and Joint Ventures** 
+
+###### **Statement pursuant to section 129 [3] of the Act related to Associate Companies and Joint Ventures** 
+
+|**Sr. No.**|**Particulars**|**Details**|
+|---|---|---|
+|1|Name of associates/Joint Ventures|Haldyn Heinz Fine Glass Private Limited|
+|2|Latest audited Balance Sheet Date|March 31, 2025|
+|3|Date on which the Associate or Joint Venture was associated or<br>acquired|June 24, 2015|
+|4|Shares of Associate/Joint Ventures held by the company on the<br>year end:||
+||[a]<br>Number of shares|1,04,37,500 Equity Shares of`10 each|
+||[b]<br>Amount of Investment in Associates/Joint Venture|`4175 lakhs|
+||[C]<br>Extent of Holding [in percentage]|56.80%|
+|5|Description of how there is signifcant influence|Both Joint Venture Partners have equal management<br>rights as per terms and conditions of JV Agreement|
+|6|Reason why the associate/joint venture is not consolidated|N.A.|
+|7|Net worth attributable to shareholding as per latest audited<br>Balance Sheet|`3,911.46 Lakhs|
+|8|Proft / [Loss] for the year :||
+||[a]<br>Considered in Consolidation|`523.80 Lakhs|
+||[b]<br>Not Considered in Consolidation|Nil|
+|1.<br>Na|mes of associates or joint ventures which are yet to commence oper|ations<br>– Nil|
+
+
+
+2. Names of associates or joint ventures which have been liquidated or sold during the year – Nil 
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+###### **Narendra Shetty** 
+
+Place : Mumbai Date : August 14, 2025 
+
+Founder Executive Chairman [DIN: 00025868] 
+
+
+![](images/2025.pdf-0024-08.png)
+
+**[Image: 2025.pdf-0024-08.png (53x22, 0.8KB)]**
+
+
+**21** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+##### Annexure-V to the Directors’ Report 
+
+###### **I. DETAILS PERTAINING TO REMUNERATION AS REQUIRED UNDER SECTION 197[12] OF THE ACT READ WITH RULE 5[1] OF THE COMPANIES [APPOINTMENT AND REMUNERATION OF MANAGERIAL PERSONNEL] RULES, 2014** 
+
+- a] The percentage increase in remuneration of each Director, Chief Financial Officer, Chief Executive Officer and Company Secretary during the financial year [“FY”] 2024-25, ratio of the remuneration of each Director to the median remuneration of the employees of the Company for the financial year 2024-25: 
+
+|No.|Name of Director / KMP|Designation|% increase in<br>remuneration in FY<br>2024-25|Ratio of remuneration to<br>median remuneration of<br>employees|
+|---|---|---|---|---|
+|1.|Mr. Rohan Ajila|Non-Executive Director|26.54|4.51|
+|2.|Mrs. Kishori Udeshi<sup>*</sup>|Non-Executive Director|[7.56]|4.24|
+|3.|Mr. Sikandar Talwar<sup>*</sup>|Non-Executive Director|[1.78]|3.42|
+|4.|Mr. Ajit Shah|Non-Executive Director|14.91|4.92|
+|5.|Mr. G. Padmanabhan|Non-Executive Director|22.19|5.47|
+|6.|Mrs. Mona Cheriyan<sup>#</sup>|Non-Executive Director|N.A.|1.64|
+|7.|Mr. Narendra Shetty|Executive Chairman|[3.05]|68.59|
+|8.|Mr. Tarun Shetty|Managing Director|24.51|121.17|
+|9.|Mr. Niraj Tipre|Chief Executive Offcer|[9.58]|117.99|
+|10.|Mr. Ganesh Prasad Chaturvedi|Chief Financial Offcer|8.52|25.90|
+|11.|Mr. Dhruv Mehta|Company Secretary &<br>Compliance Offcer|20.69|6.30|
+
+
+
+Non Executive directors’ remuneration reflects sitting fees, commission and out of pocket expenses 
+
+* Ceased to be Director w.e.f. September 09, 2024 
+
+   - # Director w.e.f. August 13, 2024 
+
+- b] The median remuneration of employees of the Company during the financial year was ` 2,73,923 /-. 
+
+- c] In the financial year, there was a decrease of 26% in the median remuneration of employees; 
+
+- d] There were 445 permanent employees including directors on the rolls of Company as on March 31, 2025. 
+
+- e] Average percentile increase already made in the salaries of employees other than the managerial personnel in the last financial year was 14.00% whereas the percentile increase in the managerial remuneration for the same financial year was 3.76%. 
+
+- f] It is hereby affirmed that the remuneration paid is as per the as per the Remuneration Policy for Directors, Key Managerial Personnel and other Employees. 
+
+###### Notes: 
+
+- a] Remuneration of the Executive Chairman and the Managing Director includes Salary, House Rent Allowance/Rent free furnished accommodation, Commission, Reimbursement of Medical Expenses, Leave Travel Assistance and other perquisites evaluated as per the Income-tax Rules, 1962, excluding Company’s Contribution to Provident Fund. 
+
+
+![](images/2025.pdf-0025-15.png)
+
+**[Image: 2025.pdf-0025-15.png (56x22, 0.8KB)]**
+
+
+**2222** 
+
+- b] Appointment of the Executive Chairman and the Managing Director are on contractual basis. Other terms and conditions are as per the agreement / terms of appointment between the incumbents and the Company. 
+
+- c] Mr. Narendra Shetty and Mr. Tarun Shetty are related to each other and to Mr. Rohan Ajila, Non-Executive Director. 
+
+###### **II. Disclosures in terms of the provisions of Section 197[12] of the Companies Act, 2013 read with Rules 5[2] and 5[3] of the Companies [Appointment and Remuneration of Managerial Personnel] Rules, 2014:** 
+
+In terms of Section 136 of the Act, the Annual Report is being sent to the shareholders and others entitled thereto, excluding the said disclosure, which is available for inspection by the shareholders at the Registered Office of your Company during business hours on working days of your Company. If any shareholder is interested in obtaining a copy thereof, such shareholder may write to the Company Secretary in this regard. 
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+Place : Mumbai Date : August 14, 2025 
+
+**Narendra Shetty** Founder Executive Chairman [DIN: 00025868] 
+
+
+![](images/2025.pdf-0026-07.png)
+
+**[Image: 2025.pdf-0026-07.png (53x22, 0.9KB)]**
+
+
+**23** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+##### Annexure-VI to the Directors’ Report 
+
+##### **Form No. MR-3** 
+
+##### **SECRETARIAL AUDIT REPORT** 
+
+##### **FOR THE FINANCIAL YEAR ENDED 31**<sup>**ST**</sup> **MARCH, 2025** 
+
+[Pursuant to section 204 [1] of the Companies Act, 2013 and Rule No. 9 
+
+of the Companies [Appointment and Remuneration of Managerial Personnel] Rules, 2014] 
+
+To 
+
+The Members 
+
+###### **Haldyn Glass Limited** 
+
+B-1201, Lotus Corporate Park, Off Western Express Highway, Goregaon [East], Mumbai 400063 
+
+We have conducted the Secretarial Audit of the compliance of applicable statutory provisions and the adherence to good corporate practices by **Haldyn Glass Limited** having CIN: L51909GJ1991PLC015522 [hereinafter called “the Company”]. Secretarial Audit was conducted in a manner that provided us a reasonable basis for evaluating the corporate conducts/statutory compliances and expressing our opinion thereon. 
+
+Based on our verification of the Company’s books, papers, minute books, forms and returns filed and other records maintained by the Company and also the information provided by the Company, its officers, agents and authorized representatives during the conduct of secretarial audit, We hereby report that in our opinion, the Company has, during the audit period covering the financial year ended on  31st March, 2025 generally complied with the statutory provisions listed hereunder and also that the Company has proper Board processes and compliance mechanism in place to the extent, in the manner and subject to the reporting made hereinafter: 
+
+We have examined the books, papers, minute books, forms and returns filed and other records maintained by the Company for the financial year ended 31<sup>st</sup> March, 2025 according to the provisions of: 
+
+- [i] The Companies Act, 2013 [the Act] and the rules made thereunder; 
+
+- [ii] The Securities Contracts [Regulation] Act, 1956 [‘SCRA’] and the rules made thereunder; 
+
+- [iii] The Depositories Act, 1996 and the Regulations and Bye-laws framed thereunder; 
+
+- [iv] The following Regulations and Guidelines prescribed under the Securities and Exchange Board of India Act, 1992 [‘SEBI Act’]:- 
+
+   - [a] The Securities and Exchange Board of India [Substantial Acquisition of Shares and Takeovers] Regulations, 2011; 
+
+   - [b] The Securities and Exchange Board of India [Prohibition of Insider Trading] Regulations, 2015; 
+
+   - [c] The Securities and Exchange Board of India [Share Based Employee Benefits and Sweat Equity] Regulations, 2021; and 
+
+   - [d] The Securities and Exchange Board of India [Registrar to an Issue and Share Transfer Agents] Regulations, 1993 regarding the Companies Act and dealing with client; 
+
+As per the representations made by the management and relied upon by us, during the period under review, provisions of the following regulations were not applicable to the Company: 
+
+- [i] Foreign Exchange Management Act, 1999 and the rules and regulations made thereunder to the extent of Foreign Direct Investment and Overseas Direct Investment; 
+
+- [ii] The following Regulations and Guidelines prescribed under the Securities and Exchange Board of India Act, 1992 [‘SEBI Act’]:- 
+
+   - [a] The Securities and Exchange Board of India [Issue of Capital and Disclosure Requirements] Regulations, 2018; 
+
+   - [b] The Securities and Exchange Board of India [Issue and Listing of Debt Securities] Regulations, 2008; 
+
+
+![](images/2025.pdf-0027-27.png)
+
+**[Image: 2025.pdf-0027-27.png (56x22, 0.8KB)]**
+
+
+**2424** 
+
+- [c] The Securities and Exchange Board of India [Delisting of Equity Shares] Regulations, 2021; 
+
+- [d] The Securities and Exchange Board of India [Issue and Listing of Non-Convertible and Redeemable Preference Shares] Regulations, 2013; and 
+
+- [e] The Securities and Exchange Board of India [Buy-back of Securities] Regulations, 2018. 
+
+We have also examined compliance with the applicable clauses of the following: 
+
+- [i] Secretarial Standards 1 & 2 issued by the Institute of Company Secretaries of India under the Companies Act, 2013. 
+
+- [ii] The Securities and Exchange Board of India [Listing Obligations and Disclosure Requirements] Regulations, 2015. 
+
+During the period under review the Company has complied with the provisions of the Act, Rules, Regulations, Guidelines, Standards, etc. to the extent applicable. 
+
+We further report that: 
+
+The Board of Directors of the Company is duly constituted with proper balance of Executive Directors, Non-Executive Directors and Independent Directors. The changes in the composition of the Board of Directors, if any, that took place during the period under review were carried out in compliance with the provisions of the Act. 
+
+Adequate notice is given to all directors to schedule the Board Meetings, agenda and detailed notes on agenda were generally sent at least seven days in advance and a system exists for seeking and obtaining further information and clarifications on the agenda items before the meeting and for meaningful participation at the meeting. 
+
+Majority decision is carried through and as informed, there were no dissenting members’ views and hence not recorded as part of the minutes. 
+
+We further report that as per the explanations given to us in the representations made by the management and relied upon by us there are adequate systems and processes in the Company commensurate with the size and operations of the Company to monitor and ensure compliance with applicable laws, rules, regulations and guidelines. 
+
+As per the explanations given to us in the representations made by the management and relied upon by us, I further report that, during the audit period, there were no other specific events / actions in pursuance of the above referred laws, rules, regulations, guidelines, etc., having a major bearing on the Company’s affairs. 
+
+|||Sd/-|
+|---|---|---|
+||Name of practicing CS :|For P. Diwan & Associates<br>CS Prashant Diwan|
+|||Partner|
+||FCS No. :|1403|
+|Place: Mumbai|C P No. :|1979|
+|Date: 14/08/2025|UDIN :|F001403G001013337|
+||Peer Review No:|1683/2022|
+
+
+
+This report is to be read with our letter of even date which is annexed as **Annexure A** and forms an integral part of this report. 
+
+
+![](images/2025.pdf-0028-15.png)
+
+**[Image: 2025.pdf-0028-15.png (53x22, 0.9KB)]**
+
+
+**25** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**Annexure “A”** 
+
+##### **Form No. MR-3** 
+
+##### **SECRETARIAL AUDIT REPORT FOR THE FINANCIAL YEAR ENDED 31**<sup>**ST**</sup> **MARCH, 2025** 
+
+[Pursuant to section 204 [1] of the Companies Act, 2013 and Rule No. 9 of the Companies [Appointment and Remuneration of Managerial Personnel] Rules, 2014] 
+
+To The Members 
+
+###### **Haldyn Glass Limited** 
+
+B-1201, Lotus Corporate Park, Off Western Express Highway, Goregaon [East], Mumbai 400063 
+
+Our report of even date is to be read along with this letter. 
+
+1. Maintenance of secretarial record is the responsibility of the management of the company. Our responsibility is to express an opinion on these secretarial records based on our audit. 
+
+2. We have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the correctness of the contents of Secretarial records. The verification was done on test basis to ensure that correct facts are reflected in secretarial records. We believe that the processes and practices, we followed provide a reasonable basis for our opinion. 
+
+3. We have not verified the correctness and appropriateness of financial records and books of Accounts of the company. 
+
+4. Wherever required, we have obtained the Management representation about the compliance of laws, rules and regulations and happening of events etc. 
+
+5. The compliance of the provisions of Corporate, Specific and other applicable laws, rules, regulations, standards is the responsibility of management. Our examination was limited to the verification of procedures on test basis. 
+
+6. The Secretarial Audit report is neither an assurance as to the future viability of the company nor of the efficacy or effectiveness with which the management has conducted the affairs of the company. 
+
+Place: Mumbai Date: 14/08/2025 
+
+Sd/Name of practicing CS : For P. Diwan & Associates CS Prashant Diwan Partner FCS No. : 1403 C P No. : 1979 UDIN : F001403G001013337 Peer Review No: 1683/2022 
+
+
+![](images/2025.pdf-0029-17.png)
+
+**[Image: 2025.pdf-0029-17.png (56x22, 0.9KB)]**
+
+
+**2626** 
+
+### **Corporate Governance Report** 
+
+The Board of Directors present the Company’s report on Corporate Governance for the Financial Year [“FY”] 2024-25 as hereunder, pursuant to the requirements of Regulation 34[3] read with Schedule V[C] of SEBI [Listing Obligations and Disclosure Requirements] Regulations, 2015 [hereinafter referred to as “Listing Regulations”] and other provisions as may be applicable. 
+
+###### **1]** COMPANY’S PHILOSOPHY ON CORPORATE GOVERNANCE: 
+
+Our corporate governance philosophy drives our business strategies, ensuring fiscal accountability, ethical behaviour and fairness to all stakeholders. The Corporate Governance is ongoing process and your Company has always focused on good corporate governance, which is a key driver of sustainable growth, value creation, and trust. The management and employees of the Company are committed to uphold the core values of transparency, integrity, honesty and accountability. 
+
+Your Company confirms the compliance of various provisions relating to Corporate Governance stipulated in Listing Regulations, the details of which are given below: 
+
+###### 2] BOARD OF DIRECTORS: 
+
+###### **[a] Appointment and Tenure:** 
+
+The Directors of the Company are appointed by the Shareholders at General Meetings. At every Annual General Meeting, 1/3rd of Directors as are liable to retire by rotation, if eligible, generally offer themselves for re-election, in accordance with the provisions of Companies Act, 2013 [“the Act”]. Independent Directors are not liable to retire by rotation. The Executive Directors on the Board serve in accordance with the terms of their contracts of service with the Company. 
+
+###### **[b] Composition of Board of Directors and attendance record of each Director:** 
+
+The Company has an optimum mix of Executive and Non-Executive Independent Directors including woman director. All the members of the Board are competent and are persons of repute with strength of character, professional eminence, having the expertise in their respective disciplines to deal with the management functions of the company. 
+
+As on March 31, 2025, the Company’s Board consists of 6 [Six] Directors out of which 3 [Three] Directors are NonExecutive Independent Directors [including a Woman Director], 1 [One] Director is Non-Executive Non-Independent Director and 2 [Two] are Executive Directors including 1 [One] Chairman and 1 [One] Managing Director. 
+
+The composition of the Board of Directors of the Company is in conformity with Regulation 17 of Listing Regulations. 
+
+The details of composition of the Board, the attendance record of the Directors at the Board Meetings held during the financial year ended March 31, 2025 and at the last Annual General Meeting [“AGM”] and the details of their other Directorships and Committee Chairmanships and Memberships are given below: 
+
+|Name of Directors|Category|Position /<br>Designation|Attendance at<br>FY 2|meetings during<br>024-25|Other Directorships<br>in Indian Public<br>Companies as on<br>|Committee Chairm<br>Membership[s] in I<br>Companies as on M|anship[s] /<br>ndian Public<br>arch 31, 2025|
+|---|---|---|---|---|---|---|---|
+||||Board<br>Meetings|33<sup>rd</sup>Annual<br>General Meeting|March 31, 2025|Chairperson|Member|
+|Mr. Narendra Shetty<br>[Din: 00025868]|Executive Director<br>[Promoter Group]|Chairman|6|Yes|1|—|—|
+|Mr. Tarun Shetty<br>[Din: 00587108]|Executive Director<br>[Promoter group]|Managing<br>Director|6|Yes|—|—|—|
+|Mr. Rohan Ajila<br>[Din: 01549005]|Non-Executive Director<br>[Promoter group]|Director|6|Yes|2|—|1|
+|Mr. Ajit Shah<br>[Din: 02396765]|Non-Executive,<br>Independent Director|Director|6|Yes|1|2|–|
+
+
+
+
+![](images/2025.pdf-0030-14.png)
+
+**[Image: 2025.pdf-0030-14.png (53x22, 0.8KB)]**
+
+
+**27** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|Name of Directors|Category|Position /<br>Designation|Attendance at<br>FY 2|meetings during<br>024-25|Other Directorships<br>in Indian Public<br>Companies as on<br>|Committee Chairm<br>Membership[s] in I<br>Companies as on M|anship[s] /<br>ndian Public<br>arch 31, 2025|
+|---|---|---|---|---|---|---|---|
+||||Board<br>Meetings|33<sup>rd</sup>Annual<br>General Meeting|March 31, 2025|Chairperson|Member|
+|Mr. G. Padmanabhan<br>[Din: 07130908]|Non-Executive,<br>Independent Director|Director|6|No|3|-|-|
+|Mrs. Mona Cheriyan<br>[Din: 10479050]<sup>#</sup>|Non-Executive,<br>Independent Director|Director|2|No|2|—|1|
+|Mrs. Kishori Udeshi<br>[DIN : 01344073]<sup>*</sup>|Non-Executive,<br>Independent Director|Director|4|No|-|-|-|
+|Mr. Sikandar Talwar<br>[DIN : 01630705]<sup>*</sup>|Non-Executive,<br>Independent Director|Director|4|No|-|-|-|
+
+
+
+- # Director w.e.f August 13, 2024 
+
+- Ceased to be Director w.e.f. September 09, 2024 
+
+###### Notes: 
+
+- Directorships held by Directors as mentioned above, excludes directorship in Haldyn Glass Limited and also excludes directorship in Private Limited Companies, Overseas Companies and Section 8 Companies. 
+
+- In terms of Regulation 26[1][b] of Listing Regulations, Chairmanship / membership of the Audit Committee and Stakeholder Relationship Committee in other Indian Public Companies [listed and unlisted] excluding Haldyn Glass Limited are considered. 
+
+- Mr. Narendra Shetty, Executive Chairman is a father of Mr. Tarun Shetty, Managing Director and father-in-law of Mr. Rohan Ajila, Non-Executive Non-Independent Director. Mr. Tarun Shetty, Managing Director is a son of Mr. Narendra Shetty, Executive Chairman and brother-in-law of Mr. Rohan Ajila, Non-Executive Non-Independent Director. Mr. Rohan Ajila, is a son-in-law of Mr. Narendra Shetty, Executive Chairman and brother-in-law of Mr. Tarun Shetty, Managing Director of the Company. None of the other directors are related to each other. 
+
+- The number of Directorship[s], committee membership[s]/chairmanship[s] of all Directors is/are within the respective limits prescribed under the Act and Listing Regulations. 
+
+###### **[c] Details of Directorships in other listed Companies:** 
+
+|Sr.<br>No.|Name of Directors|Name of the Listed Companies|Category of Directorship|
+|---|---|---|---|
+|1.|Mr. Narendra Shetty|Nil|-|
+|2.|Mr. Tarun Shetty|Nil|-|
+|3.|Mr. Rohan Ajila|Nil|-|
+|4.|Mrs. Mona Cheriyan|Nil|-|
+|5.|Mr. Ajit Shah|Sunshield Chemicals Limited|Non-Executive Independent Director|
+|6.|Mr. G. Padmanabhan|Axis Bank Limited, ION Exchange [India] Limited|Non-Executive Independent Director|
+
+
+
+###### **[d] Details of Skills/expertise/competence of the Board of Directors:** 
+
+The Board of Directors of your Company comprises of qualified members who have the skills, expertise and competencies to make effective contribution to the growth of the Company as well as on matters discussed in the Board and the Committee meetings and ensuring that the Company is in compliance with the requisite standards of Corporate Governance. 
+
+
+![](images/2025.pdf-0031-13.png)
+
+**[Image: 2025.pdf-0031-13.png (56x22, 0.9KB)]**
+
+
+**2828** 
+
+The following table summarises the list of core skills, expertise and competencies of the Board members individually: 
+
+|Sr.|Name of the Director[s]|Skills / Expertise / Competencies|
+|---|---|---|
+|No.|||
+|1.|Mr. Narendra Shetty|Leadership, HR skills and hands on experience of technology in production, marketing & management of<br>the business of glass bottles manufacturing.|
+|2.|Mr. Tarun Shetty|Leadership, Business and HR Management skills. Hands on experience of glass bottles manufacturing.|
+|3.|Mr. Rohan Ajila|Financial, Business Strategy & Management skills.|
+|4.|Mr. Ajit Shah|Professional Experience and skills in Accounting & Audit.|
+|5.|Mr. G. Padmanabhan|Leadership skills and experience in fnancial regulatory matters and audits, Information Technology.|
+|6.|Mrs. Mona Cheriyan|Leadership skills and experience in Human Resource Management.|
+
+
+
+###### **[e] Board Meetings:** 
+
+During financial year 2024-2025, Six [6] Board Meetings were held on [1] April 04, 2024 [2] April 29, 2024 [3] May 24, 2024 [4] August 13, 2024 [5] November 12, 2024 and [6] February 06, 2025. The Board met at least once in every Calendar Quarter and the gap between two Meetings did not exceed one hundred and twenty days. 
+
+###### **[f] Independent Directors:** 
+
+Considering the requirement of skill sets on the Board, eminent people having an independent standing in their respective field/ profession and who can effectively contribute to the Company’s business and policy decisions are considered by the Nomination and remuneration Committee, for appointment as Independent Directors on the Board. The Committee, inter-alia, considers qualification, positive attributes, area of expertise and number of Directorships and Memberships held in various committees of other companies by such persons. The Board considers the Committee’s recommendation and takes appropriate decision. 
+
+During the FY 2024-25, the Company has received declarations on criteria of independence as provided in Section 149[6] of the Act and confirmations under Regulation 16[1][b] of Listing Regulations from the directors who have been classified as Independent Directors as on March 31, 2025. In the opinion of the Board, all Independent Directors meet the criteria of Independence as laid down under Section 149[6] of the Act and regulation 16[1][b] of Listing Regulations, as amended from time to time and they are independent of management. 
+
+In terms of Regulation 25[8] of Listing Regulations, Independent Directors have confirmed that they are not aware of any circumstance or situation which exists or may be reasonably be anticipated that could impair or impact their ability to discharge their duties. 
+
+Further, the Independent Directors have in terms of Section 150 of the Act read with Rule 6 of the Companies [Appointment & Qualification of Directors] Rules, 2014, as amended from time to time, confirmed that they have enrolled themselves in the Independent Directors’ Databank maintained with the Indian Institute of Corporate Affairs. 
+
+- Number of Independent Directorships: 
+
+As per Regulation 17A of the Listing Regulations, Independent Directors of the Company do not serve as Independent Director in more than seven listed companies. Further, the Managing Director of the Company does not serve as an Independent Director in any listed entity. 
+
+- Separate Meeting of Independent Directors: 
+
+During the year under review, the independent Directors met on March 19, 2025, without the presence of Nonindependent Directors and the management, inter-alia to discuss: 
+
+- i. Evaluation of the performance of Non-Independent Directors and the Board of Directors as a whole. 
+
+- ii. Evaluation of the performance of the Chairman of the Company. 
+
+- iii. Evaluation of the quality, content and timeliness of the flow of information between the Management and the Board of Directors that is necessary for the Board to effectively and reasonably perform the duties. 
+
+
+![](images/2025.pdf-0032-16.png)
+
+**[Image: 2025.pdf-0032-16.png (53x22, 0.9KB)]**
+
+
+**29** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+The Meeting was attended by all the Independent Directors. 
+
+- Formal Letter of appointment to the Independent Directors: 
+
+The Company has issued formal letters of appointment to all the Independent Directors on their appointment explaining inter-alia, their roles, responsibilities, code of conduct, functions and duties as Directors of the Company. The terms and conditions of appointment of Independent Directors have been posted on the website of the Company i.e. <u>www.haldynglass.com</u> and the weblink thereto is <u>http://www.haldynglass.com/direct/termsofappointment.pdf</u> 
+
+- Familiarization Programme for Independent Directors: 
+
+The familiarization programme is an ongoing process. Pursuant to Regulation 25[7] of Listing Regulations, the Company has familiarized its Independent Directors with the Company, their roles, rights, responsibilities in the Company, nature of the industry in which the Company operates, business model of the Company etc. The Independent Directors are provided with necessary information, documents, reports, regulatory updates at Board and Audit Committee Meetings and internal policies to enable them to familiarize with the Company’s procedures and practices. 
+
+The details of the Familiarization Programme for Independent Directors are posted on the website of the Company i.e. <u>www.haldynglass.com and the weblink thereto is http://www.haldynglass.com/direct/familiarisationprogram-2024-25.pdf</u> 
+
+###### **[g] Shareholding of Directors:** 
+
+The details of shares held by Directors as on March 31, 2025 are as under: 
+
+|Sr.|Names of Director|Number of Shares|% of total Shareholding|
+|---|---|---|---|
+|No.||||
+|1.|Mr. Tarun Shetty|1092960|2.03|
+
+
+
+Except above, none of the Directors holds any shares in the Company as on March 31, 2025. 
+
+###### **h] Code of Conduct:** 
+
+The Company has framed a code of conduct for the Board of Directors and Senior Management Personnel of the Company which is posted on website of the Company i.e www.haldynglass.com and the weblink thereto is https://www. <u>haldynglass.com/direct/codeofconduct.pdf. All the Board of Directors and Senior Management of the Company have</u> affirmed compliance with the code of conduct for the financial year ended March 31, 2025. A declaration to this effect, duly signed by Mr. Niraj Tipre, Chief Executive Officer is annexed hereto. 
+
+###### 3] COMMITTEES 
+
+As mandated by the Act and Listing Regulations, the Company has constituted an Audit Committee, a Stakeholders Relationship Committee, Nomination & Remuneration Committee and a Corporate Social Responsibility Committee. The functioning of these Committees is regulated by the mandatory terms of reference, roles and responsibilities and powers. The Minutes of the meetings of all these Committees are placed before the Board for noting. 
+
+###### **[a] AUDIT COMMITTEE:** 
+
+The Audit Committee acts as a link between the Statutory and Internal Auditors and the Board of Directors. 
+
+- Composition of the Committee: 
+
+As on March 31, 2025, the Audit Committee comprises of 4 members i.e. Mr. Ajit Shah, Mrs. Mona Cheriyan and Mr. G. Padmanabhan, all Non- Executive Independent Directors and Mr. Tarun Shetty, Managing Director. 
+
+Mr. Ajit Shah is the Chairman of the Audit Committee. 
+
+The Committee’s composition meets the requirements of Section 177 of the Act and Regulation 18 of the Listing Regulations as amended from time to time. The members possess adequate knowledge of accounts, audits & finance etc. 
+
+
+![](images/2025.pdf-0033-21.png)
+
+**[Image: 2025.pdf-0033-21.png (56x22, 0.9KB)]**
+
+
+**3030** 
+
+- Brief Description of terms of reference: 
+
+The terms of reference of the Committee, inter-alia, covers the matters specified under Regulation 18 of Listing Regulations as amended from time to time as well as specified in Section 177 of the Act read along with rules made thereunder. 
+
+The Broad terms of reference of the Audit Committee inter-alia, includes the following: 
+
+- 1) Oversight of the Company’s financial reporting process and the disclosure of its financial information to ensure that the financial statement is correct, sufficient and credible; 
+
+- 2) Recommending the Board, appointment, re-appointment, replacement or removal [in the event of necessity] of Statutory Auditors, Cost Auditors and / or any other auditors including fixation of remuneration; 
+
+- 3) Approval of payment to Statutory Auditors for any other services rendered by the Statutory Auditors; 
+
+- 4) Reviewing, with the management, the annual financial statements before submission to the Board for approval, with particular reference to: 
+
+   - a) matters required to be included in the Director’s Responsibility Statement to be included in the Board’s report in terms of sub section [5] of Section 134 of the Act; 
+
+   - b) changes, if any, in accounting policies and practices and reasons for the same; 
+
+   - c) major accounting entries involving estimates based on the exercise of judgment by management; 
+
+   - d) significant adjustments made in the financial statements arising out of audit findings; 
+
+   - e) compliance with listing and other legal requirements relating to financial statements; 
+
+   - f) disclosure of any related party transactions; and 
+
+   - g) qualifications in the draft audit report 
+
+- 5) Reviewing, with the management the quarterly financial statements before submission to the Board for approval; 
+
+- 6) Performance of Auditors, Internal Auditors, adequacy of the internal control systems; 
+
+- 7) Review and monitor the auditor’s independence and performance and effectiveness of audit process; 
+
+- 8) Review the adequacy of Internal Audit function including the structure of the internal audit department, staffing and seniority of the head of the department, reporting structure coverage and frequency of internal audit; 
+
+- 9) Approval or any subsequent modification of transactions of the Company with the related parties; 
+
+- 10) Approval on appointment of Chief Financial Officer including the Whole Time Director- Finance or any other person heading the finance function or discharging that function after assessing the qualification, experience and background etc., of such incumbent; 
+
+- 11) Scrutiny of inter-corporate loans and investments; 
+
+- 12) Monitoring the end use of funds raised through public offers and related matters; 
+
+- 13) Evaluation of internal financial controls and risk management systems; 
+
+- 14) Discussing with internal auditors any significant findings and follow up there on; 
+
+- 15) Reviewing the findings of any internal investigations by the internal auditors into matters where there is suspected fraud or irregularity or a failure of internal control systems of a material nature and reporting the matter to the Board; 
+
+- 16) Discussion with statutory auditors before the audit commences, about the nature and scope of audit as well as post-audit discussion to ascertain any area of concern; 
+
+- 17) To look into the reasons for defaults, if any, in the payment to the Shareholders [in case of non-payment of declared dividends] and creditors; 
+
+- 18) Review the functioning of the Whistle Blower mechanism; 
+
+
+![](images/2025.pdf-0034-28.png)
+
+**[Image: 2025.pdf-0034-28.png (53x22, 0.9KB)]**
+
+
+**31** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+- 19) Carry out such other function as may be delegated by the Board from time to time; 
+
+- 20) Review various investment proposals before the same is submitted to the Board of Directors and also to review the guidelines for investing surplus funds of the Company; 
+
+The Audit Committee is vested with the necessary powers to achieve its objectives. 
+
+In addition, the powers and role of the Audit Committee are as laid down under Regulation 18 and Schedule II Part C of the Listing Regulations and Section 177 of the Act. 
+
+###### � **Meeting Details:** 
+
+During the year under review the Committee met four times i.e. on [1] May 24, 2024, [2] August 13, 2024, [3] November 12, 2024 and [4] February 06, 2025. 
+
+Necessary quorum was present at the meetings. The details of the attendance of Committee Members at the aforesaid meetings are as follows: 
+
+|Name|Category|Number of Meetings<br>attended out of 4 held|
+|---|---|---|
+|Mr. Ajit Shah [Chairman]|Non-Executive, Independent Director|4|
+|Mrs. Mona Cheriyan|Non-Executive, Independent Director|2<br>*|
+|Mr. G. Padmanabhan|Non-Executive, Independent Director|4|
+|Mr. Tarun Shetty|Managing Director|4|
+|Mrs. Kishori Udeshi|Non-Executive, Independent Director|2<sup>#</sup>|
+
+
+
+- Director w.e.f. August 13, 2024. 
+
+- # Ceased to be Director w.e.f. September 09, 2024. 
+
+The Audit Committee invites such of the executives as it considers appropriate [particularly Chief Financial Officer] to be present at its meetings. 
+
+The Chairman of the Audit Committee attended 33<sup>rd</sup> AGM held on Thursday, September 19, 2024. 
+
+The Company Secretary acts as a Secretary to the Committee. 
+
+###### [b] NOMINATION & REMUNERATION COMMITTEE: 
+
+- **Composition of the Committee:** 
+
+As on March 31, 2025, the Nomination and Remuneration Committee comprises of 3 members i.e. Mrs. Mona Cheriyan and Mr. G. Padmanabhan, Non - Executive Independent Directors and Mr. Rohan Ajila, Non-Executive Non-Independent Director. 
+
+Mr. G. Padmanabhan is the Chairman of Committee. 
+
+The Committee’s composition meets with requirements of Section 178 of the Act and Regulation 19 of the Listing Regulations. 
+
+- **Brief Description of terms of reference:** 
+
+The Broad terms of reference of the Nomination and Remuneration Committee, inter-alia, includes the following: 
+
+- 1] To formulate the criteria for determining qualifications, competencies, positive attributes and independence for appointment of a director [executive and non-executive] and recommend to the Board, a policy relating to the remuneration of the directors, key managerial personnel and other employees; 
+
+- 2] To formulate the criteria for evaluation of performance of Independent Directors and the Board; 
+
+- 3] To devise a policy on Board diversity; 
+
+
+![](images/2025.pdf-0035-24.png)
+
+**[Image: 2025.pdf-0035-24.png (56x22, 0.9KB)]**
+
+
+**3232** 
+
+- 4] To identify persons who are qualified to become directors and who may be appointed in senior management in accordance with the criteria laid down and recommend to the Board their appointment and removal. 
+
+- 5] To recommend to the Board on remuneration, performance bonus etc., payable to the Executive Director[s] / Managing Director, Commission payable to Independent Directors. 
+
+In addition, the powers and role of the Nomination and Remuneration Committee are as laid down under Regulation 19 and Schedule II Part D of the Listing Regulations and Section 178 of the Act. 
+
+###### � 
+
+###### **Meeting Details:** 
+
+During the year, under review the Committee met thrice i.e. on [1] May 18, 2024, [2] August 12, 2024 and [3] March 13, 2025. 
+
+Necessary quorum was present at the meeting. The details of the attendance of Committee Members at the aforesaid meetings are as follows: 
+
+|Name|Category|Number of Meetings<br>attended out of 3 held|
+|---|---|---|
+|Mr. G. Padmanabhan [Chairman]|Non-Executive, Independent Director|3|
+|Mrs. Mona Cheriyan|Non-Executive, Independent Director|1<sup>*</sup>|
+|Mr. Rohan Ajila|Non-Executive, Non-Independent Director|3|
+|Mrs. Kishori Udeshi|Non-Executive, Independent Director|2<sup>#</sup>|
+
+
+
+* Director w.e.f. August 13, 2024. 
+
+- # Ceased to be Director w.e.f. September 09, 2024. 
+
+The Company Secretary acts as a Secretary to the Committee. 
+
+###### � **Performance Evaluation** 
+
+In terms of the provisions of the Act and Listing Regulations, a structured questionnaire was prepared after taking into consideration the various aspects of the Board functioning like composition of the Board and its committees, culture, execution and performance of specific duties, obligations and governance. 
+
+The Board carried out an annual performance evaluation of its own performance, the individual Directors as well as the working of the Committees of the Board in its meeting held on May 29, 2025 pursuant to the provisions of the Act and Guidance Note on Board Evaluation issued by SEBI. 
+
+Accordingly, the performance evaluation of board and committees was evaluated by the Board after seeking all inputs from all the directors on the basis of criteria such as Composition, structure, effectiveness and functioning of the Board and its respective Committees. 
+
+The evaluation of every Director’s performance was carried out by the entire Board excluding the director being evaluated in the Board Meeting held on May 29, 2025. 
+
+In the separate meeting of Independent Directors held on March 19, 2025, performance evaluation of the Chairperson and the Non-Independent Directors and Board as a whole. 
+
+###### [c] STAKEHOLDERS RELATIONSHIP COMMITTEE: 
+
+###### � **Composition of the Committee:** 
+
+As on March 31, 2025, the Stakeholder Relationship Committee comprises of 3 members i.e. Mr. Ajit Shah and Mrs. Mona Cheriyan, Non - Executive Independent Directors and Mr. Rohan Ajila, Non-Executive Non-Independent Director. 
+
+Mr. Ajit Shah is the Chairman of Committee. 
+
+
+![](images/2025.pdf-0036-21.png)
+
+**[Image: 2025.pdf-0036-21.png (53x22, 0.8KB)]**
+
+
+**33** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+The Committee’s composition meets with requirements of Section 178 of the Act and Regulation 20 of the Listing Regulations. 
+
+###### � 
+
+###### **Brief Description of terms of reference:** 
+
+The Broad terms of reference of the Stakeholder Relationship Committee, inter-alia, includes the following: 
+
+- 1] To resolve the grievances of the security holders of the listed entity including complaints related to transfer/ transmission of shares, non-receipt of annual report, non-receipt of declared dividends, issue of new/duplicate certificates, general meetings, etc. 
+
+- 2] To Review measures taken for effective exercise of voting rights by shareholders. 
+
+- 3] To Review adherence to the service standards adopted by the listed entity in respect of various services being rendered by the Registrar & Share Transfer Agent. 
+
+- 4] To Review the various measures and initiatives taken by the listed entity for reducing the quantum of unclaimed dividends and ensuring timely receipt of dividend warrants/annual reports/statutory notices by the shareholders of the company. 
+
+The terms of reference of the Committee have been aligned to Section 178 of Act and Regulation 20 and Schedule II Part D of the Listing Regulations. 
+
+###### � 
+
+###### **Meeting Details:** 
+
+During the year, under review the Committee met once on March 28, 2025. 
+
+Necessary quorum was present at the meeting. The details of the attendance of Committee Members at the aforesaid meetings are as follows: 
+
+|Name|Category|Number of Meetings<br>attended out of 1 held|
+|---|---|---|
+|Mr. Ajit Shah [Chairman]|Non-Executive, Independent Director|1|
+|Mrs. Mona Cheriyan|Non-Executive, Independent Director|1|
+|Mr. Rohan Ajila|Non-Executive, Non-Independent Director|1|
+
+
+
+The Chairman of the Stakeholder Relationship Committee attended 33<sup>rd</sup> AGM held on Thursday, September 19, 2024. 
+
+The Company Secretary acts as a Secretary to the Committee. 
+
+###### � 
+
+###### **Name & designation of Compliance Officer:** 
+
+Mr. Dhruv Mehta, Company Secretary is the Compliance Officer of the Company as required under Regulation 6 of the Listing Regulations. 
+
+###### � 
+
+###### **Investor Grievance Redressal:** 
+
+|Particulars|Details|
+|---|---|
+|Number on Investor Complaints unresolved at the beginningof theyear|0|
+|Number on Investor Complaints received duringtheyear|0|
+|Number on Investor Complaintspendingat the end of theyear|0|
+
+
+
+The investors can register their complaints electronically by sending an email at the e-mail id <u>cosec@haldyn.com.</u> 
+
+
+![](images/2025.pdf-0037-24.png)
+
+**[Image: 2025.pdf-0037-24.png (56x22, 0.9KB)]**
+
+
+**3434** 
+
+###### [d] CORPORATE SOCIAL RESPONSIBILITY COMMITTEE: 
+
+- **Composition of the Committee:** 
+
+As on March 31, 2025, the Corporate Social Responsibility Committee comprises of 3 members i.e. Mr. Tarun Shetty, Managing Director and Mrs. Mona Cheriyan, Non - Executive Independent Directors and Mr. Rohan Ajila, Non - Executive Non - Independent Directors. 
+
+Mr. Tarun Shetty is the Chairman of Committee. 
+
+The Committee’s composition meets with requirements of Section 135 of the Act. 
+
+- **Brief Description of terms of reference:** 
+
+The broad terms of reference of the Corporate Social Responsibility Committee, inter-alia, includes the following: 
+
+- 1] Formulate and recommend to the Board, a CSR Policy which shall indicate the activities to be undertaken by the company as specified in Schedule VII of the Act; 
+
+- 2] Recommend the amount of expenditure to be incurred on the activities referred to in CSR Policy; 
+
+- 3] Monitor, implementation and adherence to the CSR Policy of the Company from time to time; 
+
+- 4] Prepare a transparent monitoring mechanism for ensuring implementation of the projects/ programmes/ activities proposed to be undertaken by the Company; and 
+
+- 5] Such other activities as the Board may determine from time to time. 
+
+CSR Committee of the Board has formulated a CSR Policy and the same is available on the website of the Company i.e. <u>www.haldynglass.com and the weblink thereto is http://www.haldynglass.com/direct/csr-policy.pdf</u> 
+
+###### � 
+
+###### **Meeting details:** 
+
+During the year, under review the Committee met twice on 1] August 12, 2024 and 2] March 24, 2025. 
+
+Necessary quorum was present at the meeting. The details of the attendance of Committee Members at the aforesaid meetings are as follows: 
+
+|Name|Category|Number of Meetings<br>attended out of 2 held|
+|---|---|---|
+|Mr. Tarun Shetty [Chairman]|Managing Director|2|
+|Mrs. Mona Cheriyan<sup>*</sup>|Non-Executive, Independent Director|1|
+|Mr. Rohan Ajila<sup>#</sup>|Non-Executive, Independent Director|1|
+|Mrs. Kishori Udeshi<sup>@</sup>|Non-Executive, Independent Director|1|
+|Mr. Sikandar Talwar<sup>@</sup>|Non-Executive, Independent Director|1|
+
+
+
+* Director w.e.f. August 13, 2024. 
+
+- # Appointed as a member of committee w.e.f. September 06, 2024. 
+
+- @ Ceased to be Director w.e.f. September 09, 2024. 
+
+The Company Secretary acts as a Secretary to the Committee. 
+
+###### **4] Senior Management:** 
+
+As on March 31, 2025, the following personnel falls under the definition of Senior Management of the Company in terms of the provisions of Regulation 16[1][D] of Listing Regulations: 
+
+- i] Mr. Niraj Tipre - Chief Executive Officer 
+
+- ii] Mr. Ganesh Chaturvedi - Chief Financial Officer 
+
+- iii] Mr. Dhruv Mehta - Company Secretary & Compliance Officer 
+
+
+![](images/2025.pdf-0038-27.png)
+
+**[Image: 2025.pdf-0038-27.png (53x22, 0.9KB)]**
+
+
+**35** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+iv] Mr. Narendra A. Shetty – Vice President – Supply Chain Commercial 
+
+- v] Mr. Manraj Meena – Head of Technical Operations 
+
+###### **5] Details of Remuneration paid to all Directors:** 
+
+Remuneration payable to all the Directors is considered and is recommended by the Nomination and Remuneration Committee and is approved by the Board within the ceiling fixed by the members. The Nomination and remuneration policy of the Company as approved by the Board of Directors of the Company is uploaded on website of the Company at <u>www.haldynglass.com.</u> 
+
+The details of Remuneration paid to the Directors during the Financial Year 2024-25 are as under: 
+
+###### [a] Payment to Executive Directors: 
+
+Payment of remuneration to the Executive Director is governed by the terms of appointment approved by the Board of Directors and the Members in terms of Sec 197, 198 and Schedule V to the Act. Details of remuneration and perquisites paid to the Executive Chairman and Managing Director for the financial year ended March 31, 2025 and their tenure are as under: 
+
+||||||[`|in Lakhs]|
+|---|---|---|---|---|---|---|
+|**Name of Directors**|Position|Salary|Perquisites/<br>allowances<br>and other<br>contributions|Total|Tenu|re|
+|Mr. Narendra Shetty<br>[Din: 00025868]|Executive<br>Chairman|180.00|7.88|187.88|2 years<br>[till August|15, 2025]|
+|Mr. Tarun Shetty|Managing|325.00|6.90|331.90|3 years||
+|[Din: 00587108]|Director||||[till August|15, 2026]|
+
+
+
+###### [b] Fixed Component / Performance Linked Incentive / Criteria: 
+
+Performance related incentives are payable to the Executive Chairman and Managing Director, as per the terms of appointment between the Company and the Executive Chairman and Managing Director. 
+
+During the year 2024-25, no such amount has been paid to the Executive Chairman and Managing Director. 
+
+###### [c] Service Contract / Notice Period / Severance Fees: 
+
+- a] The Contract of Service entered into by the Company with Mr. Narendra Shetty, Executive Chairman, provides that the Company and the Executive Chairman shall be entitled to terminate the agreement by giving 3 months’ notice in writing on either side. 
+
+- b] The Contract of Service entered into by the Company with Mr. Tarun Shetty, Managing Director, provides that the Company and the Managing Director shall be entitled to terminate the agreement by giving 3 months’ notice in writing on either side. 
+
+- c] No severance fee is payable by the Company to the Executive Chairman or Managing Director on termination of the agreement/s. 
+
+###### **[d] Payment to Non-Executive Directors:** 
+
+- Non-Executive Directors are paid sitting fees for each meeting attended by them as well as remuneration by way of commission. 
+
+
+![](images/2025.pdf-0039-18.png)
+
+**[Image: 2025.pdf-0039-18.png (56x22, 0.9KB)]**
+
+
+**3636** 
+
+Details of remuneration paid to Non- Executive Directors for the financial year ended March 31, 2025 are as under: 
+
+[ ` in Lakhs] 
+
+|Name of Directors|Position|SittingFees|Commission*|Total|
+|---|---|---|---|---|
+|Mrs. Kishori  Udeshi<br>[Din: 01344073] - Ceased<br>w.e.f. September 09, 2024|Non-Executive Independent Director|5.61|6.00|11.61|
+|Mr. Sikandar Talwar<br>[Din: 01630705] - Ceased<br>w.e.f. September 09, 2024|Non-Executive Independent Director|3.37|6.00|9.37|
+|Mr. Ajit Shah<br>[Din: 02396765]|Non-Executive Independent Director|7.49|6.00|13.49|
+|Mr. G. Padmanabhan<br>[Din: 07130908]|Non-Executive Independent Director|8.98|6.00|14.98|
+|Mr. Rohan Ajila<br>[Din: 01549005]|Non-Executive Non-Independent Director|6.35|6.00|12.35|
+|Mrs. Mona Cheriyan<br>[Din: 10479050] –<br>w.e.f. August 13, 2024|Non-Executive Independent Director|4.48|–|4.48|
+
+
+
+*Commission paid to all Non-Executive Directors during the year under review pertains to financial year 2023-24. 
+
+###### **[e] Pecuniary relationship or transactions with Non-Executive Directors:** 
+
+None of the Non-Executive Directors has any pecuniary relationship or transactions with the Company. 
+
+###### **[f] GENERAL BODY MEETINGS:** 
+
+###### i] Annual General Meeting: 
+
+The last three AGMs were held as under: 
+
+|No. / Date of AGM|Time|Venue|Particulars of Special Resolutions Passed thereto|
+|---|---|---|---|
+|31<sup>st</sup>AGM-<br>September 14, 2022|11.30 a.m.|Through video<br>conferencing|�<br>Approval for payment of remuneration to Non-<br>Executive Directors as well as Independent<br>Directors by way of Commission.|
+|32<sup>nd</sup>AGM -<br>September 13, 2023|11.30 a.m.|Village Gavasad,<br>Taluka Padra, Dist.<br>Vadodara, Gujarat -<br>391430|�<br>Re-appointment<br>of<br>Mr.<br>Narendra<br>Shetty<br>[DIN:00025868], having age of 83 years, as<br>Executive Chairman of the Company for a period<br>of 2 [Two] years.<br> �<br>Re-appointment<br>of<br>Mr.<br>Tarun<br>Shetty<br>[DIN:00587108], as Managing Director of the<br>Company for a period of 3 [Three] years.<br> �<br>Payment of remuneration to Non-Executive<br>Directors as well as Independent Directors by<br>way of Commission.|
+|33<sup>rd</sup>AGM-<br>September 19, 2024|11.30 a.m.|Village Gavasad,<br>Taluka Padra, Dist.<br>Vadodara, Gujarat -<br>391430|�<br>Re-appointment of Mr. Ajit Shah [DIN: 02396765]<br>as an Independent Director of the Company.<br> �<br>Re-appointment of Mr. G. Padmanabhan [DIN:<br>07130908] as an Independent Director of the<br>Company.<br> �<br>Payment of remuneration to Non-Executive<br>Directors as well as Independent Directors by<br>way of Commission.|
+
+
+
+All the resolutions as set out in the notices were passed by requisite majority by the members of the Company. 
+
+
+![](images/2025.pdf-0040-11.png)
+
+**[Image: 2025.pdf-0040-11.png (53x22, 0.9KB)]**
+
+
+**37** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### ii] Extra-Ordinary General Meeting [EOGM]: 
+
+No EOGM was held during last three years. 
+
+###### **iii] Postal Ballot:** 
+
+No postal ballot conducted during the year under review. 
+
+###### **[g] MEANS OF COMMUNICATION:** 
+
+###### **viii] Financial results** 
+
+The quarterly, half-yearly and annual financial results of the Company are filed with the Stock Exchange immediately after approved by the Board. 
+
+###### **ix] Newspaper Releases** 
+
+The quarterly, half-yearly and annual financial results of the Company are published in the prescribed proforma within 48 hours of the conclusion of the Meeting of the Board, in Business Standard, Sakal and the Financial Express as required under Regulation 47 of Listing Regulations. In addition to that, the Company also publishes notices, as required or mandated by SEBI / MCA Circulars. 
+
+###### **x] Website** 
+
+The Company’s website www.haldynglass.com contains a separate dedicated section “Investor Relations” where latest Shareholders information is available. The financial results and official news releases are posted on the website in compliance with regulation 46 of Listing Regulations. 
+
+###### **xi] Stock Exchange Intimations:** 
+
+All price-sensitive information and matters that are material to shareholders are disclosed to the Stock Exchange where the securities of the Company are listed. The Company electronically files data such as Shareholding Pattern, Corporate Governance Report, Financial results, Corporate Announcements etc. on the BSE online portal viz <u>http:// listing.bseindia.com/home.htm within the time frame prescribed in this regard.</u> 
+
+###### **xii] Annual Report** 
+
+The Annual Report containing, inter-alia, Audited Financial Statements, Directors’ Report, Auditors’ Report and other important information is sent to Members and others entitled thereto. The Management’s Discussion and Analysis Report [MDAR] forms part of the Annual Report. The Annual Report for FY 2024-25 is being sent in electronic mode to all members who have registered their email ids for the purpose of receiving documents / communication in electronic mode with the Company and / or Depository Participants. The Annual Report is also available in the “Investors” section on the Company’s website <u>www.haldynglass.com</u> 
+
+###### **xiii] Letter and Reminders to Shareholders** 
+
+Pursuant to the provisions of the Act, the Company sends reminder letters to those shareholders whose unclaimed dividend/shares are liable to be transferred to the Investor Education and Protection Fund [IEPF] account. The Company has uploaded the names of the Members and the details of the unclaimed dividend by the Members on its website. Other Letters & Reminders are also communicated to the shareholders for various matters like updating their KYC, PAN, Email addresses, Updation of bank account and other details for dividend payment and TDS etc. 
+
+###### **[h] GENERAL SHAREHOLDER INFORMATION:** 
+
+|a.|Date of Incorporation|April 25, 1991|
+|---|---|---|
+|b.|Corporate Identity Number [CIN]<br>|L51909GJ1991PLCO15522|
+|c.|Registered Offce and Works|Village Gavasad, Taluka Padra|
+|||District Vadodara, Gujarat - 391430|
+|||Telephone : +91 2662 242339 / 42 • Fax : +91 2662 245081|
+|||Email: baroda@haldynglass.com • Website: www.haldynglass.com|
+
+
+
+
+![](images/2025.pdf-0041-20.png)
+
+**[Image: 2025.pdf-0041-20.png (56x22, 0.9KB)]**
+
+
+**3838** 
+
+|d.|34<sup>th</sup>Annual General Meeting – day, date, time<br>and venue|Tuesday, September 16, 2025<br>at 11.30 a.m. at Village Gavasad, Taluka Padra<br>District Vadodara, Gujarat- 391430|
+|---|---|---|
+|e.|Financial Year|April 01, 2024 to March 31, 2025|
+|f.|Dividend payment date|On or after September 16, 2025,<br>if declared by the members at the AGM|
+|g.|The name and address of each stock<br>exchange[s] at which the listed entity’s<br>securities are listed and a confrmation  about<br>payment of annual listing fee to each of such<br>stock exchange[s]|BSE Limited<br>Phiroze Jeejeebhoy Towers,<br>Dalal Street, Mumbai - 400 023<br>The Company has duly paid the Listing Fees to the Stock<br>Exchange for the fnancial year 2025-26|
+|h.|BSE Stock Code|515147|
+|i.|ISIN No.|INE506D01020|
+|j.|Date of Book Closure|From Wednesday, September 10, 2025 to Tuesday, September 16,<br>2025 [both days inclusive]|
+|k.|Registrar to an issue and share transfer agents|MUFG Intime India Pvt. Ltd. [Formerly known as Link Intime India<br>Pvt. Ltd.]<br>Unit: Haldyn Glass Limited<br>C-101, 247 Park, L.B.S. Marg, Vikhroli [West],<br>Mumbai - 400083<br>Telephone: +91 22 4918 6000<br>Fax: +91 22 4918 6060<br>Email:rnt.helpdesk@mpms.mufg.com<br>Website: www.mpms.mufg.com|
+|l.|Share Transfer System|Pursuant to SEBI circular dated January 25, 2022, the listed<br>companies shall issue the securities in dematerialised form<br>only, for processing any service request from shareholders viz.,<br>issue of duplicate share certifcates, endorsement, transmission,<br>transposition etc. Accordingly, Members are requested to make<br>service requests by submitting a duly flled and signed Form ISR<br>– 4, the format of which is available on the Company’s website at<br>www.haldynglass.com.<br>After processing the service request, a letter of confrmation will<br>be issued to the shareholders and shall be valid for a period of 120<br>days, within which the shareholder shall make a request to the<br>Depository Participant for dematerialising those shares.|
+|||If the shareholders fail to submit the dematerialisation<br>request within 120 days, then the Company shall credit those<br>shares in the Suspense Escrow Demat account held by the<br>Company. Shareholders can claim these shares transferred to<br>Suspense Escrow Demat account on submission of necessary<br>documentation. In view of the aforesaid, Members who are<br>holding shares in physical form are hereby requested to convert<br>their holdings in electronic mode to avail various benefts of<br>dematerialisation.|
+
+
+
+
+![](images/2025.pdf-0042-01.png)
+
+**[Image: 2025.pdf-0042-01.png (53x22, 0.9KB)]**
+
+
+**39** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+- m. Dematerialization of shares and liquidity 
+
+Out of 53751700 shares, 53191100 shares equivalent to 99.07% of the paid-up capital of the Company have been dematerialised till March 31, 2025. The details are as under: 
+
+||No. of shares|% of share capital|
+|---|---|---|
+|CDSL|8857670|16.48%|
+|NSDL|44395430|82.59%|
+|Physical|498600|0.93%|
+|Total|53751700|100%|
+
+
+
+- n. Outstanding global depository receipts or american depository receipts or warrants or any convertible instruments, conversion date and likely impact on equity 
+
+- o. Commodity price risk or foreign exchange risk and hedging activities 
+
+- p. Plant Location 
+
+- q. Address for correspondence 
+
+The Company has not issued any Global Depository Receipts or American Depository Receipts or Warrants or any Convertible Instruments. 
+
+During the year 2024-2025, the Company had managed the foreign exchange risk and hedged to the extent considered necessary. The details of foreign currency exposure are disclosed in Note No. 42 to the Financial Statements. 
+
+Village Gavasad, Taluka Padra, District Vadodara-391430, Gujarat Tel.: +91 2662 242339 / 42 • Fax: +91 2662 245081 E-mail: baroda@haldynglass.com Website: <u>www.haldynglass.com</u> 
+
+###### Corporate Office: 
+
+B-1201, Lotus Corporate Park, Off Western Express Highway, Goregaon [East], Mumbai - 400 063 
+
+Telephone No.: + 91 22 4287 8999 • Fax No: + 91 22 4287 8910 E-mail: cosec@haldynglass.com 
+
+- r. Details of Credit Rating provided by CARE Rating Limited for the Bank facilities availed by the Company: 
+
+|Facilities|Amount [`in Crore]|Rating|RatingAction|
+|---|---|---|---|
+|Long Term Bank Facilities|178.25|CARE A-; Stable|Reaffrmed; Outlook|
+||[Reduced from 185.67]||revised from Negative|
+|Short Term Bank Facilities|18.00|CARE A2|Reaffrmed|
+
+
+
+
+![](images/2025.pdf-0043-16.png)
+
+**[Image: 2025.pdf-0043-16.png (56x22, 0.9KB)]**
+
+
+**4040** 
+
+###### � Shareholding pattern as on March 31, 2025: 
+
+|Sr.|Categor|y<br>No|. of Shares held|% of shareholding|
+|---|---|---|---|---|
+|No.|||||
+|A.|Promot|ers Holding|||
+||a.<br>Ind<br> <br>|ian Promoters<br>|31249728|58.14|
+||b.<br>For|eign Promoters|–|–|
+|||Sub-total[A]|31249728|58.14|
+|B.|Non-Pr|omoters Holding|||
+||1.<br>Ins|titutional Investors|||
+||a.|Mutual Funds and UTI|–|–|
+||b.|Alternate Investment Funds|1313138|2.44|
+||c.|Banks, Financial Inst, Insurance Company, NBFC’s<br>registered with RBI [Central/State Govt. Inst./Non-<br>Govt. Inst.]|–|–|
+||d.|FII Holding/ FPI|–|~~–~~|
+|||Sub-Total[B1]|1313138|2.44|
+||2.<br>Oth|ers Holding|||
+||a.|BodyCorporate|1397914|2.60|
+||b.|Indian Public|16275939|30.28|
+||c.|HUF|1715381|3.19|
+||d.|NRIs/OCBs/Foreign Nationals|1021575|1.90|
+||e.|Unclaimed Shares|1150|0.00|
+||f.|Clearingmembers|704104|1.31|
+||g.|IEPF|10757|0.02|
+||h.|LLP|40014|0.07|
+||i.|KMPs|22000|0.04|
+|||Sub-total[B2]|21188834|39.42|
+|Distr<br>|ibution S<br>|Total[A +B[1]+B[2]]<br>chedule of Equity Shareholding as on March 31, 2025:<br> <br> <br>|53751700<br>|100%<br>|
+|Num|ber of sh|ares held<br>Number of<br>% of|Number of|% of|
+|||shareholders<br>shareholders|shares held|shareholding|
+|1 -50|0|17505<br>79.25|2041790|3.80|
+|500-|1000|2301<br>10.42|1940500|3.61|
+|1001|-2000|968<br>4.38|1501934|2.79|
+|2001|-3000|403<br>1.82|1044318|1.94|
+|3001|-4000|186<br>0.84|684487|1.27|
+|4001|-5000|171<br>0.77|813669|1.51|
+|5001|-10000|308<br>1.39|2357469|4.39|
+|1000|1  above|247<br>1.12|43367533|80.69|
+|||Total<br>100|53751700|100.00|
+
+
+
+- Distribution Schedule of Equity Shareholding as on March 31, 2025: 
+
+
+![](images/2025.pdf-0044-03.png)
+
+**[Image: 2025.pdf-0044-03.png (53x22, 0.8KB)]**
+
+
+**41** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+- 
+
+- Transfer to Investor Education and Protection Fund [“IEPF”]: 
+
+- 1] Transfer of unclaimed / unpaid dividend: 
+
+Under the provisions of Section 124 of the Act, amounts that remain unclaimed for a period of seven [7] years are to be transferred to the Investor Education and Protection Fund [IEPF] administered by the Central Government. In view of the same, dividend of ` 5,98,095.85/- [Five Lakh Ninety-Eight Thousand and NinetyFive Rupees and Eighty-Five paise only] pertaining to FY 2016-17 which remained unpaid or unclaimed was transferred to the IEPF Authority within the time frame prescribed in this regard. 
+
+The unclaimed amounts that are due for transfer to the IEPF are as follows: 
+
+|Financial Year|Date of declaration of<br>dividend|Unclaimed dividend<br>amount as on March 31,<br>2025[Amount in`]|Last date for claiming<br>unpaid dividend|
+|---|---|---|---|
+|2017-18|September 27, 2018|1,89,466|October 28, 2025|
+|2018-19|September 06, 2019|3,11,549|October 06, 2026|
+|2019-20|September 30, 2020|2,60,932|November 02, 2027|
+|2020-21|September 23, 2021|2,44,831|October 28, 2028|
+|2021-22|September 14, 2022|2,28,016|October 18, 2029|
+|2022-23|September 13, 2023|2,69,248|October 16, 2030|
+|2023-24|September 19, 2024|3,88,495|October 21, 2031|
+
+
+
+Members can check the details of the unclaimed dividend amount on the website of the Company at www. <u>haldynglass.com. The said information is also available on the Ministry of Corporate Affairs website at www. mca.gov.in. Members who have not claimed their dividend amount may approach M/s. Link Intime India</u> Private Limited for obtaining payments thereof immediately, before they are due to be transferred to the IEPF Authority. 
+
+- 2] Transfer of shares: 
+
+In terms of the provisions of section 124[6] of the Act read with Investor Education and Protection Fund Authority [Accounting, Audit, Transfer and Refund] Rules, 2016 as amended from time to time, all the shares in respect of which dividend has not been paid or claimed for seven consecutive years or more as provided under sub section [6] of Section 124 were transferred to the Special demat account of IEPF Authority. Accordingly, 27,010 shares were transferred to IEPF Authority Account within the time frame prescribed in this regard. The Company had sent notices to all such members in this regard and published newspaper advertisement and thereafter transferred the shares to the IEPF during the Financial year 2024-25. The details of the shareholders whose shares are transferred to IEPF Authority has been uploaded on the Company’s website at <u>www. haldynglass.com. Further, upon transfer of shares all the benefits [like bonus etc] if any, accruing on such</u> shares shall also be credited to Demat account of IEPF. 
+
+###### � 
+
+###### **Secretarial Audit and Other Certificates:** 
+
+M/s. P. Diwan & Associates, Company Secretaries, has conducted a secretarial audit of the Company for FY 202425. Their Audit Report confirms that the Company has complied with the applicable provisions of the Act and the Rules made thereunder, its Memorandum and Articles of Association, Listing Regulations and the other applicable SEBI Regulations. The Secretarial Audit Report forms part of the Director’s Report as an Annexure. 
+
+In accordance with the SEBI Circular dated February 8, 2019 and additional affirmations required under Circulars issued by BSE dated March 16, 2023 and April 10, 2023 read with Regulation 24A of the Listing Regulations, the Company has obtained an Annual Secretarial Compliance Report from M/s. P. Diwan & Associates, Company Secretaries, confirming compliances with all applicable SEBI Regulations, Circulars and Guidelines for the year ended March 31, 2025. 
+
+
+![](images/2025.pdf-0045-14.png)
+
+**[Image: 2025.pdf-0045-14.png (56x22, 0.8KB)]**
+
+
+**4242** 
+
+M/s. SPANJ & ASSOCIATES, Practicing Company Secretaries, has carried out a quarterly Reconciliation of Share Capital Audit to reconcile the total admitted capital with NSDL & CDSL and the total issued and listed capital. The audit confirms that the total issued/paid-up capital is in agreement with the aggregate of the total number of shares in physical form and the total number of shares in dematerialised form [held with NSDL and CDSL]. 
+
+###### **[i] OTHER DISCLOSURES** 
+
+|Disclosures on materially signifcant<br>related party transactions that may have<br>potential conflict with the interests of<br>listed entity at large|There were no materially signifcant related party transactions which could<br>have potential conflict with interest of the Company at large.<br>All the contracts / arrangements/ transactions entered by the Company<br>during the fnancial year with related parties were in its ordinary course of<br>business and on an arm’s length basis.<br>The Company’s policy on materiality of related party transactions and on<br>dealing with related party transactions is available on the website of the<br>Companyat http://www.haldynglass.com/direct/relatdparty.pdf|
+|---|---|
+|Details of non-compliance by the listed<br>entity, penalties, strictures imposed on<br>the listed entity by stock exchange[s] or<br>the board or any statutory authority, on<br>any matter related to capital markets,<br>duringthe last threeyears|There were no instances of any material non-compliance nor have any<br>penalties, strictures been imposed by Stock Exchange or SEBI or any other<br>statutory authority during the last three years on any matter related to the<br>capital markets.|
+|Details<br>of<br>establishment<br>of<br>vigil<br>mechanism, whistle blower policy and<br>affrmation that no personnel has been<br>denied access to the audit committee|Pursuant to Section 177[9] and [10] of the Act and Regulation 22 of Listing<br>Regulations, the Company has established vigil mechanism for directors<br>and employees to report genuine concerns regarding unethical behaviour,<br>actual or suspected fraud or violation of the Company’s code of conduct.<br>The said mechanism also provides for the safeguards against victimization<br>of persons who use such mechanism and makes provision for direct access<br>to the Chairman of the Audit Committee. We affrm that no employee of the<br>company has been denied access to the audit committee.<br>The Whistle Blower Policy is available on the website of the Company at<br>http://www.haldynglass.com/direct/vigil-mech.pdf|
+|Details of compliance with mandatory<br>requirements and adoption of the non-<br>mandatory requirements|The Company has complied with all material respects and adopted the<br>mandatory requirements as laid down under Regulations 17 to 27 and<br>clauses [b] to [i] of sub-regulation 46 of the Listing Regulations.<br>Discretionary requirements:<br>The auditors’ report on fnancial statements of the Company are unmodifed.<br>Internal auditors of the Company make quarterly presentations to the Audit<br>Committee on their reports.|
+|Details of material subsidiaries of the<br>listed entity; including the date and place<br>of incorporation and the name and date<br>of appointment of the statutory auditors<br>of such subsidiaries and web link<br>where policy for determining ‘material’<br>subsidiaries is disclosed|The Company does not have any material subsidiary Company.<br>The policy for determining material subsidiaries is available on the website of<br>the Company at http://www.haldynglass.com/direct/materialsubsidiary.pdf|
+
+
+
+
+![](images/2025.pdf-0046-03.png)
+
+**[Image: 2025.pdf-0046-03.png (53x22, 0.9KB)]**
+
+
+**43** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|Disclosure by listed entity and its<br>subsidiaries of ‘Loans and advances in<br>the nature of loans to frms/ companies<br>in which directors are interested by name<br>and amount|The Company has not given any loans or advances to any frm / Company in<br>which its directors are interested.|
+|---|---|
+|Details of utilization of funds raised<br>through preferential allotment or qualifed<br>institutions placement as specifed under<br>Regulation 32[7A]|The Company has not raised any funds through preferential allotment or<br>qualifed institutions placement.|
+|Disclosure of commodity price risks and<br>commodity hedging activities|The Company has adequate risk assessment and minimization system<br>in place for commodities. The Company does not have material exposure<br>of any commodity and accordingly no hedging activities for the same are<br>carried out.|
+|Insider Trading Regulations|The Company has adopted an insider trading policy to regulate, monitor<br>and report trading by insiders under SEBI [Prohibition of Insider Trading]<br>Regulations, 2015. This Policy also includes practices and procedures for fair<br>disclosure of unpublished price sensitive information, initial and continual<br>disclosure and the same is hosted on the website of the Company atwww.<br>haldynglass.com and the weblink thereto is: http://www.haldynglass.com/<br>direct/condeofconductinsidertrading.pdfPursuant to the provisions of the<br>SEBI [ PIT] Regulations, the Company is also maintaining a Structured digital<br>database.|
+|Directors and Offcers Insurance|In line with the requirements of Regulation 25[10] of the Listing Regulations,<br>the Companyhas inplace a Directors and Offcers LiabilityInsurance Policy.|
+|Agreements relating to the Company|There are no agreements with any party which impact the management or<br>control of the Company or impose any restriction or create any liability upon<br>the Company.|
+|Compliance with Accounting Standards|In the preparation of fnancial statements, the company has followed the<br>Indian Accounting Standards [Ind AS] specifed under section 133 of the<br>Act read with relevant rules thereunder. The Material Accounting policies<br>which are consistently applied have been set out in the notes to the fnancial<br>statements.|
+|Total Fees paid to the statutory auditors<br>for theyear under review|`25.00 lakhs towards audit fees and`17.44 lakhs towards certifcation and<br>other services.|
+|A certifcate from a Company Secretary in<br>practice that none of the Directors on the<br>board of the Company have been debarred<br>or disqualifed from being appointed or<br>continuing as directors of companies by<br>the Board / Ministry of Corporate Affairs<br>or any such Statutory Authority|A certifcate from Company Secretary in practice is attached herewith as part<br>of this report.|
+
+
+
+###### **[j] NON-COMPLIANCE OF ANY REQUIREMENT OF CORPORATE GOVERNANCE REPORT OF SUB PARAS [2] TO [10] ABOVE, WITH REASONS THEREOF SHALL BE DISCLOSED:** 
+
+The Company has complied with the provisions of Corporate Governance under Listing Regulations till date. 
+
+###### **[k] DISCLOSURES OF COMPLIANCE WITH CORPORATE GOVERNANCE REQUIREMENTS SPECIFIED IN REGULATION 17 TO 27 AND CLAUSES [B] TO [I] OF SUB-REGULATION [2] OF REGULATION 46 SHALL BE** 
+
+
+![](images/2025.pdf-0047-05.png)
+
+**[Image: 2025.pdf-0047-05.png (56x22, 0.8KB)]**
+
+
+**4444** 
+
+###### **MADE IN THE SECTION ON CORPORATE GOVERNANCE OF THE ANNUAL REPORT:** 
+
+###### a] Subsidiary 
+
+During the year under review, the Company has only one wholly owned subsidiary i.e. Haldyn Glass USA Inc. 
+
+###### b] Risk Management 
+
+The Company has in place a mechanism to inform Board Members about the risk assessment and minimization procedures and periodical review to ensure that executive management controls risks by means of a properly defined frame work. 
+
+The Company has formulated a Policy on Risk Management. 
+
+The provisions relating to Risk Management Committee shall not be applicable to the Company as the Company is not falling in category of top 1000 listed entities determined on the basis of market capitalization as at the end of the immediate previous financial year and high value debt listed entity. 
+
+###### c] Code of Conduct 
+
+The Board of Directors of the Company has adopted a Code of Conduct for Directors and Senior Management and the same is available on Company’s website at www.haldynglass.com and the weblink thereto is http://www. <u>haldynglass.com/direct/codeofconduct.pdf</u> 
+
+###### d] Listing Regulation Compliance 
+
+The Company has complied with the mandatory requirements of the Listing Regulations as applicable to it till date. 
+
+###### e] Board Procedure 
+
+The Company has established procedures to enable its Board to review compliance of all laws applicable to the Company as well as steps taken to rectify instances of non-compliance, if any. 
+
+###### f] SEBI Complaints Redressal System [SCORES] 
+
+Investor complaints are processed at SEBI in a centralised web-based complaints redress system. The salient features of this system are centralised database of all complaints, online upload of Action Taken Reports [ATRs] by concerned companies and online viewing by investors of actions taken on the complaints and their current status. The Company has not received any complaint during the year under review. 
+
+###### g] CEO / CFO certification 
+
+As required by Regulation 17[8] of the SEBI Listing Regulations, the Chief Executive Officer and the Chief Financial Officer have submitted a Certificate to the Board of Directors in the prescribed format for the financial year ended March 31, 2025, confirming the correctness of the financial statements and cash flow statement, and adequacy of the internal control measures and reporting of matters to the Audit Committee. 
+
+- h] Where the Board has not accepted any recommendation of any committee of the Board which is mandatorily required, in the relevant financial year: Not Applicable 
+
+- i] Disclosures in relation to the sexual Harassment of Women at Workplace [Prevention, prohibition and Redressal] Act, 2013: 
+
+|Particulars|Number of Complaints|
+|---|---|
+|Number of complaints received duringFY 2024-25|0|
+|Number of complaints disposed off duringFY 2024-25|0|
+|Number of casespendingfor more than 90 days|0|
+
+
+
+
+![](images/2025.pdf-0048-20.png)
+
+**[Image: 2025.pdf-0048-20.png (53x22, 0.9KB)]**
+
+
+**45** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+- j] The details with respect to demat suspense account/unclaimed suspense account: 
+
+|Particulars|No. of shareholders|No. of equity shares|
+|---|---|---|
+|Aggregate number of shareholders and the outstanding shares in|26|27000|
+|the suspense account lying as on April 01, 2025|||
+|Number of shareholders who approached the Company for|4|5000|
+|transfer of shares from suspense account during the year.|||
+|Number of shareholders to whom shares were transferred from|4|5000|
+|the suspense account during the year.|||
+|Aggregate number of shareholders and the outstanding shares in|22|22000|
+|the suspense account lying as on March 31, 2025.|||
+
+
+
+||For and on behalf of the Board<br>**Haldyn Glass Limited**|
+|---|---|
+||**Narendra Shetty**|
+|Place : Mumbai|Founder Executive Chairman|
+|Date : August 14, 2025|[DIN: 00025868]|
+
+
+
+### Certificate on Compliance with Code of Conduct 
+
+As provided under Regulation 26[3] of the SEBI [Listing Obligations and Disclosure Requirements] Regulations, 2015, all the Board Members and Senior Management Personnel have affirmed compliance with code of Business Conduct and Ethics for the year ended March 31, 2025. 
+
+For and on behalf of the Board **Haldyn Glass Limited** 
+
+Place : Mumbai Date : August 14, 2025 
+
+**Niraj Tipre** Chief Executive Officer 
+
+
+![](images/2025.pdf-0049-09.png)
+
+**[Image: 2025.pdf-0049-09.png (56x22, 0.9KB)]**
+
+
+**4646** 
+
+### **CERTIFICATE OF NON-DISQUALIFICATION OF DIRECTORS** 
+
+(Pursuant to Regulation 34(3] and Schedule V Para C clause (10] (i] of the SEBI (Listing Obligations and Disclosure Requirements] Regulations, 2015] 
+
+To, 
+
+The Members of, Haldyn Glass Limited, Village Gavasad, Taluka Padra, District Vadodara, Gujarat – 391430 
+
+We have examined the relevant registers, records, forms, returns and disclosures received from the Directors of Haldyn Glass Limited having CIN: L51909GJ1991PLC015522 (hereinafter referred to as the “Company”] produced before us by the Company for the purpose of issuing this Certificate, in accordance with Regulation 34 (3] read with Schedule V Para-C Sub clause 10(i] of the Securities Exchange Board of India (Listing Obligations and Disclosure Requirements] Regulations, 2015. 
+
+In Our opinion and to the best of our information and according to the verifications (including Directors Identification Number (DIN] status at the portal of Ministry of Corporate Affairs (MCA] i.e. www.mca.gov.in] as considered necessary and explanations furnished to us by the Company & its officers, We hereby certify that none of the Directors on the Board of the Company as stated below for the Financial Year ending on March 31, 2025 have been debarred or disqualified from being appointed or continuing as Directors of Companies by the Securities and Exchange Board of India, Ministry of Corporate Affairs, or any such other Statutory Authority. 
+
+|Sr. No.|Name of Director|DIN|*Date of appointment in the Company|
+|---|---|---|---|
+|1.|Narendra Dejoo Shetty|00025868|25/04/1991|
+|2.|Tarun Narendra Shetty|00587108|31/10/2006|
+|3.|Mona Cheriyan|10479050|13/08/2024|
+|4.|Ajit Chinubhai Shah|02396765|17/07/2019|
+|5.|Padmanabhan Gopalaraman|07130908|17/07/2019|
+|6.|Rohan Ajila|01549005|15/04/2012|
+
+
+
+*Notes: 
+
+1. Mr. Sikandar Talwar (DIN: 01630705] ceased to hold office as a Non-Executive Independent Director of the Company upon completion of his second term, w.e.f. September 09, 2024. 
+
+2. Mrs. Kishori Jayendra Udeshi (DIN: 01344073] ceased to hold office as a Non-Executive Independent Director of the Company upon completion of his second term, w.e.f. September 09, 2024. 
+
+3. Dates of Appointment of Directors as stated above are based on information appearing on the MCA Portal. 
+
+Ensuring the eligibility of / for the appointment / continuity of every Director on the Board is the responsibility of the management of the Company. Our responsibility is to express an opinion on these based on our verification. This certificate is neither an assurance as to the future viability of the Company nor of the efficiency or effectiveness with which the management has conducted the affairs of the Company. 
+
+**FOR JNG & CO. LLP** Company Secretaries 
+
+UDIN: F007569G001012311 **Jigarkumar Gandhi** Peer Review No.: 6167/2024 Partner FCS No.7569 Place : Mumbai COP No. 8108 Dated : August 14, 2025 
+
+- 1Ms. Mona Cheriyan (DIN: 10479050] was appointed as Additional Non-Executive Independent Director w.e.f. August 13, 2024 and subsequently regularised as Non-Executive Independent Director at the Annual General Meeting of the Company held on September 19, 2024. 
+
+
+![](images/2025.pdf-0050-15.png)
+
+**[Image: 2025.pdf-0050-15.png (53x22, 0.8KB)]**
+
+
+**47** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### COMPLIANCE CERTIFICATE ON CORPORATE GOVERNANCE 
+
+[Pursuant to Regulation 34(3] and Schedule V Para E of the SEBI (Listing Obligations and Disclosure Requirements] Regulations, 2015] 
+
+To, The Members of, Haldyn Glass Limited 
+
+We have examined the compliance of conditions of corporate governance by Haldyn Glass Limited (“the Company”], for the purpose of certifying compliance of the conditions of the Corporate Governance under the SEBI (Listing Obligations and Disclosure Requirements] Regulations, 2015 for the financial year ended March 31, 2025. We have obtained all the information and explanations which to the best of our knowledge and belief were necessary for the purposes of certification. 
+
+The compliance of conditions of corporate governance is the responsibility of the Management. Our examination was limited to procedures and implementation thereof, adopted by the Company for ensuring the compliance of conditions of Corporate Governance. 
+
+This Certificate is neither an assurance as to the future viability of the Company nor the efficiency or effectiveness with which the management has conducted the affairs of the Company. 
+
+In our opinion, and to the best of our information and according to the explanations and information furnished to us, we certify that the Company has complied with the conditions of Corporate Governance as stipulated in applicable provisions of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements] Regulations, 2015. 
+
+This certificate is issued solely for the purposes of complying with the aforesaid Regulations and may not be suitable for any other purpose. 
+
+FOR JNG & CO. LLP Company Secretaries 
+
+Place : Mumbai Dated : August 14, 2025 
+
+Jigarkumar Gandhi Partner FCS No.7569 COP No. 8108 UDIN: F007569G001012309 PEER REVIEW NO.: 6167/2024 FRN: L2024MH017500 
+
+
+![](images/2025.pdf-0051-12.png)
+
+**[Image: 2025.pdf-0051-12.png (56x22, 0.9KB)]**
+
+
+**4848** 
+
+### **Independent Auditors’ Report** 
+
+###### To the Members of Haldyn Glass Limited 
+
+###### Report on the Audit of the Standalone Financial Statements 
+
+###### Opinion 
+
+We have audited the standalone financial statements of Haldyn Glass Limited [“the Company”], which comprise the Standalone Balance Sheet as at March 31, 2025, the Standalone Statement of Profit and Loss including the Other Comprehensive Income, Standalone Statement of Changes in Equity and the Standalone Statement of Cash Flows for the year then ended, and notes to standalone financial statements, including a summary of material accounting policies and other explanatory information [hereinafter referred to as “standalone financial statements”]. 
+
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid standalone financial statements give the information required by the Companies Act, 2013, as amended [“the Act”] in the manner so required and give a true and fair view in conformity with the accounting principles generally accepted in India, of the state of affairs of the Company as at March 31, 2025, its profit including other comprehensive income, changes in equity and its cash flows for the year ended on that date. 
+
+###### Basis for Opinion 
+
+We conducted our audit of the standalone financial statements in accordance with the Standards on Auditing [SAs], as specified under section 143[10] of the Act. Our responsibilities under those Standards are further described in the Auditor’s Responsibilities for the Audit of the Standalone Financial Statements section of our report. We are independent of the Company in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the standalone financial statements under the provisions of the Act and the Rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on the standalone financial statements. 
+
+###### Key Audit Matters 
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the standalone financial statements for the financial year ended March 31, 2025. These matters were addressed in the context of our audit of the standalone financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters. 
+
+|**Key audit matter**|**How our audit addressed the key audit matter**|
+|---|---|
+|**Revenue recognition**||
+|Refer Note 2 of material accounting policies and Note 26<br>of the standalone fnancial statements.|Our audit procedures included the following:<br>–<br>Assessing the Company’s accounting policy in respect of revenue recognition and|
+|The Company recognises revenues when control of the<br>|assessed compliance in accordance with Ind AS 115.|
+|goods is transferred to the customer at an amount that<br>reflects the consideration to which the Company expects<br>to be entitled in exchange for those goods. The terms<br>of arrangements in case of domestic and exports sales,<br>including the timing of transfer of control and delivery<br>specifcations including inco-terms involves judgment in<br>determining revenue from the sale of goods.|–<br>Evaluating the design, testing the implementation, and operating effectiveness of<br>the Company’s internal fnancial controls over recognition of revenue.<br>–<br>Performing substantive testing, by selecting samples of revenue transactions<br>recorded during the year and verifying the underlying documents, which included<br>sales invoices and other related documents, depending on the terms of contracts<br>with customers.|
+|Therefore, the risk, is that revenue may not be recognised<br>in accordance with the terms of Ind AS 115 ‘Revenue from<br>contracts with customers’, and therefore, it is determined|–<br>Performing cut-off testing by selecting samples of sales transactions pre- and<br>post-year end and testing the period of revenue recognition based on the underlying<br>documents.|
+|to be a key audit matter in our audit of the standalone<br>fnancial statements.|–<br>Evaluating the adequacy of material accounting policies and disclosures given in<br>Note 2 and 26 respectively of the standalone fnancial statements.|
+
+
+
+
+![](images/2025.pdf-0052-11.png)
+
+**[Image: 2025.pdf-0052-11.png (53x21, 0.9KB)]**
+
+
+**49** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### Other Information 
+
+The Company’s Board of Directors is responsible for the other information. The other information comprises the information included in the Company’s Annual Report which consist of the Board of Director’s Report [including Management Discussion and Analysis and annexures thereto], the Corporate Governance Report [collectively referred to as “other information”] but does not include the standalone financial statements and our auditor’s report thereon. These reports are expected to be made available to us after the date of our auditor’s report. 
+
+Our opinion on the standalone financial statements does not cover the other information and we do not express any form of assurance conclusion thereon. 
+
+In connection with our audit of the standalone financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the standalone financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. 
+
+When we read the other information, if we conclude that there is a material misstatement therein, we are required to communicate the matter to those charged with governance and make other appropriate reporting as prescribed. 
+
+###### Management’s Responsibilities for the Standalone Financial Statements 
+
+The Company’s Board of Directors is responsible for the matters stated in Section 134[5] of the Act with respect to the preparation of these standalone financial statements that give a true and fair view of the financial position, financial performance including other comprehensive income, changes in equity and cash flows of the Company in accordance with the accounting principles generally accepted in India, including the Indian Accounting Standards [Ind AS] specified under Section 133 of the Act, read with the Companies [Indian Accounting Standard] Rules, 2015, as amended. This responsibility also includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding of the assets of the Company and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the standalone financial statements that give a true and fair view and are free from material misstatement, whether due to fraud or error. 
+
+In preparing the standalone financial statements, management is responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so. 
+
+The Board of Directors is also responsible for overseeing the Company’s financial reporting process. 
+
+###### Auditor’s Responsibilities for the Audit of the Standalone Financial Statements 
+
+Our objectives are to obtain reasonable assurance about whether the standalone financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these standalone financial statements. 
+
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout the audit. We also: 
+
+- Identify and assess the risks of material misstatement of the standalone financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control. 
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the 
+
+
+![](images/2025.pdf-0053-15.png)
+
+**[Image: 2025.pdf-0053-15.png (56x21, 0.9KB)]**
+
+
+**5050** 
+
+circumstances. Under section 143[3][i] of the Act, we are also responsible for expressing our opinion on whether the Company has adequate internal financial controls with reference to the standalone financial statements in place and the operating effectiveness of such controls. 
+
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management. 
+
+- Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the standalone financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Company to cease to continue as a going concern. 
+
+- Evaluate the overall presentation, structure, and content of the standalone financial statements, including the disclosures, and whether the standalone financial statements represent the underlying transactions and events in a manner that achieves fair presentation. 
+
+Materiality is the magnitude of misstatements in the standalone financial statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the standalone financial statements may be influenced. We consider quantitative materiality and qualitative factors in [i] planning the scope of our audit work and in evaluating the results of our work; and [ii] to evaluate the effect of any identified misstatements in the standalone financial statements. 
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit. 
+
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards. 
+
+From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the standalone financial statements for the financial year ended March 31, 2025 and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication. 
+
+###### Report on Other Legal and Regulatory Requirements 
+
+1. As required by the Companies [Auditor’s Report] Order, 2020 [“the Order”], issued by the Central Government of India in terms of sub-section [11] of section 143 of the Act, we give in the “Annexure 1” a statement on the matters specified in paragraphs 3 and 4 of the Order, to the extent applicable. 
+
+2. As required by Section 143[3] of the Act, we report that: 
+
+   - [a] We have sought and obtained all the information and explanations which to the best of our  knowledge and belief were necessary for the purposes of our audit. 
+
+   - [b] In our opinion, proper books of account as required by law have been kept by the Company so far as  it appears from our examination of those books except for the matter stated in the paragraph 2[i][vi] below on reporting under Rule 11[g] of the Companies [Audit and Auditors] Rules, 2014. 
+
+   - [c] The Standalone Balance Sheet, the Standalone Statement of Profit and Loss including the Other Comprehensive Income, the Standalone Statement of Changes in Equity and the Standalone Statement of Cash Flows dealt with by this Report are in agreement with the books of account. 
+
+   - [d] In our opinion, the aforesaid standalone financial statements comply with the Indian Accounting Standards specified under Section 133 of the Act, read with Companies [Indian Accounting Standards] Rules, 2015, as amended. 
+
+
+![](images/2025.pdf-0054-15.png)
+
+**[Image: 2025.pdf-0054-15.png (53x21, 0.9KB)]**
+
+
+**51** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+- [e] On the basis of the written representations received from the directors as on March 31, 2025 taken on record by the Board of Directors, none of the directors is disqualified as on  March 31, 2025 from being appointed as a director in terms of Section 164 [2] of the Act. 
+
+- [f] The modifications relating to the maintenance of accounts and other matters connected therewith are as stated in the paragraph 2[b] above on reporting under Section 143[3][b] of the Act and paragraph 2[i][vi] below on reporting under Rule 11[g] of the Companies [Audit and Auditors] Rules, 2014. 
+
+- [g] With respect to the adequacy of the internal financial controls with reference to standalone financial statements of the Company and the operating effectiveness of such controls, refer to our separate Report in “Annexure 2”. 
+
+- [h] With respect to the matters to be included in the Auditor’s Report in accordance with the requirements of section 197[16] of the Act, as amended, in our opinion and to the best of our information and according to the explanations given to us, the remuneration paid by the Company to its managing director and whole time director is within the limit as approved by the shareholders by way of special resolution in the meeting dated September 13, 2023 passed in accordance with section 197 read with Schedule V of the Act. 
+
+- [i] With respect to the other matters to be included in the Auditor’s Report in accordance with Rule 11 of the Companies [Audit and Auditors] Rules, 2014, as amended, in our opinion and to the best of our knowledge and as per information and explanations given to us: 
+
+   - i. The Company has disclosed the impact of pending litigations as at March 31, 2025 on its financial position in its standalone financial statements – Refer Note 34 [A] and 40 of the standalone financial statements; 
+
+   - ii. The Company did not have any long-term contracts including derivative contracts for which there were any material foreseeable losses; 
+
+   - iii. There has been no delays in transferring amounts, required to be transferred, to the Investor Education and Protection Fund by the Company. 
+
+   - iv. a. The management has represented that, to the best of its knowledge and belief, no funds have been advanced or loaned or invested [either from borrowed funds or share premium or any other sources or kinds of funds] by the Company to or in any other person[s] or entity[ies], including foreign entities [“Intermediaries”], with the understanding, whether recorded in writing or otherwise, that the Intermediary shall, whether, directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Company [“Ultimate Beneficiaries”] or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries. 
+
+      - b. The management has represented that, to the best of its knowledge and belief, no funds have been received by the Company from any person[s] or entity[ies], including foreign entities [“Funding Parties”], with the understanding, whether recorded in writing or otherwise, that the Company shall, whether, directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party [“Ultimate Beneficiaries”] or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries. 
+
+      - c. Based on such audit procedures performed that we consider reasonable and appropriate in the circumstances, nothing has come to our notice that has caused us to believe that the representations under sub-clause [iv] [a] and [iv] [b] contain any material misstatement. 
+
+   - v. The final dividend proposed with respect to the previous year, declared and paid by the Company during the year is in compliance with section 123 of the Act, as applicable. 
+
+As stated in Note 14.1 [e] of the standalone financial statements, the Board of Directors of the Company has proposed a final dividend for the year ended March 31, 2025, which is subject to the approval of the members in the ensuing Annual General Meeting. The amount of the dividend proposed is in accordance with section 123 of the Act to the extent it applies to the declaration of dividend. 
+
+- vi. Based on our examination, which included test checks, the Company has used accounting software for maintaining 
+
+
+![](images/2025.pdf-0055-15.png)
+
+**[Image: 2025.pdf-0055-15.png (56x21, 0.9KB)]**
+
+
+**5252** 
+
+its books of account for the financial year ended March 31, 2025 which has a feature of recording audit trail [edit log] facility and the same has operated throughout the year for all relevant transactions recorded in the software except that audit trail feature was not enabled at the database level for accounting software to log any direct data changes. 
+
+Further, during the course of our audit, we did not come across any instance of audit trail feature being tampered with, in respect of accounting software for the period for which the audit trail feature was enabled and operating. The audit trail has been preserved by the Company as per the statutory requirements for record retention except where the audit trail at database level was not enabled in the previous year. 
+
+**For KNAV & CO. LLP** Chartered Accountants [Firm Registration No. 120458W/W100679] 
+
+Date : May 29, 2025 Place : Mumbai 
+
+**Samir Parmar** Partner M. No. 113505 UDIN : 25113505BMIZII9983 
+
+
+![](images/2025.pdf-0056-05.png)
+
+**[Image: 2025.pdf-0056-05.png (53x21, 0.9KB)]**
+
+
+**53** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+##### **Annexure 1** to the Independent Auditor’s Report of even date on the Standalone Financial Statements of Haldyn Glass Limited 
+
+###### Referred to in paragraph 1 under the heading “Report on Other Legal and Regulatory Requirements” of our report of even date 
+
+In terms of the information and explanations sought by us and given by the Company and the books of account and records examined by us in the normal course of audit, we state that: 
+
+- [i] [a] [A] The Company has maintained proper records showing full particulars, including quantitative details and situation of Property, Plant and Equipment including Right of Use assets. 
+
+      - [B] The Company has maintained proper records showing full particulars of Intangible Assets. 
+
+   - [b] The Company has designed the phased programme for physical verification of Property, Plant and Equipment and Right of Use assets over a period of three years, which in our opinion, is reasonable having regard to the size of the Company and the nature of its assets. Pursuant to the programme, during the year, the management has physically verified the items which were due for verification. No material discrepancies were noticed on such verification. 
+
+   - [c] The title deeds of freehold land and building included under the immovable properties [other than properties where the Company is the lessee and the lease agreements are duly executed in favor of the lessee] are held in the name of the Company, except for the cases mentioned below. In respect of title deeds which are deposited with lenders, we have verified the title from the photocopies of those agreements and we have relied on the certificate provided by the bank. 
+
+|Description<br>of property|Gross carrying<br>value<br>[`in lakhs]|Held in name of|Whether promoter,<br>director or their<br>relative or employee|Period held|Reason for not being<br>held<br>in<br>name<br>of<br>Company|
+|---|---|---|---|---|---|
+|Land|`15.19 lakhs|1. Ravjibhai Patel<br>2. Ghyanshyam-<br>bhai Patel<br>3. Dahiben Patel|No|17/08/95<br>till date|As informed to us,<br>conveyance can be<br>done in name of the<br>Company only after<br>owners [sellers] get it<br>converted into a Non-<br>Agriculture land|
+
+
+
+   - [d] The Company has not revalued its Property, Plant and Equipment [including Right of Use assets] or Intangible Assets during the year ended March 31, 2025. Therefore, paragraph 3 [i] [d], of the Order is not applicable to the Company. 
+
+   - [e] There are no proceedings initiated or are pending against the Company for holding any benami property under the Benami Transactions [Prohibition] Act, 1988 [45 of 1988] [as amended] and rules made thereunder. 
+
+- [ii] [a] The management has conducted physical verification of inventory at reasonable intervals during the year. In our opinion, the frequency of verification by the management is reasonable and the coverage and the procedure of such verification by the management is appropriate. The discrepancies noticed on such verification by the management, were less than 10% in aggregate for each class of inventory and have been appropriately dealt in the books of account. 
+
+   - [b] The Company has been sanctioned working capital limits in excess of ` 5 crores, in aggregate, from banks during the year on the basis of security of current assets of the Company. We have observed differences / reconciliation items in the quarterly returns or statements to the extent filed by the Company with such banks as compared to the books of account maintained by the Company. However, we have not carried out a specific audit of such statements. The details of such differences / reconciliation items are as disclosed in Note 45 [j] of the standalone financial statements of the Company. The Company has not been sanctioned any working capital limit from financial institutions. 
+
+- [iii] The Company has not made any investments, provided any guarantee or security or granted any loans or advances in the nature of loans, secured or unsecured, to companies, firms, limited liability partnerships or any other parties. Therefore, the requirement to report on clause 3 [iii] [a], [b], [c], [d], [e] and [f] of the Order is not applicable to the Company. 
+
+
+![](images/2025.pdf-0057-14.png)
+
+**[Image: 2025.pdf-0057-14.png (56x21, 0.9KB)]**
+
+
+**5454** 
+
+- [iv] The Company has complied with the provisions of section 186 of the Act in respect of investments made. There are no loans, guarantees, and securities granted in respect of which provisions of sections 185 and 186 of the Act are applicable and therefore, the requirement to report on clause 3 [iv] of the Order is not applicable to the Company. 
+
+- [v] The Company has not accepted any deposits or any amounts which are deemed to be deposits within the meaning of sections 73 to 76 of the Act and the rules made thereunder, to the extent applicable. We are informed that no order relating to the Company has been passed by the Company Law Board or National Company Law Tribunal or Reserve Bank of India or any Court or any other Tribunal. 
+
+- [vi] The Central Government has not prescribed maintenance of cost records under section 148[1] of the Act for the goods and services rendered by the Company. Therefore, clause 3 [vi] of the Order is not applicable to the Company. 
+
+- [vii] [a] Undisputed statutory dues including goods and services tax, provident fund, employee’s state insurance, income tax, sales tax, service tax, duty of custom, duty of excise, value added tax, cess and other statutory dues, as applicable have been regularly deposited with the appropriate authorities though there have been  delay with respect to tax deducted at source [TDS] on vendor payments. 
+
+According to the information and explanations given to us and based on audit procedures performed by us, no undisputed amounts payable in respect of these statutory dues were outstanding, at the year end, for a period of more than six months from the date they became payable except in the below mentioned case: 
+
+|Name of the statute|Nature of the dues|Amount|Period to which the amount|
+|---|---|---|---|
+|||[`in lakhs]|relates|
+|Income Tax Act, 1961|Tax deducted at source on vendorpayments|13.28|FY 2008-09 to FY 2023-24|
+
+
+
+- [b] There are no statutory dues of goods and services tax, provident fund, employees’ state insurance, income tax, sales tax, service tax, duty of custom, duty of excise, value added tax, cess, and other statutory dues, as applicable, that have not been deposited on account of any dispute, except as mentioned below: 
+
+|Name of the statue|Nature of<br>the dues|Amount<br>[`in lakhs]|Period to which the amount relates|Forum where<br>dispute is pending|
+|---|---|---|---|---|
+|Central Sales Tax Act,<br>1956*|Sales Tax|439.73|FY 1999-2000 to FY 2003-04 and FY<br>2009-10 to FY 2011-12|Deputy Commissioner of State<br>Tax Appeal-5 Vadodara|
+|Income Tax Act, 1961|Income Tax|3.46|FY 2016-17|Commissioner of Income Tax<br>[Appeals]|
+|CGST Act, 2017<sup>*</sup>|Goods and<br>Service Tax|22.35|July 2017 to May 2022|Deputy Assistant Commissioner|
+
+
+
+* Net of amounts paid in protest 
+
+Also refer note 34 of the standalone financial statements. 
+
+- [viii] There were no transactions relating to previously unrecorded income that have been surrendered or disclosed as income during the year in the tax assessments under the Income Tax Act, 1961 [43 of 1961]. 
+
+- [ix] [a] The Company has not defaulted in repayment of loans or other borrowings or in the payment of interest thereon to any lender. Refer Note 15 of the standalone financial statements. 
+
+   - [b] The Company has not been declared wilful defaulter by any bank or financial institution or government or any government authority. 
+
+   - [c] The term loans were applied for the purpose for which the loans were obtained. 
+
+   - [d] On an overall examination of the standalone financial statements of the Company, no funds raised on short-term basis have been used for long-term purposes by the Company. Therefore, the requirements to report on clause 3[ix][d] of the Order is not applicable to the Company. 
+
+   - [e] On an overall examination of the standalone financial statements of the Company, the Company has not taken any funds from any entity or person on account of or to meet the obligations of its subsidiary or joint venture. The Company does 
+
+
+![](images/2025.pdf-0058-16.png)
+
+**[Image: 2025.pdf-0058-16.png (53x21, 0.9KB)]**
+
+
+**55** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+not have any associate company. Therefore, the requirement to report on clause 3 [ix] [e] of the Order is not applicable to the Company. 
+
+- [f] The Company has not raised loans during the year on the pledge of securities held in its subsidiary or joint venture. The Company does not have any associate company. Therefore, the requirement to report on clause 3 [ix] [f] of the Order is not applicable to the Company. 
+
+- [x] [a] The Company has not raised any money during the year by way of initial public offer / further public offer [including debt instruments]. Therefore, the requirement to report on clause 3 [x] [a] of the Order is not applicable to the Company. 
+
+   - [b] The Company has not made any preferential allotment or private placement of shares or fully or partially or optionally convertible debentures during the year.  Therefore, the requirement to report on clause 3 [x] [b] of the Order is not applicable to the Company. 
+
+- [xi] [a] Based on examination of the books and records of the Company and considering the principles of materiality outlined in Standards on Auditing, we report that no fraud by the Company or on the Company has been noticed or reported during the course of the audit. 
+
+   - [b] During the year, no report under sub-section [12] of section 143 of the Companies Act, 2013 has been filed by cost auditor / secretarial auditor or by us in Form ADT – 4 as prescribed under Rule 13 of Companies [Audit and Auditors] Rules, 2014 with the Central Government. 
+
+   - [c] There are no whistle blower complaints received by the Company during the year. 
+
+- [xii] The Company is not a Nidhi company. Therefore, the requirement to report on clause 3 [xii] [a], [b] and [c] of the Order is not applicable to the Company. 
+
+- [xiii] In our opinion, the transactions with the related parties are in compliance with sections 177 and 188 of the Act where applicable and the details of such transactions have been disclosed in the Note 35 of the standalone financial statements, as required by the applicable accounting standards. 
+
+- [xiv] [a] The Company has an internal audit system commensurate with the size and nature of its business. 
+
+   - [b] The internal audit reports of the Company issued till the date of the audit report, for the period under audit, have been considered by us. 
+
+- [xv] During the year, the Company has not entered into any non-cash transactions with its directors or persons connected with its directors and therefore, the provisions of section 192 of the Act are not applicable to the Company. 
+
+- [xvi] [a] The Company is not required to be registered under section 45-IA of the Reserve Bank of India Act, 1934. Therefore, clause 3 [xvi] [a] of the Order is not applicable to the Company. 
+
+   - [b] During the year, the Company has not conducted any Non-Banking Financial or Housing Finance activities. Therefore, the requirement to report on clause 3 [xvi] [b] of the Order is not applicable to the Company. 
+
+   - [c] The Company is not a Core Investment Company as defined in the regulations made by Reserve Bank of India. Therefore, the requirement to report on clause 3 [xvi] [c] of the Order is not applicable to the Company. 
+
+   - [d] There is no Core Investment Company as a part of the Group [as defined in the Core Investment Companies [Reserve Bank] Directions, 2016]. Therefore, the requirement to report on clause 3 [xvi] [d] of the Order is not applicable to the Company. 
+
+- [xvii] The Company has not incurred cash losses in the current financial year and immediately preceding financial year. 
+
+- [xviii] There has been no resignation of the statutory auditors during the year and therefore clause 3 [xviii] is not applicable. 
+
+- [xix] On the basis of the financial ratios disclosed in Note 43 of the standalone financial statements, ageing and expected dates of realisation of financial assets and payment of financial liabilities, other information accompanying the standalone financial statements, our knowledge of the Board of Directors and management plans and based on our examination of the evidence supporting the assumptions, nothing has come to our attention, which causes us to believe that any material uncertainty exists as on the date of the audit report that Company is not capable of meeting its liabilities existing 
+
+
+![](images/2025.pdf-0059-20.png)
+
+**[Image: 2025.pdf-0059-20.png (56x21, 0.9KB)]**
+
+
+**5656** 
+
+at the date of standalone balance sheet as and when they fall due within a period of one year from the balance sheet date. We, however, state that this is not an assurance as to the future viability of the Company. We further state that our reporting is based on the facts up to the date of the audit report and we neither give any guarantee nor any assurance that all liabilities falling due within a period of one year from the standalone balance sheet date, will get discharged by the Company as and when they fall due. 
+
+- [xx] [a] In respect of other than ongoing projects, there is no unspent amount to be transferred to a Fund specified in Schedule VII to the Companies Act, 2013. Therefore, question of commenting on compliance with second proviso to sub-section [5] of section 135 of the Act does not arise. 
+
+   - [b] The Company has not undertaken any ongoing project under sub-section [5] of section 135 of the Act. Therefore, question of commenting on compliance with sub-section [6] of section 135 of the Act does not arise. 
+
+**For KNAV & CO. LLP** Chartered Accountants [Registration No: 120458W/W100679] 
+
+Date : May 29, 2025 Place : Mumbai 
+
+**Samir Parmar** Partner Membership No. 113505 UDIN : 25113505BMIZII9983 
+
+
+![](images/2025.pdf-0060-06.png)
+
+**[Image: 2025.pdf-0060-06.png (53x21, 0.9KB)]**
+
+
+**57** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**Annexure 2** to the Independent Auditor’s Report of even date on the Standalone Financial Statements of Haldyn Glass Limited 
+
+Referred to in paragraph 2 [f] under the heading “Report on Other Legal and Regulatory Requirements” of our report of even date 
+
+###### Report on the Internal Financial Controls under Clause [i] of Sub-section 3 of Section 143 of the Companies Act, 2013 [“the Act”] 
+
+We have audited the internal financial controls with reference to standalone financial statements of Haldyn Glass Limited [“the Company”] as of March 31, 2025 in conjunction with our audit of the standalone financial statements of the Company for the year ended on that date. 
+
+###### **Management’s Responsibility for Internal Financial Controls** 
+
+The Company’s management is responsible for establishing and maintaining internal financial controls based on the internal control over financial reporting criteria established by the Company considering the essential components of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting [the “Guidance Note”] issued by the Institute of Chartered Accountants of India [“ICAI”]. These responsibilities include the design, implementation and maintenance of adequate internal financial controls that were operating effectively for ensuring the orderly and efficient conduct of its business, including adherence to Company’s policies, the safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and completeness of the accounting records, and the timely preparation of reliable financial information, as required under the Act. 
+
+###### Auditors’ Responsibility 
+
+Our responsibility is to express an opinion on the Company’s internal financial controls with reference to these standalone financial statements based on our audit. We conducted our audit in accordance with the Guidance Note and the Standards on Auditing prescribed under section 143[10] of the Companies Act, 2013, to the extent applicable to an audit of internal financial controls, both applicable to an audit of Internal Financial Controls and, both issued by the ICAI. Those Standards and the Guidance Note require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether adequate internal financial controls with reference to these standalone financial statements was established and maintained and if such controls operated effectively in all material respects. 
+
+Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal financial controls with reference to these standalone financial statements and their operating effectiveness. Our audit of internal financial controls with reference to these standalone financial statements included obtaining an understanding of internal financial controls with reference to these standalone financial statements, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. The procedures selected depend on the auditor’s judgement, including the assessment of the risks of material misstatement of the standalone financial statements, whether due to fraud or error. 
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion on the Company’s internal financial controls system with reference to these standalone financial statements. 
+
+###### Meaning of Internal Financial Controls with Reference to Standalone Financial Statements 
+
+A company’s internal financial control with reference to standalone financial statements is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of standalone financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal financial control with reference to standalone financial statements includes those policies and procedures that [1] pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; [2] provide reasonable assurance that transactions are recorded as necessary to permit preparation of standalone financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorisations of management and directors of the Company; and [3] provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or disposition of the Company’s assets that could have a material effect on the standalone financial statements. 
+
+
+![](images/2025.pdf-0061-13.png)
+
+**[Image: 2025.pdf-0061-13.png (56x21, 0.9KB)]**
+
+
+**5858** 
+
+###### **Inherent Limitations of Internal Financial Controls With Reference to Standalone Financial Statements** 
+
+Because of the inherent limitations of internal financial controls with reference to standalone financial statements, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may occur and not be detected. Also, projections of any evaluation of the internal financial controls with reference to standalone financial statements to future periods are subject to the risk that the internal financial control with reference to standalone financial statements may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+###### Opinion 
+
+In our opinion, the Company has, in all material respects, adequate internal financial controls with reference to standalone financial statements and such internal financial controls with reference to standalone financial statements were operating effectively as at March 31, 2025, based on the internal control over financial reporting criteria established by the Company considering the essential components of internal control stated in the Guidance Note issued by the ICAI. 
+
+###### **For KNAV & CO. LLP** 
+
+Date : May 29, 2025 Place : Mumbai 
+
+Chartered Accountants [Registration No: 120458W/W100679] **Samir Parmar** Partner Membership No. 113505 UDIN : 25113505BMIZII9983 
+
+
+![](images/2025.pdf-0062-07.png)
+
+**[Image: 2025.pdf-0062-07.png (53x21, 0.9KB)]**
+
+
+**59** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **Standalone Balance Sheet** as at March 31, 2025 
+
+[ ` in Lakhs] 
+
+|**Particulars**|**Note No.**|**As at**|**As at**|
+|---|---|---|---|
+|||**March 31, 2025**|**March 31, 2024**|
+|**I]**<br>**ASSETS**||||
+|A]<br>Non-current assets||||
+|[i]<br>Property, plant and equipment<br><br>|3<br>|25,507.63<br>|23,766.54<br>|
+|[ii]<br>Capital work inprogress<br><br>|3.4<br>|103.94<br>|874.54<br>|
+|[iii]<br>Right of use assets|3|141.84|245.17|
+|[iv]<br>Intangible assets|3|8.80|15.83|
+|[v]<br>Financial assets||||
+|[a]<br>Investments|4|4,890.42|4,831.66|
+|[b]<br>Trade receivables<br>|5|607.92|607.92|
+|[c]<br>Other fnancial assets<br><br>|6|373.38|1,132.95|
+|[vi]<br>Income tax assets[net]|7|124.23|160.93|
+|[vii]<br>Other non-current assets|8|41.56|193.15|
+|**Total non-current assets[A]**||**31,799.72**|**31,828.69**|
+|B]<br>Current assets||||
+|[i]<br>Inventories|9|7,300.34|4,225.39|
+|[ii]<br>Financial assets||||
+|[a]<br>Trade receivables|10|6,591.81|6,404.52|
+|[b]<br>Cash and cash equivalents|11.1|287.54|255.60|
+|[c]<br>Bank balances other than[b]above<br><br>|11.2|856.06|811.00|
+|[d]<br>Other fnancial assets|12|1,764.75|1,188.81|
+|[iii]<br>Other current assets|13|294.83|733.05|
+|**Total current assets[B]**||**17,095.33**|**13,618.37**|
+|**Total assets[A+B]**||**48,895.05**|**45,447.06**|
+|**II]**<br>**EQUITY AND LIABILITIES**||||
+|C]<br>Equity||||
+|[i]<br>Equityshare capital|14.1|537.52|537.52|
+|[ii]<br>Other equity|14.2|20,883.42|19,886.62|
+|**Total Equity [C]**||**21,420.94**|**20,424.14**|
+|Liabilities||||
+|D]<br>Non-current liabilities||||
+|[i]<br>Financial liabilities||||
+|[a]<br>Borrowings|15|6,921.80|6,666.47|
+|[b]<br>Lease liabilities|16|57.35|163.13|
+|[c]<br>Others fnancial liabilities|17|2,374.69|3,046.44|
+|[ii]<br>Provisions|18|282.13|203.73|
+|[iii]<br>Deferred tax liabilities[Net]|7|902.48|483.47|
+|[iv]<br>Other non-current liabilities|19|1,084.17|215.50|
+|**Total non-current liabilities[D]**||**11,622.62**|**10,778.74**|
+|E]<br>Current Liabilities||||
+|[i]<br>Financial liabilities||||
+|[a]<br>Borrowings|20|5,764.04|5,356.74|
+|[b]<br>Lease liabilities|21|105.77|108.28|
+|[c]<br>Tradepayables|22|||
+|Total outstandingdues of micro and small enterprises||847.01|811.12|
+|Total outstandingdues of creditors other than micro and small enterprises<br>||4,006.89|3,114.98|
+|[d]<br>Other fnancial liabilities<br>|23|3,347.99|2,204.99|
+|[ii]<br>Other current liabilities|24|1,528.21|2,359.88|
+|[iii]<br>Provisions|25|251.58|288.19|
+|**Total current liabilities[E]**||**15,851.49**|**14,244.18**|
+|**Total equity and liabilities [C+D+E]**||**48,895.05**|**45,447.06**|
+
+
+
+###### **The notes form an integral part of these standalone financial statements - Refer Note 1 to 46** 
+
+As per our Report of even date attached 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+###### **Samir Parmar** 
+
+Partner Membership No. 113505 
+
+Place : Mumbai Date : May 29, 2025 
+
+
+![](images/2025.pdf-0063-10.png)
+
+**[Image: 2025.pdf-0063-10.png (56x21, 0.9KB)]**
+
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited **Narendra Shetty Tarun Shetty** Executive Chairman Managing Director DIN: 00025868 DIN: 00587108 
+
+**Tarun Shetty** Managing Director DIN: 00587108 Place : Mumbai Date: May 29, 2025 
+
+Place : Mumbai Date: May 29, 2025 
+
+**Niraj Tipre** Chief Executive Officer 
+
+**Ganesh Chaturvedi** Chief Financial Officer FCA-27636 
+
+Place: Mumbai Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Dhruv Mehta** 
+
+Company Secretary ACS No. 46874 
+
+Place: Mumbai Date: May 29, 2025 
+
+**6060** 
+
+### for the Year Ended March 31, 2025 **Standalone Statement of Profit and Loss** 
+
+[ ` in Lakhs] 
+
+|Parti|culars|Note<br>No.|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|---|---|---|---|---|
+|**I]**|**INCOME**||||
+||Revenue from operations|26|38,160.00|29,876.99|
+||Other income|27|771.79|1,559.04|
+||**Total Income [I]**||**38,931.79**|**31,436.03**|
+|**II]**|**EXPENSES**||||
+||Cost of raw materials consumed||10,888.00|8,016.15|
+||Changes in inventories of fnished goods and work-in-progress|28|[2,940.22]|[1,544.04]|
+||Employee benefts expense|29|4,299.59|3,424.72|
+||Finance costs|30|1,495.12|952.53|
+||Depreciation and amortisation expense|31|2,875.01|1,878.72|
+||Other expenses|32|20,622.00|16,052.01|
+||**Total expenses [II]**<br>||**37,239.50**|**28,780.09**|
+|**III]**|**Proft before exceptional items and tax [I-II]**||**1,692.29**|**2,655.94**|
+|**IV]**|**Exceptional items**||**–**|**–**|
+|**V]**|**Proft before tax [III-IV]**||**1,692.29**|**2,655.94**|
+|**Less**|**:**||||
+|**VI]**|**Tax expenses**|**7**|||
+||Current tax||–|–|
+||Deferred tax charge||419.50|669.25|
+||Tax of earlier years [short / [excess]]||[23.72]|111.08|
+||**Total tax expense [VI]**||**395.78**|**780.33**|
+|**VII]**|**Proft after tax for the year [V-VI]**||**1,296.51**|**1,875.61**|
+|**VIII]**|**Other comprehensive income**||||
+||Items that will not be reclassifed subsequently to proft and loss||||
+||–<br>Remeasurements of defned beneft liability - loss||[35.33]|[56.35]|
+||–<br>Fair value equity instruments - gain||58.76|244.31|
+||–<br>Income tax relating to remeasurements of defned beneft liability - credit||8.89|14.18|
+||–<br>Income tax relating to fair value equity instruments - charge||[8.40]|[55.90]|
+||**Other comprehensive income for the year [net of tax] [VIII]**||**23.92**|**146.24**|
+|**IX]**|**Total comprehensive income for the year [VII+VIII]**||**1,320.43**|**2,021.85**|
+|**Earn**|**ings per equity share: [Face Value**`**1 each fully paid up]**||||
+||[1]<br>Basic -`|**33**|2.41|3.49|
+||[2]<br>Diluted -`||2.41|3.48|
+
+
+
+**The notes form an integral part of these standalone financial statements - Refer Note 1 to 46** 
+
+As per our Report of even date attached For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+**Samir Parmar** Partner Membership No. 113505 Place : Mumbai Date : May 29, 2025 
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited **Narendra Shetty Tarun Shetty** Executive Chairman Managing Director DIN: 00025868 DIN: 00587108 Place : Mumbai Place : Mumbai Date: May 29, 2025 Date: May 29, 2025 **Niraj Tipre Ganesh Chaturvedi** Chief Executive Officer 
+
+**Tarun Shetty** Managing Director DIN: 00587108 Place : Mumbai Date: May 29, 2025 
+
+**Ganesh Chaturvedi** Chief Financial Officer FCA-27636 
+
+Place: Mumbai Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Dhruv Mehta** Company Secretary ACS No. 46874 Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0064-12.png)
+
+**[Image: 2025.pdf-0064-12.png (53x21, 0.9KB)]**
+
+
+**61** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **Standalone Statement of Changes in Equity** for the year ended March 31, 2025 
+
+###### **A] Equity Share Capital** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at March 31, 2025|As at March 31, 2024|
+|Balance as at beginning of the year|537.52|537.52|
+|Add: Changes in equity share capital|–|–|
+|Balance as at end of the year|**537.52**|**537.52**|
+
+
+
+|**B]**<br>**Other Equity**<br>As at March 31, 2025|||||||[`in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars|Capital<br>|Securities<br>|General|Employee Stock<br>|Retained<br>|Other<br>|Total Other<br>|
+||Redemption<br>Reserve|Premium|Reserve|Appreciation<br>Rights [ESAR]<br>Reserve|Earnings|Comprehensive<br>Income|Equity|
+|**Balance as at March 31, 2024**|**82.00**|**592.75**|**6,660.09**|**32.37**|**11,888.65**|**630.76**|**19,886.62**|
+|**Changes in equity for the year ended March 31, 2025**||||||||
+|Proft for the year|-|-|-|-|1,296.51|-|1,296.51|
+|Final equity dividend for FY 2023-24|-|-|-|-|[376.26]|-|[376.26]|
+|Remeasurements of defned beneft liability - loss|-|-|-|-|-|[35.33]|[35.33]|
+|Income tax relating to remeasurements of defned<br>beneft liability - credit|-|-|-|-|-|8.89|8.89|
+|Fair value equity instruments - gain|-|-|-|-|-|58.76|58.76|
+|Income tax relating to fair value equity instruments - charge|-|-|-|-|-|[8.40]|[8.40]|
+|ESAR expense for the year|-|-|-|52.63|-|-|52.63|
+|**Balance as at March 31, 2025**|**82.00**|**592.75**|**6,660.09**|**85.00**|**12,808.90**|**654.68**|**20,883.42**|
+
+
+
+|As at March 31, 2024|||||||[`in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars|Capital<br>Redemption<br>Reserve|Securities<br>Premium|General<br>Reserve|Employee Stock<br>Appreciation<br>Rights [ESAR]<br>Reserve|Retained<br>Earnings|Other<br>Comprehensive<br>Income|Total Other<br>Equity|
+|**Balance as at March 31, 2023**|**82.00**|**592.75**|**6,660.09**|**35.03**|**10,389.30**|**484.52**|**18,243.69**|
+|**Changes in equity for the for year ended March 31, 2024**||||||||
+|Proft for the year|-|-|-|-|1,875.61|-|1,875.61|
+|Final equity dividend for FY 2022-23|-|-|-|-|[376.26]|-|[376.26]|
+|Remeasurements of defned beneft liability - loss|-|-|-|-|-|[56.35]|[56.35]|
+|Income tax relating to remeasurements of defned<br>beneft liability - credit|-|-|-|-|-|14.18|14.18|
+|Fair value equity instruments - gain|-|-|-|-|-|244.31|244.31|
+|Income tax relating to fair value equity instruments - charge|-|-|-|-|-|[55.90]|[55.90]|
+|ESAR reversal for the year|-|-|-|[2.66]|-|-|[2.66]|
+|**Balance as at March 31, 2024**|**82.00**|**592.75**|**6,660.09**|**32.37**|**11,888.65**|**630.76**|**19,886.62**|
+
+
+
+**The notes form an integral part of these standalone financial statements - Refer Note 1 to 46** 
+
+As per our Report of even date attached 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+**Samir Parmar** Partner Membership No. 113505 
+
+Place : Mumbai Date : May 29, 2025 
+
+
+![](images/2025.pdf-0065-11.png)
+
+**[Image: 2025.pdf-0065-11.png (56x21, 0.9KB)]**
+
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited **Narendra Shetty Tarun Shetty** Executive Chairman Managing Director DIN: 00025868 DIN: 00587108 Place : Mumbai Place : Mumbai Date: May 29, 2025 Date: May 29, 2025 **Niraj Tipre Ganesh Chaturvedi** Chief Executive Officer Chief Financial Officer FCA-27636 
+
+Place: Mumbai Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Dhruv Mehta** Company Secretary ACS No. 46874 
+
+Place: Mumbai Date: May 29, 2025 
+
+**6262** 
+
+### **Standalone Statement of Cash Flows** for the year ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31,2025|For the year ended<br>March 31,2024|
+|**I.**<br>**Cash Flow from operating activities**<br>|||
+|Proft before tax|1,692.29|2,655.94|
+|Adjustment for :|||
+|Depreciation and amortisation expenses<br>|2,875.01|1,878.72|
+|Interest on fxed deposits|[164.35]|[186.74]|
+|Unwindingof deferred liabilities for longtermpayables|[293.95]|[276.01]|
+|Dividend on investments|[3.67]|[1.37]|
+|Allowances /[reversal]for expected credit loss|96.53|[576.56]|
+|Allowances/[reversal]of expected credit loss for other receivables|5.01|[101.74]|
+|Deferred Income - Government Grant|[139.99]|[734.12]|
+|Unwindingof discount on securitydeposits|[7.74]|[7.36]|
+|Bad Debts|16.91|82.90|
+|Employee Stock Appreciation Rights[ESAR]expenses[net of reversal]|52.63|[2.66]|
+|Unwinding of discounting on royalty deposit|4.73|4.76|
+|Rental expense|2.67|2.67|
+|Finance costs|1,495.12|952.53|
+|Proft on sale / discard of property, plant and equipments [net]|[46.99]|[783.42]|
+|Foreign exchange loss/[gain]<br>|121.79|[78.74]|
+|**Operating proft before working capital adjustments**|**5,706.00**|**2,828.80**|
+|Adjustment for :|||
+|Trade receivables|[292.06]|[598.06]|
+|Inventories<br>|[3,074.95]|[2,103.29]|
+|Other fnancial assets|[24.01]|63.71|
+|Other assets|467.55|[329.56]|
+|Other fnancial liabilities|632.31|422.91|
+|Other liabilities|27.72|688.75|
+|Provisions|6.46|[37.32]|
+|Tradepayables|927.80|1,204.65|
+|**Cashgenerated from operating activities**|4,376.83|2,140.59|
+|Income taxespaid[net of refund received]|60.42|[206.65]|
+|**Net cash flowsgenerated from operating activities[A]**|**4,437.24**|**1,933.94**|
+|**II.**<br>**Cash Flow from Investing Activities**|||
+|Acquisition of property, plant and equipment [including capital work in progress, capital<br>advance and creditors for capitalgoods]|[3,816.30]|[10,423.67]|
+|Sale ofproperty, plant and equipment|83.79|839.37|
+|Purchase of investments[Net]|–|[0.03]|
+|Movement in fxed deposits[Other than cash and cash equivalents],net|171.62|910.42|
+|Dividend received on investments|3.67|1.37|
+|Interest received|198.03|121.49|
+|**Net Cash used in investing activities[B]**|**[3,359.19]**|**[8,551.05]**|
+
+
+
+
+![](images/2025.pdf-0066-02.png)
+
+**[Image: 2025.pdf-0066-02.png (53x21, 0.9KB)]**
+
+
+**63** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31,2025|For the year ended<br>March 31,2024|
+|**III. Cash Flow from Financing Activities**|||
+|Proceeds from term loan[long-term]|2,469.80|5,027.51|
+|Repayment of term loan[long-term]|[769.62]|[278.00]|
+|Proceeds from/[repayment of]short-term borrowings[net]|[1,037.55]|2,979.88|
+|Finance costspaid|[1,205.28]|[774.65]|
+|Equitydividendpaid|[376.26]|[376.26]|
+|Repayment of lease liabilities<br>|[127.20]|[127.20]|
+|**Net cash flows[used in]/generated from fnancing activities[C]**|**[1,046.11]**|**6,451.28**|
+|**Net increase /[decrease] in cash and cash equivalents[A+B+C]**|**31.94**|**[165.83]**|
+|**Cash and cash equivalents as at the beginning of theyear**|**255.60**|**421.43**|
+|**Cash and cash equivalents as at the end of theyear**|**287.54**|**255.60**|
+
+
+
+|Components of Cash and Cash Equivalents||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31,2025|For the year ended<br>March 31,2024|
+|Cash on hand|0.95|0.30|
+|Balance with Banks|||
+|–<br>In Current Accounts|286.59|255.30|
+|–<br>Fixed Deposits with Banks[original maturityof less than 3 months]|–|–|
+||**287.54**|**255.60**|
+
+
+
+###### Notes: 
+
+- 1] The above standalone statement of cash flows has been prepared under the ‘Indirect Method’ as set out in the Indian Accounting Standard [IND AS] 7 - “Statement of Cash Flows”. 
+
+- 2] Figures in bracket indicate outflows. 
+
+- 3] Reconciliation between the opening and closing balances in the balance sheet for liabilities arising from financing activities as required under Ind AS 7, ‘Statement of cash flows’ 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|As at April 1,2024|Cash Flows[Net]|Non Cash Changes[Net]|As at March 31,2025|
+|Long-term borrowings[includingcurrent maturities]|7,433.77|1,700.18|-|9,133.95|
+|Short-term borrowings|4,589.44|[1,037.55]|-|3,551.89|
+|Lease liabilities<br>|271.41|[127.20]|18.91|163.12|
+|**Total liabilities from fnancing activities**|**12,294.62**|**535.43**|**18.91**|**12,848.96**|
+|||||[`in Lakhs]|
+|Particulars|As at April 1,2023|Cash Flows[Net]|Non Cash Changes[Net]|As at March 31,2024|
+|Longterm borrowings[includingcurrent maturities]|2,684.26|4,749.51|–|7,433.77|
+|Short term borrowings|1,609.56|2,979.88|–|4,589.44|
+|Lease liabilities<br>|370.90|[127.20]|27.71|271.41|
+|**Total liabilities from fnancing activities**|**4,664.72**|**7,602.19**|**27.71**|**12,294.62**|
+
+
+
+**The notes form an integral part of these standalone financial statements - Refer Note 1 to 46** 
+
+As per our Report of even date attached 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+**Samir Parmar** Partner Membership No. 113505 
+
+Place : Mumbai Date : May 29, 2025 
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited 
+
+**Narendra Shetty** Executive Chairman DIN: 00025868 Place : Mumbai Date: May 29, 2025 **Niraj Tipre** Chief Executive Officer 
+
+**Tarun Shetty** Managing Director DIN: 00587108 
+
+Place : Mumbai Date: May 29, 2025 
+
+**Ganesh Chaturvedi** Chief Financial Officer FCA-27636 
+
+**Dhruv Mehta** 
+
+Company Secretary FCA-27636 ACS No. 46874 Place: Mumbai Place: Mumbai Date: May 29, 2025 Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0067-21.png)
+
+**[Image: 2025.pdf-0067-21.png (56x21, 0.9KB)]**
+
+
+**6464** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **1. Company Overview** 
+
+Haldyn Glass Limited [CIN: L51909GJ1991PLCO15522] [the “Company”] was incorporate under the provisions of the Companies Act, 1956 as applicable in India on April 25, 1991. The Company is a Public Limited Company incorporated and domiciled in India with its registered office at Village Gavasad, Tal. Padra, Dist. Vadodara-391 430, Gujarat, India. The Company’s equity shares are listed on the BSE Ltd. [Bombay Stock Exchange]. 
+
+The Company is presently engaged in the business of manufacturing of glass bottles. 
+
+###### **2. Material Accounting Policies** 
+
+###### 2.1 Statement of Compliance 
+
+The Standalone Financial Statements of the Company have been prepared in compliance with Indian Accounting Standards [Ind AS] notified under section 133 of the Companies Act, 2013 read with Rule 3 of the Companies [Indian Accounting Standards] Rules, 2015 as amended and other relevant provisions of the Act and the guidelines issued by Securities and Exchange Board of India. The Standalone Financial Statements of the Company for the year ended March 31, 2025 were approved for issue in accordance with the resolution of the Board of Directors on May 29, 2025. Accounting policies have been consistently applied except where newly issued accounting standard is initially adopted or a revision to an existing accounting standard requires a change in accounting policy hitherto in use. 
+
+###### 2.2 Basis of Preparation 
+
+The Standalone Financial Statements have been prepared on a historical cost basis, except for the following assets and liabilities which have been measured at fair value: 
+
+- certain financial assets and liabilities, including derivative instruments, that are measured at fair value 
+
+- assets held for sale, if any 
+
+- defined benefit plan 
+
+- 
+
+- share-based payments 
+
+Further, the guidance notes / announcements issued by the Institute of Chartered Accountants of India [ICAI] are also considered, wherever applicable, except to the extent where compliance with other statutory promulgations override the same requiring a different treatment. 
+
+###### 2.3 Presentation of Standalone Financial Statements 
+
+The Standalone Balance Sheet, the Standalone Statement of Profit and Loss, the Standalone Statement of Changes in Equity and the Standalone Statement of Cash Flows are prepared and presented in the format prescribed in the Schedule III to the Companies Act, 2013 [“the Act”]. The disclosure requirements with respect to items in the Standalone Balance Sheet and Standalone Statement of Profit and Loss, as prescribed in the Schedule III to the Act, are presented by way of notes forming part of the Standalone Financial Statements along with the other notes required to be disclosed under the notified Accounting Standards. 
+
+###### 2.4 Significant Accounting Judgements, Estimates and Assumptions 
+
+The preparation of the Standalone Financial Statements in conformity with Ind AS requires management to make estimates, judgments and assumptions. These estimates, judgments and assumptions affect the application of accounting policies and the reported amounts of assets and liabilities, the disclosures of contingent liabilities at the date of the Standalone Financial Statements and reported amounts of revenues and expenses during the period. Accounting estimates could change from period to period. Actual results could differ from those estimates. Appropriate changes in estimates are made as management becomes aware of changes in circumstances surrounding the estimates. Changes in estimates are reflected in the Standalone Financial Statements in the period in which changes are made and, if material, their effects are disclosed in the notes to the Standalone Financial Statements. 
+
+
+![](images/2025.pdf-0068-19.png)
+
+**[Image: 2025.pdf-0068-19.png (53x22, 0.9KB)]**
+
+
+**65** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+This note provides an overview of the areas that involved a higher degree of judgement or complexity and of items which are more likely to be materially adjusted due to estimates and assumptions turning out to be different than those originally assessed. Detailed information about each of these estimates and judgements is included in the relevant note. 
+
+Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised prospectively 
+
+The following are the key assumptions concerning the future, and other key sources of estimation uncertainty at the end of the reporting period that may have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year. 
+
+###### a] Useful life of Property, Plant and Equipment 
+
+Determination of the estimated useful lives of tangible assets and the assessment as to which components of the cost may be capitalized. Useful lives of tangible assets are based on the life prescribed in Schedule II of the Companies Act, 2013. In cases, where the useful lives are different from that prescribed in Schedule II, they are based on technical advice, taking into account the nature of the asset, the estimated usage of the asset, the operating conditions of the asset, past history of replacement, anticipated technological changes, manufacturers’ warranties and maintenance support. 
+
+###### b] Recognition and measurement of Defined Benefit Obligations 
+
+The Cost of the defined benefit plan and other post-employment benefits and the present value of such obligation are determined using actuarial valuations. An actuarial valuation involves making various assumptions that may differ from actual developments in the future. These include the determination of the discount rate, future salary increases, mortality rates and attrition rate. The discount rate is determined based on the prevailing market yields of Indian Government Securities as at the balance sheet Date for the estimated term of the obligations. Due to the complexities involved in the valuation and its long-term nature, a defined benefit obligation is highly sensitive to changes in these assumptions. All assumptions are reviewed at each reporting date. 
+
+###### c] Recognition of Deferred Tax Assets / Liabilities 
+
+A deferred tax asset / liability is recognised for all the deductible temporary differences to the extent that it is probable that taxable profit will be available against which the deductible temporary difference can be utilised. 
+
+###### d] Provisions or Contingent Liabilities 
+
+A provision is recognised when the Company has a present obligation [legal or constructive] as a result of past event and it is probable that an outflow of resources will be required to settle the obligation, in respect of which a reliable estimate can be made. If the effect of time value of money is material, provisions are discounted using a current pre-tax rate that reflects, when appropriate, the risk specific to the liability. When discounting is used, the increase in the provision due to the passage of time is recognised as a finance cost. These are reviewed at each balance sheet date and adjusted to reflect the current best estimates. 
+
+A disclosure for a contingent liability is made when there is a possible obligation or a present obligation that may, but probably will not require an outflow of resources. When there is a possible obligation or a present obligation in respect of which likelihood of outflow of resources is remote, no provision or disclosure is made. 
+
+###### e] Impairment of Financial Assets 
+
+When the fair values of financial assets and financial liabilities recorded in the Standalone Balance Sheet cannot be measured based on quoted prices in active markets, their fair value is measured using valuation techniques including the DCF model. The inputs to these models are taken from observable markets where possible, but where this is not feasible, a degree of judgment is required in establishing fair values. Judgements include considerations 
+
+
+![](images/2025.pdf-0069-16.png)
+
+**[Image: 2025.pdf-0069-16.png (56x22, 0.9KB)]**
+
+
+**6666** 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+of inputs such as liquidity risk, credit risk and volatility. Changes in assumptions about these factors could affect the reported fair value of financial instruments. 
+
+###### f] Right of Use Assets 
+
+The Company has entered commercial property leases for its offices. The Company evaluates if an arrangement qualifies to be a lease as per the requirements of Ind AS 116. Identification of a lease requires significant judgment. The Company uses significant judgement in assessing the lease term and the applicable discount rate. The Company has lease contracts which include extension and termination option, and this requires exercise of judgement by the Company in evaluating whether it is reasonably certain whether to exercise the option to renew or terminate the lease. The discount rate is generally based on the incremental borrowing rate specific to the lease period. 
+
+###### g] Impairment of investments in Subsidiary and Joint Venture 
+
+The Company reviews its carrying value of investments carried at cost [net of impairment, if any] annually, or more frequently when there is an indication of impairment. Management inter alia considers various inputs such as macro-economic environment, industry specific matters, financial projections and other relevant information for purposes of such assessment. 
+
+###### h] Fair valuation of Employee Stock Appreciation Right [ESAR] 
+
+The fair valuation of the employee stock grants is based on the Black-Scholes model used for valuation of options. Key assumptions made with respect to expected volatility includes share price, expected dividends and discount rate, under this option pricing model. 
+
+###### i] Capitalisation of Borrowing Cost 
+
+Substantial period of time for the purpose of qualifying asset as per Ind AS 23- ‘Borrowing Cost’, is set by the Company as 12 months. 
+
+###### j] Impairment of Trade Receivables and other receivables. 
+
+The Company recognises loss allowances using the expected credit loss [ECL] model for the financial assets which are not fair valued through profit or loss. Loss allowance for trade receivables with no significant financing component is measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL. The Company determines the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The amount of ECLs [or reversal] that is required to adjust the loss allowance at the reporting date to the amount that is required to be recognised is recognised as an impairment gain or loss in Standalone Statement of Profit and Loss. 
+
+###### 2.5 Functional and presentation currency 
+
+These Standalone Financial Statements are presented in Indian Rupees [INR], which is also the Company’s functional currency. All amounts have been rounded-off to the nearest lakhs, unless otherwise indicated. 
+
+###### 2.6 Property, Plant and Equipment 
+
+Items of property, plant and equipment are measured at cost, which includes capitalised borrowing costs, less accumulated depreciation and accumulated impairment losses, if any. 
+
+Cost of an item of property, plant and equipment comprises its purchase price, including import duties and non-refundable purchase taxes, after deducting trade discounts and rebates, any directly attributable cost of bringing the item to its working condition for its intended use and estimated costs of dismantling and removing the item and restoring the site on which it is located. 
+
+
+![](images/2025.pdf-0070-17.png)
+
+**[Image: 2025.pdf-0070-17.png (53x22, 0.9KB)]**
+
+
+**67** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+Advances paid towards the acquisition of property, plant and equipment outstanding at each Balance Sheet date is classified as capital advances under other non-current assets and the cost of assets not ready to use before such date are disclosed under ‘Capital work-in-progress’. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Company and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset. 
+
+Income and expenses related to the incidental operations, not necessary to bring the item to the location and condition necessary for it to be capable of operating in the manner intended by management, are recognised in the Standalone Statement of Profit and Loss. 
+
+If significant parts of an item of property, plant and equipment have different useful lives, then they are accounted and depreciated for as separate items [major components] of property, plant and equipment. 
+
+Any gain or loss on disposal of an item of property, plant and equipment is recognised in the Standalone Statement of Profit and Loss. 
+
+Subsequent expenditure is capitalised only if it is probable that the future economic benefits associated with the expenditure will flow to the Company. 
+
+Capital work-in-progress includes cost of property, plant and equipment under installation / under development as at the balance sheet date. 
+
+The assets’ residual values, useful lives and method of depreciation are reviewed at each reporting date and are adjusted prospectively, if appropriate. 
+
+###### 2.7 Inventories 
+
+Inventories are carried in the Standalone Balance Sheet as follows: 
+
+- [a] Raw materials, Packing materials, Stock in Trade and Stores & Spares: At lower of cost and net realisable value. 
+
+- [b] Work-in-progress-: At lower of cost of materials, plus appropriate production overheads and net realisable value. 
+
+- [c] Finished Goods: At lower of cost of materials, plus appropriate production overheads and net realisable value. 
+
+Cost of inventories are determined on FIFO basis. 
+
+The cost of inventories has been computed to include all cost of purchases, cost of conversion and other related costs incurred in bringing the inventories to the present location and condition. Slow and non-moving material, obsolescence, defective inventories are duly provided for and valued at net realisable value. Net realisable value is the estimated selling price in the ordinary course of business, less estimated costs of completion and estimated costs necessary to make the sale. However, materials and other items held for use in the production of inventories are not written down below cost if the finished products in which they will be used are expected to be sold at or above cost. Goods and materials in transit are valued at actual cost incurred upto the date of balance sheet. Materials and supplies held for use in the production of inventories are not written down if the finished products in which they will be used are expected to be sold at or above cost. 
+
+###### 2.8 Impairment of non-financial assets 
+
+The Company assesses at each balance sheet date whether there is any indication that an asset or cash generating unit [CGU] may be impaired. If any such indication exists, the Company estimates the recoverable amount of the asset. The recoverable amount is the higher of an asset’s or CGU’s net selling price or its value in use. Where the carrying amount of an asset or CGU exceeds its recoverable amount, the asset is considered impaired and is written down to its recoverable amount. 
+
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount 
+
+
+![](images/2025.pdf-0071-19.png)
+
+**[Image: 2025.pdf-0071-19.png (56x22, 0.9KB)]**
+
+
+**6868** 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+rate that reflects current market assessments of the time value of money and the risks specific to the asset. 
+
+An impairment loss is recognised if the carrying amount of an asset or CGU exceeds its recoverable amount. 
+
+Impairment losses are recognised in the Standalone Statement of Profit and Loss. 
+
+An impairment loss is reversed only to the extent that the asset’s carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised. 
+
+###### 2.9 Financial Instruments 
+
+The Company recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument which gives rise to financial asset of one entity and a financial liability or equity instrument of another entity. 
+
+###### a] Financial Assets 
+
+###### Initial Recognition and Measurement 
+
+All financial assets and liabilities are recognised at fair value on initial recognition except for trade receivables which are initially measured at transaction price. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. 
+
+Financial assets are classified, at initial recognition, as financial assets measured at fair value or as financial assets measured at amortised cost. 
+
+###### Subsequent measurement 
+
+For the purpose of subsequent measurement, financial assets are classified in two broad categories:- 
+
+- i] Financial assets at fair value 
+
+- ii] Financial assets at amortised cost 
+
+Where assets are measured at fair value, gains and losses are either recognised entirely in the Standalone Statement of Profit and Loss [i.e. fair value through profit or loss] or recognised in other comprehensive income [i.e. fair value through other comprehensive income]. 
+
+A financial asset is subsequently measured at amortised cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. 
+
+###### Equity instruments 
+
+The Company subsequently measures all equity investments [except investment in Subsidiary and Joint Venture at fair value]. Where the Company’s management has elected to present fair value gains and losses on equity investments in other comprehensive income, there is no subsequent reclassification of fair value gains and losses to profit or loss following the derecognition of the investment. Dividends from such investments are recognised in Standalone Statement of Profit and Loss as other income when the Company’s right to receive payments is established. Changes in the fair value of financial assets at fair value through profit or loss are recognised in other gain/ losses in the Standalone Statement of Profit and Loss. Impairment losses [and reversal of impairment losses] on equity investments measured at FVOCI are not reported separately from other changes in fair value. 
+
+###### Trade Receivables 
+
+Trade receivables are amounts due from customers for goods sold in the ordinary course of business. All financial assets are recognised initially at fair value, plus in the case of financial assets not recorded at fair value through profit or loss [FVTPL], transaction costs that are attributable to the acquisition of the financial asset. However, trade receivables that do not contain a significant financing component are measured at transaction price. The Company 
+
+
+![](images/2025.pdf-0072-21.png)
+
+**[Image: 2025.pdf-0072-21.png (53x22, 0.9KB)]**
+
+
+**69** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+holds the trade receivables with the objective of collecting the contractual cash flows and therefore measures them subsequently at amortised cost using the effective interest method, less allowance for excepted credit loss. 
+
+###### b] Equity investments in Subsidiary and Joint venture 
+
+The Company has accounted for its investment in its Subsidiary and Joint Venture at cost. 
+
+###### Derecognition 
+
+The Company derecognises a financial asset when the contractual rights to the cash flows from the financial asset expire, or it transfers the rights to receive the contractual cash flows in a transaction in which substantially all of the risks and rewards of ownership of the financial asset are transferred or in which the Company neither transfers nor retain substantially all of the risks and rewards of ownership and it does not retain control of the financial asset. 
+
+###### Impairment of financial asset 
+
+For impairment of financial assets, Company applies expected credit loss [ECL] model. Following financial assets and credit risk exposure are covered within the ECL model: 
+
+- i] Financial assets that are debt instruments, and are measured at amortised cost e.g. loans, debt securities, deposits, trade receivables and bank balance; 
+
+- ii] Trade receivables or any contractual right to receive cash or another financial asset that result from transactions that are within the scope of Ind AS 11 and Ind AS 18. 
+
+The Company follows ‘simplified approach’ for recognition of impairment loss allowance on trade receivables including receivables recognised under service concession arrangements. 
+
+The application of simplified approach does not require the Company to track changes in credit risk. Rather, it recognises impairment loss allowance based on lifetime ECLs at each reporting date, right from its initial recognition. For recognition of impairment loss on other financial assets and risk exposure, the Company determines that whether there has been a significant increase in the credit risk since initial recognition. If credit risk has not increased significantly, 12-month ECL is used to provide for impairment loss. However, if credit risk has increased significantly, then the impairment loss is provided based on lifetime ECL. If in a subsequent period, credit quality of the instrument improves such that there is no longer a significant increase in credit risk since the initial recognition, then the entity reverts to recognising the impairment loss allowance based on 12 months ECL. 
+
+- c] Financial liabilities 
+
+###### Initial recognition 
+
+The Company initially recognises borrowings, trade payables and related financial liabilities on the date on which they are originated. 
+
+All other financial instruments [including regular-way purchases and sales of financial assets] are recognised on the trade date, which is the date on which the Company becomes a party to the contractual provisions of the instrument. 
+
+###### Subsequent measurement 
+
+Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration recognised in a business combination which is subsequently measured at fair value through profit and loss. For trade and other payables maturing within one year from the balance sheet date, the carrying amounts approximates fair value due to the near term [less than a year] maturity of these instruments. 
+
+###### Derecognition 
+
+A financial liability is derecognised when the obligation under the liability is discharged or cancelled or expires. When an existing financial liability is replaced by another from the same lender on substantially different terms, or the terms of an existing liability are substantially modified, such an exchange or modification is treated as the 
+
+
+![](images/2025.pdf-0073-21.png)
+
+**[Image: 2025.pdf-0073-21.png (56x22, 0.9KB)]**
+
+
+**7070** 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+derecognition of the original liability and the recognition of a new liability. The difference in the respective carrying amounts is recognised in the Standalone Statement of Profit and Loss. 
+
+###### Offsetting of financial instruments 
+
+Financial assets and financial liabilities are offset, and the net amount is reported in the Standalone Balance Sheet if there is a currently enforceable legal right to offset the recognised amounts and there is an intention to settle on a net basis, to realise the assets and settle the liabilities simultaneously. The legally enforceable right must not be contingent on future events and must be enforceable in the normal course of business and in the event of default, insolvency or bankruptcy of the Company or the counterparty. 
+
+###### 2.10 Derivative financial instruments 
+
+The Company enters into foreign currency forward contracts that is used to hedge risk of exposure of changes in the fair value of creditors for capital goods on account of foreign currency rate movement. 
+
+These derivative contracts are not designated as hedges and accounted for at fair value through statement of profit or loss. Derivatives are carried as financial assets when the fair value is positive and as financial liabilities when the fair value is negative. Any gains or losses arising from changes in the fair value of derivatives are taken directly to standalone statement of profit and loss. 
+
+###### 2.11 Leases 
+
+###### Company as a Lessee 
+
+The determination of whether an arrangement is [or contains] a lease is based on the substance of the arrangement at the inception of the lease. The arrangement is, or contains, a lease if fulfilment of the arrangement is dependent on the use of a specific asset or assets and the arrangement conveys a right to use the asset or assets, even if that right is not explicitly specified in an arrangement. 
+
+The Company recognises right-of-use asset and a corresponding lease liability for all lease arrangements in which the Company is a lessee, except for a short-term lease of 12 months or less and leases of low-value assets. For short term lease and low-value asset arrangements, the Company recognises the lease payments as an operating expense on straight-line basis over the lease term. 
+
+Certain lease arrangements include the options to extend or terminate the lease before the end of the lease arrangement. Right-of- use assets and lease liabilities are measured according to such options when it is reasonably certain that the Company will exercise these options. The right-of-use asset are recognised at the inception of the lease arrangement at the amount of the initial measurement of lease liability adjusted for any lease payments made at or before the commencement date of lease arrangement reduced by any lease incentives received, added by initial direct costs incurred and an estimate of costs to be incurred by the Company in dismantling and removing the underlying asset or restoring the underlying asset or site on which it is located. 
+
+The right-of-use assets are depreciated using the straight-line method from the commencement date over the shorter of lease term or useful life of right-of- use asset. Estimated useful life of right-of-use assets is determined based on useful life of property, plant and equipment. Right-of-use assets are tested for impairment whenever there is an indication that their carrying value may not be recoverable. Impairment loss, if any is recognised in the Standalone Statement of Profit and Loss. 
+
+The lease liability is measured at amortised cost, at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease arrangement or, if not readily determinable, at the incremental borrowing rate in the country of domicile of such leases. Lease liabilities are remeasured with corresponding adjustments to right-of-use assets to reflect any reassessment or lease modifications. 
+
+###### Company as a Lessor 
+
+Leases for which the Company is a lessor is classified as finance or operating lease. If the terms of the lease arrangement transfers substantially all the risks and rewards of ownership to the lessee, such lease arrangement is 
+
+
+![](images/2025.pdf-0074-16.png)
+
+**[Image: 2025.pdf-0074-16.png (53x22, 0.8KB)]**
+
+
+**71** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+classified as finance lease. All other leases are classified as operating leases. 
+
+In case of sub-lease, the Company recognises investment in sub-lease separately in the financial statements. The sub-lease is classified as a finance or operating lease by reference to the right-of-use asset arising from such lease arrangement. For operating leases, rental income is recognised on a straight-line basis over the term of the lease arrangement. 
+
+###### 2.12 Provisions and Contingencies 
+
+Provisions involving substantial degree of estimation in measurement are recognised when there is a present obligation as a result of past events, it is probable that there will be an outflow of resources and a reliable estimate can be made of the amount of the obligation. These are reviewed at each balance sheet date and adjusted to reflect the current best estimate. 
+
+If the effect of the time value of money is material, provisions are discounted using a current pre-tax rate that reflects, when appropriate, the risks specific to the liability. When discounting is used, the increase in the provision due to the passage of time is recognised as a finance cost in the Standalone Statement of Profit and Loss. 
+
+Contingent liabilities are not provided for and are disclosed by way of notes. Contingent assets are not recognised but disclosed in the notes to the Standalone Financial Statements when economic inflow is probable. However, when the realisation of income is virtually certain, then the related asset is no longer a contingent asset, but it is recognised as an asset. 
+
+###### 2.13 Revenue recognition 
+
+Revenue from contracts with customers are recognised when the performance obligation towards customer have been made i.e. on transfer of control of promised goods or services to a customer at an amount that reflects the consideration to which the Company is expected to be entitled to in exchange for those goods or services. 
+
+Revenue towards satisfaction of a performance obligation is measured at the amount of transaction price [net of variable consideration and net of taxes] allocated to that performance obligation. Revenue is recognised net of sales reductions such as discounts, sales incentives granted and any taxes or duties collected on behalf of the Government such as Goods and Service Tax, etc. This variable consideration is estimated based on the expected value of outflow. 
+
+###### Sale of goods 
+
+Revenue from the sale of products is recognised when the Company has transferred control of the goods to the buyer and the buyer obtains the benefits from the goods, the potential cash flows and the amount of revenue [the transaction price] can be measured reliably, and it is probable that the Company will collect the consideration to which it is entitled to in exchange for the goods. 
+
+###### Rendering of services 
+
+Revenue from services is recognised over time by measuring progress towards satisfaction of performance obligation for the services rendered. 
+
+###### Other operating income 
+
+Incentives on exports and other Government incentives related to operations are recognised in the Standalone Statement of Profit and Loss after due consideration of certainty of utilization / receipt of such incentives. 
+
+###### Interest and dividend income 
+
+Interest income is recognised in the Standalone Statement of Profit and Loss using the effective interest method. Dividend Income is recognised when the right to receive the payment is established. 
+
+###### 2.14 Depreciation 
+
+Depreciation is calculated on cost of items of property, plant and equipment less their estimated residual values over 
+
+
+![](images/2025.pdf-0075-21.png)
+
+**[Image: 2025.pdf-0075-21.png (56x22, 0.8KB)]**
+
+
+**7272** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+their estimated useful lives, using straight line method as per useful life prescribed in Schedule II to the Companies Act, 2013 except in respect of the following categories of assets, in whose case the life of the assets has been assessed and estimated by the management based on technical evaluation. 
+
+- Captive Power Plant where depreciation is provided on written down value method over a period of 15 years 
+
+Furnaces which are depreciated under straight line method over a period of 8 years and moulds which are depreciated under straight line method over a period of 2-4 years. 
+
+Intangible Assets are amortised over its useful life of 3 years on a straight-line basis and is generally recognised in the Standalone Statement of Profit and Loss. Freehold land is not depreciated. 
+
+Depreciation on the property, plant and equipment which are added/disposed of during the year, is provided on prorata basis with reference to date of addition/deletion. 
+
+###### 2.15 Foreign currency reinstatement and translation: 
+
+Transactions in foreign currencies are initially recorded by the Company at rates prevailing at the date of the transaction. Subsequently monetary items are translated at closing exchange rates as on balance sheet date and the resulting exchange difference recognised in Standalone Statement of Profit and Loss. Differences arising on settlement of monetary items are also recognised in Standalone Statement of Profit and Loss. Non-monetary items that are measured in terms of historical cost in a foreign currency are translated using the exchange rates at the dates of the transaction. Non-monetary items carried at fair value that are denominated in foreign currencies are translated at the exchange rates prevailing at the date when the fair value was determined. The gain or loss arising on translation of non-monetary items measured at fair value is treated in line with the recognition of the gain or loss on the change in fair value of the item [i.e., translation differences on items whose fair value gain or loss is recognised in OCI or profit or loss are also recognised in OCI or profit or loss, respectively]. Foreign exchange differences regarded as an adjustment to borrowing costs are presented in the Standalone Statement of Profit and Loss, within finance costs. All other finance gains / losses are presented in the Standalone Statement of Profit and Loss on a net basis. 
+
+###### 2.16 Borrowings and Borrowing Costs 
+
+Borrowings are initially recognised at fair value, net of transaction costs incurred. Borrowings are subsequently measured at amortised cost. Any difference between the proceeds [net of transaction costs] and the redemption amount is recognised in the profit or loss over the period of the borrowings using the effective interest method. 
+
+Borrowings are removed from the Standalone Balance Sheet when the obligation specified in the contract is discharged, cancelled or expired. The difference between the carrying amount of a financial liability that has been extinguished or transferred to another party and the consideration paid is recognised in the profit or loss as other income/ [expenses]. 
+
+Borrowings are classified as current liabilities unless the Company has an unconditional right to defer settlement of the liability for at least 12 months after the reporting period. Where there is a breach of a material provision of a long-term loan arrangement on or before the end of the reporting period with the effect that the liability becomes payable on demand on the reporting date, the entity does not classify the liability as current, if the lender agreed, after the reporting period and before the approval of the Standalone Financial Statements for issue, not to demand payment as a consequence of the breach. 
+
+Borrowing costs are interest and other costs [including exchange differences relating to foreign currency borrowings to the extent that they are regarded as an adjustment to interest costs] incurred in connection with the borrowing of funds. Borrowing costs directly attributable to acquisition or construction of an asset which necessarily take a substantial period of time to get ready for their intended use are capitalised as part of the cost of that asset. Other borrowing costs are recognised as an expense in the period in which they are incurred. 
+
+
+![](images/2025.pdf-0076-13.png)
+
+**[Image: 2025.pdf-0076-13.png (53x22, 0.9KB)]**
+
+
+**73** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### 2.17 Earnings per equity share 
+
+Basic earnings per equity share is computed by dividing the net profit or loss attributable to the equity holders of the Company by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit or loss attributable to the equity holders of the Company by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value [i.e. the average market value of the outstanding equity shares]. Dilutive potential equity shares are deemed converted as of the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period present. 
+
+###### 2.18 Cash Flow statement 
+
+Cash flows are reported using the indirect method, whereby profit for the period is adjusted for the effects of transactions of a non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Company are segregated. 
+
+###### 2.19 Employee Benefits 
+
+###### Short Term Employment benefits 
+
+All employee benefits payable wholly within twelve months of rendering the service are classified as short-term employee benefits. Benefits such as salaries, wages etc. and the expected cost of ex-gratia are recognised in the period in which the employee renders the related service. A liability is recognised for the amount expected to be paid if the Company has a present legal or constructive obligation to pay this amount as a result of past service provided by the employee and the obligation can be estimated reliably. 
+
+###### Post-Employment Employee Benefits 
+
+Retirement benefits to employees comprise payments to government provident funds, gratuity fund and Employees State Insurance. 
+
+###### Defined Contribution Plans 
+
+The Company’s contribution to defined contributions plans such as Provident Fund, Employee State Insurance are recognised in the Standalone Statement of Profit and Loss in the year when the contributions to the respective funds are due. There are no other obligations other than the contribution payable to the respective Funds. 
+
+###### Defined Benefit Plans: 
+
+Gratuity liability is defined benefit obligation. The Company’s net obligation in respect of the gratuity benefit scheme is calculated by estimating the amount of future benefit that employees have earned in return for their service in the current and prior periods; that benefit is discounted to determine its present value. 
+
+The present value of the obligation under such defined benefit plan is determined based on actuarial valuation by an independent actuary, using the projected unit credit method, which recognises each period of service as giving rise to additional unit of employee benefit entitlement and measures each unit separately to build up the final obligation. 
+
+The obligation is measured at the present value of the estimated future cash flows. The discount rates used for determining the present value of the obligation under defined benefit plan, are based on the market yields on Government securities as at the balance sheet date. 
+
+Remeasurement of the net defined benefit liability, which comprise actuarial gains and losses, the return on plan assets [excluding interest] and the effect of the asset ceiling [if any, excluding interest], are recognised immediately in Other Comprehensive Income. Net interest expense / [income] on the net defined liability / [assets] is computed by applying the discount rate, used to measure the net defined liability / [asset], to the net defined liability/ [asset] at the start of the financial year after taking into account any changes as a result of contribution and benefit 
+
+
+![](images/2025.pdf-0077-18.png)
+
+**[Image: 2025.pdf-0077-18.png (56x22, 0.8KB)]**
+
+
+**7474** 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+payments during the year. Net interest expense and other expenses related to defined benefit plans are recognised in Standalone Statement of Profit and Loss. 
+
+When the benefits of a plan are changed or when a plan is curtailed, the resulting change in benefit that relates to past service or the gain or loss on curtailment is recognised immediately in Standalone Statement of Profit and Loss. The Company recognises gains and losses on the settlement of a defined benefit plan when the settlement occurs. 
+
+Actuarial gains/losses are recognised in the other comprehensive income. 
+
+###### Other Long-term Benefits: 
+
+The Company has other long-term benefits in the form of leave benefits. The present value of the obligation is determined based on actuarial valuation using the projected unit credit method carried out by independent actuary. The rate used to discount defined benefit obligation is determined by reference to market yields at the balance sheet date on Indian Government Bonds for the estimated term of obligations. Actuarial gains or losses arising on account of experience adjustment and the effect of changes in actuarial assumptions are recognised immediately in the Standalone Statement of Profit and Loss as income or expense. Gains or losses on the curtailment or settlement of other long-term benefits are recognised when the curtailment or settlement occurs. 
+
+###### 2.20 Income Taxes 
+
+Income tax expense comprises current and deferred income tax. Income tax expense is recognized in net profit in the Statement of Profit and Loss except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity or other comprehensive income. 
+
+###### Current Tax 
+
+Current tax comprises the expected tax payable or receivable on the taxable income or loss for the year and any adjustment to the tax payable or receivable in respect of previous years. The amount of current tax reflects the best estimate of the tax amount expected to be paid or received after considering the uncertainty, if any, related to income taxes. It is measured using tax rates [and tax laws] enacted or substantively enacted by the reporting date 
+
+Current tax assets and current tax liabilities are offset only if there is a legally enforceable right to set off the recognised amounts, and it is intended to realise the asset and settle the liability on a net basis or simultaneously. 
+
+Significant judgments are involved in determining the provision for income taxes, including amount expected to be paid / recovered for uncertain tax positions. 
+
+###### Deferred Tax 
+
+Deferred tax is recognised in respect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the corresponding amounts used for taxation purposes. Deferred tax is also recognised in respect of carried forward tax losses and tax credits. Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the balance sheet date and are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of changes in tax rates on deferred income tax assets and liabilities is recognised as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognised to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. The Company offsets deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off current tax assets against current tax liabilities and the deferred tax assets and deferred tax liabilities relate to the income tax levied by the same taxation authorities. 
+
+###### 2.21 Fair value measurement 
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The fair value measurement is based on the presumption 
+
+
+![](images/2025.pdf-0078-16.png)
+
+**[Image: 2025.pdf-0078-16.png (53x22, 0.9KB)]**
+
+
+**75** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+that the transaction to sell the asset or transfer the liability takes place either: 
+
+- In the principal market for the asset or liability, or 
+
+- In the absence of a principal market, in the most advantageous market for the asset or liability 
+
+The principal or the most advantageous market must be accessible by the Company. The fair value of an asset or a liability is measured using the assumptions that market participants would use when pricing the asset or liability, assuming that market participants act in their economic best interest. 
+
+For cash and other liquid assets, the fair value is assumed to approximate to book value, given the short term nature of these instruments. For those items with a stated maturity exceeding twelve months, fair value is calculated using a discounted cash flow methodology. 
+
+A fair value measurement of a non-financial asset considers a market participant’s ability to generate economic benefits by using the asset in its highest and best use or by selling it to another. 
+
+The Company uses valuation techniques that are appropriate in the circumstances and for which sufficient data are available to measure fair value, maximizing the use of relevant observable inputs and minimizing the use of unobservable inputs. 
+
+- Level 1 — Quoted [unadjusted] market prices in active markets for identical assets or liabilities 
+
+- Level 2 — Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable 
+
+- Level 3 — Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable 
+
+For assets and liabilities that are recognised in the Standalone Financial Statements on a recurring basis, the Company determines whether transfers have occurred between levels in the hierarchy by re-assessing categorisation [based on the lowest level input that is significant to the fair value measurement as a whole] at the end of each reporting period. 
+
+For the purpose of fair value disclosures, the Company has determined classes of assets and liabilities based on the nature, characteristics and risks of the asset or liability and the level of the fair value hierarchy as explained above. 
+
+###### 2.22 Segment Reporting 
+
+Operating segments, if applicable are reported in a manner consistent with the internal reporting provided to the chief operating decision maker, which is identified as Board of Directors. The Board of Directors assesses the financial performance and position of the Company and makes strategic decisions. Refer Note 38.2 on segmental information presented in the notes to accounts. 
+
+###### 2.23 Employee Stock Appreciation Right [ESAR] 
+
+- a. Employees of the Company receive remuneration in the form of ESAR, whereby employees render services as consideration for equity instruments [equity-settled transactions]. 
+
+- b. The cost of equity-settled transactions is determined by the fair value at the date when the grant is made using an appropriate valuation model. 
+
+- c. That cost is recognised, together with a corresponding increase in ESAR in equity, over the period in which the performance and/or service conditions are fulfilled. The cumulative expense recognised for equity-settled transactions at each reporting date until the vesting date reflects the extent to which the vesting period has expired and the Company’s best estimate of the number of equity instruments that will ultimately vest. 
+
+- d. When the terms of an equity-settled award are modified, the minimum expense recognised is the expense had the terms had not been modified, if the original terms of the award are met. An additional expense is recognised for any modification that increases the total fair value of the share-based payment transaction or is otherwise beneficial to the employee as measured at the date of modification. Where an award is cancelled by the entity or by the counterparty, any remaining element of the fair value of the award is expensed immediately through the Statement of Profit or Loss. 
+
+
+![](images/2025.pdf-0079-21.png)
+
+**[Image: 2025.pdf-0079-21.png (56x22, 0.9KB)]**
+
+
+**7676** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+- e. The dilutive effect of outstanding options is reflected as additional share dilution in the computation of diluted earnings per share. 
+
+###### 2.24 Events after reporting date 
+
+Where events occurring after the balance sheet date provide evidence of conditions that existed at the end of the reporting period, the impact of such events is adjusted with the standalone financial statements. Otherwise, events after the balance sheet date of material size or nature are only disclosed. 
+
+###### 2.25 Government Grants 
+
+Grant from the government [EPCG – Custom duty waiver] are recognised at their fair value where there is a reasonable assurance that the grant will be received and the Company will comply with all the attached conditions. 
+
+Government grants in relation to duty saved on import of Capital goods [under the EPCG scheme] are capitalised to Capital goods with corresponding impact in Deferred Income. These grants are provided by the government based on commitment by the Company for achieving required export obligations over a period of 6 years from date of EPCG License. Subsequently such grants [deferred income] are released to Standalone Statement of Profit and Loss based on fulfilment of related export obligations. 
+
+###### 2.26 Current and non-current classification 
+
+The Company presents assets and liabilities in statement of financial position based on current/non-current classification. The Company has presented non-current assets and current assets before equity, non-current liabilities and current liabilities in accordance with Schedule III, Division II of Companies Act, 2013 notified by MCA. 
+
+An asset is classified as current when it is: 
+
+- a] Expected to be realised or intended to be sold or consumed in normal operating cycle, 
+
+- b] Held primarily for trading, 
+
+- c] Expected to be realised within twelve months after the reporting period, or 
+
+- d] Cash or cash equivalent unless restricted from being exchanged or used to settle a liability for at least twelve months after the reporting period. 
+
+All other assets are classified as non-current. 
+
+A liability is classified as current when it is: 
+
+- a] Expected to be settled in normal operating cycle, 
+
+- b] Held primarily for trading, 
+
+- c] Due to be settled within twelve months after the reporting period, or 
+
+- d] There is no unconditional right to defer the settlement of the liability for at least twelve months after the reporting period. 
+
+All other liabilities are classified as non-current. 
+
+The operating cycle is the time between the acquisition of assets for processing and their realisation in cash or cash equivalents. Deferred tax assets and liabilities are classified as non-current assets and liabilities. The Company has identified twelve months as its normal operating cycle. 
+
+###### 2.27 Material Accounting Policy Information 
+
+The Company adopted disclosure of Accounting policies [Amendments to Ind AS 1] from April 01, 2023. Although the amendments did not result in any changes in the accounting policies themselves, they impacted accounting policy information disclosed in the financial statements. 
+
+The amendments require the disclosure of ‘material’ rather than ‘significant’ accounting policies. The amendments also provide the guidance on the application of materiality to disclosure of accounting policies, assisting entities to provide useful, entity specific accounting policy information that users need to understand other information in the financial statements. 
+
+
+![](images/2025.pdf-0080-25.png)
+
+**[Image: 2025.pdf-0080-25.png (53x22, 0.8KB)]**
+
+
+**77** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|[`in Lakhs]<br>Intangible Assets<br>Computer<br>Software<br>Total|**75.98  75.98**<br>8.88<br>8.88<br>-<br>-<br>**84.86  84.86**<br>2.56<br>2.56<br>-<br>-<br>**87.42  87.42**<br>**59.75  59.75**<br>9.28<br>9.28<br>-<br>-<br>**69.03  69.03**<br>9.59<br>9.59<br>-<br>-<br>**78.62  78.62**<br>**8.80**<br>**8.80**<br>**15.83  15.83**<br>n the name of the|for not being held in<br>me of the Company|nce can be done<br>e of the Company<br>er owners [sellers]<br>nverted in to a Non<br>re land|
+|---|---|---|---|
+|e Assets<br>]<br>Total|**516.66**<br>-<br>-<br>**516.66**<br>-<br>-<br>**516.66**<br>**168.16**<br>103.33<br>-<br>**271.49**<br>103.33<br>-<br>**374.82**<br>**141.84**<br>**245.17**<br>gistered i|Reason<br>the na|Conveya<br>in nam<br>only aft<br>get it co<br>Agricultu|
+|Right of Us<br>[ROU<br>Leasehold<br>Premises|**516.66**<br>-<br>-<br>**516.66**<br>-<br>-<br>**516.66**<br>**168.16**<br>103.33<br>-<br>**271.49**<br>103.33<br>-<br>**374.82**<br>**141.84**<br>**245.17**<br>of being re|ty held<br>hich date|95 till date<br>ote 34].|
+|Total|**11,105.35**<br>**20,225.23**<br>**[2,532.91]**<br>**28,797.67**<br>**4,538.63**<br>**[58.41]**<br>**33,277.89**<br>**5,741.98**<br>**1,766.11**<br>**[2,476.96]**<br>**5,031.13**<br>**2,762.09**<br>**[22.96]**<br>**7,770.26**<br>**25,507.63**<br>**23,766.54**<br>he process|Proper<br>since w|17-08-19<br>ent [Refer N|
+|Computers|**152.97**<br>24.62<br>-<br>**177.59**<br>11.54<br>-<br>**189.13**<br>**78.63**<br>32.54<br>-<br>**111.17**<br>33.38<br>-<br>**144.55**<br>**44.58**<br>**66.42**<br>s which is t|d holder is<br>tor or their<br>ployee|nd Equipm|
+|Furniture<br>and<br>Fixtures<br>|**228.98**<br>28.55<br>-<br>**257.53**<br>33.01<br>-<br>**290.54**<br>**173.31**<br>16.96<br>-<br>**190.27**<br>14.13<br>-<br>**204.40**<br>**86.14**<br>**67.26**<br>15.19 lakh|hether title dee<br>promoter, direc<br>relative or em|No<br>erty, Plant a|
+|Vehicles<br>|**189.82**<br>150.92<br>[10.71]<br>**330.03**<br>155.60<br>[58.41]<br>**427.22**<br>**87.11**<br>36.24<br>[7.35]<br>**116.00**<br>33.40<br>[22.96]<br>**126.44**<br>**300.78**<br>**214.03**<br>t Block of`|W<br>a|atel<br>on of Prop|
+|ngible Assets<br>Offce<br>Equipments|**124.31**<br>43.65<br>-<br>**167.96**<br>38.94<br>-<br>**206.90**<br>**69.27**<br>18.45<br>-<br>**87.72**<br>24.39<br>-<br>**112.11**<br>**94.79**<br>**80.24**<br>Block and Ne|deeds held<br>e name of|avjibhai Patel<br>hyanshyam Bhai P<br>ahiben Patel<br>the acquisiti|
+|Ta<br>Plant and<br>Machinery|**7,604.32**<br>19,198.32<br>[2,522.20]<br>**24,280.44**<br>3,332.20<br>-<br>**27,612.64**<br>**4,684.28**<br>1,531.61<br>[2,469.61]<br>**3,746.28**<br>2,525.98<br>-<br>**6,272.26**<br>**21,340.38**<br>**20,534.16**<br>aving Gross|alue<br>Title<br>in th|s<br>1.  R<br>2.  G<br>3.  D<br>executed for<br>ote 15 & 20|
+|Leasehold<br>Improve-<br>ments|**88.87**<br>-<br>-<br>**88.87**<br>-<br>-<br>**88.87**<br>**72.30**<br>7.38<br>-<br>**79.68**<br>4.42<br>-<br>**84.10**<br>**4.77**<br>**9.19**<br>q. meters h<br>low :-|ross carrying v|`15.19 Lakh<br>aining to be<br>urity refer N|
+|Buildings|**2,406.49**<br>779.17<br>-<br>**3,185.66**<br>822.59<br>-<br>**4,008.25**<br>**577.08**<br>122.93<br>-<br>**700.01**<br>126.39<br>-<br>**826.40**<br>**3,181.85**<br>**2,485.65**<br>for 7,492 s<br>re given be|of<br>G|2 sq.<br>ntracts rem<br>dged as sec|
+|Freehold<br>Land*<br>|**309.59**<br>-<br>-<br>**309.59**<br>144.75<br>-<br>**454.34**<br>**-**<br>-<br>-<br>**-**<br>-<br>-<br>**-**<br>**454.34**<br>**309.59**<br>plot of Land<br>the same a|ription of item<br>property|easuring 7,49<br>lock no. 1002]<br>ount of co<br>ipment ple|
+|Particulars|**Gross Block**<br>**As at March 31, 2023**<br>Additions during the year<br>Deletions / Adjustments during the<br>year<br>**As at March 31, 2024**<br>Additions during the year<br>Deletions / adjustments during the<br>year<br>**As at March 31, 2025**<br>**Depreciation and Amortisation**<br>As at March 31, 2023<br>Charge for the year<br>Deletions / adjustments during the<br>year<br>**As at March 31, 2024**<br>Charge for the year<br>Deletions / adjustments during the<br>year<br>**As at March 31, 2025**<br>**Net book value**<br>**As at March 31, 2025**<br>**As at March 31, 2024**<br>*Refer note 3.1 below and note 34<br>3.1<br>Freehold land included a<br>Company. The details for|Particulars<br>Desc|Land<br>Land adm<br>meters [B<br>3.2<br>Disclosure of estimated am<br>3.3<br>For Property, Plant and Equ|
+
+
+
+
+![](images/2025.pdf-0081-04.png)
+
+**[Image: 2025.pdf-0081-04.png (56x22, 0.9KB)]**
+
+
+**7878** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **3.4 : CAPITAL WORK-IN-PROGRESS AGING SCHEDULE** 
+
+|**As at March 31, 2025**|||||[`in Lakhs]|
+|---|---|---|---|---|---|
+|Particulars||Amount in CWIP|for a period of||Total|
+||Less than 1 year|1-2 years|2-3 years|More than 3 years||
+|Plant and Machinery|85.08|–|–|–|85.08|
+|Buildings|18.86||–|–|18.86|
+|**TOTAL**|**103.94**|**–**|**–**|**–**|**103.94**|
+|**As at March 31, 2024**|||||[`in Lakhs]|
+|Particulars||Amount in CWIP|for aperiod of||Total|
+||Less than 1year|1-2years|2-3years|More than 3years||
+|Plant and machinery|855.20|–|19.34|–|874.54|
+|**TOTAL**|855.20|–|19.34|–|874.54|
+
+
+
+3.5 In accordance with Ind AS 23, the borrowing cost of ` Nil [PY: ` 164.81 Lakhs] has been capitalised to property, plant and equipment 
+
+3.6 There are no projects which are temporarily suspended or which are delayed or for which cost has exceeded its budget. 
+
+3.7 The Company has not revalued its Property, Plant and Equipment [including ROU] and intangible assets during the current and previous year. 
+
+###### **NOTE 4: INVESTMENTS** 
+
+||||[`in Lakhs]<br>|
+|---|---|---|---|
+|Part|iculars|As at<br>March 31,2025|As at<br>March 31,2024|
+|I.|Investments measured at cost|||
+||Unquoted FullyPaid up|||
+||EquityInstruments|||
+||Investment in Joint Venture|||
+||Haldyn Heinz Fine Glass Private Limited|4,175.00|4,175.00|
+||[1,04,37,500 Equityshares of`10 each fully paid up]|||
+||[As at March 31,2024: 1,04,37,500 Equityshares of`10 each fully paid up]|||
+||Investment in Whollyowned Subsidiary|||
+||Haldyn Glass USA Inc.|0.83|0.83|
+||[10 EquityShares of USD 100 each]|||
+||[As at March 31,2024 : 10 Equityshares of USD 100 each]|||
+|II.|Investments at Fair Value through Other Comprehensive Income[FVTOCI]|||
+|A]|Quoted FullyPaid up|||
+||EquityInstruments|||
+||IDBI Bank Limited|1.62|1.68|
+||[2,080 EquityShares of`10 each]|||
+||[As at March 31,2024 : 2,080 Equityshares of`10 each]|||
+||F.D.C Limited|157.58|169.96|
+||[40,000 EquityShares of`1 each]|||
+||[As at March 31,2024 : 40,000 Equityshares of`1 each]|||
+
+
+
+
+![](images/2025.pdf-0082-08.png)
+
+**[Image: 2025.pdf-0082-08.png (53x22, 0.9KB)]**
+
+
+**79** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 4: INVESTMENTS [CONTD.]** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31,2025|As at<br>March 31,2024|
+|IPCA Laboratories Limited||450.57|371.22|
+|[30,000 EquityShares of`1 each]||||
+|[As at March 31,2024 : 30,000 Equityshares of`1 each]||||
+|Larsen & Toubro Limited||104.77|112.92|
+|[3,000 EquityShares of`2 each]||||
+|[As at March 31,2024 : 3,000 Equityshares of`2 each]||||
+|B]<br>Unquoted FullyPaid up||||
+|EquityInstruments||||
+|SVC Co-operative Bank Limited||0.05|0.05|
+|[100 Equityshares of`1 each]||||
+|[As at March 31,2024 : 100 Equityshares of`1 each]||||
+||**Total**|**4,890.42**|**4,831.66**|
+|Aggregate cost value ofquoted investments||24.66|24.66|
+|Aggregate market value ofquoted investments||714.54|655.78|
+|Aggregate book value of unquoted investments||4,175.88|4,175.88|
+|Category wise non-current investments:|||[`in Lakhs]|
+|Particulars||As at|As at|
+|||March 31,2025|March 31,2024|
+|Investments measured at cost||4,175.83|4,175.83|
+|Investments measured at fair value through other comprehensive income||714.59|655.83|
+||**Total**|**4,890.42**|**4,831.66**|
+
+
+
+###### **NOTE 5: TRADE RECEIVABLES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Trade receivables consideredgood - Secured||–|–|
+|Trade receivables consideredgood - Unsecured<br>||607.92|607.92|
+|Trade receivables which have signifcant increase in credit risk||–|–|
+|Trade receivables  - credit impaired||–|–|
+|Less: Allowance for expected credit loss||–|–|
+||**Total**|**607.92**|**607.92**|
+
+
+
+
+![](images/2025.pdf-0083-06.png)
+
+**[Image: 2025.pdf-0083-06.png (56x22, 0.9KB)]**
+
+
+**8080** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 5.1 : RECEIVABLES FROM PRIVATE COMPANY IN WHICH DIRECTOR OF THE COMPANY IS A DIRECTOR** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Haldyn Heinz Fine Glass Private Limited||607.92|607.92|
+|Less: Allowance for expected credit loss||–|–|
+||**Total**|**607.92**|**607.92**|
+
+
+
+###### **NOTE 5.2:  TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2025** 
+
+[ ` in Lakhs] 
+
+|Particulars|Not Due|Outstandin|gfor followin|g periods fr|om due date|of receipt|Total|
+|---|---|---|---|---|---|---|---|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|–|–|–|–|34.22|573.70|607.92|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[iii] Undisputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|[iv] Disputed Trade Receivables–consideredgood|–|–|–|–|–|–|**–**|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[vi] Disputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|Less: Allowance for expected credit loss|–|–|–|–|–|–|**–**|
+|Total|–|–|–|**–**|**34.22**|**573.70**|**607.92**|
+
+
+
+###### **TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2024** 
+
+|||||||[`|in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars|Not Due|Outstandin|gfor followi|ng periods fr|om due date|of receipt|Total|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|–|–|–|34.22|189.20|384.50|607.92|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[iii] Undisputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|[iv] Disputed Trade Receivables – consideredgood|–|–|–|–|–|–|**–**|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[vi] Disputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|Less: Allowance for expected credit loss|–|–|–|–|–|–|**–**|
+|Total|–|–|–|34.22|189.20|384.50|607.92|
+
+
+
+
+![](images/2025.pdf-0084-08.png)
+
+**[Image: 2025.pdf-0084-08.png (53x22, 0.9KB)]**
+
+
+**81** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 6: OTHER FINANCIAL ASSETS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Unsecured, consideredgood||||
+|Security deposits-related party||||
+|–<br>Promoters - Haldyn Corporation Limited||127.43|120.70|
+|–<br>Keymanagerialpersonnel||19.20|18.19|
+|Securitydeposits - others*||226.75|231.77|
+|Interest accrued on fxed deposits||–|37.64|
+|Fixed deposits with banks with remainingmaturityof more than 12 months #||–|724.65|
+||**Total**|**373.38**|**1,132.95**|
+
+
+
+*This includes deposits mainly given to electricity department, etc. 
+
+# Includes ` Nil [PY : ` 615.00 Lakhs] given as margin money towards Letter of Credit/Bank Guarantees. 
+
+###### **NOTE 7: DEFERRED TAX LIABILITIES [NET]** 
+
+||||[`in Lakhs]<br>|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Deferred Tax Assets:||||
+|Disallowances for post retirement benefts and other employee benefts||134.32|123.81|
+|Allowances for expected credit loss||78.78|54.48|
+|EPCG licence - deferred income||523.80|501.72|
+|Deferred tax asset on loss as per Income tax laws||323.10|510.02|
+|Other temporary differences||29.11|14.75|
+||**Total**|**1,089.11**|**1,204.78**|
+|Deferred Tax Liability:||||
+|Property, plant and equipment - depreciation and amortisation||1,978.30|1,626.21|
+|Other temporary differences||13.29|62.04|
+||**Total**|**1,991.59**|**1,688.25**|
+|Deferred tax liabilities [Net]||**[902.48]**|**[483.47]**|
+|Deferred tax credit / [charge]||**[419.01]**|**[710.97]**|
+|–<br>Recognised in statement of proft and loss - credit / [charge]||[419.50]|[669.25]|
+|–<br>Recognised in statement of other comprehensive income - credit / [charge]||0.49|[41.72]|
+
+
+
+
+![](images/2025.pdf-0085-08.png)
+
+**[Image: 2025.pdf-0085-08.png (56x22, 0.9KB)]**
+
+
+**8282** 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **Deferred tax credit/[charge] recognised in the standalone statement of profit and loss for the year ended March 31, 2025** 
+
+[ ` in Lakhs] 
+
+|Particulars|Recognised in<br>Proft and Loss|Recognised<br>in OCI|
+|---|---|---|
+|Deferred Tax Assets:|||
+|–<br>Disallowances forpost retirement benefts and other employee benefts|1.62|8.89|
+|<br>–<br>Allowances for expected credit loss|24.30|–|
+|–<br>EPCG licence - deferred income|22.08|–|
+|–<br>Deferred tax asset /[reversal]on loss asper income tax laws|[186.92]|–|
+|–<br>Other temporarydifferences|14.36|–|
+||**[124.56]**|**8.89**|
+|Deferred tax liability:|||
+|Property, plant and equipment - depreciation and amortisation|[352.09]|–|
+|Other temporarydifferences|57.15|[8.40]|
+||**[294.94]**|**[8.40]**|
+|**Total credit/[charge]**|**[419.50]**|**0.49**|
+
+
+
+**Deferred tax credit/[charge] recognised in the standalone statement of profit and loss for the year ended March 31, 2024** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|Recognised in<br>Proft and Loss|Recognised<br>in OCI|
+|Deferred tax assets:<br>|||
+|Disallowances for post retirement benefts and other employee benefts|[6.82]|14.18|
+|Allowances for expected credit loss|[170.78]|–|
+|EPCG licence - deferred income|501.72|–|
+|Deferred tax asset on loss asper income tax laws|510.02|–|
+|Other temporarydifferences|[32.91]|–|
+||**801.23**|**14.18**|
+|**Deferred tax liability:**|||
+|Property, plant and equipment - depreciation and amortisation|[1,464.34]|–|
+|Other temporarydifferences|[6.14]<br>|[55.90]<br>|
+||**[1,470.48]**|**[55.90]**|
+|**Total credit/[charge]**|**[669.25]**|**[41.72]**|
+|**Effective Tax Reconciliation**||[`in Lakhs]|
+|Particulars<br>|For the<br>Year Ended<br>March 31, 2025|For the<br>Year Ended<br>March 31, 2024|
+|Proft before tax|1,692.29|2,655.94|
+|Tax rate|25.17%|25.17%|
+|Income tax - computed|425.92|668.45|
+|Add: Impact ofpermanent differences|[2.73]|0.80|
+|Less: Excessprovision for tax of earlieryears|–|–|
+|Add:[Excess]/Shortprovision for tax of earlieryears|[23.72]|111.08|
+|Add: Others<br>|[3.69]|–|
+|**Income tax asper standalone statement ofproft and loss**|**395.78**|**780.33**|
+
+
+
+
+![](images/2025.pdf-0086-06.png)
+
+**[Image: 2025.pdf-0086-06.png (53x22, 0.9KB)]**
+
+
+**83** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **Reconciliation of net deferred tax liabilities is as follows:** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance as at beginningof theyear<br>|[483.47]|227.50|
+|Tax [charge] / credit income during the year recognised in standalone statement of proft|[419.50]|[669.25]|
+|or loss|||
+|Tax[charge]/ credit duringtheyear recognised in other comprehensive income|0.49|[41.72]|
+|**Balance as at end of the year**|**[902.48]**|**[483.47]**|
+|**Income tax assets [net]**||[`in Lakhs]|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Advance tax  and tax deducted at source[net ofprovision]|124.23|160.93|
+|**Balance as at end of the year**|**124.23**|**160.93**|
+
+
+
+###### **B. CURRENT TAX EXPENSES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|Current tax *||–|–|
+|Deferred tax charge /[credit]||419.50|669.25|
+|Short /[excess] provision of earlieryears||[23.72]|111.08|
+||**Total**|**395.78**|**780.33**|
+
+
+
+*  One of the furnaces at the plant of the Company was shut down from June 08, 2023 to September 09, 2023 for relining / expansion / modernisation. There is no current tax in the standalone financial statements due to there being no taxable income on account of allowance for substantial tax depreciation under the Income Tax Act, 1961. 
+
+###### **NOTE 8: OTHER NON-CURRENT ASSETS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[Unsecured,Considered Good]||||
+|Capital advances||39.67|161.93|
+|Prepaid expenses||1.89|31.22|
+||**Total**|**41.56**|**193.15**|
+
+
+
+###### **NOTE 9: INVENTORIES [NET]** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Raw materials||715.14|820.20|
+|Work-in-progress||63.99|67.27|
+|Finishedgoods||5,570.25|2,626.75|
+|Packingmaterial,stores and spares||950.96|711.17|
+||**Total**|**7,300.34**|**4,225.39**|
+
+
+
+
+![](images/2025.pdf-0087-11.png)
+
+**[Image: 2025.pdf-0087-11.png (56x22, 0.9KB)]**
+
+
+**8484** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+Note 9.1:  Inventories are valued at lower of cost and net realisable value and are hypothecated as security for the working capital facilities. 
+
+Note 9.2:  The write down of inventories to net realisable value during the year ended March 31, 2025 amounted to ` 117.59 lakhs [PY : ` 149.00 lakhs]. 
+
+###### **NOTE 10:  TRADE RECEIVABLES** 
+
+[ ` in Lakhs] 
+
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|---|
+|Trade receivables considered good - Secured||–|–|
+|Trade receivables considered good - Unsecured||6,591.81|6,404.52|
+|Trade receivables which have signifcant increase in credit Risk||–|–|
+|Trade receivables  - Credit impaired||313.01|216.48|
+|Less: Allowance for expected credit loss||[313.01]|[216.48]|
+||**Total**|**6,591.81**|**6,404.52**|
+
+
+
+###### **NOTE 10.1:  RECEIVABLES FROM PRIVATE COMPANY IN WHICH DIRECTOR OF THE COMPANY IS A DIRECTOR [REFER NOTE 5]** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Haldyn Heinz Fine Glass Private Limited||110.36|59.42|
+|Less: Allowance for expected credit loss||–|–|
+||**Total**|**110.36**|**59.42**|
+
+
+
+###### **NOTE 10.2: TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2025** 
+
+[ ` in Lakhs] 
+
+|Particulars|Not Due|Outstandin|gfor followin|g periods fr|om due date|of receipt|Total|
+|---|---|---|---|---|---|---|---|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|4,078.35|2,274.88|64.48|174.10|–|–|6,591.81|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|–|
+|[iii] Undisputed Trade Receivables – credit impaired||11.27|9.78|169.91|10.70|22.22|223.88|
+|[iv] Disputed Trade Receivables–consideredgood|–|–|–|–|–|–|–|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|–|
+|[vi] Disputed Trade Receivables – credit impaired|–|–|–|–|–|89.13|89.13|
+|Less: Allowance for expected credit loss|–|[11.27]|[9.78]|[169.91]|[10.70]|[111.35]|[313.01]|
+|Total|4,078.35|2,274.88|64.48|174.10|–|–|6,591.81|
+
+
+
+
+![](images/2025.pdf-0088-11.png)
+
+**[Image: 2025.pdf-0088-11.png (53x22, 0.9KB)]**
+
+
+**85** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2024** 
+
+|||||||[|`in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars|Not Due|Outstandin|gfor followi|ng periods fr|om due date|of receipt|Total|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – considered good|4,101.50|2,221.62|26.84|54.56|–|–|6,404.52|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|–|
+|[iii] Undisputed Trade Receivables – credit impaired|–|10.74|6.22|46.07|5.65|58.62|127.30|
+|[iv] Disputed Trade Receivables–considered good|–|–|–|–|–|–|–|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|–|
+|[vi] Disputed Trade Receivables – credit impaired|–|–|–|–|–|89.18|89.18|
+|Less: Allowance for expected credit loss|–|[10.74]|[6.22]|[46.07]|[5.65]|[147.80]|[216.48]|
+|Total|4,101.50|2,221.62|26.84|54.56|–|–|6,404.52|
+
+
+
+###### **Movement in allowance for credit impairment** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance at beginning of the year|216.48|793.04|
+|Reversal on account of write off|[16.91]|[82.90]|
+|Expected credit loss provided/[reversal] during the year|113.44|[493.66]|
+|**Balance at end of the year**|**313.01**|**216.48**|
+
+
+
+###### **NOTE 11.1: CASH AND CASH EQUIVALENTS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Cash and Cash Equivalents||||
+|Cash on hand||0.95|0.30|
+|Balance with banks||||
+|–<br>In current accounts||286.59|255.30|
+|–<br>Fixed deposits with banks [original maturity of less than 3 months]||–|–|
+||**Total**|**287.54**|**255.60**|
+
+
+
+
+![](images/2025.pdf-0089-08.png)
+
+**[Image: 2025.pdf-0089-08.png (56x22, 0.9KB)]**
+
+
+**8686** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 11.2: BANK BALANCES OTHER THAN CASH AND CASH EQUIVALENTS** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Other Bank Balances|||
+|Earmarked balance with banks|||
+|–<br>In unpaid dividend accounts|18.93|21.13|
+|Balance with Bank in|||
+|–<br>Fixed Deposit with bank [for an original maturity of more than 3 months but less than 12<br>months [note 1 & note 2 below]|837.13|789.87|
+|**Total**|**856.06**|**811.00**|
+
+
+
+Note 1:  As at March 31, 2025 the fixed deposit with banks consist of ` 251.68 Lakhs [PY : ` 236.92 lakhs] pertains to the amount received by virtue of order of Hon’ble Additional Chief Magistrate as interim custody. [Refer Note 40]. This is restricted bank balance. 
+
+Note 2:  As at March 31, 2025 the fixed deposit with bank consist restricted bank balance and margin money towards Letter of Credit/ Bank Guarantees. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|–<br>Fixed Deposit with bank [for an original maturity of more than 3 months but less than 12<br>months[note 1 & note 2 above]]|68.28|198.09|
+
+
+
+###### **NOTE 12: OTHER FINANCIAL ASSETS** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[Unsecured,Considered Good]|||
+|Fixed deposits with banks[for remainingmaturityless than 12 months] [Refer note 12.1]|1,437.41|931.64|
+|Interest accrued on deposits|100.04|96.08|
+|Other advances[refer note 12.2]|30.89|23.24|
+|Derivative asset[refer note 42]|49.59|–|
+|SecurityDeposits<br>|8.24|–|
+|Exports license beneft|138.58|137.85|
+|[Unsecured,Considered Doubtful]|||
+|Other advances[Refer note 40]|152.38|152.38|
+|Less: Allowance for expected credit loss[Refer note 40]|[152.38]|[152.38]|
+|Sub-Total|–|–|
+|**Total**|**1,764.75**|**1,188.81**|
+
+
+
+Note 12.1:  As at March 31, 2025 the fixed deposit with bank consist of ` 586.10 lakhs [PY: ` 464.01 lakhs] is restricted bank balance on account of margin money towards Letter of Credit/ Bank Guarantees. 
+
+Note 12.2: Movement in allowance for credit impairment 
+
+
+![](images/2025.pdf-0090-10.png)
+
+**[Image: 2025.pdf-0090-10.png (53x22, 0.9KB)]**
+
+
+**87** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance at beginningof theyear|152.38|249.11|
+|Allowance for theyear|-|5.01|
+|Reversal duringtheyear|-|[101.74]|
+|**Balance at end of theyear**|**152.38**|**152.38**|
+
+
+
+###### **NOTE 13: OTHER CURRENT ASSETS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[Unsecured,Considered Good]||||
+|Advances to suppliers||162.93|405.87|
+|Prepaid expenses||53.12|69.24|
+|Balance withgovernment authorities||16.81|195.97|
+|Assets held in trust[Refer note 40]||61.97|61.97|
+|[Unsecured,Considered Doubtful]||||
+|Other advances[Refer note 40]||68.57|68.57|
+|Less: Allowance for expected credit loss[Refer note 40]||[68.57]|[68.57]|
+||Sub-Total|–|–|
+||**Total**|**294.83**|**733.05**|
+
+
+
+###### **NOTE 14.1: EQUITY SHARE  CAPITAL** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Authorised :||||
+|15,00,00,000 EquityShares of`1 each||1,500.00|1,500.00|
+|||**1,500.00**|**1,500.00**|
+|Issued, Subscribed and Paid Up :||||
+|5,37,51,700 EquityShares of`1 each||537.52|537.52|
+||TOTAL|**537.52**|**537.52**|
+
+
+
+- [a] Reconciliation of number of shares outstanding at the beginning and at the end of year 
+
+|Particulars|For Year Ended M|arch 31, 2025|For Year Ended M|arch 31, 2024|
+|---|---|---|---|---|
+||No. of Shares|`in Lakhs|No. of Shares|`in Lakhs|
+|No. of Shares at the beginning of the year|5,37,51,700|537.52|5,37,51,700|537.52|
+|Add : Issue of Shares during the year|–|–|–|–|
+|Less: Shares Bought back during the year|–|–|–|–|
+|**No. of Shares at the end of the year**|**5,37,51,700**|**537.52**|**5,37,51,700**|**537.52**|
+
+
+
+
+![](images/2025.pdf-0091-09.png)
+
+**[Image: 2025.pdf-0091-09.png (56x22, 0.9KB)]**
+
+
+**8888** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 14.1: EQUITY SHARE  CAPITAL [CONTD.]** 
+
+- [b] List of Shareholders Holding more than 5% of Share Capital 
+
+|Particulars|As at March 31, 2025|As at March|31, 2024|
+|---|---|---|---|
+||No. of Shares<br>% of Holding|No. of Shares|% of Holding|
+|–<br>Haldyn Corporation Limited<br>[Ultimate Holding Company]|29,514,088<br>54.91%|29,514,088|54.91%|
+
+
+
+###### [c] Promoter’s Shareholding 
+
+|Particulars|As at March|31, 2025|As at March|31, 2024|% Ch|
+|---|---|---|---|---|---|
+||||||ane|
+||No. of Shares|% of Holding|No. of Shares|% of Holding||
+|–<br>Haldyn Corporation Limited<br>[Ultimate Holding Company]|2,95,14,088|54.91|2,95,14,088|54.91|–|
+|–<br>Shakuntala N Shetty|200|0.00|200|0.00|–|
+|–<br>Tarun N Shetty|10,92,960|2.03|10,92,960|2.03|–|
+|–<br>Vinita Rohan Ajila|6,42,480|1.20|6,42,480|1.20|–|
+
+
+
+- [d] Terms and Rights attached to equity shares 
+
+   - [i] The Company has only one class of Equity Shares having a par value of ` 1 per share. Each holder of Equity Shares is entitled to one vote per share. 
+
+   - [ii] The dividend proposed by the Board of Directors is subject to the approval of the shareholders in the ensuing Annual General Meeting. 
+
+   - [iii] In the event of liquidation the equity shareholders are entitled to receive the remaining assets of the Company after distribution of all preferential amount, in proportion to their shareholding. 
+
+- [e] Dividends paid during the year ended March 31, 2025 include an amount of ` 0.70 per equity share towards final dividend for the year ended March 31, 2024. 
+
+Dividends paid during the year ended March 31, 2024 include an amount of ` 0.70 per equity share towards final dividend for the year ended March 31, 2023. 
+
+On May 29, 2025, the Board of Directors of the Company have proposed a final dividend of ` 0.70 per share in respect of the year ended March 31, 2025 subject to the approval of shareholders at the Annual General Meeting, and if approved, would result in a cash outflow of approximately ` 376.26 lakhs. 
+
+- [f] As per the records of the Company, including its register of shareholders / members & other declarations received from shareholders regarding beneficial interest, the above shareholding represents both legal and beneficial ownership of shares. 
+
+- [g] The Company during the preceding 5 years: 
+
+   - i. has not allotted shares pursuant to contracts without payment received in cash. 
+
+   - ii. has not issued bonus shares . 
+
+   - iii. has not bought back any shares. 
+
+
+![](images/2025.pdf-0092-18.png)
+
+**[Image: 2025.pdf-0092-18.png (53x22, 0.9KB)]**
+
+
+**89** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 14.2: OTHER EQUITY** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particula|rs|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[a]<br>Sum|maryof Other EquityBalance|||
+|[i]|Capital Redemption Reserve|82.00|82.00|
+|[ii]|Securities Premium|592.75|592.75|
+|[iii]|General Reserve|6,660.09|6,660.09|
+|[iv]|Retained Earnings|||
+||As at Beginningof theyear<br>|11,888.65|10,389.30|
+||Add : Proft for theyear|1,296.51|1,875.61|
+||Less: Final equitydividendpayment|[376.26]|[376.26]|
+||**Sub - Total**|**12,808.90**|**11,888.65**|
+|[v]|Other Comprehensive Income[OCI]|||
+||As at Beginningof theyear|630.76|484.52|
+||Remeasurement on defned beneftplan - loss|[35.33]|[56.35]|
+||Income tax relatingto remeasurement on defned beneftplan - credit|8.89|14.18|
+||Fair value change in equityinstruments -gain|58.76|244.31|
+||Income tax relatingto fair value change in equityinstruments - charge|[8.40]|[55.90]|
+||**Sub - Total**|654.68|630.76|
+|[vi]|Employee Stock Appreciation Rights[ESAR]Reserve|||
+||As at Beginningof theyear|32.37|35.03|
+||Add : ESAR charge for theyear|52.63|[2.66]|
+||**Sub - Total**|**85.00**|**32.37**|
+||**Grand Total [i+ii+iii+iv+v+vi]**|**20,883.42**|**19,886.62**|
+
+
+
+
+![](images/2025.pdf-0093-04.png)
+
+**[Image: 2025.pdf-0093-04.png (56x22, 0.9KB)]**
+
+
+**9090** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 14.2: OTHER EQUITY [CONTD.]** 
+
+###### **[b] Nature and purpose of reserves** 
+
+###### [i] Capital Redemption Reserve 
+
+The Company has recognised Capital Redemption Reserve on buyback of equity shares from its retained earnings. The amount in Capital Redemption Reserve is equal to nominal amount of the equity shares bought back. 
+
+###### [ii] Securities Premium 
+
+Securities premium account comprises of premium on issue of equity shares. The reserve is utilised in accordance with the specific provision of the Companies Act, 2013. 
+
+###### [iii] General Reserve 
+
+The General reserve is used from time to time to transfer profits from retained earnings for appropriation purposes. As the General reserve is created by a transfer from one component of equity to another and is not an item of other comprehensive income, items included in the General Reserve will not be reclassified subsequently to the Standalone statement of profit and loss. Mandatory transfer to general reserve is not required under the Companies Act, 2013. 
+
+- [iv] Retained Earnings 
+
+Retained Earnings are the profits that the Company has earned till date, less any transfers to general reserve, dividends or other distributions paid to shareholders. 
+
+###### [v] Other Comprehensive Income [OCI] 
+
+Other comprehensive income represents remeasurements of the defined benefit gratuity plan; comprising of actuarial gains and losses on its net liabilities and fair valuation of equity instruments. 
+
+- [vi] ESAR Reserve - Refer Note 44 
+
+Employee stock options reserve is used to record the share-based payments, expense under the ESAR scheme. The reserve is used for the settlement of ESAR. 
+
+###### **NOTE 15: NON CURRENT BORROWINGS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Secured||||
+|Term loans from banks||9,133.95|7,433.77|
+|Less: Current maturities of borrowings||[2,212.15]|[767.30]|
+||**Total**|**6,921.80**|**6,666.47**|
+
+
+
+###### **15.1 Nature of security and terms of payment for loans** 
+
+- i) Term loans of ` 9,091.45 [PY : ` 7,433.77 Lakhs] are primarily secured by hypothecation & mortgage of Property, plant and equipment of Company on first charge basis and collaterally secured by hypothecation of stock & book debts on first charges basis. 
+
+- ii) Term loan of ` 42.50 [PY : ` Nil] is secured by hypothecation & mortgage of vehicle car. 
+
+iii) Term loans carry interest rate in range of 9.30% to 9.35% p.a. as at March 31, 2025. [PY : 9.00% p.a. to 9.30% p.a.] 
+
+
+![](images/2025.pdf-0094-21.png)
+
+**[Image: 2025.pdf-0094-21.png (53x22, 0.9KB)]**
+
+
+**91** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 15: NON CURRENT BORROWINGS [CONTD.]** 
+
+15.2 Repayment of loans secured by hypothecation & mortgage of Property, plant and equipment are as under: 
+
+||||[`in Lakhs]<br>|
+|---|---|---|---|
+|HDFC Bank||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|F.Y. 2024-25||–|583.30|
+|F.Y. 2025-26||1,031.62|954.93|
+|F.Y. 2026-27||1,031.62|954.93|
+|F.Y. 2027-28||1,031.62|954.93|
+|F.Y. 2028-29||1,031.62|954.93|
+|F.Y. 2029-30||1,031.62|954.93|
+|F.Y. 2030-31||194.43|194.43|
+||**Sub total**|**5,352.53**|**5,552.38**|
+||||[`in Lakhs]|
+|State Bank of India||As at<br>March 31, 2025<sup>*</sup>|As at<br>March 31, 2024|
+|F.Y. 2024-25||–|184.00|
+|F.Y. 2025-26||1,168.06|308.00|
+|F.Y. 2026-27||974.08|308.00|
+|F.Y. 2027-28||415.14|308.00|
+|F.Y. 2028-29||340.08|308.00|
+|F.Y. 2029-30||358.70|308.00|
+|F.Y. 2030-31||240.00|157.39|
+|F.Y. 2031-32||242.86|–|
+||**Sub total**|**3,738.92**|**1,881.39**|
+
+
+
+- The repayment during the current year was as per the sanction letter dated March 21, 2024. The  repayment for FY 2025-26 includes an amount of ` 372 lakhs paid in April 2025 based on intimation received from State Bank of India in the month of April 2025 which included the revised repayment schedule w.e.f. original sanction letter. The repayment schedule as disclosed above has been reported based on said intimation. 
+
+###### 15.3 Repayment of loan secured by hypothecation & mortgage of vehicle car are as under : 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|HDFC Bank||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|F.Y. 2025-26||12.47|–|
+|F.Y. 2026-27||13.69|–|
+|F.Y. 2027-28||15.03|–|
+|F.Y. 2028-29||1.31|–|
+||Sub total|**42.50**|**–**|
+||**Total**|**9,133.95**|**7,433.77**|
+
+
+
+
+![](images/2025.pdf-0095-08.png)
+
+**[Image: 2025.pdf-0095-08.png (56x22, 0.9KB)]**
+
+
+**9292** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 16: LEASE LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Non-currentportion of lease liabilities||57.35|163.13|
+||**Total**|**57.35**|**163.13**|
+
+
+
+###### **NOTE 17: OTHER FINANCIAL LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Payables for capital goods||2,374.69|3,046.44|
+||**Total**|**2374.69**|**3,046.44**|
+
+
+
+###### **NOTE 18: NON CURRENT PROVISIONS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars<br>||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Provision for employees benefts -[Refer Note 38]||||
+|–<br>Gratuity||158.24|113.01|
+|–<br>Compensated absence||123.89|90.72|
+||**Total**|**282.13**|**203.73**|
+
+
+
+###### **NOTE 19: OTHER NON-CURRENT LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Deferred income -governmentgrants - refer note  24 note 34||1,077.98|–|
+|Deferred liabilities for long-termpayables||6.19|215.50|
+||**Total**|**1,084.17**|**215.50**|
+|**NOTE 20: CURRENT BORROWINGS**|||[`in Lakhs]|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Secured Loans||||
+|Loans repayable on demand||||
+|–<br>Workingcapital loans from banks||3,551.89|4,542.75|
+|Current maturities of borrowings - term loan[Refer note 15]||2,212.15|767.30|
+|Unsecured Loans||||
+|From bank||||
+|–<br>Bill discounting||–|46.69|
+||**Total**|**5,764.04**|**5,356.74**|
+
+
+
+20.1  Working Capital facilities from bank are secured by hypothecation of entire current assets of the company present & future, on pari passu basis. 
+
+
+![](images/2025.pdf-0096-10.png)
+
+**[Image: 2025.pdf-0096-10.png (53x22, 0.9KB)]**
+
+
+**93** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+- 20.2  Working capital facilities carry interest rate in the range of 0.45% to 1.86% [PY: 0.75% to 1.86%] above bank base rate / Tbill payable on monthly rest as at March 31, 2025. 
+
+###### **NOTE 21: LEASE LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Current portion of lease liabilities||105.77|108.28|
+||**Total**|**105.77**|**108.28**|
+
+
+
+###### **NOTE 22: TRADE PAYABLES** 
+
+[ ` in Lakhs] 
+
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|---|
+|[a]<br>Total outstanding dues of Micro and Small Enterprises [MSME]||||
+|Total payables for Goods and Services||||
+|Total outstanding dues of Micro Enterprises and Small Enterprises||847.01|811.12|
+||**Total**|**847.01**|**811.12**|
+|[b]<br>Total outstanding dues Other than Micro and Small Enterprises||||
+|Total payables for Goods & Services||||
+|Total outstanding dues - Other than Micro Enterprises and Small Enterprises||4,006.89|3,114.98|
+||**Total**|**4,006.89**|**3,114.98**|
+
+
+
+###### **NOTE 22.1: TRADE PAYABLE OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2025** 
+
+|||||||[`|in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars||Not Due|Outstandingfo|r following peri|ods from due da|te of receipt|Total|
+||||Less than<br>1year|1-2 years|2-3 years|More than<br>3years||
+|[i] MSME||807.06|39.69|–|–|0.26|847.01|
+|[ii] Others||2,922.35|1,046.53|20.41|1.16|16.44|4,006.89|
+|[iii] Disputed dues - MSME||–|–|–|–|–|–|
+|[iv] Disputed dues - Others||–|–|–|–|–|–|
+||Total|3,729.41|1,086.22|20.41|1.16|16.70|4,853.90|
+
+
+
+
+![](images/2025.pdf-0097-10.png)
+
+**[Image: 2025.pdf-0097-10.png (56x22, 0.9KB)]**
+
+
+**9494** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **TRADE PAYABLE OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2024** 
+
+|||||||[|`in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars||Not Due|Outstandingfo|r following peri|ods from due da|te of receipt|Total|
+||||Less than<br>1year|1-2 years|2-3 years|More than<br>3years||
+|[i] MSME||500.78|303.64|1.44|–|5.26|811.12|
+|[ii] Others||2,382.34|664.77|8.05|7.77|52.05|3,114.98|
+|[iii] Disputed dues - MSME||–|–|–|–|–|–|
+|[iv] Disputed dues - Others||–|–|–|–|–|–|
+||Total|2,883.12|968.41|9.49|7.77|57.31|3,926.10|
+
+
+
+###### **NOTE 22.2:** 
+
+Micro, Small and Medium Enterprises under the Micro, Small and Medium Enterprises Development Act, 2006 [MSMED 2006] have been determined based on the information as available with the Company and the details of amount outstanding due to them are as given below: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Part|iculars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|a]|Principal amount outstanding|847.01|811.12|
+|b]|Interest due thereon|5.03|2.80|
+|c]|Interest paid by the Company in terms of Section 16 of MSMED 2006, alongwith amount<br>of thepayment made to the suppliers beyond the appointed dayduringtheyear .|–|–|
+|d]|Interest due and payable for the period of delay in making payment [which has been paid<br>but beyond the appointed day during the year] but without adding the interest specifed<br>under MSMED 2006.|0.71|32.37|
+|e]|Interest accrued and remainingunpaid|48.13|42.39|
+|f]|Further interest remaining due and payable in the succeeding years|2.00|1.51|
+
+
+
+###### **NOTE 23: OTHER FINANCIAL LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Unpaid dividends@||18.93|21.13|
+|Securitydeposits||227.29|316.80|
+|Payables for capitalgoods||1,258.73|720.71|
+|Interest accrued but not due||42.70|67.83|
+|Book overdraft||331.44|291.64|
+|Otherpayables#*||1,468.90|786.88|
+||**Total**|**3,347.99**|**2,204.99**|
+
+
+
+- @ There are no amounts due for payments to the Investors Education and Protection Fund at the year end. 
+
+- Other payables includes ` 291.36 lakhs [PY: ` 291.36 lakhs] on account of amount received by virtue of order of Hon’ble Additional Chief Magistrate. [Refer note 40] 
+
+- # Remaining balance of other payable represent liability towards employees payables, credit card dues etc. 
+
+
+![](images/2025.pdf-0098-11.png)
+
+**[Image: 2025.pdf-0098-11.png (53x22, 0.9KB)]**
+
+
+**95** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 24: OTHER CURRENT LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Deferred income  - government grants - refer note below and note 34||1,003.25|1,778.00|
+|Advance from customers||72.12|173.71|
+|Deferred liabilities for long term payables||209.31|293.95|
+|Statutory liabilities||243.53|114.22|
+||**Total**|**1,528.21**|**2,359.88**|
+
+
+
+Note:  This comprise of grants [in the nature of export benefits] relating to property, plant and equipment imported under the Export Promotion Capital Goods [EPCG] scheme. Under such scheme, the Company is committed to export prescribed times of the duty saved on import of capital goods over a specified period of time. In case such commitments are not met, the Company would be required to pay the duty saved along with interest to the regulatory authorities. 
+
+###### **NOTE 25: CURRENT PROVISIONS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Provision for Employee Benefts [Refer note 38]||||
+|–<br>Gratuity||63.43|52.82|
+|–<br>Compensated absence||177.96|225.18|
+|Provision for sales tax [refer note below]||10.19|10.19|
+||**Total**|**251.58**|**288.19**|
+
+
+
+Movement of sales tax provision as per Ind AS 37 : 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Opening provision for sales tax|10.19|10.19|
+|Add : Additional provision made during the year|–|–|
+|Less : Utilised/reversed during the year|–|–|
+|**Closing provision for sales tax**|**10.19**|**10.19**|
+
+
+
+The above provision is primarily on account of possible claims against the Company and expected to be utilised upon closure of sales tax demand as appearing in Note 34. 
+
+
+![](images/2025.pdf-0099-10.png)
+
+**[Image: 2025.pdf-0099-10.png (56x22, 0.9KB)]**
+
+
+**9696** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 26: REVENUE FROM OPERATIONS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Sale of Products [Glass Bottles]||37,542.52|28,606.61|
+|Other operating revenues||617.48|1,270.38|
+||**Total**|**38,160.00**|**29,876.99**|
+|Breakup of Other Operating Revenues||||
+|Scrap sales||111.28|70.02|
+|Export benefts||279.12|881.79|
+|Mould development charges||187.79|289.52|
+|Other miscellaneous operating revenue||39.29|29.05|
+||**Total**|**617.48**|**1,270.38**|
+
+
+
+- i] Segmentwise wise revenue information - The Company has only one Operating Segment as per IND-AS 108 “Operating Segment” i.e. manufacturing of glass bottles. Revenue of ` 9,598.82 lakhs [PY: ` 6,456.37 lakhs] is derived from major customers. 
+
+- ii] Unsatisfied performance obligation - Aggregated amount of Transaction Price allocated to the contracts that are fully or partially unsatisfied at the end of the reporting period. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Advance from customers - Refer Note 24|72.12|173.71|
+
+
+
+iii] During the year, the Company has not recognised any revenue on account of performance obligations satisfied in the previous year. 
+
+iv] Disaggregation of revenue - Geographically 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Sales in India||31,514.10|20,694.46|
+|Sales outside India||6,028.42|7,912.15|
+||**Total**|**37,542.52**|**28,606.61**|
+
+
+
+
+![](images/2025.pdf-0100-09.png)
+
+**[Image: 2025.pdf-0100-09.png (53x22, 0.9KB)]**
+
+
+**97** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 27: OTHER  INCOME** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Interest on fxed deposits||164.35|186.74|
+|Interest on others||28.11|9.56|
+|Dividend on equity investments||3.67|1.37|
+|Proft on sale of property, plant and equipments||46.99|783.42|
+|Foreign exchange gain [net]||15.15|51.46|
+|Unwinding of discount on security deposits||7.74|7.36|
+|Shared service income||94.17|87.76|
+|Unwinding of deferred liability for long term payables||293.95|276.01|
+|Other miscellaneous income*||117.66|155.36|
+||**Total**|**771.79**|**1,559.04**|
+
+
+
+* Includes sundry balances / provisions no longer required written back ` 117.66 lakhs [PY: ` 152.63 lakhs] 
+
+###### **NOTE 28: CHANGES IN INVENTORY OF FINISHED GOODS AND WORK IN PROGRESS** 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particula|rs||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|[a]<br>At t|he end of the year||||
+|[i]|Finished Goods||5,570.25|2,626.75|
+|[ii]|Work-in-Progress||63.99|67.27|
+|||**Sub-Total [A]**|**5,634.24**|**2,694.02**|
+|[B]<br>At t|he beginning of the year||||
+|[i]|Finished Goods||2,626.75|1,091.01|
+|[ii]|Work-in-Progress||67.27|58.97|
+|||**Sub-Total [B]**|**2,694.02**|**1,149.98**|
+|||**Total [B-A]**|**[2,940.22]**|**[1,544.04]**|
+
+
+
+###### **NOTE 29: EMPLOYEE BENEFITS EXPENSE** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Salaries, wages, bonus and allowances||3,813.70|3,116.12|
+|ESAR expenses[net of reversal] [Refer note 44]||52.63|[2.66]|
+|Contribution toprovident fund and other funds||228.65|194.44|
+|Gratuityexpenses||68.43|45.51|
+|Employee's welfare expenses||136.18|71.31|
+||**Total**|**4,299.59**|**3,424.72**|
+
+
+
+
+![](images/2025.pdf-0101-09.png)
+
+**[Image: 2025.pdf-0101-09.png (56x22, 0.9KB)]**
+
+
+**9898** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 30: FINANCE COSTS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Interest on borrowings #||1,137.83|647.78|
+|Interest on late payment of income tax||–|16.50|
+|Other borrowing costs||357.29|288.25|
+||**Total**|**1,495.12**|**952.53**|
+
+
+
+#  In accordance with Ind AS 23, the borrowing cost of ` Nil [PY: ` 164.81 lakhs] has been capitalised to property, plant and equipment. 
+
+###### **NOTE 31: DEPRECIATION & AMORTISATION EXPENSE** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Depreciation of property, plant and equipment||2,762.09|1,766.11|
+|Depreciation of right of use assets||103.33|103.33|
+|Amortisation of intangible assets||9.59|9.28|
+||**Total**|**2,875.01**|**1,878.72**|
+
+
+
+###### **NOTE 32: OTHER EXPENSES** 
+
+|||||[`in Lakhs]<br>|
+|---|---|---|---|---|
+|Part|iculars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|[a]|Manufacturing Expenses||||
+||Consumption of  packing material, stores and spare parts||4,782.32|3,225.77|
+||Power and fuel||9,492.92|7,969.10|
+||Repairs to machinery||253.54|334.98|
+||Repairs to buildings||109.21|119.33|
+||Other manufacturing expenses - labour charges / freight etc||1,668.40|1,293.56|
+|||**Sub-Total**|**16,306.39**|**12,942.74**|
+|[b]|Selling and Distribution Expenses||||
+||Sales promotion and advertisement expenses||73.18|62.44|
+||Marketing support services [refer note 35]||1,182.40|891.62|
+||Brokerage, discount and commission||0.46|0.74|
+||Carriage outwards||882.31|1,028.45|
+||Royalty||381.48|288.58|
+||Other selling and distribution expenses||169.79|9.46|
+|||**Sub-Total**|**2,689.62**|**2,281.29**|
+
+
+
+
+![](images/2025.pdf-0102-08.png)
+
+**[Image: 2025.pdf-0102-08.png (53x22, 0.9KB)]**
+
+
+**99** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|[c]<br>Administrative and General Expenses|||
+|Rent|115.47|26.57|
+|Rates, taxes and fees|115.39|102.02|
+|Insurance|78.11|84.35|
+|Auditors Remuneration:|||
+|–<br>Statutory audit fees|25.00|24.00|
+|–<br>Taxation matters|–|6.00|
+|–<br>Certifcation fees|0.38|0.81|
+|–<br>Out of pocket expense|4.45|2.89|
+|Director's sitting fees|36.28|25.86|
+|Commission to directors|30.00|30.00|
+|Travelling and conveyance|165.56|140.69|
+|Legal and professional charges|357.16|265.46|
+|Repair & maintenance - others|164.01|158.38|
+|Bank charges|101.91|100.41|
+|Corporate Social Responsibility Expenses [refer note 37]|41.89|36.75|
+|Donation|53.12|115.58|
+|Bad debts|16.91|82.90|
+|Sundry balances written off|–|25.05|
+|Allowance for expected credit loss [net of reversal] [refer note 5 and 10]|96.53|[576.56]|
+|Allowance / [reversal] for credit impairment|5.01|[101.74]|
+|Miscellaneous expenses|218.81|278.56|
+|**Sub-Total**|**1,625.99**|**827.98**|
+|**Total [a+b+c]**|**20,622.00**|**16,052.01**|
+
+
+
+
+![](images/2025.pdf-0103-03.png)
+
+**[Image: 2025.pdf-0103-03.png (56x22, 0.9KB)]**
+
+
+**100100** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 33: BASIC AND DILUTED EARNINGS PER EQUITY SHARE** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Part|iculars|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Prof|t Attributable to Equity Shareholders|1,296.51|1,875.61|
+||**Total**|**1,296.51**|**1,875.61**|
+|[a]|Weighted Average No. of Equity Shares Outstanding during the year|||
+||–<br>For Basic EPS|53,751,700|53,751,700|
+||–<br>For Diluted EPS|53,876,100|53,840,900|
+|[b]|Earnings Per Share|||
+||–<br>Basic EPS[in`]|2.41|3.49|
+||–<br>Diluted EPS[in`]|2.41|3.48|
+||–<br>Face Value Per EquityShare[in`]|1.00|1.00|
+|[c]|Reconciliation between number of shares used for calculating basic and<br>diluted earningsper share|||
+||–<br>No. of Shares used for calculatingBasic EPS|53,751,700|53,751,700|
+||–<br>Add: Potential equity shares expected to be allotted pursuant to ESAR<br>scheme|124,400|89,200|
+||–<br>No. of Shares used for calculating Diluted EPS|**53,876,100**|**53,840,900**|
+
+
+
+###### **NOTE 34: CONTINGENT LIABILITIES AND COMMITMENTS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Part|iculars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[A]|Contingent Liabilities|||
+||Sales tax demand [Refer note 1 below]|442.55|442.55|
+||Claims against company not acknowledged as debts [Refer note 2 below]|22.08|22.08|
+||Demands by GST authority under dispute|22.35|527.97|
+||Labour law cases / other court cases [Refer note 3 below]|39.92|35.65|
+||Letter of credits outstanding & bank guarantees|1,023.44|890.49|
+|[B]|Commitments|||
+||Estimated amount of Contracts remaining to be executed on capital account|209.14|649.09|
+||EPCG export obligation [Refer note 4 below]|12,487.38|10,668.00|
+
+
+
+###### **Notes:** 
+
+1. Excluding penalty and other levies the quantum of which is presently not determinable. 
+
+2. The Company had in earlier year filed complaint against its ex-employees for purported misappropriation within the Company. These employees have levied counter charges/complaint against the management of the Company with various authorities. The Company has suitably replied to those clarifications sought for. The management of the Company does not perceive that any financial/other adjustment is required to be made in the books of accounts of the Company arising out of the said matter. 
+
+3. Estimated amount for cases under labour court. 
+
+4. Out of the EPCG License issued to the Company as at March 31, 2025 of ` 2,955.35 lakhs [P.Y. ` 2,512.13 lakhs] [custom duty saved], the Company has utilised licenses to the tune of ` 874.12 lakhs [P.Y. ` 734.13 Lakhs] on cumulative basis and licenses amounting to ` 2,081.23 lakhs [P.Y. ` 1,778.00 lakhs] are yet to be utilised for which are shown under current liabilities. To the extent of pending utilisation, the Company has an 
+
+
+![](images/2025.pdf-0104-10.png)
+
+**[Image: 2025.pdf-0104-10.png (53x22, 0.9KB)]**
+
+
+**101** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+export obligation of 6 times amounting to ` 12,487.37 lakhs [P.Y. ` 10,668.00 Lakhs]. 
+
+5. The Company’s TRACES site shows an amount of ` 27.94  lakhs for income tax for various financial years i.e. from 2007-08 to 2024-25. Out of that, an amount of ` 13.07 lakhs has been provided by the Company. For the balance amount of ` 14.87 lakhs, the Company has submitted rectification letter and in the opinion of the management, after the necessary rectifications on the TRACES site there will be no amount payable. Considering the matter involved and rectification letter submitted by the Company, the management believes that the probability of matters being decided against the Company are remote in nature and hence not disclosed as contingent liability. 
+
+6. The Company has two parcels of land amounting to ` 159.94 lakhs [out of which ` 144.75 Lakhs is addition in the current year] which is agricultural land. These are to be converted into non-agricultural land by the Company. The conversion charges and stamp duty [as applicable] is payable at the time of conversion into non-agricultural land. 
+
+- **Note:** Future cash outflows, if any, in respect  of matters stated above is dependent upon the outcome of judgments / decisions etc or non-fulfilment of export obligation. 
+
+###### **NOTE 35: RELATED PARTY DISCLOSURES** 
+
+Related party disclosures in accordance with the requirements of Ind AS 24 are as given below: 
+
+###### [A] Relationships 
+
+Category I : Enterprise owned or significant influenced by key managerial personnel and their relatives 
+
+Haldyn Corporation Limited - Holding Company 
+
+|Category II : Subsidiary|Country of<br>|**% of equit**|**y interest**|
+|---|---|---|---|
+||incorporation|**As at**<br>**March 31, 2025**|As at<br>March 31, 2024|
+|Haldyn Glass USA Inc.|USA|100%|100%|
+|Category III : Jointly Controlled Entity|Country of|**% of equit**|**y interest**|
+||incorporation|**As at**|As at|
+|||**March 31, 2025**|March 31, 2024|
+|Haldyn Heinz Fine Glass Private Limited|India|56.80%|56.80%|
+
+
+
+###### Category IV : Key Management Personnel and their Relatives 
+
+Mr. Narendra D. Shetty Executive Chairman Mr. Tarun N. Shetty Managing Director Mr. Rohan Y. Ajila Director Mr. Padmanabhan Gopalaraman Director Mr. Ajit Shah Director Mr. Sikandar Talwar Director [upto September 09, 2024] Mrs. K J Udeshi Director [upto September 09, 2024] Mrs. Mona Cheriyan Director [w.e.f August 13, 2024] Mr. Niraj Tipre Chief Executive Officer Mr. Ganesh P. Chaturvedi Chief Financial Officer Mr. Dhruv Mehta Company Secretary Mrs. Vinita R. Ajila Relative of Director Mrs. Shakuntala N. Shetty Relative of Director Mrs. Sadhana G. Chaturvedi Relative of Chief Financial Officer 
+
+
+![](images/2025.pdf-0105-14.png)
+
+**[Image: 2025.pdf-0105-14.png (56x22, 0.9KB)]**
+
+
+**102102** 
+
+|[`in Lakhs]<br>or the year ended<br>March 31, 2024<br>7.23<br>1.57<br>87.76<br>1,974.97<br>4.64|-<br>283.82<br>3.60<br>79.20<br>48.00<br>193.79|266.56<br>357.42<br>65.38<br>9.42<br>4.69<br>3.76<br>6.56<br>3.54<br>5.74<br>6.26<br>–<br>6.00<br>6.00<br>6.00<br>6.00<br>6.00<br>891.62<br>[531.16]||
+|---|---|---|---|
+|For the year ended<br>March 31, 2025<br>F<br>2.23<br>8.97<br>93.84<br>2,214.55<br>21.38|274.04<br>376.75<br>3.60<br>79.20<br>48.00<br>187.88|331.90<br>323.19<br>70.95<br>6.58<br>8.73<br>6.35<br>5.61<br>3.37<br>7.49<br>8.98<br>4.48<br>6.00<br>6.00<br>6.00<br>6.00<br>6.00<br>1,182.40<br>–|luation for the Company.|
+|Category<br>Category I<br>Category III<br>Category III<br>Category I<br>Category III|Category I<br>Category I<br>Category IV<br>Category I<br>Category IV<br>Category IV|Category IV<br>Category IV<br>Category IV<br>Category I<br>Category III<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category IV<br>Category II<br>Category III|rough an actuarial va|
+|Name of Related Parties<br>Haldyn Corporation Limited<br>Haldyn Heinz Fine Glass Private Limited<br>Haldyn Heinz Fine Glass Private Limited<br>Haldyn Corporation Limited<br>Haldyn Heinz Fine Glass Private Limited|Haldyn Corporation Limited<br>Haldyn Corporation Limited<br>Mrs. Sadhana G. Chaturvedi<br>Haldyn Corporation Limited<br>Mr. Tarun N. Shetty<br>Mr. Narendra D. Shetty<br>|Mr. Tarun N. Shetty<br>Mr. Niraj Tipre<br>Mr. Ganesh P. Chaturvedi<br>Haldyn Corporation Limited<br>Haldyn Heinz Fine Glass Private Limited<br>Mr. Rohan Y. Ajila<br>Mrs. K J Udeshi<br>Mr. Sikandar Talwar<br>Mr. Ajit Shah<br>Mr. G Padmanabhan<br>Mrs. Mona Cheriyan<br>Mr. Rohan Y. Ajila<br>Mrs. K J Udeshi<br>Mr. Sikandar Talwar<br>Mr. Ajit Shah<br>Mr. G Padmanabhan<br>Haldyn Glass USA INC<br>dvances<br>Haldyn Heinz Fine Glass Private Limited|and compensated absences which is determined th|
+|**E 35 [CONTD.]**<br>Transactions with the related parties<br>Sr.<br>No.<br>Transactions<br>1<br>Sales of goods $ [Net of sales return]<br>2<br>Rendering of services [Misc. Income]<br>3<br>Purchases $ [Net of purchase return]|4<br>Job work expenses<br>5<br>Royalty expense $ 6<br>Motor car hire expense<br>7<br>Rent expense $ 8<br>Directors remuneration @|9<br>Employee remuneration @<br>10<br>Reimbursement of expenses net [paid]<br>Reimbursement of expenses [Received]<br>11 Sitting  fees & out of pocket<br>expenses<br>12<br>Commission paid<br>13<br>Selling & distribution expenses<br>14<br>Reversal of provision against receivables/other a|$ Exclusive of taxes.<br>@<br>Does not include liabilities in respect of gratuity|
+
+
+
+
+![](images/2025.pdf-0106-04.png)
+
+**[Image: 2025.pdf-0106-04.png (53x22, 0.9KB)]**
+
+
+**103** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|[`in Lakhs]<br>For the year ended<br>March 31, 2024|883.15|**883.15**|[`in Lakhs]|As at<br>March 31, 2024|120.70|18.19|4,175.00|0.83|667.34|7.81|399.60|5.90|224.27|67.14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|For the year ended<br>March 31, 2025|913.92|**913.92**||As at<br>March 31, 2025|127.43|19.20|4,175.00|0.83|718.28|2.05|176.65|28.12|202.20|86.00|
+|||**Total**||Category|Category I|Category IV|Category III|Category II|Category III|Category I|Category I|Category III|Category II|Category IV|
+|onnel||||Name of Related Parties|Haldyn Corporation Limited|Mr. Tarun N. Shetty|Haldyn Heinz Fine Glass Private Ltd|Haldyn Glass USA INC|Haldyn Heinz Fine Glass Private Limited|Haldyn Corporation Limited|Haldyn Corporation Limited|Haldyn Heinz Fine Glass Private Limited|Haldyn Glass USA INC|Mr. Niraj Tipre|
+|Compensation paid to Key Management Pers|Short-term employee benefts||nces due from/to the related parties:|Transactions|Security Deposits||Investment in equity shares||Trade receivables [gross]||Trade payables|||Payable to employees|
+|Sr.<br>No.|1.||Bala|Sr.<br>No.|1.||2.||3.||4.|||5.|
+
+
+
+
+![](images/2025.pdf-0107-04.png)
+
+**[Image: 2025.pdf-0107-04.png (56x22, 0.9KB)]**
+
+
+**104104** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 36: LEASES** 
+
+- i] For Movement in ROU - refer Note 3 - ROU [leasehold property]. 
+
+- ii] The break-up of current and non-current lease liabilities as at March 31, 2025 and March 31, 2024 is as follows : 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Current lease liability||105.77|108.28|
+|Non-current lease liability||57.35|163.13|
+||**Total**|**163.12**|**271.41**|
+
+
+
+iii] The movement in lease liabilities during the years ended March 31, 2025 and March 31, 2024 is as follows: 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance as at the beginningof theyear|271.41|370.90|
+|Additions|–|–|
+|Finance cost accrued during the year|18.91|27.71|
+|Payment of lease liabilities|[127.20]|[127.20]|
+|**Balance as at the end of the year**|**163.12**|**271.41**|
+
+
+
+iv] The details regarding the contractual maturities of lease liabilities as at March 31, 2025 and March 31, 2024 on an undiscounted basis are as follows: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Less than oneyear<br>||115.20|127.20|
+|One to fve years<br>||59.40|174.60|
+|More than fve years||–|–|
+||**Total**|**174.60**|**301.80**|
+
+
+
+v] The details of amounts debited to statement of profit and loss towards leases is as follows: 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|Depreciation on ROU|103.33|103.33|
+|Interest on lease liabilities|18.91|27.71|
+|Rent [short term & variable]|115.47|26.57|
+
+
+
+###### **NOTE 37: CORPORATE SOCIAL RESPONSIBILITY [CSR] EXPENDITURE:** 
+
+As per Section 135 of the Companies Act, 2013 a CSR Committee has been formed by the Company. The funds are utilised during the year on activities which are specified in schedule VII of the Act. The utilisation is done by the way of direct contribution towards various activities. Amount approved by the Board to be spent by the Company during the year was ` 41.89 lakhs [PY : ` 36.75 lakhs] 
+
+
+![](images/2025.pdf-0108-13.png)
+
+**[Image: 2025.pdf-0108-13.png (53x22, 0.9KB)]**
+
+
+**105** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **Details of expenditure towards CSR as shown in Note 32 is given below:** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|1.<br>Amount required to be spent by the Company during the year [after previous year<br>set off of excess spend]|40.97|36.73|
+|2.<br>Amount of expenditure incurred on:|||
+|i.<br>Construction/acquisition of anyasset|–|–|
+|ii.<br>Onpurposes other than[i]above|41.89|36.75|
+|3.<br>Excess at the end of the year|[0.92]|[0.02]|
+|4.<br>Nature of CSR activities|Promoting<br>healthcare|Promoting<br>healthcare|
+
+
+
+###### **NOTE 38: EMPLOYEE BENEFITS** 
+
+38.1 As per Ind AS 19 ‘Employee Benefits’, the disclosure of employee benefits as defined in the Ind AS is given below: 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|[a]<br>Defned Contribution Scheme:|||
+|Contribution to defned contribution plan, recognised as expense for the years are<br>as under:|||
+|Employer’s contribution to provident fund|211.31|180.75|
+|Employer’s contribution to employee's state insurance corporation [ESIC]|17.34|13.69|
+|**Total**|**228.65**|**194.44**|
+
+
+
+The contribution to provident fund is made to Employees’ Provident Fund managed by provident fund commissioner. The contribution towards ESIC made to Employees State Insurance Corporation. The obligation of the Company is limited to the amount contributed and it has no further contractual nor any constructive obligation. 
+
+- [b] Defined Benefit Scheme - Gratuity: 
+
+[ ` in Lakhs] 
+
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|
+|i]<br>The amounts recognised in standalone balance sheet are as follows:<br>|||
+|Present value of defned beneft obligation|565.63|472.59|
+|Less: Fair value ofplan assets|[343.95]|[306.76]|
+|**Amount to be recognised as liability**|**221.68**|**165.83**|
+|||[`in Lakhs]|
+|Particulars<br>|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|ii]<br>The amounts recognised in the standalone statement of proft and loss<br>are as follows:|||
+|Current service cost|59.95|40.26|
+|Net interest [income]/expenses|8.48|5.25|
+|**Net cost recognised**|**68.43**|**45.51**|
+
+
+
+
+![](images/2025.pdf-0109-11.png)
+
+**[Image: 2025.pdf-0109-11.png (56x22, 0.9KB)]**
+
+
+**106106** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 38: EMPLOYEE BENEFITS [CONTD.]** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|iii]<br>The amounts recognised in the statement of other comprehensive income<br>[OCI]:<br>|||
+|Due to change in fnancial assumptions|20.42|50.03|
+|Due to change in demographic assumption|7.88|[23.43]|
+|Due to experience adjustments|6.74|29.55|
+|Return onplan assets excludingamounts included in interest income|–|–|
+|**Total remeasurements cost/[credit] for theyear recognised in OCI**|**35.04**|**56.15**|
+|Add: Expected return onplan assets|0.29|0.20|
+|**Closing balances remeasurement[gain]/loss**|**35.33**|**56.35**|
+|||[`in Lakhs]|
+|Particulars<br>|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|iv]<br>Movement in thepresent value of defned beneft obligation:|||
+|Obligation at the beginningof theyear|472.59|370.18|
+|Current service cost|59.95|40.26|
+|Past service cost|–|–|
+|Short term compensated absences|–|–|
+|Interest cost<br>|30.40|24.16|
+|Beneftspaid|[32.35]|[18.16]|
+|Actuarial[Gain]/loss on obligation|35.04|56.15|
+|**Obligation at the end of theyear**|**565.63**|**472.59**|
+|||[`in Lakhs]|
+|Particulars|For the year ended|For the year ended|
+||March 31, 2025|March 31, 2024|
+|v]<br>Movement in the fair value ofplan assets :|||
+|Fair value at the beginningof theyear|306.76|272.50|
+|Adjustment to openingfair value ofplan asset|–|–|
+|Interest income|21.92|18.91|
+|Expected return onplan assets|[0.29]|[0.20]|
+|Contribution byemployer|47.91|33.71|
+|Beneftspaid|[32.35]|[18.16]|
+|**Fair value at the end of theyear**|**343.95**|**306.76**|
+
+
+
+
+![](images/2025.pdf-0110-03.png)
+
+**[Image: 2025.pdf-0110-03.png (53x22, 0.9KB)]**
+
+
+**107** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 38: EMPLOYEE BENEFITS [CONTD.]** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|vi]<br>The broad categories of plan assets as a percentage of total plan assets<br>as at March 31, 2025 and March 31, 2024 of employee’s gratuity scheme<br>are as under:|||
+|Policyof insurance|100%|100%|
+|Other investments|0%|0%|
+|**Total**<br>Basis used to determine the overall expected return:|**100%**|**100%**|
+|Since the scheme funds are invested with LIC of India, expected rate on planned assets is<br>managers.|based on rate of retu|rn declared by fund<br>[`in Lakhs]|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|vii]<br>Principal actuarial assumptions at the balance sheet date|||
+|Actuarial assumptions|||
+|Mortality Table|IALM|IALM|
+||[2012-14]Ult|[2012-14] Ult|
+|Salary escalation rate [%]|10.00%|10.00%|
+|Discount rate [%]|6.51%|6.97%|
+|Average Remaining Service [years]|9.01|8.65|
+|Employee attrition rate [%]|||
+|–<br>up to 5 years|12.62%|9.25%|
+|–<br>above 5years|4.05%|5.41%|
+
+
+
+###### Basis used to determine the overall expected return: 
+
+Since the scheme funds are invested with LIC of India, expected rate on planned assets is based on rate of return declared by fund managers. 
+
+The estimate of rate of escalation in Salary considered in actuarial valuation takes into account inflation, seniority, promotion and other retirement factors including supply & demand in the employment market. The above information is certified by the actuary. 
+
+###### viii] General descriptions of defined plans: 
+
+The Company operates gratuity plan wherein every employee is entitled to the benefit equivalent to fifteen days salary last drawn for each completed year of service.  The same is payable on termination of service or retirement whichever is earlier. The benefit vests after five years of continuous service. 
+
+The Company provides for gratuity, a defined benefit retirement plan [“the Gratuity Plan”] covering eligible Indian employees. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an amount based on the respective employee’s salary and the tenure of employment with the Company. 
+
+
+![](images/2025.pdf-0111-10.png)
+
+**[Image: 2025.pdf-0111-10.png (56x22, 0.9KB)]**
+
+
+**108108** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 38: EMPLOYEE BENEFITS [CONTD.]** 
+
+###### [ix] Sensitivity analysis: 
+
+Sensitivity analysis indicates the influence of a reasonable change in certain significant assumptions on the outcome of the Present value of obligation [PVO]. Sensitivity analysis is done by varying [increasing/ decreasing] one parameter by 100 basis points [1%]. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|Changes in<br>assumptions|Effect on Gratuity<br>obligation|
+|For theyear ended March 31, 2025|||
+|Salaryescalation rate|+1%|599.94|
+||-1%|[515.74]|
+|Discount rate|+1%|[512.90]|
+||-1%|605.10|
+|For theyear ended March 31, 2024|||
+|Salaryescalation rate|+1%|496.23|
+||-1%|[432.41]|
+|Discount rate|+1%|[430.40]|
+||-1%|499.40|
+
+
+
+[x] Weighted average remaining duration of defined benefit obligation - 7.59 years [PY : 6.91 years] 
+
+- [xi] Other long-term employee benefits: 
+
+Compensated absences are payable to employees at the rate of daily salary for each day of accumulated leave on death or on resignation or upon retirement. The amount of compensated absences outstanding as at  March 31, 2025, based on actuarial valuation using the projected accrued benefit method is ` 301.85 Lakhs [PY: ` 315.90 Lakhs]. 
+
+###### **NOTE 39: CAPITAL MANAGEMENT** 
+
+For the purpose of Company’s capital management, capital includes issued capital, all other equity reserves and debts. The primary objective of the Company’s capital management is to maximise shareholders value. The Company manages its capital structure and makes adjustments in the light of changes in economic environment and the requirements of the financial covenants. The Company monitors capital using gearing ratio, which is net debt divided by total capital [equity plus net debt]. Net debt are noncurrent and current debts as reduced by cash and cash equivalents, other bank balances and current investments. Equity comprises all components including other comprehensive income. One of the furnaces at the plant of the Company was shut down from June 08, 2023 to September 09, 2023 for relining / expansion / modernisation. For the said purpose, the Company has availed term loan from banks resulting in substantial increase in gearing ratio. 
+
+
+![](images/2025.pdf-0112-10.png)
+
+**[Image: 2025.pdf-0112-10.png (53x22, 0.9KB)]**
+
+
+**109** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|**Total debt**|12,685.84|12,023.21|
+|Less:- cash and cash equivalent, bank balances other than cash and cash equivalent|1,143.60|1,066.60|
+|**Net debt**|11,542.24|10,956.61|
+|**Total equity [equity share capital plus other equity]**|21,420.94|20,424.14|
+|**Gearing ratio**|**53.88%**|**53.65%**|
+
+
+
+###### **NOTE 40:** 
+
+In the earlier years, the Company had filed a complaint against its ex-employees for purported misappropriation of funds. By virtue of the Order of Hon’ble Additional Chief Magistrate received during the F.Y. 2016-17, the Company had received interim custody of certain valuables and amounts [invested in fixed deposits] which were accounted for in the books of account. Further, as per the Order, the Company was allowed to let-out the immovable property involved in the matter on leave and license basis. The valuables and Fixed Deposits have been shown under Other Current Assets. Further, the Company has recorded the corresponding liability and necessary provisions have already been made against the other receivables on a conservative basis. Final adjustments, if any, in respect of amounts recorded in the books and other amounts will be made on the settlement of the litigation. Refer note no. 11.2, 12, 13 and 23. 
+
+###### **NOTE 41: FAIR VALUES** 
+
+###### 41.1 Fair value of financial assets and liabilities: 
+
+Set out below is a comparison by class of the carrying amounts and fair value of the Company’s financial assets and liabilities that are recognised in the financial statements. 
+
+||||||[`in Lakhs]|
+|---|---|---|---|---|---|
+|Particulars||As at March|31, 2025|As at March|31, 2024|
+|||Carrying<br>Value|Fair Value|Carrying<br>Value|Fair Value|
+|**Financial Assets:***||||||
+|Financial Assets designated at amortised cost:||||||
+|–<br>Cash and cash equivalents||287.54|287.54|255.60|255.60|
+|–<br>Other bank balances||856.06|856.06|811.00|811.00|
+|–<br>Trade receivables||7,199.73|7,199.73|7,012.44|7,012.44|
+|–<br>Other fnancial assets||2,138.13|2,138.13|2,321.76|2,321.76|
+|Financial Assets designated at fair value through other<br>comprehensive income:||||||
+|–<br>Investment in equityinstruments||714.59|714.59|655.83|655.83|
+||**Total**|**11,196.05**|**11,196.05**|**11,056.63**|**11,056.63**|
+|**Financial Liabilities :**||||||
+|Financial Liabilities designated at amortised cost:||||||
+|–<br>Borrowings||12,685.84|12,685.84|12,023.21|12,023.21|
+|–<br>Tradepayable||4,853.90|4,853.90|3,926.10|3,926.10|
+|–<br>Other fnancial liabilities||5,722.68|5,722.68|5,251.43|5,251.43|
+|–<br>Lease liabilities||163.12|163.12|271.41|271.41|
+||**Total**|**23,425.54**|**23,425.54**|**21,472.15**|**21,472.15**|
+
+
+
+*excluding financial assets measured at cost 
+
+
+![](images/2025.pdf-0113-10.png)
+
+**[Image: 2025.pdf-0113-10.png (56x22, 0.9KB)]**
+
+
+**110110** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### 41.2 Fair Valuation techniques used to determine fair value: 
+
+The Company maintains procedures to value financial assets or financial liabilities using the best and most relevant data available. The fair values of the financial assets and liabilities are included at the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. 
+
+The following methods and assumptions were used to estimate the fair values: 
+
+- i] Fair value of cash and cash equivalents, trade payables, borrowings and other financial assets and liabilities are approximate at their carrying amounts largely due to the short-term maturities of these instruments. 
+
+- ii] The fair values of trade receivables and non-current loans are calculated based on expected credit loss method and discounted cash flow using a current lending rate respectively. They are classified as level 3 fair values in the fair value hierarchy due to the inclusion of unobservable inputs including credit risk [refer note 41.3 below]. The fair values of noncurrent loan are approximate at their carrying amount due to interest bearing features of these instruments. 
+
+- iii] The Company uses valuation techniques that are appropriate in the circumstances and for which sufficient data are available to measure fair value, maximising the use of relevant observable inputs and minimising the use of unobservable inputs. 
+
+- iv] Fair values of quoted financial instruments are derived from quoted market prices in active markets. 
+
+- v] Equity Investments in jointly venture entity and subsidiary are stated at cost. 
+
+###### 41.3 Fair value hierarchy 
+
+The Company uses the following hierarchy for determining and disclosing the fair value of financial instruments by valuation techniques: 
+
+- Level 1:  Quoted prices / published NAV [unadjusted] in active markets for identical assets or liabilities. It includes fair value of financial instruments traded in active markets and are based on quoted market prices at the balance sheet date and financial instruments like mutual funds for which net assets value [NAV] is published by mutual fund operators at the balance sheet date. 
+
+- Level 2:  Inputs, other than quoted prices included within level 1, that are observable for the asset or liability, either directly [that is, as prices] or indirectly [that is, derived from prices]. It includes fair value of the financial instruments that are not traded in an active market [for example, over-the-counter derivatives] is determined by using valuation techniques. These valuation techniques maximise the use of observable market data where it is available and rely as little as possible on the Company specific estimates. If all significant inputs required to fair value an instrument are observable then instrument is included in level 2. 
+
+- Level 3:  Inputs for the asset or liability that are not based on observable market data [that is, unobservable inputs]. If one or more of the significant inputs is not based on observable market data, the instrument is included in level 3. 
+
+
+![](images/2025.pdf-0114-14.png)
+
+**[Image: 2025.pdf-0114-14.png (53x22, 0.8KB)]**
+
+
+**111** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+Cash and cash equivalents, other financial assets, long term and short term borrowings, trade payables and other financial liabilities are measured at amortised cost. The following table provides hierarchy of the fair value measurement of Company’s asset and liabilities, grouped into Level 1 [Quoted prices in active markets], Level 2 [Significant observable inputs] and Level 3 [Significant unobservable inputs] as described below: 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars||M|arch 31,202|5|
+|||Level 1|Level 2|Level 3|
+|Financial Assets<sup>*</sup>:|||||
+|Financial Assets designated at amortised cost:|||||
+|–<br>Cash and cash equivalents||–|–|287.54|
+|–<br>Other bank balances||–|–|856.06|
+|–<br>Trade receivables<br>||–|–|7,199.73|
+|–<br>Other fnancial assets||–|–|2,138.13|
+|Financial Assets designated at fair value through other compr|ehensive income:||||
+|–<br>Investment in equityinstruments||714.54|0.05|–|
+||**Total**|**714.54**|**0.05**|**10,481.46**|
+|Financial Liabilities :|||||
+|Financial Liabilities designated at amortised cost:|||||
+|–<br>Borrowings||–|–|12,685.84|
+|–<br>Tradepayable||–|–|4,853.90|
+|–<br>Other fnancial liabilities||–|–|5,722.68|
+|–<br>Lease liabilities||–|–|163.12|
+||**Total**|**–**|**–**|**23,425.54**|
+
+
+
+*Excluding financial assets measured at cost 
+
+|Particulars|||March 31,202|4|
+|---|---|---|---|---|
+|||Level 1|Level 2|Level 3|
+|Financial Assets*:|||||
+|Financial Assets designated at amortised cost:|||||
+|–<br>Cash and cash equivalents||–|–|255.60|
+|–<br>Other bank balances||–|–|811.00|
+|–<br>Trade receivables<br>||–|–|7,012.44|
+|–<br>Other fnancial assets||–|–|2,321.76|
+|Financial Assets designated at fair value through other compr|ehensive income:||||
+|–<br>- Investment in equityinstruments||655.78|0.05|–|
+||**Total**|**655.78**|**0.05**|**10,400.80**|
+|Financial Liabilities:|||||
+|Financial Liabilities designated at amortised cost:|||||
+|–<br>Borrowings||–|–|12,023.21|
+|–<br>Tradepayable<br>||–|–|3,926.10|
+|–<br>Other fnancial liabilities||–|–|5,251.43|
+|–<br>Lease liabilities||–|–|271.41|
+||**Total**|**–**|**–**|**21,472.15**|
+
+
+
+*Excluding financial assets measured at cost 
+
+There were no transfers between level 1 and level 2 during the year. 
+
+
+![](images/2025.pdf-0115-08.png)
+
+**[Image: 2025.pdf-0115-08.png (56x22, 0.8KB)]**
+
+
+**112112** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### 41.4 Description of the valuation processes used by the Company for fair value measurement categorised within level 3. 
+
+At each reporting date, the Company analysis the movements in the values of financial assets and liabilities which are required to be remeasured or re-assessed as per the accounting policies. For this analysis, the Company verifies the major inputs applied in the latest valuation by agreeing the information in the valuation computation to contracts and other relevant documents. The Company also compares the change in the fair value of each financial asset and liability with relevant external sources to determine whether the change is reasonable. The Company also discusses of the major assumptions used in the valuations. For the purpose of fair value disclosures, the Company has determined classes of financial assets and liabilities on the basis of the nature, characteristics and risks of the asset or liability and the level of the fair value hierarchy as explained above. 
+
+###### **NOTE 42: FINANCIAL RISK MANAGEMENT - OBJECTIVES AND POLICIES** 
+
+The Company is exposed to market risk, credit risk and liquidity risk. Risk management is carried out by the Company under policies approved by the Board of Directors. This Risk management plan defines how risks associated with the Company will be identified, analysed, and managed. It outlines how risk management activities will be performed, recorded, and monitored by the Company. The basic objective of risk management plan is to implement an integrated risk management approach to ensure all significant areas of risks are identified, understood and effectively managed, to promote a shared vision of risk management and encourage discussion on risks at all levels of the organization to provide a clear understanding of risk/benefit trade-offs, to deploy appropriate risk management methodologies and tools for use in identifying, assessing, managing and reporting on risks, and to determine the appropriate balance between cost and control of risk and deploy appropriate resources to manage/optimize key risks. Activities are developed to provide feedback to management and other interested parties [e.g. Audit committee, Board etc.]. The results of these activities ensure that risk management plan is effective in the long term. 
+
+###### 42.1 Market risk 
+
+Market risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices. Market prices comprise of three types of risk: foreign currency rate risk, interest rate risk and other price risks, such as equity price risk and commodity risk. Financial instruments affected by market risk include loans and borrowings, deposits and investments. The sensitivity analysis is given relating to the position as at March 31, 2025 and March 31, 2024. The sensitivity analysis excludes the impact of movements in market variables on the carrying value of post-employment benefit obligations, provisions and on the non-financial assets and liabilities. The sensitivity of the relevant statement of profit and loss item is the effect of the assumed changes in the respective market risks. The Company’s activities expose it to a variety of financial risks, including the effects of changes in foreign currency exchange rates and interest rates. This is based on the financial assets and financial liabilities held as at March 31, 2025 and March 31, 2024. 
+
+###### [a] Foreign exchange risk and sensitivity 
+
+Foreign currency risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates. The Company’s exposure to the risk of changes in foreign exchange rates relates primarily to the Company’s operating activities. The Company transacts business primarily in USD and Euro. The Company has foreign currency trade payables and receivables and is therefore, exposed to foreign exchange risk. The Company regularly reviews and evaluates exchange rate exposure arising from foreign currency transactions and the Company has entered into forward contract to mitigate this risk. 
+
+
+![](images/2025.pdf-0116-09.png)
+
+**[Image: 2025.pdf-0116-09.png (53x22, 0.9KB)]**
+
+
+**113** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+The carrying amount of foreign currency denominated financial assets and liabilities are as follows: 
+
+|Particulars||Currency|As at March|31, 2025|As at Marc|h 31, 2024|
+|---|---|---|---|---|---|---|
+||||Amount<br>in Foreign<br>Currency#|`in Lakhs|Amount<br>in Foreign<br>Currency#|`in Lakhs|
+|Advance to creditors/capital advances||USD|11,999|10.38|29,328|24.45|
+|Advance to creditors/capital advances||EURO|16,480|14.74|112,536|98.49|
+|Advance to creditors/capital advances||GBP|8,064|8.65|46,657|49.48|
+|Advance to creditors/capital advances||SGD|–|–|905|0.58|
+|Trade receivable||USD|2,308,116|1,975.32|2,351,468|1,960.51|
+|Cash and cash equivalents||USD|334,871|286.59|306,217|255.30|
+||**Total**|||**2,295.68**||**2,388.81**|
+|Security deposit received||USD|21,980|15.89|21,980|15.89|
+|Trade payables||USD|95,852|82.03|39,618|33.03|
+|Trade payables||EURO|968|0.89|-|-|
+|Sundry creditor for capital goods||EURO|4,015,639|3,707.13|3,965,324|3,577.43|
+|Sundry creditor for capital goods||GBP|-|-|32,760|34.49|
+|Other payables||USD|388,070|332.12|||
+|Advance received from customers||USD|58,325|48.18|137,423|113.67|
+||**Total**|||**4,186.24**||**3,774.51**|
+
+
+
+# Amounts are in absolute value 
+
+###### Details of forward contracts 
+
+|Particulars|Currency|As at March|31, 2025|As at March|31, 2024|
+|---|---|---|---|---|---|
+|||Amount|`in Lakhs|Amount|`in Lakhs|
+|||in Foreign<br>Currency#||in Foreign<br>Currency#||
+|Forward Contracts|EURO|2,342,250|2,194.55|–|–|
+
+
+
+# Amounts are in absolute value 
+
+
+![](images/2025.pdf-0117-08.png)
+
+**[Image: 2025.pdf-0117-08.png (56x22, 0.8KB)]**
+
+
+**114114** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### Foreign currency sensitivity: 
+
+1% increase or decrease in foreign exchange rates will have the following impact on profit before tax [PBT] [for trade receivables, trade payables and sundry creditors for capital goods]: 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|March 3|1, 2025|March 3|1, 2024|
+||1% Increase -<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease -<br>Increase/<br>[Decrease]<br>in PBT|1% Increase -<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease -<br>Increase/<br>[Decrease]<br>in PBT|
+|USD|18.48|[18.48]|21.83|[21.83]|
+|EURO|[37.08]|37.08|[35.77]|35.77|
+|GBP<br>|–|–|[0.34]|0.34|
+|**Increase /[Decrease] inproft before tax**|**[18.60]**|**18.60**|**[14.29]**|**14.29**|
+
+
+
+###### [b] Interest rate risk and sensitivity: 
+
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. During the year, the company is having long term borrowings in the form of term loan and short term borrowings in the form of Working Capital Loan & Term Loan. 
+
+At the reporting date the interest rate profile of the Company’s interest bearing financial instruments are follows: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars|Interest rates|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Workingcapital loan from banks|Variable|3,551.89|4,542.75|
+|Term Loans from Banks|Variable|9,133.95|7,433.77|
+||**Total**|**12,685.84**|**11,976.52**|
+
+
+
+The table below illustrates the impact of a 1% increase in interest rates on interest on financial liabilities assuming that the changes occur at the reporting date and has been calculated based on risk exposure outstanding as of date. The year end balances are not necessarily representative of the average debt outstanding during the year. This analysis also assumes that all other variables, in particular foreign currency rates, remain constant. 
+
+[ ` in Lakhs] 
+
+|**Particulars**|**2024**|**-25**|2023|-24|
+|---|---|---|---|---|
+||1% Increase-<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease-<br>Increase/<br>[Decrease]<br>in PBT|1% Increase-<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease-<br>Increase/<br>[Decrease]<br>in PBT|
+|Working capital loan / Term Loan from Banks|[126.86]|126.86|[119.77]|119.77|
+
+
+
+The assumed movement in basis points for interest rate sensitivity analysis is based on the currently observable market environment. 
+
+###### [c] Commodity price risk: 
+
+The Company is exposed to the movement in price of key traded materials in domestic and international markets. The Company has entered into contracts for procurement of material. However, the Company is not exposed to significant risk. 
+
+
+![](images/2025.pdf-0118-14.png)
+
+**[Image: 2025.pdf-0118-14.png (53x22, 0.9KB)]**
+
+
+**115** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### [d] Equity price risk: 
+
+The Company has decided to fair value its equity instruments through Other Comprehensive Income and carry investment in jointly controlled entities at Cost. Therefore neither profit or loss nor equity will be affected by the equity price risk of those instruments. Accordingly, no sensitivity analysis is required. 
+
+###### 42.2 Credit risk 
+
+Credit risk is the risk that a counter party will not meet its obligations under a financial instrument or customer contract, leading to a financial loss. The Company is exposed to credit risk from its operating activities [primarily trade receivables] and from its financing activities, including deposits with banks, foreign exchange transactions and other financial instruments. 
+
+[a] Trade Receivables: The Company extends credit to customers in normal course of business. The Company considers factors such as credit track record in the market and past dealings with the Company for extension of credit to customers. The Company monitors the payment track record of the customers. Outstanding customer receivables are regularly monitored. The Company evaluates the concentration of risk with respect to trade receivables as low, as its customers are located in several jurisdictions and industries and operate in largely independent markets. The Company has also taken security deposits in certain cases from its customers, which mitigate the credit risk to some extent. The Company has adopted an Expected Credit Loss Model as per Ind AS 109 “Financial Instruments”, wherein the provision is made for expected losses for non-recovery of receivables and also for loss in value of money due to delayed receipt of money. However, the Company does not expect any material risk on account of non-performance by Company’s counterparties. 
+
+- [b] Financial instruments and cash deposits: 
+
+The Company considers factors such as track record, size of the institution, market reputation and service standards to select the banks with which balances are maintained. Credit risk from balances with bank is managed by the Company’s finance department. Investment of surplus funds are also managed by finance department. The Company does not maintain significant cash in hand. Excess balance of cash other than those required for its day to day operations is deposited into the bank. 
+
+For other financial instruments, the finance department assesses and manage credit risk based on internal assessment. Internal assessment is performed for each class of financial instrument with different characteristics. 
+
+###### 42.3 Liquidity risk 
+
+Liquidity risk is the risk that the Company may not be able to meet its present and future cash and collateral obligations without incurring unacceptable losses. The Company’s objective is to, at all times, maintain optimum levels of liquidity to meet its cash and collateral requirements. The Company relies on operating cash flows and short term borrowings in the form of Working Capital Loan to meet its needs for funds. Company has not breached any covenants [where applicable] on any of its borrowing facilities. The Company has access to a sufficient variety of sources of funding as per requirement. 
+
+The table below provides undiscounted cash flows towards financial liabilities into relevant maturity based on the remaining period at the balance sheet to the contractual maturity date. 
+
+[ ` in Lakhs] 
+
+|Particulars|||Matur|ity||Total|
+|---|---|---|---|---|---|---|
+|||0 - 12<br>Months|1 - 2<br>Years|2 - 5<br>Years|More than<br>5years||
+|As at March 31,2025|||||||
+|Lease Liabilities||115.20|59.40|–|–|174.60|
+|Longterm borrowings<br>||–|2,019.39|4,225.12|677.29|6,921.80|
+|Other non current fnancial liabilities||–|2,374.69|–|–|2,374.69|
+|Short term borrowings||5,764.04|–|–|–|5,764.04|
+|Tradepayable<br>||4,853.90|–|–|–|4,853.90|
+|Other current fnancial liabilities||3,347.99|–|–|–|3,347.99|
+||**Total**|**14,081.13**|**4,453.48**|**4,225.12**|**677.29**|**23,437.02**|
+
+
+
+
+![](images/2025.pdf-0119-15.png)
+
+**[Image: 2025.pdf-0119-15.png (56x22, 0.9KB)]**
+
+
+**116116** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+|||||||[`in Lakhs]|
+|---|---|---|---|---|---|---|
+|Particulars|||Matu|rity||Total|
+|||0 - 12<br>Months|1 - 2<br>Years|2 - 5<br>Years|More than<br>5 years||
+|As at March 31, 2024|||||||
+|Lease Liabilities||127.20|115.20|59.40|–|301.80|
+|Long term borrowings||–|1,262.93|3,788.79|1,614.75|6,666.47|
+|Other non current fnancial liabilities||–|–|3,046.44|–|3,046.44|
+|Short term borrowings||5,356.74|–|–|–|5,356.74|
+|Trade payable||3,926.10|–|–|–|3,926.10|
+|Other current fnancial liabilities||2,204.99|–|–|–|2,204.99|
+||**Total**|**11,615.03**|**1,378.13**|**6,894.63**|**1,614.75**|**21,502.54**|
+
+
+
+###### 42.4 Competition and price risk 
+
+The Company faces competition from local and foreign competitors. Nevertheless, it believes that it has competitive advantage in terms of high quality products,  cost advantage and by continuously upgrading its expertise and range of products to meet the needs of its customers. 
+
+
+![](images/2025.pdf-0120-04.png)
+
+**[Image: 2025.pdf-0120-04.png (53x22, 0.8KB)]**
+
+
+**117** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|<br>**Remarks**|Not applicable|Not applicable|Note 1<br>Note 2|Note 3|Not applicable<br>Not applicable|Note 4|Note 5|Not applicable|Note 6||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Variance**<br>**in %**|13%|1%|[38]%<br>[35]%|[28]%|[16]%<br>[3]%|164%|[46]%|[19]%|160%||||||||
+|**March**<br>**31, 2024**|0.96|0.59|4.18<br>9.57%|9.01|4.62<br>2.54|[47.74]|6.28%|10.03%|0.03%|y practise.|||||||
+|**March**<br>**31, 2025**|1.08|0.59|2.59<br>6.20%|6.51|5.37<br>2.46|30.68|3.40%|8.08%|0.08%|ent with Industr|||||||
+|**Numerator**<br>**Denominator**|Current assets<br>Current liabilities [including borrowings]|Borrowings<br>Shareholders equity|Net profit after taxes + Interest on borrowings<br>and lease liabilities + depreciation<br>Interest on borrowings and lease libilities<br>+ repayment of lease liabilities and term<br>loan during the year<br>Profit after tax<br>Average shareholder’s equity|Sale of product<br>Average inventory|Revenue from operations<br>Average trade receivables<br>Purchase<br>Average trade payables|Revenue from operations<br>Current assets - current liabilities|Profit after tax<br>Revenue from operations|Profit before tax and interest on borrowings<br>Total equity + borrowings + deferred tax|Income from investment<br>Average investments|rs are aligned with the current year’s wherever required due to reclassification and in consist|on account of increase in repayment of borrowing [including interest].|reduction in profit in current year as compared to previous year.|ount of increased in inventory during the year.|unt of increased sales and inventory level during the year.|reduction in profit in current year as compared to previous year.|nt of higher dividend received during the year.|
+||tio|y Ratio|ce Coverage Ratio<br>Equity Ratio|urnover ratio|eivables turnover<br>ables turnover ratio|turnover ratio|atio|Capital employed|investment|for the previous yea|: Decreased mainly|: Decreased due to|: Decreased on acc|: Improved on acco|: Decreased due to|: Increase on accou|
+|**Particulars**|[a] Current Ra|[b] Debt-Equit|[c] Debt Servi<br>[d] Return on|[e] Inventory t|[f] Trade Rec<br>ratio<br>[g] Trade pay|[h] Net capital|[i] Net profit r|[j] Return on|[k] Return on|Notes: Ratios|Note 1|Note 2|Note 3|Note 4|Note 5|Note 6|
+
+
+
+
+![](images/2025.pdf-0121-05.png)
+
+**[Image: 2025.pdf-0121-05.png (56x22, 0.9KB)]**
+
+
+**118118** 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 44: EMPLOYEE STOCK APPRECIATION RIGHTS [‘ESAR’]** 
+
+Pursuant to ESAR scheme/plan approved by the shareholders of the Company on May 27,2021, the Nomination and Remuneration Committee of the Board of Directors on May 24, 2022 approved for issue of 11,11,000 ESAR’s to the employee of the Company. The Members approved ESARs to the employee of the Company, which upon conversion into equity shall not exceed 10 Lakh equity shares from time to time. 
+
+As per the Scheme/Plan of the total ESAR’s granted shall vest not earlier than minimum of 1 year and not later than a maximum of 5 years from the date of grant of ESARs as may be determined by the Committee and is subject to continued employment of the employee with the Company and upon achievement of prescribed performance conditions as prescribed in the Scheme. The employee pays the exercise price upon exercise of ESAR’s. 
+
+A summary of the activity in the Company’s ESAR [Scheme 2021] is as follows: 
+
+|**Particulars**||**Year End**|**ed**||
+|---|---|---|---|---|
+||**March 3**|**1, 2025**|March|31, 2024|
+||ESAR's|Weighted average<br>exercise price|ESAR's|Weighted average<br>exercise price|
+|Outstanding at beginning of year|11,11,000|`30|11,11,000|30|
+|Granted|–|–|11,11,000|`30|
+|Exercised|–|–|–|–|
+|Forfeited|–|–|–|–|
+|Outstanding at end of the year|11,11,000|`30|11,11,000|30|
+|Vested ESAR's|2,32,610|–|–|–|
+|Unvested ESAR's|8,78,390|–|11,11,000|–|
+
+
+
+During the earlier year, the Company has granted 11,11,000 ESAR’s under ESAR Plan 2021 at an exercise price of ` 30. The weighted average share price for the year over which stock ESAR’s were exercised was ` Nil [March 31, 2024 - ` Nil]. The weighted average fair value of ESAR’s granted is ` 23.96 
+
+The fair value of the awards are estimated using the Black-Scholes Model for time and non-market performance-based options and Monte Carlo simulation model is used for estimating the future performance considering the following inputs: 
+
+|Particulars|ESAR<br>[Scheme 2021]|
+|---|---|
+|Weighted average share price [in`]|23.96|
+|Exercise Price [in`]|30.00|
+|Expected Volatility|49.85|
+|Weighted average life [in years]|6.51|
+|Expected dividend rate|1.47%|
+|Average risk-free interest rate %|7.20|
+
+
+
+
+![](images/2025.pdf-0122-09.png)
+
+**[Image: 2025.pdf-0122-09.png (53x22, 0.9KB)]**
+
+
+**119** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+The expected volatility was determined based on historical volatility data; historical volatility includes early years of the Company’s life; the Company expects the volatility of its share price to reduce as it matures. 
+
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|---|---|---|
+|Proft after tax as reported|1,296.51|1,875.61|
+|Employee compensation cost recognized during the year|52.63|[2.66]|
+|Total carrying amount in ESAR Reserve|85.00|32.37|
+|Earnings per share|2.41|3.49|
+|Diluted|2.41|3.48|
+
+
+
+###### **NOTE 45: OTHER DISCLOSURES** 
+
+- [a] The Company does not have any benami property held in its name. No proceedings have been initiated on or are pending against the Company for holding benami property under the Benami Transactions [Prohibition] Act, 1988 [45 of 1988] and Rules made thereunder. 
+
+- [b] The Company has not traded or invested in crypto currency or virtual currency during the financial year. 
+
+- [c] There are no loans or advances in the nature of loans granted to Promoters, Directors, KMPs and their related parties [as defined under Companies Act, 2013], either severally or jointly with any other person, that are: [a] repayable on demand; or [b] without specifying any terms or period of repayment. 
+
+- [d] The Company has complied with the requirements of the number of layers prescribed under clause [87] of section 2 of the Companies Act, 2013 read with Companies [Restriction on number of Layers] Rules, 2017. 
+
+- [e] The Company has not been declared wilful defaulter by any bank or financial institution or other lender or government or any government authority. 
+
+- [f] Utilisation of borrowed funds and share premium: 
+
+   - [i] The Company has not advanced or loaned or invested funds to any other person[s] or entity[ies], including foreign entities [Intermediaries] with the understanding that the Intermediary shall: 
+
+      - [a] Directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Company [Ultimate Beneficiaries] or 
+
+      - [b] Provide any guarantee, security or the like to or on behalf of the ultimate beneficiaries 
+
+   - [ii] The Company has not received any fund from any person[s] or entity[ies], including foreign entities [Funding Party] with the understanding [whether recorded in writing or otherwise] that the Company shall: 
+
+      - [a] Directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party [Ultimate Beneficiaries] or 
+
+      - [b] Provide any guarantee, security or the like to or on behalf of the ultimate beneficiaries 
+
+- [g] There is no income surrendered or disclosed as income during the year in tax assessments under the Income Tax Act, 1961 [such as search or survey], that has not been recorded in the books of account. 
+
+
+![](images/2025.pdf-0123-18.png)
+
+**[Image: 2025.pdf-0123-18.png (56x22, 0.9KB)]**
+
+
+[h] The Company does not have any charge which is yet to be registered or satisfied with Registrar of Companies[ROC] beyond the statutory period. **120120** 
+
+### **NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+[i] The Code on Social Security, 2020 [‘Code’] relating to employee benefits during employment and post- employment benefits received Indian Parliament’s approval and Presidential assent in September 2020. The Code has been published in the Gazette of India and subsequently, on November 13, 2020, draft rules were published and stakeholders’ suggestions were invited. However, the date on which the Code will come into effect has not been notified. The Company will assess the impact of the Code when it comes into effect and will record any related impact in the period the Code becomes effective. 
+
+- [j] Details of reconciliation of inventories and trade receivables [gross] towards borrowings: 
+
+For the year ended March 31, 2025 
+
+[ ` in Lakhs] 
+
+|**Particulars**|**As at Jun-24**|**As at Sep-24**|**As at Dec-24**|**As at Mar-25**|
+|---|---|---|---|---|
+|Value asperquarterlyreturns /statements fled with banks|12,842.77|13,389.09|12,875.88|13,786.18|
+|Value of current assets asper IND-AS fnancial statements|12,826.69|13,356.10|13,509.09|14,205.16|
+|Differences|16.08|32.99|[633.21]|[418.98]|
+
+
+
+For June 24 and Sep 24 - differences mainly relate to related party receivables, Ind AS impact and changes in inventory valuation. 
+
+For Dec 24 and Mar 25 - differences mainly relate to related party receivables, Ind AS impact, changes in inventory valuation and debit notes payable to customer. 
+
+For the year ended March 31, 2024 
+
+[ ` in Lakhs] 
+
+|**Particulars**|**As at Jun-23**|**As at Sep-23**|**As at Dec-23**|**As at Mar-24**|
+|---|---|---|---|---|
+|Value asperquarterlyreturns /statements fled with banks|8,247.13|6,982.39|10,745.72|10,927.81|
+|Value of current assets asper IND-AS fnancial statements|8,938.36|7,626.84|11,327.19|11,454.31|
+|Differences|[691.23]|[644.45]|[581.47]|[526.50]|
+
+
+
+These differences mainly relate to related party receivables, Ind AS impact and changes in inventory valuation. 
+
+[k] Expenditure incurred during the year and capitalised/included in capital work-in-progress as follows: 
+
+[ ` in Lakhs] 
+
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|---|---|---|
+|Stores and spares|67.77|201.23|
+|Power and fuel|20.05|96.34|
+|Payroll expenses|101.70|412.85|
+|Depreciation|–|4.72|
+|Interest|–|164.81|
+|Miscellaneous manufacturing expenses|2.62|2.64|
+|**Total**|**192.14**|**882.59**|
+
+
+
+[l] The Company does not have transactions with the companies struck off under section 248 of Companies Act, 2013 or Section 560 of Companies Act, 1956 for the year ended March 31, 2025 and March 31, 2024. 
+
+[m] The Company has used the borrowings from banks for the purpose for which it was taken. 
+
+[n] The Company has not entered into any scheme of arrangement which has an accounting impact on current or previous financial year. 
+
+
+![](images/2025.pdf-0124-18.png)
+
+**[Image: 2025.pdf-0124-18.png (53x22, 0.8KB)]**
+
+
+**121** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 46: EVENTS AFTER REPORTING PERIOD** 
+
+There were no significant events that occurred subsequent to the reporting period which need any adjustment or disclosure in these financial statements. 
+
+As per our Report of even date attached 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+###### **Samir Parmar** 
+
+Partner Membership No. 113505 Place : Mumbai Date : May 29, 2025 
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited **Narendra Shetty Tarun Shetty** Executive Chairman Managing Director DIN: 00025868 DIN: 00587108 Place : Mumbai Place : Mumbai Date: May 29, 2025 Date: May 29, 2025 
+
+Managing Director DIN: 00587108 Place : Mumbai Date: May 29, 2025 
+
+**Niraj Tipre** Chief Executive Officer 
+
+**Ganesh Chaturvedi Dhruv Mehta** Chief Financial Officer Company Secretary FCA-27636 ACS No. 46874 Place: Mumbai Place: Mumbai Date: May 29, 2025 Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0125-13.png)
+
+**[Image: 2025.pdf-0125-13.png (56x22, 0.8KB)]**
+
+
+**122122** 
+
+**<mark>NOTES</mark>** forming part of the  Standalone Financial Statements for the Year Ended March 31, 2025 
+
+CONSOLIDATED **FINANCIAL S T A T E M E N T S** 
+
+
+![](images/2025.pdf-0126-02.png)
+
+**[Image: 2025.pdf-0126-02.png (53x22, 0.9KB)]**
+
+
+**123** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### Independent Auditor’s Report 
+
+###### **To the Members of Haldyn Glass Limited** 
+
+###### **Report on the Audit of the Consolidated Financial Statements** 
+
+###### Opinion 
+
+We have audited the consolidated financial statements of Haldyn Glass Limited [“the Holding Company”] and its subsidiary [Holding Company and its subsidiary together referred to as “the Group”], and its joint venture, which comprise the Consolidated Balance Sheet as at March 31, 2025, the Consolidated Statement of Profit and Loss, including the Other Comprehensive Income, Consolidated Statement of Changes in Equity and the Consolidated Statement of Cash Flows for the year then ended, and notes to consolidated financial statements, including a summary of material accounting policies and other explanatory information [hereinafter referred to as “consolidated financial statements”]. 
+
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid consolidated financial statements give the information required by the Companies Act, 2013, as amended [“the Act”] in the manner so required and give a true and fair view in conformity with the accounting principles generally accepted in India, of their consolidated state of affairs of the Group and joint venture as at March 31, 2025, of the consolidated profit including other comprehensive income, consolidated statement of changes in equity and its consolidated cash flows for the year ended on that date. 
+
+###### **Basis for Opinion** 
+
+We conducted our audit of the consolidated financial statements in accordance with the Standards on Auditing [SAs], as specified under section 143[10] of the Act. Our responsibilities under those Standards are further described in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements section of our report. We are independent of the Group and its joint venture in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the consolidated financial statements under the provisions of the Act and the Rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on the consolidated financial statements. 
+
+###### Key Audit Matter 
+
+Key audit matter are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements for the financial year ended March 31, 2025. These matters were addressed in the context of our audit of the consolidated financial statements as a whole and in forming our opinion thereon, and we do not provide a separate opinion on these matters. 
+
+|Key audit matter|How our audit procedures addressed the key audit matter|
+|---|---|
+|Revenue recognition||
+|Refer Note 2 of material accounting policies and Note 26 of<br>|Our audit procedures included the following:|
+|the consolidated fnancial statements.|–<br>Assessing the Holding Company’s accounting policy in respect of revenue|
+|The Holding Company recognises revenues when control of<br>|recognition and assessed compliance with Ind AS 115.|
+|the goods is transferred to the customer at an amount that<br>reflects the consideration to which the Holding Company<br>expects to be entitled in exchange for those goods. The<br>terms of arrangements in case of domestic and export sales,<br>including the timing of the transfer of control and delivery<br>specifcations including inco-terms involves judgment in<br>determining the revenue from the sale of goods.|–<br>Evaluating the design, testing the implementation and operating effectiveness<br>of the Holding Company’s internal fnancial controls over recognition of revenue.<br>–<br>Performing substantive testing, by selecting samples of revenue transactions<br>recorded during the year and verifying the underlying documents, which included<br>sales invoices and other related documents, depending on the terms of contracts<br>with customers.|
+|Therefore, the risk is, that revenue may not be recognised<br>in accordance with the terms of Ind AS 115 ‘Revenue from<br>contracts with customers’, and therefore, it is determined|–<br>Performing cut-off testing by selecting samples of sales transactions pre-<br>and post-year end and testing the period of revenue recognition based on the<br>underlying documents|
+|to be a key audit matter in our audit of the consolidated<br>fnancial statements.|–<br>Evaluating the adequacy of material accounting policies and disclosures given in<br>Note 2 and 26 respectively of the consolidated fnancial statements.|
+
+
+
+
+![](images/2025.pdf-0127-12.png)
+
+**[Image: 2025.pdf-0127-12.png (56x21, 0.9KB)]**
+
+
+**124124** 
+
+###### Other Information 
+
+The Holding Company’s Board of Directors is responsible for the other information. The other information comprises the information included in the Holding Company’s Annual Report which consist of the Board of Directors’ Report [including Management Discussion and Analysis and annexures thereto], the Corporate Governance Report, [collectively referred to as “other information”] but does not include the consolidated financial statements and our auditor’s report thereon. These reports are expected to be made available to us after the date of our auditor’s report. 
+
+Our opinion on the consolidated financial statements does not cover the other information and we do not express any form of assurance conclusion thereon. 
+
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the consolidated financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. 
+
+When we read the other information, if we conclude that there is a material misstatement therein, we are required to communicate the matter to those charged with governance and make other appropriate reporting as prescribed. 
+
+###### Management’s Responsibilities for the Consolidated Financial Statements 
+
+The Holding Company’s Board of Directors is responsible for the matters stated in Section 134[5] of the Act with respect to the preparation of these consolidated financial statements that give a true and fair view of the consolidated financial position, consolidated financial performance including other comprehensive income, consolidated changes in equity and consolidated cash flows of the Group including its joint venture in accordance with the accounting principles generally accepted in India, including the Indian Accounting Standards [Ind AS] specified under Section 133 of the Act, read with the Companies [Indian Accounting Standard] Rules, 2015, as amended. The respective Board of Directors of the companies included in the Group and of its joint venture are responsible for maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Group and its joint venture and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and the design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring accuracy and completeness of the accounting records, relevant to the preparation and presentation of the financial statements that give a true and fair view and are free from material misstatement, whether due to fraud or error, which have been used for the purpose of preparation of the consolidated financial statements by the Directors of the Holding Company, as aforesaid. 
+
+In preparing the consolidated financial statements, the respective Board of Directors of the companies included in the Group and its joint venture are responsible for assessing the ability of the Group and its joint venture to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Group and its joint venture or to cease operations, or has no realistic alternative but to do so. 
+
+The respective Board of Directors of the companies included in the Group and of its joint venture are responsible for overseeing the financial reporting process of each company. 
+
+###### Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements 
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements. 
+
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout the audit. We also: 
+
+- Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control. 
+
+
+![](images/2025.pdf-0128-13.png)
+
+**[Image: 2025.pdf-0128-13.png (53x21, 0.9KB)]**
+
+
+**125** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances. Under section 143[3][i] of the Act, we are also responsible for expressing our opinion on whether the companies incorporated in India have adequate internal financial controls with reference to the consolidated financial statements are in place and are operating effectively. 
+
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management. 
+
+- Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the ability of the Group and its joint venture to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Group and its joint venture to cease to continue as a going concern. 
+
+- Evaluate the overall presentation, structure, and content of the consolidated financial statements, including the disclosures, and whether the consolidated financial statements represent the underlying transactions and events in a manner that achieves fair presentation. 
+
+- Obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the Group and its joint venture to express an opinion on the consolidated financial statements. For the other entities included in the consolidated financial statements, which have been audited by other auditors, such other auditors remain responsible for the direction, supervision and performance of the audits carried out by them. We remain solely responsible for our audit opinion. 
+
+Materiality is the magnitude of misstatements in the consolidated financial statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the consolidated financial statements may be influenced. We consider quantitative materiality and qualitative factors in [i] planning the scope of our audit work and in evaluating the results of our work; and [ii] to evaluate the effect of any identified misstatements in the consolidated financial statements. 
+
+We communicate with those charged with governance of the Holding Company regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit. 
+
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards. 
+
+From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the consolidated financial statements for the financial year ended March 31, 2025 and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication. 
+
+###### Other Matters 
+
+We did not audit the financial statements of one subsidiary and one joint venture. The consolidated financial statements reflect total assets [before consolidation adjustments] of ` 269.40 lakhs as at March 31, 2025, total revenue [before consolidation adjustments] of ` 1,176.53 lakhs and net cash outflow [before consolidation adjustments] of ` 21.31 lakhs for the year ended March 31, 2025. The consolidated financial statements also include the Group’s share of net profit after tax of ` 523.80 lakhs for the year ended March 31, 2025, as considered in the consolidated financial statements, in respect of one joint venture. The financial statements of subsidiary and joint venture have been audited by other auditors whose reports have been furnished to us by the Management and our opinion on the consolidated financial statements, in so far as it relates to the amounts and disclosures included in respect of the subsidiary and joint venture, and our report in terms of sub-sections [3] and [11] of Section 143 of the Act, in so far as it relates to the aforesaid joint venture is based solely on the reports of the other auditors. 
+
+
+![](images/2025.pdf-0129-12.png)
+
+**[Image: 2025.pdf-0129-12.png (56x21, 0.9KB)]**
+
+
+**126126** 
+
+Our opinion is not modified in respect of the above matter. 
+
+###### Report on Other Legal and Regulatory Requirements 
+
+1. As required by the Companies [Auditor’s Report] Order, 2020 [“the Order”], issued by the Central Government of India in terms of sub-section [11] of section 143 of the Act, based on our audit and on the consideration of report of the other auditors on the separate financial statements and the other financial information of the joint venture incorporated in India, as noted in the ‘Other Matter’ paragraph, we give in the “Annexure 1” a statement on the matters specified in paragraph 3 [xxi] of the Order. 
+
+2. As required by Section 143[3] of the Act, we report that: 
+
+   - a. We have sought and obtained all the information and explanations which to the best of our knowledge and belief were necessary for the purposes of our audit of the aforesaid consolidated financial statements. 
+
+   - b. In our opinion, proper books of account as required by law relating to preparation of the aforesaid consolidated financial statements have been kept so far as it appears from our examination of those books except for the matter stated in the paragraph 2[i][vi] below on reporting under Rule 11[g] of the Companies [Audit and Auditors] Rules, 2014. 
+
+   - c. The Consolidated Balance Sheet, the Consolidated Statement of Profit and Loss including the Other Comprehensive Income, the Consolidated Statement of Changes in Equity and the Consolidated Statement of Cash Flows dealt with by this Report are in agreement with the relevant books of account maintained for the purpose of preparation of the consolidated financial statements. 
+
+   - d. In our opinion, the aforesaid consolidated financial statements comply with the Indian Accounting Standards specified under Section 133 of the Act, read with Companies [Indian Accounting Standards] Rules, 2015, as amended. 
+
+   - e. On the basis of the written representations received from the directors of the Holding Company as on March 31, 2025 taken on record by the Board of Directors of the Holding Company and report of the other auditor of its joint venture incorporated in India, none of the directors of the Holding company and its joint venture incorporated in India is disqualified as on  March 31, 2025 from being appointed as a director in terms of Section 164 [2] of the Act. 
+
+   - f. The modifications relating to the maintenance of accounts and other matters connected therewith are as stated in the paragraph 2[b] above on reporting under Section 143[3][b] of the Act and paragraph 2[i][vi] below on reporting under Rule 11[g] of the Companies [Audit and Auditors] Rules, 2014. 
+
+   - g. With respect to the adequacy of the internal financial controls with reference to consolidated financial statements of the Holding Company and its joint venture incorporated in India and the operating effectiveness of such controls, refer to our separate Report in “Annexure 2”. 
+
+   - h. With respect to the matters to be included in the Auditor’s Report in accordance with the requirements of section 197[16] of the Act, as amended, in our opinion and to the best of our information and according to the explanations given to us, the remuneration paid by the Company to its managing director and whole time director is within the limit as approved by the shareholders by way of special resolution in the meeting dated September 13, 2023 passed in accordance with section 197 read with Schedule V of the Act. 
+
+      - With respect to the matters to be included in the Auditor’s Report in accordance with the requirements of section 197[16] of the Act, as amended, in our opinion and to the best of our information and according to the explanations given to us and based on the consideration of report of other auditor of the joint venture incorporated in India, the remuneration paid by the joint venture to its directors during the year is in accordance with the provisions of section 197 of the Act read with Schedule V to the Act. 
+
+   - i. With respect to the other matters to be included in the Auditor’s Report in accordance with Rule 11 of the Companies [Audit and Auditors] Rules, 2014, as amended, in our opinion and to the best of our information and according to the explanation given to us: 
+
+      - i. The consolidated financial statements disclose the impact of pending litigations on the consolidated financial positionRefer Note 34 [A] and 40 of the consolidated financial statements. 
+
+      - ii. The Holding Company and its joint venture did not have any material foreseeable losses on long-term contracts including derivative contracts. 
+
+
+![](images/2025.pdf-0130-16.png)
+
+**[Image: 2025.pdf-0130-16.png (53x21, 0.9KB)]**
+
+
+**127** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+   - iii. There has been no delays in transferring amounts, required to be transferred, to the Investor Education and Protection Fund by the Holding Company and its joint venture incorporated in India. 
+
+   - iv. a. The respective management of the Holding Company and its joint venture incorporated in India and whose financial statements have been audited under the Act have represented to us and the other auditors of the joint venture incorporated in India respectively that, to the best of their knowledge and belief, no funds have been advanced or loaned or invested [either from borrowed funds or share premium or any other sources or kinds of funds] by the Holding Company or the joint venture incorporated in India to or in any other person[s] or entity[ies], including foreign entities [“Intermediaries”], with the understanding, whether recorded in writing or otherwise, that the Intermediary shall, whether, directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the respective Holding Company or the joint venture incorporated in India [“Ultimate Beneficiaries”] or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries 
+
+   - b. The respective management of the Holding Company and its joint venture incorporated in India and whose financial statement have been audited under the Act have represented to us and the other auditors of the joint venture incorporated in India respectively that, to the best of their knowledge and belief, no funds have been received by the Holding Company or the joint venture incorporated in India from any person[s] or entity[ies], including foreign entities [“Funding Par-ties”], with the understanding, whether recorded in writing or otherwise, that the Holding Company or the joint venture incorporated in India shall, whether, directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party [“Ultimate Beneficiaries”] or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries. 
+
+   - c. Based on such audit procedures performed that we consider reasonable and appropriate in the circumstances performed by us and that performed by the auditors of the joint venture incorporated in India whose financials statements have been audited under the Act, nothing has come to our or other auditor’s notice that has caused us or other auditors to believe that the representations under sub-clause iv [a] and iv [b] contain any material misstatement. 
+
+- v. The final dividend proposed with respect to the previous year, declared and paid by the Holding Company during the year is in compliance with section 123 of the Act, as applicable. 
+
+As stated in Note 14.1 [e] of the consolidated financial statements, the Board of Directors of the Holding Company has proposed a final dividend for the year ended March 31, 2025 which is subject to the approval of the members in the ensuing Annual General Meeting. The amount of the dividend proposed is in accordance with section 123 of the Act to the extent it applies to the declaration of dividend. 
+
+No dividend has been declared or paid during the year by its joint venture incorporated in India. 
+
+- vi. Based on our examination, which included test checks and as communicated by the auditor of the joint venture, the Holding Company and its joint venture incorporated in India has used accounting software for maintaining its books of account for the financial year ended March 31, 2025 which has a feature of recording audit trail [edit log] facility and the same has operated throughout the year for all relevant transactions recorded in the software except that audit trail feature was not enabled at the database level for accounting software to log any direct data changes. 
+
+Further, during the course of our audit, we did not come across any instance of audit trail feature being tampered with, in respect of accounting software for the period for which the audit trail feature was enabled and operating in case of Holding Company and its joint venture incorporated in India. The audit trail has been preserved by the Holding Company and its joint venture incorporated in India as per the statutory requirements for record retention except where the audit trail at database level was not enabled in the previous year. 
+
+**For KNAV & CO. LLP** Chartered Accountants [Firm Registration No. 120458W/W100679] 
+
+###### **Samir Parmar** 
+
+Place: Mumbai Date: May 29, 2025 
+
+Partner [Membership No. 113505] UDIN : 25113505BMIZIJ8525 
+
+
+![](images/2025.pdf-0131-14.png)
+
+**[Image: 2025.pdf-0131-14.png (56x21, 0.9KB)]**
+
+
+**128128** 
+
+###### ANNEXURE 1 TO THE INDEPENDENT AUDITOR’S REPORT OF EVEN DATE ON THE CONSOLIDATED FINANCIAL STATEMENTS OF HALDYN GLASS LIMITED 
+
+Referred to in paragraph 1 under the heading “Report on Other Legal and Regulatory Requirements” of our report of even date 
+
+In terms of the information and explanations sought by us and given by the Company and the books of accounts and records examined by us in the normal course of audit and to the best of our knowledge and belief, we state that: 
+
+[xxi]  Qualifications or adverse remarks given in the Companies [Auditors Report] Order [CARO] report in the standalone auditor’s report of the Holding Company issued by us and as reported by the other auditors of the joint venture are as under: 
+
+|Name|CIN|Holding Company /<br>Joint Venture [which are<br>incorporated in India]|Clause number of<br>CARO report which is<br>qualifed or is adverse|
+|---|---|---|---|
+|Haldyn Glass Limited|L51909GJ1991PLC015522|HoldingCompany|[i] [c], [vii]|
+|Haldyn Heinz Fine Glass Private Limited|U26960MH2015PTC261972|Joint Venture|–|
+
+
+
+###### **For KNAV & CO. LLP** 
+
+Chartered Accountants [Firm Registration No. 120458W/W100679] 
+
+###### **Samir Parmar** 
+
+Place: Mumbai Date: May 29, 2025 
+
+Partner [Membership No. 113505] UDIN : 25113505BMIZIJ8525 
+
+
+![](images/2025.pdf-0132-10.png)
+
+**[Image: 2025.pdf-0132-10.png (53x21, 0.9KB)]**
+
+
+**129** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### ANNEXURE 2 TO THE INDEPENDENT AUDITOR’S REPORT OF EVEN DATE ON THE CONSOLIDATED FINANCIAL STATEMENTS OF HALDYN GLASS LIMITED 
+
+Referred to in paragraph 2 [g] under the heading “Report on Other Legal and Regulatory Requirements” of our report of even date 
+
+Report on the Internal Financial Controls under Clause [i] of Sub-section 3 of Section 143 of the Companies Act, 2013 [“the Act”] 
+
+We have audited the internal financial controls with reference to consolidated financial statements of Haldyn Glass Limited [“the Holding Company”] as of March 31, 2025 in conjunction with our audit of the consolidated financial statements of the Holding Company and its joint venture which is company incorporated in India for the year ended on that date. 
+
+###### **Management’s Responsibility for Internal Financial Controls** 
+
+The respective Board of Directors of the companies included in the Holding Company and its joint venture which is company incorporated in India, are responsible for establishing and maintaining internal financial controls based on the internal control over financial reporting criteria established by the Holding Company and its joint venture considering the essential components of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting [the “Guidance Note”] issued by the Institute of Chartered Accountants of India [“ICAI”]. These responsibilities include the design, implementation and maintenance of adequate internal financial controls that were operating effectively for ensuring the orderly and efficient conduct of its business, including adherence to company’s policies, the safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and completeness of the accounting records, and the timely preparation of reliable financial information, as required under the Act. 
+
+###### Auditors’ Responsibility 
+
+Our responsibility is to express an opinion on the internal financial controls with reference to these consolidated financial statements based on our audit. We conducted our audit in accordance with the Guidance Note and the Standards on Auditing prescribed under section 143[10] of the Companies Act, 2013, to the extent applicable to an audit of internal financial controls, both applicable to an audit of Internal Financial Controls and, both issued by the ICAI. Those Standards and the Guidance Note require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether adequate internal financial controls with reference to these consolidated financial statements was established and maintained and if such controls operated effectively in all material respects. 
+
+Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal financial controls with reference to these consolidated financial statements and their operating effectiveness. Our audit of internal financial controls with reference to these consolidated financial statements included obtaining an understanding of internal financial controls with reference to these consolidated financial statements, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. The procedures selected depend on the auditor’s judgement, including the assessment of the risks of material misstatement of the consolidated financial statements, whether due to fraud or error. 
+
+We believe that the audit evidence we have obtained and the audit evidence obtained by the other auditor in terms of their report referred to in the Other Matter paragraph below, is sufficient and appropriate to provide a basis for our audit opinion on the internal financial controls with reference to consolidated financial statements. 
+
+###### Meaning of Internal Financial Controls with Reference to Consolidated Financial Statements 
+
+A company’s internal financial control with reference to consolidated financial statements is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal financial control with reference to consolidated financial statements includes those policies and procedures that [1] pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; [2] provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance 
+
+
+![](images/2025.pdf-0133-13.png)
+
+**[Image: 2025.pdf-0133-13.png (56x21, 0.9KB)]**
+
+
+**130130** 
+
+with authorisations of management and directors of the company; and [3] provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or disposition of the company’s assets that could have a material effect on the consolidated financial statements. 
+
+###### **Inherent Limitations of Internal Financial Controls with Reference to Consolidated Financial Statements** 
+
+Because of the inherent limitations of internal financial controls with reference to consolidated financial statements, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may occur and not be detected. Also, projections of any evaluation of the internal financial controls with reference to consolidated financial statements to future periods are subject to the risk that the internal financial control with reference to consolidated financial statements may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+###### **Opinion** 
+
+In our opinion, the Holding Company and its joint venture which is company incorporated in India have, maintained in all material respects, adequate internal financial controls with reference to consolidated financial statements and such internal financial controls with reference to consolidated financial statements were operating effectively as at March 31, 2025, based on the internal control over financial reporting criteria established by the respective companies considering the essential components of internal control stated in the Guidance Note issued by ICAI. 
+
+###### Other Matter 
+
+Our report under Section 143[3][i] of the Act on the adequacy and operating effectiveness of the internal financial controls with reference to consolidated financial statements, in so far as it relates to one joint venture, which is a company incorporated in India, is based on the corresponding report of the auditors of such joint venture incorporated in India. 
+
+**For KNAV & CO. LLP** Chartered Accountants [Firm Registration No. 120458W/W100679] 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Samir Parmar** Partner [Membership No. 113505] UDIN : 25113505BMIZIJ8525 
+
+
+![](images/2025.pdf-0134-10.png)
+
+**[Image: 2025.pdf-0134-10.png (53x21, 0.9KB)]**
+
+
+**131** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **Consolidated Balance Sheet** as at March 31, 2025 
+
+[ ` in Lakhs] 
+
+|Particulars|Note No.|As at|As at|
+|---|---|---|---|
+|||March 31, 2025|March 31, 2024|
+|**I]**<br>**ASSETS**||||
+|A]<br>Non-current assets||||
+|[i]<br>Property, plant and equipment<br><br>|3|25,508.43|23,768.44|
+|[ii]<br>Capital work inprogress|3|103.94|874.54|
+|[iii]<br>Right of use assets<br><br>|3<br>|141.84<br>|245.17<br>|
+|[iv]<br>Intangible assets<br><br>|3|8.80|15.83|
+|[v]<br>Financial assets||||
+|[a]<br>Investments<br><br>|4<br>|4,884.67<br>|4,298.93<br>|
+|[b]<br>Trade receivables<br>|5|607.92|607.92|
+|[c]<br>Other fnancial assets<br><br>|6|373.38|1,132.95|
+|[vi]<br>Income tax assets[net]|7|126.96|160.93|
+|[vii]<br>Other non-current assets|8|41.56|193.15|
+|**Total non-current assets[A]**||**31,797.50**|**31,297.86**|
+|B]<br>Current assets||||
+|[i]<br>Inventories|9|7,300.34|4,225.39|
+|[ii]<br>Financial assets||||
+|[a]<br>Trade receivables|10|6,591.81|6,404.52|
+|[b]<br>Cash and cash equivalents|11.1|351.17|297.92|
+|[c]<br>Bank balances other than[b]above<br>|11.2|856.06|811.00|
+|[d]<br>Other fnancial assets|12|1,764.75|1,188.81|
+|[iii]<br>Other current assets|13|294.83|733.03|
+|**Total current assets[B]**||**17,158.96**|**13,660.67**|
+|**Total assets[A+B]**<br>||**48,956.46**|**44,958.53**|
+|**II]**<br>**EQUITY AND LIABILITIES**||||
+|C]<br>Equity||||
+|[i]<br>Equityshare capital|14.1|537.52|537.52|
+|[ii]<br>Other equity|14.2|21,001.81|19,420.45|
+|**Total Equity [C]**||**21,539.33**|**19,957.97**|
+|Liabilities||||
+|D]<br>Non-current liabilities||||
+|[i]<br>Financial liabilities||||
+|[a]<br>Borrowings|15|6,921.80|6,666.47|
+|[b]<br>Lease liabilities<br>|16|57.35|163.13|
+|[c]<br>Others fnancial liabilities|17|2,374.69|3,046.44|
+|[ii]<br>Provisions|18|282.14|203.73|
+|[iii]<br>Deferred tax liabilities[Net]|7|902.66|483.53|
+|[iv]<br>Other non-current liabilities|19|1,084.17|215.50|
+|**Total non-current liabilities[D]**||**11,622.81**|**10,778.80**|
+|E]<br>Current Liabilities||||
+|[i]<br>Financial liabilities||||
+|[a]<br>Borrowings|20|5,764.04|5,356.74|
+|[b]<br>Lease liabilities|21|105.77|108.28|
+|[c]<br>Trade payables||||
+|Total outstandingdues of micro and small enterprises|22|847.01|811.12|
+|Total outstandingdues of creditors other than micro and small enterprises|22|3,822.52|2,898.16|
+|[d]<br>Other fnancial liabilities|23|3,473.02|2,393.25|
+|<br>[ii]<br>Other current liabilities|24|1,530.38|2,363.90|
+|[iii]<br>Provisions|25|251.58|288.19|
+|[iv]<br>Current tax liabilities[net]|7|–|2.12|
+|**Total current liabilities[E]**||**15,794.32**|**14,221.76**|
+|**Total equity and liabilities [C+D+E]**||**48,956.46**|**44,958.53**|
+
+
+
+###### **The notes form an integral part of these consolidated financial statements - Refer Note 1 to 48** 
+
+As per our Report of even date attached 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+###### **Samir Parmar** 
+
+Partner Membership No. 113505 Place : Mumbai Date : May 29, 2025 
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited 
+
+**Narendra Shetty** Executive Chairman DIN: 00025868 
+
+**Tarun Shetty** Managing Director DIN: 00587108 
+
+Place : Mumbai Date: May 29, 2025 
+
+Place : Mumbai Date: May 29, 2025 
+
+**Niraj Tipre** Chief Executive Officer 
+
+**Ganesh Chaturvedi** Chief Financial Officer FCA-27636 
+
+Place: Mumbai Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Dhruv Mehta** 
+
+Company Secretary ACS No. 46874 
+
+Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0135-21.png)
+
+**[Image: 2025.pdf-0135-21.png (56x21, 0.9KB)]**
+
+
+**132132** 
+
+### for the Year Ended March 31, 2025 **Consolidated Statement of Profit and Loss** 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Partic|ulars|Note No.|For the Year Ended|For the Year Ended|
+||||March 31, 2025|March 31, 2024|
+|**I]**|**INCOME**||||
+||Revenue from operations|26|38,160.00|29,876.99|
+||Other income|27|771.79|1,559.04|
+||**Total Income [I]**||**38,931.79**|**31,436.03**|
+|**II]**|**EXPENSES**||||
+||Cost of raw materials consumed||10,888.00|8,016.15|
+||Changes in inventories of fnished goods and work-in-progress<br>|28|[2,940.22]|[1,544.04]|
+||Employee benefts expense|29|5,115.00|4,158.01|
+||Finance costs|30|1,495.12|952.53|
+||Depreciation and amortisation expense|31|2,876.12|1,879.80|
+||Other expenses|32|19,729.01|15,268.00|
+||**Total expenses [II]**||**37,163.03**|**28,730.45**|
+|**III]**|**Proft before share of proft of joint venture, exceptional items and tax [I-II]**||**1,768.76**|**2,705.58**|
+|**IV]**|<br>**Share of proft of joint venture [net of tax]**|**4**|**523.80**|**541.08**|
+|**V]**|<br>**Proft before tax [II-III]**||**2,292.56**|**3,246.66**|
+|**Less:**|||||
+|**VI]**|**Tax expenses**|**7**|||
+||Current tax||15.32|10.19|
+||Deferred tax charge||419.62|668.67|
+||Short / [excess] provision of earlier years||[23.72]|111.08|
+||**Total tax expense**||**411.22**|**789.94**|
+|**VII]**|**Proft for the year [IV-V]**||**1,881.34**|**2,456.72**|
+|**VIII]**|**Other comprehensive income**<br>||||
+||**Items that will not be reclassifed subsequently to proft and loss:**||||
+||–<br>Remeasurements of defned beneft liability- loss||[35.33]|[56.35]|
+||–<br>Fair value equityinstruments -gain||58.76|244.31|
+||–<br>Income tax relatingto remeasurements of defned beneft liability- credit||8.89|14.18|
+||–<br>Income tax relatingto fair value equityinstruments - charge||[8.40]|[55.90]|
+||–<br>Share of other comprehensive income [net of tax] of joint venture for the year|4|3.18|6.41|
+||**Items that will be reclassifed subsequently toproft and loss:**||||
+||–<br>Exchange differences on translation of foreign operations -gain /[loss]||[3.45]|1.45|
+||**Other comprehensive income for theyear[Net of tax]**||**23.65**|**154.10**|
+|**IX]**|**Total comprehensive income for theyear[net of tax] [VI+VII]**||**1,904.99**|**2,610.82**|
+||**Proft for theyear attributable to:**||||
+||<br>Owners of the company||1,881.34|2,456.72|
+||Non-controlling interest||–|–|
+||**Other comprehensive income for theyear attributable to:**||||
+||Owners of the company||23.65|154.10|
+||Non-controlling interest||–|–|
+||**Total comprehensive income for theyear attributable to:**||||
+||Owners of the company||1,904.99|2,610.82|
+||Non-controlling interest||–|–|
+|**Earni**|**ngs per equity share: [Face Value**`**1 each fully paid up]**||||
+||[1]<br>Basic -`||3.50|4.57|
+||[2]<br>Diluted -`|**33**|3.49|4.56|
+
+
+
+**The notes form an integral part of these consolidated financial statements - Refer Note 1 to 48** 
+
+As per our Report of even date attached 
+
+###### For **KNAV & CO. LLP** 
+
+Chartered Accountants Firm Registration No. 120458W/W10079 
+
+**Samir Parmar** 
+
+Partner Membership No. 113505 Place : Mumbai Date : May 29, 2025 
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited 
+
+**Narendra Shetty** Executive Chairman DIN: 00025868 Place : Mumbai Date: May 29, 2025 **Niraj Tipre** Chief Executive Officer 
+
+**Tarun Shetty** Managing Director DIN: 00587108 Place : Mumbai Date: May 29, 2025 
+
+**Ganesh Chaturvedi** Chief Financial Officer FCA-27636 
+
+Place: Mumbai Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Dhruv Mehta** Company Secretary ACS No. 46874 Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0136-15.png)
+
+**[Image: 2025.pdf-0136-15.png (53x21, 0.9KB)]**
+
+
+**133** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **Consolidated Statement of Changes in Equity** for the year ended March 31, 2025 
+
+###### **A] Equity Share Capital** 
+
+||||||||[`in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars||||As at March 3|1,2025|As at March|31,2024|
+|Balance as at beginningof theyear||||537.52||537.5|2|
+|Add: Changes in equityshare capital||||–||–||
+|Balance as at end of theyear||||**537.52**||**537.5**|**2**|
+|**B]**<br>**Other Equity**||||||||
+|As at March 31, 2025|||||||[`in Lakhs]|
+|Particulars|Capital<br>|Securities<br>|General<br>|Employee Stock<br>|Retained<br>|Other<br>|<br> <br>Total<br>|
+||Redemption<br>|Premium|Reserve|Appreciation<br>|Earnings|Comprehensive<br>|<br> <br>Other<br>|
+||Reserve|||Rights [ESAR]<br>Reserve||Income|<br>Equity|
+|**Balance as at March 31, 2024**|**82.00**|**592.75**|**6,660.09**|**32.37**|**11,393.62**|**659.62**|**19,420.45**|
+|**Changes in equity for theyear ended March 31, 2025**<br>||||||||
+|Proft for theyear|-|-|-|-|1,881.34|-|<br>1,881.34|
+|Final equitydividend for FY 2023-24<br>|-|-|-|-|[376.26]|-|<br>[376.26]|
+|Remeasurements of defned beneft liability- loss<br>|-|-|-|-|-|[35.33]|[35.33]|
+|Income tax relating to remeasurements of defned<br>|-|-|-|-|-|8.89|<br>8.89|
+|beneft liability- credit||||||||
+|Fair value equityinstruments -gain||||||58.76|<br>58.76|
+|Income tax relating to fair value equity instruments -<br>||||||[8.40]|[8.40]|
+|charge||||||||
+|Share of other comprehensive income for the year net of|-|-|-|-|-|3.18|<br>3.18|
+|tax ofjoint venture<br>||||||||
+|Items that will be reclassifed subsequently to proft and<br>|-|-|-|-|-|[3.45]|[3.45]|
+|loss [foreign currencytranslation difference]||||||||
+|ESAR exchange for theyear|-|-|-|52.63|-|-|<br>52.63|
+|**Balance as at March 31, 2025**|**82.00**|**592.75**|**6,660.09**|**85.00**|**12,898.70**|**683.27**|**21,001.81**|
+|As at March 31, 2024|||||||[`in Lakhs]|
+|Particulars|Capital|Securities|General|Employee Stock|Retained|Other|<br>Total|
+||Redemption|Premium|Reserve|Appreciation<br>|Earnings|Comprehensive|<br>Other|
+||Reserve|||Rights [ESAR]||Income|<br>Equity|
+|||||Reserve||||
+|**Balance as at March 31, 2023**|**82.00**|**592.75**|**6,660.09**|**35.03**|**9,313.16**|**505.52**|**17,188.55**|
+|**Changes in equity for the for year ended March 31, 2024**<br>||||||||
+|Proft for the year|-|-|-|-|2,456.72<br>|-|2,456.72<br>|
+|Final equity dividend for FY 2022-23<br>|-|-|-|-|(376.26]|-<br>|(376.26]<br>|
+|Remeasurements of defned beneft liability-loss<br>|-|-|-|-|-|(56.35]|(56.35]|
+|Income tax relating to remeasurements of defned<br>beneft liability- credit|-|-|-|-|-|14.18|<br>14.18|
+|Fair value equity instruments - gain|-|-|-|-|-|244.31|<br>244.31|
+|Income tax relating to fair value equity instruments -|-|-|-|-|-|(55.90]|(55.90]|
+|charge||||||||
+|Share of other comprehensive income for the year net of|-|-|-|-|-|6.41|<br>6.41|
+|tax ofjoint venture<br>||||||||
+|Items that will be reclassifed subsequently to proft and<br>loss(foreign currencytranslation difference]||||||1.45|<br>1.45<br>|
+|ESAR reversal for theyear|-|-|-|(2.66]|-|-|<br> (2.66]|
+|**Balance as at March 31, 2024**|**82.00**|**592.75**|**6,660.09**|**32.37**|**11,393.62**|**659.62**|**19,420.45**|
+
+
+
+**The notes form an integral part of these consolidated financial statements - Refer Note 1 to 48** 
+
+As per our Report of even date attached 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+###### **Samir Parmar** 
+
+Partner Membership No. 113505 
+
+Place : Mumbai Date : May 29, 2025 
+
+
+![](images/2025.pdf-0137-10.png)
+
+**[Image: 2025.pdf-0137-10.png (56x21, 0.9KB)]**
+
+
+For and on behalf of the Board of Directors of Haldyn Glass Limited **Narendra Shetty Tarun Shetty** Executive Chairman Managing Director DIN: 00025868 DIN: 00587108 Place : Mumbai Place : Mumbai Date: May 29, 2025 Date: May 29, 2025 **Niraj Tipre Ganesh Chaturvedi Dhruv Mehta** Chief Executive Officer Chief Financial Officer Company Secretary FCA-27636 ACS No. 46874 Place: Mumbai Place: Mumbai Place: Mumbai Date: May 29, 2025 Date: May 29, 2025 Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**134134** 
+
+### **Consolidated Statement of Cash Flows** for the year ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31,2025|For the year ended<br>March 31,2024|
+|**I.**<br>**Cash Flow from operating activities**<br>|||
+|Proft before tax asper the consolidated statement ofproft and loss|2,292.56|3,246.66|
+|Adjustment for :|||
+|Depreciation and amortisation expenses<br>|2,876.12|1,879.80|
+|Interest on fxed deposits|[164.35]|[186.74]|
+|Unwindingof deferred liabilities for longtermpayables|[293.95]|[276.01]|
+|Dividend on investments|[3.67]|[1.37]|
+|Share ofproft ofjoint venture|[523.80]|[541.08]|
+|Allowances /[reversal]for expected credit loss|96.53|[576.55]|
+|Allowances/[reversal]of expected credit loss for other receivables|5.01|[101.74]|
+|Deferred income -governmentgrant|[139.99]|[734.12]|
+|Unwindingof discount on securitydeposits|[7.74]|[7.36]|
+|Bad debts|16.91|82.90|
+|Employee Stock Appreciation Rights [ESAR] expenses [net of reversal]|52.63|[2.66]|
+|Unwinding of discounting on royalty deposit|4.73|4.76|
+|Rental expense|2.67|2.67|
+|Finance costs<br>|1,495.12|952.53|
+|Proft on sale / discard of property, plant and equipments [net]|[46.99]|[783.42]|
+|Foreign exchange loss/[gain]<br>|118.32|[77.29]|
+|**Operating proft before working capital adjustments[current and non-current]**|**5,780.11**|**2,880.98**|
+|Adjustment for :|||
+|Trade receivables|[292.06]|[598.07]|
+|Inventories<br>|[3,074.95]|[2,103.29]|
+|Other fnancial assets|[24.01]|63.71|
+|Other assets|467.53|[377.07]|
+|Other fnancial liabilities|569.08|609.57|
+|<br>Other liabilities|25.88|692.77|
+|Provisions|6.47|[37.32]|
+|Tradepayables|960.25|987.82|
+|**Cashgenerated from operating activities**|**4,418.30**|**2,119.10**|
+|Income taxespaid[net of refund received]|40.25|[223.55]|
+|**Net cash flowsgenerated from operating activities[A]**|**4,458.55**|**1,895.55**|
+|**II.**<br>**Cash flows from investing activities**|||
+|Acquisition of property, plant and equipment [including capital work in progress, capital|[3,816.30]|[10,423.76]|
+|advance and creditors for capitalgoods]|||
+|Sale ofproperty, plant and equipment|83.79|839.37|
+|Purchase of investments[net]|–|[0.03]|
+|Movement in fxed deposits[other than cash and cash equivalents],net|171.62|910.42|
+|Dividend received on investments|3.67|1.37|
+|Interest received|198.03|121.49|
+|**Net Cash used in investing activities[B]**|**[3,359.19]**|**[8,551.14]**|
+
+
+
+
+![](images/2025.pdf-0138-02.png)
+
+**[Image: 2025.pdf-0138-02.png (53x21, 0.9KB)]**
+
+
+**135** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **Consolidated Statement of Cash Flows** for the year ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31,2025|For the year ended<br>March 31,2024|
+|**III. Cash Flow from Financing Activities**|||
+|Proceeds from term loan[long-term]|2,469.80|5,027.51|
+|Repayment of term loan[long-term]|[769.62]|[278.00]|
+|Proceeds from/[repayment of]short-term borrowings[net]|[1,037.55]|2,979.88|
+|Finance costspaid|[1,205.28]|[774.65]|
+|Equitydividendpaid|[376.26]|[376.26]|
+|Repayment of lease liabilities<br>|[127.20]|[127.20]|
+|**Net cash flows[used in]/ generated from fnancing activities[C]**|**[1,046.11]**|**6,451.28**|
+|**Net increase /[decrease] in cash and cash equivalents[A+B+C]**|**53.25**|**[204.31]**|
+|**Cash and cash equivalents as at the beginning of theyear**|**297.92**|**502.23**|
+|**Cash and cash equivalents as at the end of theyear**|**351.17**|**297.92**|
+
+
+
+|Components of Cash and Cash Equivalents||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended|For the year ended|
+||March 31,2025|March 31,2024|
+|Cash on hand|0.95|0.30|
+|Balance with Banks|||
+|–<br>In Current Accounts|350.22|297.62|
+||**351.17**|**297.92**|
+
+
+
+###### Notes: 
+
+1] The above consolidated statement of cash flows has been prepared under the ‘Indirect Method’ as set out in the Indian Accounting Standard [IND AS] 7 - “Statement of Cash Flows”. 
+
+###### Figures in bracket indicate outflows. 
+
+Reconciliation between the opening and closing balances in the balance sheet for liabilities arising from financing activities as required under Ind AS 7, ‘Statement of cash flows’ 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|As at April 1,2024|Cash Flows[Net]|Non Cash Changes[Net]|As at March 31,2025|
+|Long-term borrowings[includingcurrent maturities]|7,433.77|1,700.18|-|9,133.95|
+|Short-term borrowings|4,589.44|[1,037.55]|-|3,551.89|
+|Lease liabilities<br>|271.41|[127.20]|18.91|163.12|
+|**Total liabilities from fnancing activities**|**12,294.62**|**535.43**|**18.91**|**12,848.96**|
+|||||[`in Lakhs]|
+|Particulars|As at April 1,2023|Cash Flows[Net]|Non Cash Changes[Net]|As at March 31,2024|
+|Long-term borrowings[includingcurrent maturities]|2,684.26|4,749.51|-|7,433.77|
+|Short-term borrowings|1,609.56|2,979.88|-|4,589.44|
+|Lease liabilities<br>|370.90|[127.20]|27.71|271.41|
+|**Total liabilities from fnancing activities**|**4,664.72**|**7,602.19**|**27.71**|**12,294.62**|
+
+
+
+**The notes form an integral part of these consolidated financial statements - Refer Note 1 to 48** 
+
+As per our Report of even date attached For and on behalf of the Board of Directors of Haldyn Glass Limited 
+
+For **KNAV & CO. LLP** Chartered Accountants Firm Registration No. 120458W/W10079 
+
+**Samir Parmar** Partner Membership No. 113505 Place : Mumbai Date : May 29, 2025 
+
+**Narendra Shetty Tarun Shetty** Executive Chairman Managing Director DIN: 00025868 DIN: 00587108 Place : Mumbai Place : Mumbai Date: May 29, 2025 Date: May 29, 2025 **Niraj Tipre Ganesh Chaturvedi** Chief Executive Officer Chief Financial Officer FCA-27636 
+
+Place: Mumbai Date: May 29, 2025 
+
+Place: Mumbai Date: May 29, 2025 
+
+**Dhruv Mehta** Company Secretary ACS No. 46874 
+
+Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0139-18.png)
+
+**[Image: 2025.pdf-0139-18.png (56x21, 0.9KB)]**
+
+
+**136136** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **1. Company Overview** 
+
+Haldyn Glass Limited [CIN: L51909GJ1991PLCO15522] [the “Company” or “Holding Company”] was incorporated under the provisions of the Companies Act, 1956 as applicable in India on April 25, 1991. The Company is a Public Limited Company incorporated and domiciled in India with its registered office at Village Gavasad, Tal. Padra, Dist. Vadodara-391 430, Gujarat, India. The Company’s equity shares are listed on the BSE Ltd. [Bombay Stock Exchange]. 
+
+The Company and its subsidiary [the “Group”] and its joint venture is presently engaged in the business of manufacturing of glass bottles. 
+
+The Company has following subsidiary and jointly venture: 
+
+|Company|Countryof Incorporation|Holding%|Relationship|
+|---|---|---|---|
+|Haldyn Glass USA Inc.|United States of America|100%|Subsidiary|
+|Haldyn Heinz Fine Glass Private Limited|India|56.80%|Joint venture|
+
+
+
+###### **2. Material Accounting Policies** 
+
+###### 2.1 Statement of Compliance 
+
+The Consolidated Financial Statements of the Group and its joint venture have been prepared in compliance with Indian Accounting Standards [Ind AS] notified under section 133 of the Companies Act, 2013 read with Rule 3 of the Companies [Indian Accounting Standards] Rules, 2015 as amended and other relevant provisions of the Act and the guidelines issued by Securities and Exchange Board of India. The Consolidated Financial Statements of the Group and its joint venture for the year ended March 31, 2025 were approved for issue in accordance with the resolution of the Board of Directors on May 29, 2025. Accounting policies have been consistently applied except where newly issued accounting standard is initially adopted or a revision to an existing accounting standard requires a change in accounting policy hitherto in use. 
+
+###### 2.2 Basis of Preparation 
+
+The Consolidated Financial Statements have been prepared on a historical cost basis, except for the following assets and liabilities which have been measured at fair value: 
+
+- certain financial assets and liabilities, including derivative instruments, that are measured at fair value 
+
+- assets held for sale, if any 
+
+- defined benefit plan 
+
+- share-based payments. 
+
+Further, the guidance notes / announcements issued by the Institute of Chartered Accountants of India [ICAI] are also considered, wherever applicable, except to the extent where compliance with other statutory promulgations override the same requiring a different treatment. 
+
+###### 2.3 Basis of consolidation 
+
+The Consolidated Financial Statements comprise the financial statements of the Company, its subsidiary and joint venture as listed out in Note 1. Control is achieved when the Company: 
+
+- has power over the investee 
+
+- is exposed to, or has rights, to variable returns from its involvement with the investee 
+
+- 
+
+- has the ability to use its power to affect its returns 
+
+The Company reassess whether or not it controls an investee if facts and circumstances indicate that there are changes to one or more of the three elements of control listed above. 
+
+Consolidation of a subsidiary begins when the Company obtains control over the subsidiary and ceases when the 
+
+
+![](images/2025.pdf-0140-24.png)
+
+**[Image: 2025.pdf-0140-24.png (53x22, 0.9KB)]**
+
+
+**137** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+Company loses control of the subsidiary. Specifically, income and expenses of a subsidiary acquired or disposed of during the year are included in the Consolidated Statement of Profit and Loss and other comprehensive income from the date the Company gains control until the date when the Company ceases to control the subsidiary. 
+
+Where the cost of the investment is higher than the share of equity in the subsidiary at the time of acquisition, the resulting difference is treated as goodwill. Where the cost of the equity is lower than the share of equity in the subsidiary, the difference is treated as capital reserve. 
+
+###### Consolidation procedure: 
+
+###### <u>Subsidiary</u> 
+
+- Combine like items of assets, liabilities, equity, income, expenses and cash flows of the parent with those of its subsidiary. For this purpose, income and expenses of the subsidiary are based on the amounts of the assets and liabilities recognised in the consolidated financial statements at the acquisition date. 
+
+- Offset [eliminate] the carrying amount of the parent’s investment in the subsidiary and the parent’s portion of equity of the subsidiary. 
+
+- Eliminate in full intragroup assets and liabilities, equity, income, expenses and cash flows relating to transactions between entities of the group. Ind AS 12 Income Taxes applies to temporary differences that arise from the elimination of profits and losses resulting from intragroup transactions. 
+
+When necessary, adjustments are made to the financial statements of subsidiary to bring their accounting policies into line with the Holding Company’s accounting policies. 
+
+###### <u>Joint Venture</u> 
+
+The Company holds 56.80% of the shareholding in Haldyn-Heinz Fine Glass Private Limited [Haldyn Heinz]. However, in accordance with the terms of the agreement with the joint venture partner, the Company’s substantive rights would remain restricted and hence, the Company continues to consolidate the profit/ loss and investments in Haldyn-Heinz in accordance with Ind-AS 28-Investment in Associates and Joint Ventures. 
+
+###### 2.4 Presentation of Consolidated Financial Statements 
+
+The Consolidated Balance Sheet, the Consolidated Statement of Profit and Loss,  Consolidated Statement of Changes in Equity and the Consolidated Statement of Cash Flows are prepared and presented in the format prescribed in the Schedule III to the Companies Act, 2013 [“the Act”]. The disclosure requirements with respect to items in the Consolidated Balance Sheet and Consolidated Statement of Profit and Loss, as prescribed in the Schedule III to the Act, are presented by way of notes forming part of the Consolidated Financial Statements along with the other notes required to be disclosed under the notified Accounting Standards. 
+
+###### 2.5 Significant Accounting Judgements, Estimates and Assumptions 
+
+The preparation of the Consolidated Financial Statements in conformity with Ind AS requires management to make estimates, judgments and assumptions. These estimates, judgments and assumptions affect the application of accounting policies and the reported amounts of assets and liabilities, the disclosures of contingent liabilities at the date of the Consolidated Financial Statements and reported amounts of revenues and expenses during the period. Accounting estimates could change from period to period. Actual results could differ from those estimates. Appropriate changes in estimates are made as management becomes aware of changes in circumstances surrounding the estimates. Changes in estimates are reflected in the Consolidated Financial Statements in the period in which changes are made and, if material, their effects are disclosed in the notes to the Consolidated Financial Statements. 
+
+This note provides an overview of the areas that involved a higher degree of judgement or complexity and of items which are more likely to be materially adjusted due to estimates and assumptions turning out to be different than those 
+
+
+![](images/2025.pdf-0141-17.png)
+
+**[Image: 2025.pdf-0141-17.png (56x22, 0.9KB)]**
+
+
+**138138** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+originally assessed. Detailed information about each of these estimates and judgements is included in the relevant note. 
+
+Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised prospectively. 
+
+The following are the key assumptions concerning the future, and other key sources of estimation uncertainty at the end of the reporting period that may have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year. 
+
+- a] Useful life of Property, Plant and Equipment 
+
+Determination of the estimated useful lives of tangible assets and the assessment as to which components of the cost may be capitalized. Useful lives of tangible assets are based on the life prescribed in Schedule II of the Companies Act, 2013. In cases, where the useful lives are different from that prescribed in Schedule II, they are based on technical advice, taking into account the nature of the asset, the estimated usage of the asset, the operating conditions of the asset, past history of replacement, anticipated technological changes, manufacturers’ warranties and maintenance support. 
+
+- b] Recognition and measurement of Defined Benefit Obligations 
+
+The Cost of the defined benefit plan and other post-employment benefits and the present value of such obligation are determined using actuarial valuations. An actuarial valuation involves making various assumptions that may differ from actual developments in the future. These include the determination of the discount rate, future salary increases, mortality rates and attrition rate. The discount rate is determined based on the prevailing market yields of Indian Government Securities as at the balance sheet date for the estimated term of the obligations. Due to the complexities involved in the valuation and its long-term nature, a defined benefit obligation is highly sensitive to changes in these assumptions. All assumptions are reviewed at each reporting date. 
+
+- c] Recognition of Deferred Tax Assets / Liabilities 
+
+A deferred tax asset / liability is recognised for all the deductible temporary differences to the extent that it is probable that taxable profit will be available against which the deductible temporary difference can be utilised. 
+
+- d] Provisions or Contingent Liabilities 
+
+A provision is recognised when the Group and its joint ventures has a present obligation [legal or constructive] as a result of past event and it is probable that an outflow of resources will be required to settle the obligation, in respect of which a reliable estimate can be made. If the effect of time value of money is material, provisions are discounted using a current pre-tax rate that reflects, when appropriate, the risk specific to the liability. When discounting is used, the increase in the provision due to the passage of time is recognised as a finance cost. These are reviewed at each balance sheet date and adjusted to reflect the current best estimates. 
+
+A disclosure for a contingent liability is made when there is a possible obligation or a present obligation that may, but probably will not require an outflow of resources. When there is a possible obligation or a present obligation in respect of which likelihood of outflow of resources is remote, no provision or disclosure is made. 
+
+- e] Impairment of Financial Assets 
+
+When the fair values of financial assets and financial liabilities recorded in the Consolidated Balance Sheet cannot be measured based on quoted prices in active markets, their fair value is measured using valuation techniques including the DCF model. The inputs to these models are taken from observable markets where possible, but where this is not feasible, a degree of judgment is required in establishing fair values. Judgements include considerations of inputs such as liquidity risk, credit risk and volatility. Changes in assumptions about these factors could affect the reported fair value of financial instruments. 
+
+- f] Right of Use Assets 
+
+The Group and its joint ventures has entered commercial property leases for its offices. The Group evaluates if an arrangement qualifies to be a lease as per the requirements of Ind AS 116. Identification of a lease requires 
+
+
+![](images/2025.pdf-0142-17.png)
+
+**[Image: 2025.pdf-0142-17.png (53x22, 0.9KB)]**
+
+
+**139** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+significant judgment. The Group and its joint venture uses significant judgement in assessing the lease term and the applicable discount rate. The Group and its joint venture has lease contracts which include extension and termination option, and this requires exercise of judgement by the Group and its joint venture in evaluating whether it is reasonably certain whether to exercise the option to renew or terminate the lease. The discount rate is generally based on the incremental borrowing rate specific to the lease period. 
+
+- h] Fair valuation of Employee Stock Appreciation Right [ESAR] 
+
+The fair valuation of the employee stock grants is based on the Black-Scholes model used for valuation of options. Key assumptions made with respect to expected volatility includes share price, expected dividends and discount rate, under this option pricing model. 
+
+- i] Capitalisation of Borrowing Cost 
+
+   - Substantial period of time for the purpose of qualifying asset as per Ind AS 23- ‘Borrowing Cost’, is set by the Group as 12 months. 
+
+- j] Impairment of Trade Receivables and other receivables. 
+
+The Group and its joint venture recognise loss allowances using the expected credit loss [ECL] model for the financial assets which are not fair valued through profit or loss. Loss allowance for trade receivables with no significant financing component is measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL. The Group and its joint venture determine the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The amount of ECLs [or reversal] that is required to adjust the loss allowance at the reporting date to the amount that is required to be recognised is recognised as an impairment gain or loss in Consolidated Statement of Profit and Loss. 
+
+###### 2.6 Functional and presentation currency 
+
+These Consolidated Financial Statements are presented in Indian Rupees [INR], which is also the Company’s functional currency. All amounts have been rounded-off to the nearest lakhs, unless otherwise indicated. 
+
+The Group’s and its joint ventures consolidated financial statements are presented in Indian Rupees [“INR”], which is also the Holding Company’s functional currency. For each entity the Group and its joint venture determines the functional currency and items included in the financial statements of each entity are measured using that functional currency. 
+
+On consolidation, the assets and liabilities of foreign operations are translated into INR at the rate of exchange prevailing at the reporting date and their Consolidated Statement of Profit and Loss are translated at average rate during the year. The exchange differences arising on translation for consolidation are recognised in other comprehensive income. On disposal of a foreign operation, the component of other comprehensive income relating to that particular foreign operation is recognised in Consolidated Statement of Profit and Loss. 
+
+###### 2.7 Property, Plant and Equipment 
+
+Items of property, plant and equipment are measured at cost, which includes capitalised borrowing costs, less accumulated depreciation and accumulated impairment losses, if any. 
+
+Cost of an item of property, plant and equipment comprises its purchase price, including import duties and non-refundable purchase taxes, after deducting trade discounts and rebates, any directly attributable cost of bringing the item to its working condition for its intended use and estimated costs of dismantling and removing the item and restoring the site on which it is located. 
+
+Income and expenses related to the incidental operations, not necessary to bring the item to the location and condition necessary for it to be capable of operating in the manner intended by management, are recognised in the Consolidated Statement of Profit and Loss. 
+
+
+![](images/2025.pdf-0143-17.png)
+
+**[Image: 2025.pdf-0143-17.png (56x22, 0.9KB)]**
+
+
+**140140** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+If significant parts of an item of property, plant and equipment have different useful lives, then they are accounted and depreciated for as separate items [major components] of property, plant and equipment. 
+
+Any gain or loss on disposal of an item of property, plant and equipment is recognised in the Consolidated Statement of Profit and Loss. 
+
+Subsequent expenditure is capitalised only if it is probable that the future economic benefits associated with the expenditure will flow to the Group and its joint venture. 
+
+Capital work-in-progress includes cost of property, plant and equipment under installation / under development as at the balance sheet date. 
+
+The assets’ residual values, useful lives and method of depreciation are reviewed at each reporting date and are adjusted prospectively, if appropriate. 
+
+###### 2.8 Inventories 
+
+Inventories are carried in the Consolidated Balance Sheet as follows: 
+
+- [a] Raw materials, Packing materials, Stock in Trade and Stores & Spares: At lower of cost and net realisable value. 
+
+- [b] Work-in-progress-: At lower of cost of materials, plus appropriate production overheads and net realisable value. 
+
+- [c] Finished Goods: At lower of cost of materials, plus appropriate production overheads and net realisable value. 
+
+Cost of inventories are determined on FIFO basis. 
+
+The cost of inventories has been computed to include all cost of purchases, cost of conversion and other related costs incurred in bringing the inventories to the present location and condition. Slow and non-moving material, obsolescence, defective inventories are duly provided for and valued at net realisable value. Net realisable value is the estimated selling price in the ordinary course of business, less estimated costs of completion and estimated costs necessary to make the sale. However, materials and other items held for use in the production of inventories are not written down below cost if the finished products in which they will be used are expected to be sold at or above cost. Goods and materials in transit are valued at actual cost incurred upto the date of balance sheet. Materials and supplies held for use in the production of inventories are not written down if the finished products in which they will be used are expected to be sold at or above cost. 
+
+###### 2.9 Impairment of non-financial assets 
+
+The Group and its joint ventures assesses at each balance sheet date whether there is any indication that an asset or cash generating unit [CGU] may be impaired. If any such indication exists, the Group and its joint venture estimates the recoverable amount of the asset. The recoverable amount is the higher of an asset’s or CGU’s net selling price or its value in use. Where the carrying amount of an asset or CGU exceeds its recoverable amount, the asset is considered impaired and is written down to its recoverable amount. 
+
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset. 
+
+An impairment loss is recognised if the carrying amount of an asset or CGU exceeds its recoverable amount. 
+
+Impairment losses are recognised in the Consolidated Statement of Profit and Loss. 
+
+An impairment loss is reversed only to the extent that the asset’s carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised. 
+
+###### 2.10 Financial Instruments 
+
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity. 
+
+
+![](images/2025.pdf-0144-21.png)
+
+**[Image: 2025.pdf-0144-21.png (53x22, 0.8KB)]**
+
+
+**141** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### a] Financial Assets 
+
+###### Initial Recognition and Measurement 
+
+All financial assets and liabilities are recognised at fair value on initial recognition except for trade receivables which are initially measured at transaction price. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. 
+
+Financial assets are classified, at initial recognition, as financial assets measured at fair value or as financial assets measured at amortised cost. 
+
+###### Subsequent measurement 
+
+For the purpose of subsequent measurement, financial assets are classified in two broad categories: 
+
+- i] Financial assets at fair value 
+
+- ii] Financial assets at amortised cost 
+
+Where assets are measured at fair value, gains and losses are either recognised entirely in the Consolidated Statement of Profit and Loss [i.e. fair value through profit or loss] or recognised in other comprehensive income [i.e. fair value through other comprehensive income]. 
+
+A financial asset is subsequently measured at amortised cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. 
+
+###### Equity instruments 
+
+The Group and its joint ventures subsequently measures all equity investments [except investment in Joint Venture at fair value]. Where the Group and joint venture’s management has elected to present fair value gains and losses on equity investments in other comprehensive income, there is no subsequent reclassification of fair value gains and losses to profit or loss following the derecognition of the investment. Dividends from such investments are recognised in Consolidated Statement of Profit and Loss as other income when the Group and joint venture’s right to receive payments is established. Changes in the fair value of financial assets at fair value through profit or loss are recognised in other gain/ losses in the Consolidated Statement of Profit and Loss. Impairment losses [and reversal of impairment losses] on equity investments measured at FVOCI are not reported separately from other changes in fair value. 
+
+###### Trade Receivables 
+
+Trade receivables are amounts due from customers for goods sold in the ordinary course of business. All financial assets are recognised initially at fair value, plus in the case of financial assets not recorded at fair value through profit or loss [FVTPL], transaction costs that are attributable to the acquisition of the financial asset. However, trade receivables that do not contain a significant financing component are measured at transaction price. The Group and its joint ventures holds the trade receivables with the objective of collecting the contractual cash flows and therefore measures them subsequently at amortised cost using the effective interest method, less allowance for excepted credit loss. 
+
+###### b] Investments in Joint venture 
+
+A joint venture is a joint arrangement whereby the parties that have joint control of the arrangement have rights to the net assets of the joint arrangement. Joint control is the contractually agreed sharing of control of an arrangement, which exists only when decisions about the relevant activities require unanimous consent of the parties sharing control. 
+
+The results and assets and liabilities of joint venture is incorporated in these consolidated financial statements using the equity method of accounting. Under the equity method, an investment in a joint venture is initially recognised 
+
+
+![](images/2025.pdf-0145-19.png)
+
+**[Image: 2025.pdf-0145-19.png (56x22, 0.9KB)]**
+
+
+**142142** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+in the consolidated statement of financial position at cost and adjusted thereafter to recognise the Group’s share of the profit or loss and other comprehensive income of the joint venture. When the Group’s share of losses of a joint venture exceeds the Group’s interest in that joint venture [which includes any long-term interests that, in substance, form part of the Group’s net investment in the joint venture], the Group discontinues recognising its share of further losses. Additional losses are recognised only to the extent that the Group has incurred legal or constructive obligations or made payments on behalf of the joint venture. 
+
+An investment in a joint venture is accounted for using the equity method from the date on which the investee becomes a joint venture. On acquisition of the investment in a joint venture, any excess of the cost of the investment over the Group’s share of the net fair value of the identifiable assets and liabilities of the investee is recognised as goodwill, which is included within the carrying amount of the investment. Any excess of the Group’s share of the net fair value of the identifiable assets and liabilities over the cost of the investment, after reassessment, is recognised immediately in Consolidated Statement of Profit and Loss in the period in which the investment is acquired. 
+
+After application of the equity method of accounting, the Group determines whether there is any objective evidence of impairment as a result of one or more events that occurred after the initial recognition of the net investment in a joint venture and that event [or events] has an impact on the estimated future cash flows from the net investment that can be reliably estimated. If there exists such an objective evidence of impairment, then it is necessary to recognise impairment loss with respect to the Group’s investment in a joint venture. 
+
+When a group entity transacts with a joint venture of the Group, profits and losses resulting from the transactions with the joint venture are recognised in the Group’s consolidated financial statements only to the extent of interests in the joint venture that are not related to the Group. 
+
+###### Derecognition 
+
+The Group and its joint ventures derecognises a financial asset when the contractual rights to the cash flows from the financial asset expire, or it transfers the rights to receive the contractual cash flows in a transaction in which substantially all of the risks and rewards of ownership of the financial asset are transferred or in which the Group and its joint venture neither transfers nor retain substantially all of the risks and rewards of ownership and it does not retain control of the financial asset. 
+
+###### Impairment of financial asset 
+
+For impairment of financial assets, Group and its joint venture applies expected credit loss [ECL] model. Following financial assets and credit risk exposure are covered within the ECL model: 
+
+- i] Financial assets that are debt instruments, and are measured at amortised cost e.g. loans, debt securities, deposits, trade receivables and bank balance; 
+
+- ii] Trade receivables or any contractual right to receive cash or another financial asset that result from transactions that are within the scope of Ind AS 11 and Ind AS 18. 
+
+The Group and its joint ventures follows simplified approach’ for recognition of impairment loss allowance on trade receivables including receivables recognised under service concession arrangements. 
+
+The application of simplified approach does not require the Group and its joint venture to track changes in credit risk. Rather, it recognises impairment loss allowance based on lifetime ECLs at each reporting date, right from its initial recognition. For recognition of impairment loss on other financial assets and risk exposure, the Group and its joint venture determines that whether there has been a significant increase in the credit risk since initial recognition. If credit risk has not increased significantly, 12-month ECL is used to provide for impairment loss. However, if credit risk has increased significantly, then the impairment loss is provided based on lifetime ECL. If in a subsequent period, credit quality of the instrument improves such that there is no longer a significant increase in credit risk since the initial recognition, then the entity reverts to recognising the impairment loss allowance based on 12 months ECL. 
+
+
+![](images/2025.pdf-0146-13.png)
+
+**[Image: 2025.pdf-0146-13.png (53x22, 0.9KB)]**
+
+
+**143** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### c] Financial liabilities 
+
+###### Initial recognition 
+
+The Group and its joint ventures initially recognises borrowings, trade payables and related financial liabilities on the date on which they are originated. 
+
+All other financial instruments [including regular-way purchases and sales of financial assets] are recognised on the trade date, which is the date on which the Group and its joint venture becomes a party to the contractual provisions of the instrument. 
+
+###### Subsequent measurement 
+
+Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration recognised in a business combination which is subsequently measured at fair value through profit and loss. For trade and other payables maturing within one year from the balance sheet date, the carrying amounts approximates fair value due to the near term (less than a year] maturity of these instruments. 
+
+###### Derecognition 
+
+A financial liability is derecognised when the obligation under the liability is discharged or cancelled or expires. When an existing financial liability is replaced by another from the same lender on substantially different terms, or the terms of an existing liability are substantially modified, such an exchange or modification is treated as the derecognition of the original liability and the recognition of a new liability. The difference in the respective carrying amounts is recognised in the Consolidated Statement of Profit and Loss. 
+
+###### Offsetting of financial instruments 
+
+Financial assets and financial liabilities are offset, and the net amount is reported in the Consolidated Balance Sheet if there is a currently enforceable legal right to offset the recognised amounts and there is an intention to settle on a net basis, to realise the assets and settle the liabilities simultaneously. The legally enforceable right must not be contingent on future events and must be enforceable in the normal course of business and in the event of default, insolvency or bankruptcy of the Group and its joint ventures or the counterparty. 
+
+###### 2.11 Derivative financial instruments 
+
+The Company enters into foreign currency forward contracts that is used to hedge risk of exposure of changes in the fair value of creditors for capital goods on account of foreign currency rate movement. 
+
+These derivative contracts are not designated as hedges and accounted for at fair value through statement of profit or loss. Derivatives are carried as financial assets when the fair value is positive and as financial liabilities when the fair value is negative. Any gains or losses arising from changes in the fair value of derivatives are taken directly to consolidated statement of profit and loss. 
+
+###### 2.12 Leases 
+
+###### Group and its joint venture as a Lessee 
+
+The determination of whether an arrangement is [or contains] a lease is based on the substance of the arrangement at the inception of the lease. The arrangement is, or contains, a lease if fulfilment of the arrangement is dependent on the use of a specific asset or assets and the arrangement conveys a right to use the asset or assets, even if that right is not explicitly specified in an arrangement. 
+
+The Group and its joint venture recognises right-of-use asset and a corresponding lease liability for all lease arrangements in which the Company is a lessee, except for a short-term lease of 12 months or less and leases of low-value assets. For short term lease and low-value asset arrangements, the Group and its joint venture recognises the lease payments as an operating expense on straight-line basis over the lease term. 
+
+
+![](images/2025.pdf-0147-19.png)
+
+**[Image: 2025.pdf-0147-19.png (56x22, 0.8KB)]**
+
+
+**144144** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+Certain lease arrangements include the options to extend or terminate the lease before the end of the lease arrangement. Right-of- use assets and lease liabilities are measured according to such options when it is reasonably certain that the Group and its joint venture will exercise these options. The right-of-use asset are recognised at the inception of the lease arrangement at the amount of the initial measurement of lease liability adjusted for any lease payments made at or before the commencement date of lease arrangement reduced by any lease incentives received, added by initial direct costs incurred and an estimate of costs to be incurred by the Company in dismantling and removing the underlying asset or restoring the underlying asset or site on which it is located. 
+
+The right-of-use assets are depreciated using the straight-line method from the commencement date over the shorter of lease term or useful life of right-of- use asset. Estimated useful life of right-of-use assets is determined based on useful life of property, plant and equipment. Right-of-use assets are tested for impairment whenever there is an indication that their carrying value may not be recoverable. Impairment loss, if any is recognised in the Consolidated Statement of Profit and Loss. 
+
+The lease liability is measured at amortised cost, at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease arrangement or, if not readily determinable, at the incremental borrowing rate in the country of domicile of such leases. Lease liabilities are remeasured with corresponding adjustments to right-of-use assets to reflect any reassessment or lease modifications. 
+
+###### Group and its joint venture as a Lessor 
+
+Leases for which the Group and its joint venture is a lessor is classified as finance or operating lease. If the terms of the lease arrangement transfers substantially all the risks and rewards of ownership to the lessee, such lease arrangement is classified as finance lease. All other leases are classified as operating leases. 
+
+In case of sub-lease, the Group and its joint venture recognises investment in sub-lease separately in the financial statements. The sub-lease is classified as a finance or operating lease by reference to the right-of-use asset arising from such lease arrangement. For operating leases, rental income is recognised on a straight-line basis over the term of the lease arrangement. 
+
+###### 2.13 Provisions and Contingencies 
+
+Provisions involving substantial degree of estimation in measurement are recognised when there is a present obligation as a result of past events, it is probable that there will be an outflow of resources and a reliable estimate can be made of the amount of the obligation. These are reviewed at each balance sheet date and adjusted to reflect the current best estimate. 
+
+If the effect of the time value of money is material, provisions are discounted using a current pre-tax rate that reflects, when appropriate, the risks specific to the liability. When discounting is used, the increase in the provision due to the passage of time is recognised as a finance cost in the Consolidated Statement of Profit and Loss. 
+
+Contingent liabilities are not provided for and are disclosed by way of notes. Contingent assets are not recognised but disclosed in the notes to the Consolidated Financial Statements when economic inflow is probable. However, when the realisation of income is virtually certain, then the related asset is no longer a contingent asset, but it is recognised as an asset. 
+
+###### 2.14 Revenue recognition 
+
+Revenue from contracts with customers are recognised when the performance obligation towards customer have been made i.e. on transfer of control of promised goods or services to a customer at an amount that reflects the consideration to which the Group and its joint venture is expected to be entitled to in exchange for those goods or services. 
+
+Revenue towards satisfaction of a performance obligation is measured at the amount of transaction price [net of variable consideration and net of taxes] allocated to that performance obligation. Revenue is recognised net of sales reductions such as discounts, sales incentives granted and any taxes or duties collected on behalf of the Government such as Goods 
+
+
+![](images/2025.pdf-0148-14.png)
+
+**[Image: 2025.pdf-0148-14.png (53x22, 0.9KB)]**
+
+
+**145** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+and Service Tax, etc. This variable consideration is estimated based on the expected value of outflow. 
+
+###### Sale of Goods 
+
+Revenue from the sale of products is recognised when the Group and its joint venture has transferred control of the goods to the buyer and the buyer obtains the benefits from the goods, the potential cash flows and the amount of revenue [the transaction price] can be measured reliably, and it is probable that the Group and its joint venture will collect the consideration to which it is entitled to in exchange for the goods. 
+
+###### Rendering of Services 
+
+Revenue from services is recognised over time by measuring progress towards satisfaction of performance obligation for the services rendered. 
+
+###### Other Operating Income 
+
+Incentives on exports and other Government incentives related to operations are recognised in the Consolidated Statement of Profit and Loss after due consideration of certainty of utilization / receipt of such incentives. 
+
+###### Interest and Dividend Income 
+
+Interest income is recognised in the Consolidated Statement of Profit and Loss using the effective interest method. Dividend Income is recognised when the right to receive the payment is established. 
+
+###### 2.15 Depreciation 
+
+Depreciation is calculated on cost of items of property, plant and equipment less their estimated residual values over their estimated useful lives, using straight line method as per useful life prescribed in Schedule II to the Companies Act, 2013 except in respect of the following categories of assets, in whose case the life of the assets has been assessed and estimated by the management based on technical evaluation. 
+
+- Captive Power Plant where depreciation is provided on written down value method over a period of 15 years 
+
+- Furnaces which are depreciated under straight line method over a period of 8 years and moulds which are depreciated under straight line method over a period of 2-4 years 
+
+Intangible Assets are amortised over its useful life of 3 years on a straight-line basis and is generally recognised in the Consolidated Statement of Profit and Loss. Freehold land is not depreciated. 
+
+Depreciation on the property, plant and equipment which are added/disposed of during the year, is provided on pro-rata basis with reference to date of addition/deletion. 
+
+###### 2.16 Foreign currency reinstatement and translation: 
+
+Transactions in foreign currencies are initially recorded by the Group and its joint ventures at rates prevailing at the date of the transaction. Subsequently monetary items are translated at closing exchange rates as on balance sheet date and the resulting exchange difference recognised in Consolidated Statement of Profit and Loss. Differences arising on settlement of monetary items are also recognised in Consolidated Statement of Profit and Loss. Non-monetary items that are measured in terms of historical cost in a foreign currency are translated using the exchange rates at the dates of the transaction. Non-monetary items carried at fair value that are denominated in foreign currencies are translated at the exchange rates prevailing at the date when the fair value was determined. The gain or loss arising on translation of non-monetary items measured at fair value is treated in line with the recognition of the gain or loss on the change in fair value of the item [i.e., translation differences on items whose fair value gain or loss is recognised in OCI or profit or loss are also recognised in OCI or profit or loss, respectively]. Foreign exchange differences regarded as an adjustment to borrowing costs are presented in the Consolidated Statement of Profit and Loss, within finance costs. All other finance gains / losses are presented in the Consolidated Statement of Profit and Loss on a net basis. 
+
+
+![](images/2025.pdf-0149-19.png)
+
+**[Image: 2025.pdf-0149-19.png (56x22, 0.9KB)]**
+
+
+**146146** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### 2.17 Borrowings and Borrowing Costs 
+
+Borrowings are initially recognised at fair value, net of transaction costs incurred. Borrowings are subsequently measured at amortised cost. Any difference between the proceeds [net of transaction costs] and the redemption amount is recognised in the profit or loss over the period of the borrowings using the effective interest method. 
+
+Borrowings are removed from the Consolidated Balance Sheet when the obligation specified in the contract is discharged, cancelled or expired. The difference between the carrying amount of a financial liability that has been extinguished or transferred to another party and the consideration paid is recognised in the profit or loss as other income/ [expenses]. 
+
+Borrowings are classified as current liabilities unless the Group and its joint venture has an unconditional right to defer settlement of the liability for at least 12 months after the reporting period. Where there is a breach of a material provision of a long-term loan arrangement on or before the end of the reporting period with the effect that the liability becomes payable on demand on the reporting date, the entity does not classify the liability as current, if the lender agreed, after the reporting period and before the approval of the Consolidated Financial Statements for issue, not to demand payment as a consequence of the breach. 
+
+Borrowing costs are interest and other costs [including exchange differences relating to foreign currency borrowings to the extent that they are regarded as an adjustment to interest costs] incurred in connection with the borrowing of funds. Borrowing costs directly attributable to acquisition or construction of an asset which necessarily take a substantial period of time to get ready for their intended use are capitalised as part of the cost of that asset. Other borrowing costs are recognised as an expense in the period in which they are incurred. 
+
+###### 2.18 Earnings per equity share 
+
+Basic earnings per equity share is computed by dividing the net profit or loss attributable to the equity holders of the Company by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit or loss attributable to the equity holders of the Company by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value [i.e. the average market value of the outstanding equity shares]. Dilutive potential equity shares are deemed converted as of the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period present. 
+
+###### 2.19 Cash Flow statement 
+
+Cash flows are reported using the indirect method, whereby profit for the period is adjusted for the effects of transactions of a non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Group are segregated. 
+
+###### 2.20 Employee Benefits 
+
+###### Short Term Employment benefits 
+
+All employee benefits payable wholly within twelve months of rendering the service are classified as short-term employee benefits. Benefits such as salaries, wages etc. and the expected cost of ex-gratia are recognised in the period in which the employee renders the related service. A liability is recognised for the amount expected to be paid if the Group and its joint venture has a present legal or constructive obligation to pay this amount as a result of past service provided by the employee and the obligation can be estimated reliably. 
+
+###### Post-Employment Employee Benefits 
+
+Retirement benefits to employees comprise payments to government provident funds, gratuity fund and Employees State Insurance. 
+
+
+![](images/2025.pdf-0150-15.png)
+
+**[Image: 2025.pdf-0150-15.png (53x22, 0.8KB)]**
+
+
+**147** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### Defined Contribution Plans 
+
+The Group and its joint venture’s contribution to defined contributions plans such as Provident Fund, Employee State Insurance are recognised in the Consolidated Statement of Profit and Loss in the year when the contributions to the respective funds are due. There are no other obligations other than the contribution payable to the respective Funds. 
+
+###### Defined Benefit Plans 
+
+Gratuity liability is defined benefit obligation. The Group and its joint venture’s net obligation in respect of the gratuity benefit scheme is calculated by estimating the amount of future benefit that employees have earned in return for their service in the current and prior periods; that benefit is discounted to determine its present value. 
+
+The present value of the obligation under such defined benefit plan is determined based on actuarial valuation by an independent actuary, using the projected unit credit method, which recognises each period of service as giving rise to additional unit of employee benefit entitlement and measures each unit separately to build up the final obligation. 
+
+The obligation is measured at the present value of the estimated future cash flows. The discount rates used for determining the present value of the obligation under defined benefit plan, are based on the market yields on Government securities as at the balance sheet date. 
+
+Remeasurement of the net defined benefit liability, which comprise actuarial gains and losses, the return on plan assets [excluding interest] and the effect of the asset ceiling [if any, excluding interest], are recognised immediately in Other Comprehensive Income. Net interest expense / [income] on the net defined liability / [assets] is computed by applying the discount rate, used to measure the net defined liability / [asset], to the net defined liability/ [asset] at the start of the financial year after taking into account any changes as a result of contribution and benefit payments during the year. Net interest expense and other expenses related to defined benefit plans are recognised in Consolidated Statement of Profit and Loss. 
+
+When the benefits of a plan are changed or when a plan is curtailed, the resulting change in benefit that relates to past service or the gain or loss on curtailment is recognised immediately in Consolidated Statement of Profit and Loss. The Group and its joint ventures recognises gains and losses on the settlement of a defined benefit plan when the settlement occurs. 
+
+Actuarial gains/losses are recognised in the other comprehensive income. 
+
+###### Other Long-term Benefits: 
+
+The Group and its joint venture has other long-term benefits in the form of leave benefits. The present value of the obligation is determined based on actuarial valuation using the projected unit credit method carried out by independent actuary. The rate used to discount defined benefit obligation is determined by reference to market yields at the balance sheet date on Indian Government Bonds for the estimated term of obligations. Actuarial gains or losses arising on account of experience adjustment and the effect of changes in actuarial assumptions are recognised immediately in the Consolidated Statement of Profit and Loss as income or expense. Gains or losses on the curtailment or settlement of other long-term benefits are recognised when the curtailment or settlement occurs. 
+
+###### 2.21 Income Taxes 
+
+###### Current Tax 
+
+Current tax comprises the expected tax payable or receivable on the taxable income or loss for the year and any adjustment to the tax payable or receivable in respect of previous years. The amount of current tax reflects the best estimate of the tax amount expected to be paid or received after considering the uncertainty, if any, related to income taxes. It is measured using tax rates [and tax laws] enacted or substantively enacted by the reporting date. 
+
+Current tax assets and current tax liabilities are offset only if there is a legally enforceable right to set off the recognised amounts, and it is intended to realise the asset and settle the liability on a net basis or simultaneously. 
+
+
+![](images/2025.pdf-0151-17.png)
+
+**[Image: 2025.pdf-0151-17.png (56x22, 0.9KB)]**
+
+
+**148148** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### Deferred Tax 
+
+Deferred tax is recognised in respect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the corresponding amounts used for taxation purposes. Deferred tax is also recognised in respect of carried forward tax losses and tax credits. Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the balance sheet date and are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of changes in tax rates on deferred income tax assets and liabilities is recognised as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognised to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. The Group and its joint venture offsets deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off current tax assets against current tax liabilities and the deferred tax assets and deferred tax liabilities relate to the income tax levied by the same taxation authorities. 
+
+###### 2.22 Fair value measurement 
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The fair value measurement is based on the presumption that the transaction to sell the asset or transfer the liability takes place either: 
+
+- In the principal market for the asset or liability, or 
+
+- In the absence of a principal market, in the most advantageous market for the asset or liability 
+
+The principal or the most advantageous market must be accessible by the Group and its joint venture. The fair value of an asset or a liability is measured using the assumptions that market participants would use when pricing the asset or liability, assuming that market participants act in their economic best interest. 
+
+For cash and other liquid assets, the fair value is assumed to approximate to book value, given the short term nature of these instruments. For those items with a stated maturity exceeding twelve months, fair value is calculated using a discounted cash flow methodology. 
+
+A fair value measurement of a non-financial asset considers a market participant’s ability to generate economic benefits by using the asset in its highest and best use or by selling it to another. 
+
+The Group and its joint venture uses valuation techniques that are appropriate in the circumstances and for which sufficient data are available to measure fair value, maximizing the use of relevant observable inputs and minimizing the use of unobservable inputs. 
+
+- Level 1 - Quoted [unadjusted] market prices in active markets for identical assets or liabilities 
+
+- Level 2 -  Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable 
+
+- Level 3 -  Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable 
+
+For assets and liabilities that are recognised in the Consolidated Financial Statements on a recurring basis, the Group and its joint venture determines whether transfers have occurred between levels in the hierarchy by re-assessing categorisation [based on the lowest level input that is significant to the fair value measurement as a whole] at the end of each reporting period. 
+
+For the purpose of fair value disclosures, the Group and its joint venture has determined classes of assets and liabilities based on the nature, characteristics and risks of the asset or liability and the level of the fair value hierarchy as explained above. 
+
+
+![](images/2025.pdf-0152-16.png)
+
+**[Image: 2025.pdf-0152-16.png (53x22, 0.9KB)]**
+
+
+**149** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### 2.23 Segment Reporting 
+
+Operating segments, if applicable are reported in a manner consistent with the internal reporting provided to the chief operating decision maker, which is identified as Board of Directors. The Board of Directors of the Company assesses the financial performance and position of the Group and its joint venture and makes strategic decisions. Refer Note 38.2 on segmental information presented in the notes to accounts. 
+
+###### 2.24 Employee Stock Appreciation Right [ESAR] 
+
+- a. Employees of the Company receive remuneration in the form of ESAR, whereby employees render services as consideration for equity instruments [equity-settled transactions]. 
+
+- b. The cost of equity-settled transactions is determined by the fair value at the date when the grant is made using an appropriate valuation model. 
+
+- c. That cost is recognised, together with a corresponding increase in ESAR in equity, over the period in which the performance and/or service conditions are fulfilled. The cumulative expense recognised for equity-settled transactions at each reporting date until the vesting date reflects the extent to which the vesting period has expired and the Company’s best estimate of the number of equity instruments that will ultimately vest. 
+
+- d. When the terms of an equity-settled award are modified, the minimum expense recognised is the expense had the terms had not been modified, if the original terms of the award are met. An additional expense is recognised for any modification that increases the total fair value of the ESAR or is otherwise beneficial to the employee as measured at the date of modification. Where an award is cancelled by the entity or by the counterparty, any remaining element of the fair value of the award is expensed immediately through the Consolidated Statement of Profit and Loss. 
+
+- e. The dilutive effect of outstanding options is reflected as additional share dilution in the computation of diluted earnings per share. 
+
+###### 2.25 Events after reporting date 
+
+Where events occurring after the balance sheet date provide evidence of conditions that existed at the end of the reporting period, the impact of such events is adjusted with the consolidated financial statements. Otherwise, events after the balance sheet date of material size or nature are only disclosed. 
+
+###### 2.26 Government Grants 
+
+Grant from the government [EPCG – Custom duty waiver] are recognised at their fair value where there is a reasonable assurance that the grant will be received and the Group will comply with all the attached conditions. 
+
+Government grants in relation to duty saved on import of Capital goods [under the EPCG scheme] are capitalised to Capital goods with corresponding impact in Deferred Income. These grants are provided by the government based on commitment by the Group for achieving required export obligations over a period of 6 years from date of EPCG License. Subsequently such grants [deferred income] are released to Consolidated Statement of Profit and Loss based on fulfilment of related export obligations. 
+
+###### 2.27 Current and non-current classification 
+
+The Group presents assets and liabilities in statement of financial position based on current/non-current classification. The Group and its joint venture has presented non-current assets and current assets before equity, non-current liabilities and current liabilities in accordance with Schedule III, Division II of Companies Act, 2013 notified by MCA. 
+
+An asset is classified as current when it is: 
+
+- a] Expected to be realised or intended to be sold or consumed in normal operating cycle, 
+
+- b] Held primarily for trading, 
+
+
+![](images/2025.pdf-0153-20.png)
+
+**[Image: 2025.pdf-0153-20.png (56x22, 0.9KB)]**
+
+
+**150150** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+- c] Expected to be realised within twelve months after the reporting period, or 
+
+- d] Cash or cash equivalent unless restricted from being exchanged or used to settle a liability for at least twelve months after the reporting period. 
+
+All other assets are classified as non-current. 
+
+A liability is classified as current when it is: 
+
+- a] Expected to be settled in normal operating cycle, 
+
+- b] Held primarily for trading, 
+
+- c] Due to be settled within twelve months after the reporting period, or 
+
+- d] There is no unconditional right to defer the settlement of the liability for at least twelve months after the reporting period. 
+
+All other liabilities are classified as non-current. 
+
+The operating cycle is the time between the acquisition of assets for processing and their realisation in cash or cash equivalents. Deferred tax assets and liabilities are classified as non-current assets and liabilities. The Group and its joint venture has identified twelve months as its normal operating cycle. 
+
+###### 2.28 Material Accounting Policy Information 
+
+The Company adopted disclosure of Accounting policies [Amendments to Ind AS 1] from April 01, 2023. Although the amendments did not result in any changes in the accounting policies themselves, they impacted accounting policy information disclosed in the financial statements. 
+
+The amendments require the disclosure of ‘material’ rather than ‘significant’ accounting policies. The amendments also provide the guidance on the application of materiality to disclosure of accounting policies, assisting entities to provide useful, entity specific accounting policy information that users need to understand other information in the financial statements. 
+
+
+![](images/2025.pdf-0154-14.png)
+
+**[Image: 2025.pdf-0154-14.png (53x22, 0.9KB)]**
+
+
+**151** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+|[`in Lakhs]<br>Other Intangible<br>Assets<br>Computer<br>Software<br>Total|**75.98  75.98**<br>8.88<br>8.88<br>–<br>–<br>**84.86  84.86**<br>2.56<br>2.56<br>–<br>–|**87.42  87.42**<br>**59.75  59.75**<br>9.28<br>9.28<br>–<br>–<br>**69.03  69.03**<br>9.59<br>9.59<br>–<br>–<br>**78.62  78.62**<br>**8.80**<br>**8.80**<br>**15.83  15.83**<br>n the name of the|not being held in<br>of the company|can be done in<br>Company only after<br>rs]  get it converted<br>griculture land|
+|---|---|---|---|---|
+|e [ROU]<br>ts<br>Total|**516.66**<br>–<br>–<br>**516.66**<br>–<br>–|**516.66**<br>**168.16**<br>103.33<br>–<br>**271.49**<br>103.33<br>–<br>**374.82**<br>**141.84**<br>**245.17**<br>gistered i|eason for<br>the name|nveyance<br>me of the<br>ners [selle<br>to a Non A|
+|Right of us<br>asse<br>Leasehold<br>premises|**516.66**<br>–<br>–<br>**516.66**<br>–<br>–|**516.66**<br>**168.16**<br>103.33<br>–<br>**271.49**<br>103.33<br>–<br>**374.82**<br>**141.84**<br>**245.17**<br>of being re|held<br>date<br>R|till date<br>Co<br>na<br>ow<br>in<br>ote 34].|
+|Total|**11,108.54**<br>**20,225.30**<br>**[2,532.91]**<br>**28,800.93**<br>**4,538.63**<br>**[58.41]**|**33,281.15**<br>**5,742.26**<br>**1,767.19**<br>**[2,476.96]**<br>**5,032.49**<br>**2,763.19**<br>**[22.96]**<br>**7,772.72**<br>**25,508.43**<br>**23,768.44**<br>he process|Property<br>since which|17-08-1995<br>ent [Refer N|
+|Computers|**156.16**<br>24.62<br>–<br>**180.78**<br>11.54<br>–|**192.32**<br>**78.91**<br>33.62<br>–<br>**112.53**<br>34.48<br>–<br>**147.01**<br>**45.31**<br>**68.25**<br>s which is t|omoter,<br>director<br>ctor|<br>nd Equipm|
+|Furniture<br>and<br>Fixtures<br>|**228.98**<br>28.55<br>–<br>**257.53**<br>33.01<br>–|**290.54**<br>**173.31**<br>16.96<br>–<br>**190.27**<br>14.13<br>–<br>**204.40**<br>**86.14**<br>**67.26**<br>15.19 lakh|holder is a pr<br>of promoter/<br>romoter/dire|o<br>erty, Plant a|
+|Vehicles<br>|**189.82**<br>150.92<br>[10.71]<br>**330.03**<br>155.60<br>[58.41]|**427.22**<br>**87.11**<br>36.24<br>[7.35]<br>**116.00**<br>33.40<br>[22.96]<br>**126.44**<br>**300.78**<br>**214.03**<br>t Block of`|r title deed<br>or relative<br>mployee of p|N<br>on of Prop|
+|ngible Assets<br>Offce<br>Equipments|**124.31**<br>43.72<br>–<br>**168.03**<br>38.94<br>–|**206.97**<br>**69.27**<br>18.45<br>–<br>**87.72**<br>24.39<br>–<br>**112.11**<br>**94.86**<br>**80.31**<br>Block and Ne|Whethe<br>director<br>or e|el<br>the acquisiti|
+|Ta<br>Plant and<br>Machinery|**7,604.32**<br>19,198.32<br>[2,522.20]<br>**24,280.44**<br>3,332.20<br>–|**27,612.64**<br>**4,684.28**<br>1,531.61<br>[2,469.61]<br>**3,746.28**<br>2,525.98<br>–<br>**6,272.26**<br>**21,340.38**<br>**20,534.16**<br>aving Gross|held<br>e of|i Patel<br>yam Bhai Pat<br>Patel<br>executed for<br>ote 15 & 20.|
+|Leasehold<br>Improve-<br>ments|**88.87**<br>–<br>–<br>**88.87**<br>–<br>–|**88.87**<br>**72.30**<br>7.38<br>–<br>**79.68**<br>4.42<br>–<br>**84.10**<br>**4.77**<br>**9.19**<br>q. meters h<br>low:|Title deeds<br>in the nam|1.  Ravjibha<br>2.   Ghyansh<br>3.  Dahiben<br>aining to be<br>urity refer N|
+|Buildings|**2,406.49**<br>779.17<br>–<br>**3,185.66**<br>822.59<br>–|**4,008.25**<br>**577.08**<br>122.93<br>–<br>**700.01**<br>126.39<br>–<br>**826.40**<br>**3,181.85**<br>**2,485.65**<br>for 7,492 s<br>re given be|s carrying<br>value|.19 Lakhs<br>ntracts rem<br>dged as sec|
+|Freehold<br>Land*<br>|**309.59**<br>–<br>–<br>**309.59**<br>144.75<br>–|**454.34**<br>**–**<br>–<br>–<br>**–**<br>–<br>–<br>**–**<br>**454.34**<br>**309.59**<br>plot of Land<br>the same a|of<br>Gros|`15<br>ount of co<br>ipment ple|
+|Particulars|**Gross Block**<br>**As at March 31, 2023**<br>Additions during the year<br>Deletions / Adjustments during the<br>year<br>**As at March 31, 2024**<br>Additions during the year<br>Deletions / Adjustments during the<br>year|**As at March 31, 2025**<br>**Depreciation and Amortisation**<br>As at March 31, 2023<br>Charge for the year<br>Deletions / Adjustments during the<br>year<br>**As at March 31, 2024**<br>Charge for the year<br>Deletions / Adjustments during the<br>year<br>**As at March 31, 2025**<br>**Net book value**<br>**As at March 31, 2025**<br>**As at March 31, 2024**<br>*Refer note 3.1 below and note 34<br>3.1<br>Freehold land included a<br>Company. The details for|Particulars<br>Description of item<br>property|Land<br>Land admeasuring<br>7,492 sq. meters<br>[Block no. 1002]<br>3.2<br>Disclosure of estimated am<br>3.3<br>For Property, Plant and Equ|
+
+
+
+
+![](images/2025.pdf-0155-04.png)
+
+**[Image: 2025.pdf-0155-04.png (56x22, 0.9KB)]**
+
+
+**152152** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **3.4 : CAPITAL WORK-IN-PROGRESS AGING SCHEDULE** 
+
+|**As at March 31, 2025**|||||[`in Lakhs]|
+|---|---|---|---|---|---|
+|Particulars||Amount in CWIP|for a period of||Total|
+||Less than 1 year|1-2 years|2-3 years|More than 3 years||
+|Plant and Machinery|85.08|–|–|–|85.08|
+|Buildings|18.86||–|–|18.86|
+|**TOTAL**|**103.94**|**–**|**–**|**–**|**103.94**|
+|**As at March 31, 2024**|||||[`in Lakhs]|
+|Particulars||Amount in CWIP|for aperiod of||Total|
+||Less than 1year|1-2years|2-3years|More than 3years||
+|Plant and machinery|855.20|–|19.34|–|874.54|
+|**TOTAL**|855.20|–|19.34|–|874.54|
+
+
+
+3.5 In accordance with Ind AS 23, the borrowing cost of ` Nil [PY: 164.81 Lakhs] has been capitalised to property, plant and equipment. 
+
+3.6 There are no projects which are temporarily suspended or which are delayed or for which cost has exceeded its budget. 
+
+3.7 The Company has not revalued its Property, Plant and Equipment [including ROU] and intangible assets during the current and previous year. 
+
+###### **NOTE 4: INVESTMENTS** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31,2025|As at<br>March 31,2024|
+|I.<br>Investments measured at cost|||
+|Unquoted fully paid up|||
+|Equityinstruments|||
+|Investment injoint venture|||
+|Haldyn Heinz Fine Glass Private Limited|4,175.00|4,175.00|
+|[1,04,37,500 Equityshares of`10 each fully paid up]|||
+|[As at March 31,2024 : 1,04,37,500 EquityShares of`10 each fully paid up]|||
+|Less: Share of loss for earlieryears<br>|[531.90]|[1,079.39]|
+|Add : Share ofproft and other comprehensive income for theyear|526.98|547.49|
+||4,170.08|3,643.10|
+|II.<br>Investments at fair value through other comprehensive income[FVTOCI]|||
+|A]<br>Quoted fully paid up|||
+|Equityinstruments|||
+|IDBI Bank Limited|1.62|1.68|
+|[2,080 Equityshares of`10 each]|||
+|[As at March 31,2024 : 2,080 Equityshares of`10 each]|||
+|F.D.C Limited|157.58|169.96|
+|[40,000 Equityshares of`1 each]|||
+|[As at March 31,2024 : 40,000 Equityshares of`1 each]|||
+
+
+
+
+![](images/2025.pdf-0156-08.png)
+
+**[Image: 2025.pdf-0156-08.png (53x22, 0.9KB)]**
+
+
+**153** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 4: INVESTMENTS [CONTD.]** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at|As at|
+|||March 31,2025|March 31,2024|
+|IPCA Laboratories Limited||450.57|371.22|
+|[30,000 Equity Shares of`1 each]||||
+|[As at March 31, 2024 : 30,000 Equity shares of`1 each]||||
+|Larsen & Toubro Limited||104.77|112.92|
+|[3,000 Equity Shares of`2 each]||||
+|[As at March 31, 2024 : 3,000 Equity shares of`2 each]||||
+|B]<br>Unquoted Fully Paid up||||
+|Equity Instruments||||
+|SVC Co-operative Bank Limited||0.05|0.05|
+|[100 Equity shares of`1 each]||||
+|[As at March 31, 2024 : 100 Equity shares of`1 each]||||
+||**Total**|**4,884.67**|**4,298.93**|
+|Aggregate cost value of quoted investments||24.66|24.66|
+|Aggregate market value of quoted investments||714.54|655.78|
+|Aggregate book value of unquoted investments||4,170.13|3,643.15|
+|Category wise non-current investments:|||[`in Lakhs]|
+|Particulars||As at|As at|
+|||March 31,2025|March 31,2024|
+|Investments measured at cost||4,170.08|3,643.10|
+|Investments measured at fair value through Other Comprehensive Income||714.59|655.83|
+||**Total**|**4,884.67**|**4,298.93**|
+
+
+
+###### **NOTE 5: TRADE RECEIVABLES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Trade receivables considered good - Secured||–|–|
+|Trade receivables considered good - Unsecured||607.92|607.92|
+|Trade receivables which have signifcant increase in credit risk||–|–|
+|Trade receivables  - Credit impaired||–|–|
+|Less: Allowance for expected credit loss||–|–|
+||**Total**|**607.92**|**607.92**|
+
+
+
+
+![](images/2025.pdf-0157-06.png)
+
+**[Image: 2025.pdf-0157-06.png (56x22, 0.9KB)]**
+
+
+**154154** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 5.1 : RECEIVABLES FROM PRIVATE COMPANY IN WHICH DIRECTOR OF THE COMPANY IS A DIRECTOR** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Haldyn Heinz Fine Glass Private Limited||607.92|607.92|
+|Less: Allowance for expected credit loss||–|–|
+||**Total**|**607.92**|**607.92**|
+
+
+
+###### **NOTE 5.2:  NON-CURRENT TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2025** 
+
+[ ` in Lakhs] 
+
+|Particulars|Not Due|Outstandin|gfor followi|ng periods fr|om due date|of receipt|Total|
+|---|---|---|---|---|---|---|---|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|–|–|–|–|34.22|573.70|607.92|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[iii] Undisputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|[iv] Disputed Trade Receivables–consideredgood|–|–|–|–|–|–|**–**|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[vi] Disputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|Less: Allowance for expected credit loss|–|–|–|–|–|–|**–**|
+|Total|–|–|–|**–**|**34.22**|**573.70**|**607.92**|
+
+
+
+###### **NON-CURRENT TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2024** 
+
+[ ` in Lakhs] 
+
+|Particulars|Not Due|Outstandin|gfor followi|ng periods fr|om due date|of receipt|Total|
+|---|---|---|---|---|---|---|---|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|–|–|–|34.22|189.20|384.50|607.92|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[iii] Undisputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|[iv] Disputed Trade Receivables – consideredgood|–|–|–|–|–|–|**–**|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|–|–|–|–|–|–|**–**|
+|[vi] Disputed Trade Receivables – credit impaired|–|–|–|–|–|–|**–**|
+|Less: Allowance for expected credit loss|–|–|–|–|–|–|**–**|
+|Total|–|–|–|34.22|189.20|384.50|607.92|
+
+
+
+
+![](images/2025.pdf-0158-09.png)
+
+**[Image: 2025.pdf-0158-09.png (53x22, 0.9KB)]**
+
+
+**155** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 6: OTHER FINANCIAL ASSETS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Unsecured, consideredgood||||
+|Security Deposits-Related Party||||
+|–<br>Promoters - Haldyn Corporation Limited||127.43|120.70|
+|–<br>KeyManagerial Personnel||19.20|18.19|
+|Securitydeposits - others*||226.75|231.77|
+|Interest accrued on deposits||–|37.64|
+|Fixed Deposits with banks with remainingmaturityof more than 12 months #||–|724.65|
+||**Total**|**373.38**|**1,132.95**|
+
+
+
+*This includes deposits mainly given to electricity department, etc. 
+
+# Includes ` Nil [PY : ` 615.00 Lakhs] given as margin money towards Letter of Credit/Bank Guarantees. 
+
+###### **NOTE 7: DEFERRED TAX LIABILITIES [NET]** 
+
+||||[`in Lakhs]<br>|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Deferred Tax Assets:||||
+|Disallowances for post retirement benefts and other employee benefts||134.32|123.81|
+|Allowances for expected credit loss||78.78|54.48|
+|EPCG licence - deferred income||523.80|501.72|
+|Deferred tax asset on loss as per income tax laws||323.10|510.02|
+|Other temporary differences||29.11|14.69|
+||**Total**|**1,089.11**|**1,204.72**|
+|Deferred Tax Liability:||||
+|Property, plant and equipment - depreciation and amortisation||1,978.48|1,626.21|
+|Other temporary differences - prepaid rentals||13.29|62.04|
+||**Total**|**1,991.77**|**1,688.25**|
+|Deferred tax liabilities [Net]||**[902.66]**|**[483.53]**|
+|Deferred tax credit / [charge]||**[419.13]**|**[710.40]**|
+|–<br>Recognised in statement of proft and loss - credit / [charge]||[419.62]|[668.67]|
+|–<br>Recognised in statement of other comprehensive income - credit / [charge]||0.49|[41.72]|
+
+
+
+
+![](images/2025.pdf-0159-08.png)
+
+**[Image: 2025.pdf-0159-08.png (56x22, 0.9KB)]**
+
+
+**156156** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 **Deferred tax credit/[charge] recognised in the consolidated statement of profit and loss for the year ended March 31, 2025** [ ` in Lakhs] 
+
+|Particulars|Recognised in<br>Proft and Loss|Recognised<br>in OCI|
+|---|---|---|
+|Deferred Tax Assets:|||
+|–<br>Disallowances forpost retirement benefts and other employee benefts|1.62|8.89|
+|–<br>Provisions for advances and doubtful debts|24.30|–|
+|–<br>EPCG Licence - deferred income|22.08|–|
+|–<br>Deferred tax asset /[reversal]on loss asper income tax laws|[186.92]|–|
+|–<br>Other temporarydifferences|14.36|–|
+||**[124.56]**|**8.89**|
+|Deferred Tax Liability:|||
+|Property, plant and equipment - depreciation and amortisation|[352.21]|–|
+|Other temporarydifferences -prepaid rentals|57.15|[8.40]|
+||**[295.06]**|**[8.40]**|
+|**Total credit/[charge]**|**[419.62]**|**0.49**|
+
+
+
+**Deferred tax credit/[charge] recognised in the consolidated statement of profit and loss for the year ended March 31, 2024** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|Recognised in<br>Proft and Loss|Recognised<br>in OCI|
+|Deferred Tax Assets:<br>|||
+|Disallowances forpost retirement benefts and other employee benefts|[6.82]|14.18|
+|Provisions for advances and doubtful debts|[170.78]|–|
+|EPCG Licence - deferred income|501.72|–|
+|Deferred tax asset on loss asper Income tax laws|510.02|–|
+|Other temporarydifferences|[32.33]|–|
+||**801.81**|**14.18**|
+|**Deferred Tax Liability:**|||
+|Property, plant and equipment - depreciation and amortisation|[1,464.34]|–|
+|Other temporarydifferences -prepaid rentals|[6.14]|[55.90]|
+||**[1,470.48]**|**[55.90]**|
+|**Total credit/[charge]**|**[668.67]**|**[41.72]**|
+|**Effective Tax Reconciliation**||[`in Lakhs]|
+|Particulars|For the<br>year ended|For the<br>year ended|
+||March 31, 2025|March 31, 2024|
+|Proft before tax|2,292.56|3,246.66|
+|Tax rate|25.17%|25.17%|
+|Income tax - computed|576.99|817.12|
+|Add: Impact ofpermanent differences|[2.73]|0.04|
+|Less: Tax impact of share ofproft ofjoint venture|[131.83]|[136.18]|
+|Less: Excessprovision for tax of earlieryears|–|–|
+|Add: Shortprovision for tax of earlieryears|[23.72]|111.08|
+|Less : Income taxed at difference rate|[2.94]|[2.12]|
+|Add: Others<br>|[4.55]|-|
+|**Income tax asper consolidated statement ofproft and loss**|**411.22**|**789.94**|
+
+
+
+
+![](images/2025.pdf-0160-04.png)
+
+**[Image: 2025.pdf-0160-04.png (53x22, 0.9KB)]**
+
+
+**157** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **Reconciliation of net deferred tax liabilities is as follows:** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance as at beginningof theyear|**[483.53]**|226.86|
+|Tax [charge] / credit income during the year recognised in consolidated statement of<br>proft or loss|[419.62]|[668.67]|
+|Tax[charge]/ credit duringtheyear recognised in other comprehensive income|0.49|[41.72]|
+|**Balance as at end of the year**|**[902.66]**|**[483.53]**|
+|**Income tax assets [net]**||[`in Lakhs]|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Advance tax  and tax deducted at source[net ofprovision]|126.96|160.93|
+|**Balance as at end of theyear**|**126.96**|**160.93**|
+
+
+
+###### **Current tax liabilities** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Provision for tax[to the extent not available as a set off against income tax assets]|–|2.12|
+|**Balance as at end of theyear**|**–**|**2.12**|
+
+
+
+###### **B. CURRENT TAX EXPENSES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|Current tax *||15.32|10.19|
+|Deferred tax charge /[credit]||419.62|668.67|
+|Short /[excess] provision of earlieryears||[23.72]|111.08|
+||**Total**|**411.22**|**789.94**|
+
+
+
+*  During the previous year, one of the furnaces at the plant of the Holding Company was shut down from June 08, 2023 to September 09, 2023 for relining / expansion / modernisation. There is no current tax with respect to Holding Company in the consolidated financial statements due to there being no taxable income on account of allowance for substantial tax depreciation under the Income Tax Act, 1961. 
+
+###### **NOTE 8: OTHER NON-CURRENT ASSETS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[Unsecured,Considered Good]||||
+|Capital advances||39.67|161.93|
+|Prepaid expenses||1.89|31.22|
+||**Total**|**41.56**|**193.15**|
+
+
+
+###### **NOTE 9: INVENTORIES [NET]** 
+
+
+![](images/2025.pdf-0161-12.png)
+
+**[Image: 2025.pdf-0161-12.png (56x22, 0.9KB)]**
+
+
+**158158** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Raw materials||715.14|820.20|
+|Work-in-progress||63.99|67.27|
+|Finished goods||5,570.25|2,626.75|
+|Packing material, stores and spares||950.96|711.17|
+||**Total**|**7,300.34**|**4,225.39**|
+
+
+
+Note 9.1:  Inventories are valued at lower of cost and net realisable value and are hypothecated as security for the working capital facilities. 
+
+Note 9.2:  The write down of inventories to net realisable value during the year ended March 31, 2025 amounted to ` 117.59 lakhs [PY : ` 149.00 lakhs]. 
+
+###### **NOTE 10:  TRADE RECEIVABLES** 
+
+|[`in Lakhs]|
+|---|
+
+
+
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|---|
+|Trade receivables considered good - Secured||–|–|
+|Trade receivables considered good - Unsecured<br>||6,591.81|6,404.52|
+|Trade receivables which have signifcant increase in credit risk||–|–|
+|Trade receivables  - credit impaired||313.01|216.48|
+|Less: Allowance for expected credit loss||[313.01]|[216.48]|
+||**Total**|**6,591.81**|**6,404.52**|
+
+
+
+###### **NOTE 10.1:  RECEIVABLES FROM PRIVATE COMPANY IN WHICH DIRECTOR OF THE COMPANY IS A DIRECTOR [REFER NOTE 5]** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Haldyn Heinz Fine Glass Private Limited||110.36|59.42|
+|Less: Allowance for expected credit loss||–|–|
+||**Total**|**110.36**|**59.42**|
+
+
+
+
+![](images/2025.pdf-0162-09.png)
+
+**[Image: 2025.pdf-0162-09.png (53x22, 0.9KB)]**
+
+
+**159** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 10.2:  CURRENT TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2025** 
+
+[ ` in Lakhs] 
+
+|Particulars|Not Due|Outstandin|gfor followin|g periods fr|om due date|of receipt|Total|
+|---|---|---|---|---|---|---|---|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|4,078.35|2,274.88|64.48|174.10|-|-|6,591.81|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|-|-|-|-|-|-|-|
+|[iii] Undisputed Trade Receivables – credit impaired||11.27|9.78|169.91|10.70|22.22|223.88|
+|[iv] Disputed Trade Receivables–consideredgood|-|-|-|-|-|-|-|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|-|-|-|-|-|-|-|
+|[vi] Disputed Trade Receivables – credit impaired|-|-|-|-|-|89.13|89.13|
+|Less: Allowance for expected credit loss||[11.27]|[9.78]|[169.91]|[10.70]|[111.35]|[313.01]|
+|Total|4,078.35|2,274.88|64.48|174.10|-|-|6,591.81|
+
+
+
+###### **CURRENT TRADE RECEIVABLES OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2024** 
+
+|||||||[`|in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars|Not Due|Outstandin|gfor followi|ng periods fr|om due date|of receipt|Total|
+|||Less than<br>6 months|6 months<br>-1year|1-2 years|2-3 years|More than<br>3years||
+|[i] Undisputed Trade receivables – consideredgood|4,101.50|2,221.62|26.84|54.56|-|-|6,404.52|
+|[ii] Undisputed Trade Receivables – which have<br>signifcant increase in credit risk|-|-|-|-|-|-|-|
+|[iii] Undisputed Trade Receivables – credit impaired|-|10.74|6.22|46.07|5.65|58.62|127.30|
+|[iv] Disputed Trade Receivables–consideredgood|-|-|-|-|-|-|-|
+|[v] Disputed Trade Receivables – which have<br>signifcant increase in credit risk|-|-|-|-|-|-|-|
+|[vi] Disputed Trade Receivables – credit impaired|-|-|-|-|-|89.18|89.18|
+|Less: Allowance for expected credit loss|-|[10.74]|[6.22]|[46.07]|[5.65]|[147.80]|[216.48]|
+|Total|4,101.50|2,221.62|26.84|54.56|-|-|6,404.52|
+
+
+
+###### **Movement in allowance for credit impairment** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance at beginningof theyear|216.48|793.03|
+|Reversal on account of write off|[16.91]|[82.90]|
+|Expected credit lossprovided/[reversal]duringtheyear|113.44|[493.65]|
+|**Balance at end of the year**|**313.01**|**216.48**|
+
+
+
+
+![](images/2025.pdf-0163-09.png)
+
+**[Image: 2025.pdf-0163-09.png (56x22, 0.9KB)]**
+
+
+**160160** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 11.1: CASH AND CASH EQUIVALENTS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Cash and Cash Equivalents||||
+|Cash on hand||0.95|0.30|
+|Balance with banks||||
+|–<br>In current accounts||350.22|297.62|
+|–<br>Fixed deposits with banks[original maturityof less than 3 months]||–|–|
+||**Total**|**351.17**|**297.92**|
+
+
+
+###### **NOTE 11.2: BANK BALANCES OTHER THAN CASH AND CASH EQUIVALENTS** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Other Bank Balances|||
+|Earmarked Balance with Banks|||
+|–<br>In unpaid dividend accounts|18.93|21.13|
+|Balance with Bank in|||
+|–<br>Fixed Deposit with bank [for an original maturity of more than 3 months but less than 12<br>months [note 1 & note 2 below]|837.13|789.87|
+|**Total**|**856.06**|**811.00**|
+
+
+
+Note 1:  As at March 31, 2025 the fixed deposit with banks consist of ` 251.68 Lakhs [PY : ` 236.92 Lakhs] paid out of the amount received by virtue of order of Hon’ble Additional Chief Magistrate as interim custody. [Refer Note 40]. This is restricted bank balance. 
+
+- Note 2:  As at March 31, 2025 the fixed deposit with bank consist restricted bank balance and margin money towards Letter of Credit/ Bank Guarantees. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|–<br>Fixed deposit with bank [for an original maturity of more than 3 months but less than 12<br>months [note 1 & note 2 above]|68.28|198.09|
+
+
+
+
+![](images/2025.pdf-0164-08.png)
+
+**[Image: 2025.pdf-0164-08.png (53x22, 0.9KB)]**
+
+
+**161** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 12: OTHER FINANCIAL ASSETS** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[Unsecured, Considered Good]|||
+|Fixed deposits with banks[for remainingmaturityless than 12 months] [refer note 12.1]|1,437.41|931.64|
+|Interest accrued on deposits|100.04|96.08|
+|Other advances[refer note 12.2]|30.89|23.24|
+|Derivative asset[refer note 42]|49.59|–|
+|SecurityDeposits<br>|8.24|–|
+|Exports license beneft|138.58|137.85|
+|[Unsecured, Considered Doubtful]|||
+|Other advances[Note 40]|152.38|152.38|
+|Less: Allowance for expected credit loss[Note 40]|[152.38]|[152.38]|
+|Sub-Total|–|–|
+|**Total**|**1,764.75**|**1,188.81**|
+
+
+
+Note 12.1:  As at March 31, 2025 the fixed deposit with bank consist of ` 586.10 lakhs [PY: ` 464.01 lakhs] is restricted bank balance on account of margin money towards Letter of Credit/ Bank Guarantees. 
+
+Note 12.2: Movement in allowance for credit impairment 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance at beginningof theyear|152.38|249.11|
+|Allowance for theyear|–|5.01|
+|Reversal duringtheyear|–|[101.74]|
+|**Balance at end of theyear**|**152.38**|**152.38**|
+
+
+
+###### **NOTE 13: OTHER CURRENT ASSETS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[Unsecured,Considered Good]||||
+|Advances to suppliers||162.93|405.86|
+|Prepaid expenses||53.12|69.23|
+|Balance withgovernment authorities||16.81|195.97|
+|Assets held in trust[Refer note 40]||61.97|61.97|
+|[Unsecured,Considered Doubtful]||||
+|Other advances[Refer note 40]||68.57|68.57|
+|Less: Allowance for expected credit loss[Note 40]||[68.57]|[68.57]|
+||Sub-Total|-|-|
+||**Total**|**294.83**|**733.03**|
+
+
+
+
+![](images/2025.pdf-0165-09.png)
+
+**[Image: 2025.pdf-0165-09.png (56x22, 0.9KB)]**
+
+
+**162162** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 14.1: EQUITY SHARE  CAPITAL** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Authorised :||||
+|15,00,00,000 EquityShares of`1 each||1,500.00|1,500.00|
+|||1,500.00|1,500.00|
+|Issued, Subscribed and Paid Up :||||
+|5,37,51,700 EquityShares of`1 each||537.52|537.52|
+||TOTAL|**537.52**|**537.52**|
+
+
+
+- [a] Reconciliation of number of shares outstanding at the beginning and at the end of year 
+
+|Particulars|For the Yea<br>March 31|r Ended<br>, 2025|For the Yea<br>March 31,|r Ended<br>2024|
+|---|---|---|---|---|
+||No. of Shares|`in Lakhs|No. of Shares|`in Lakhs|
+|No. of shares at the beginning of the year|5,37,51,700|537.52|5,37,51,700|537.52|
+|Add : Issue of shares during the year|–|–|–|–|
+|Less: Shares bought back during the year|–|–|–|–|
+|**No. of shares at the end of the  year**|**5,37,51,700**|**537.52**|**5,37,51,700**|**537.52**|
+
+
+
+- [b] List of Shareholders Holding more than 5% of Share Capital 
+
+|Particulars|As at March 31, 2025|As at March|31, 2024|
+|---|---|---|---|
+||No. of Shares<br>% of Holding|No. of Shares|% of Holding|
+|–<br>Haldyn Corporation Limited<br>[Ultimate Holding Company]|2,95,14,088<br>54.91%|2,95,14,088|54.91%|
+
+
+
+###### [c] Promoter’s Shareholding 
+
+|Particulars|As at March<br>|31, 2025<br>|As at March<br>|31, 2024<br>|% Change|
+|---|---|---|---|---|---|
+||No. of Shares|% of Holding|No. of Shares|% of Holding||
+|–<br>Haldyn Corporation Limited<br>[Ultimate Holding Company]|2,95,14,088|54.91|2,95,14,088|54.91|–|
+|–<br>Shakuntala N Shetty|200|0.00|200|0.00|–|
+|–<br>Tarun N Shetty|10,92,960|2.03|10,92,960|2.03|–|
+|–<br>Vinita Rohan Ajila|6,42,480|1.20|6,42,480|1.20|–|
+
+
+
+
+![](images/2025.pdf-0166-09.png)
+
+**[Image: 2025.pdf-0166-09.png (53x22, 0.9KB)]**
+
+
+**163** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### [d] Terms and Rights attached to equity shares 
+
+   - [i] The Company has only one class of Equity Shares having a par value of  Re 1 per share. Each holder of Equity Shares is entitled to one vote per share. 
+
+   - [ii] The dividend proposed by the Board of Directors is subject to the approval of the shareholders in the ensuing Annual General Meeting. 
+
+   - [iii] In the event of liquidation the equity shareholders are entitled to receive the remaining assets of the Company after distribution of all preferential amount, in proportion to their shareholding. 
+
+- [e] Dividends paid during the year ended March 31, 2025 include an amount of ` 0.70 per equity share towards final dividend for the year ended March 31, 2024. 
+
+Dividends paid during the year ended March 31, 2024 include an amount of ` 0.70 per equity share towards final dividend for the year ended March 31, 2023. 
+
+On May 29, 2025, the Board of Directors of the Company have proposed a final dividend of ` 0.70 per share in respect of the year ended March 31, 2025 subject to the approval of shareholders at the Annual General Meeting, and if approved, would result in a cash outflow of approximately ` 376.26 lakhs. 
+
+[f] As per the records of the Company, including its register of shareholders / members & other declarations received from shareholders regarding beneficial interest, the above shareholding represents both legal and beneficial ownership of shares. 
+
+- [g] The Company during the preceding 5 years: 
+
+   - i. has not allotted shares pursuant to contracts without payment received in cash. 
+
+   - ii. has not issued bonus shares . 
+
+   - iii. has not bought back any shares. 
+
+###### **NOTE 14.2: OTHER EQUITY** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particula|rs|As at|As at|
+|||March 31, 2025|March 31, 2024|
+|[a]<br>Sum<br>|mary of Other Equity Balance|||
+|[i]|Capital Redemption Reserve|82.00|82.00|
+|[ii]|Securities Premium|592.75|592.75|
+|[iii]|General Reserve|6,660.09|6,660.09|
+|[iv]|Retained Earnings|||
+||As at Beginning of the year<br>|11,393.62|9,313.16|
+||Add : Proft for the year|1,881.34|2,456.72|
+||Less: Final equity dividend payment|[376.26]|[376.26]|
+||**Sub- Total**|12,898.70|11,393.62|
+|[v]|Other Comprehensive Income [OCI]|||
+||As at Beginning of the year<br>|659.62|505.52|
+||Remeasurement on defned beneft plan-loss<br>|[35.33]|[56.35]|
+||Income tax relating to remeasurement on defned beneft plan-credit|8.89|14.18|
+||Fair value change in equity instruments-gain|58.76|244.31|
+||Income tax relating to fair value change in equity instruments-charge|[8.40]|[55.90]|
+||Share of other comprehensive income for the period [net of tax] of Joint Venture<br>|3.18|6.41|
+||Items that will be reclassifed subsequently to proft and loss [foreign currency<br>translation difference]|[3.45]|1.45|
+||**Sub- Total**|683.27|659.62|
+
+
+
+
+![](images/2025.pdf-0167-16.png)
+
+**[Image: 2025.pdf-0167-16.png (56x22, 0.9KB)]**
+
+
+**164164** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|
+|[vi]<br>Employee Stock Appreciation Rights [ESAR] Reserve|||
+|As at Beginning of the year|32.37|35.03|
+|Add : ESAR charge for the year|52.63|[2.66]|
+|**Sub- Total**|**85.00**|**32.37**|
+|**Grand Total [i+ii+iii+iv+v+vi]**|**21,001.81**|**19,420.45**|
+
+
+
+###### **[b] Nature and purpose of reserves** 
+
+###### [i] Capital Redemption Reserve 
+
+The Company has recognised Capital Redemption Reserve on buyback of equity shares from its retained earnings. The amount in Capital Redemption Reserve is equal to nominal amount of the equity shares bought back. 
+
+###### [ii] Securities Premium 
+
+Securities premium account comprises of premium on issue of equity shares. The reserve is utilised in accordance with the specific provision of the Companies Act, 2013. 
+
+###### [iii] General Reserve 
+
+The General reserve is used from time to time to transfer profits from retained earnings for appropriation purposes. As the General reserve is created by a transfer from one component of equity to another and is not an item of other comprehensive income, items included in the General Reserve will not be reclassified subsequently to the consolidated statement of profit and loss. Mandatory transfer to general reserve is not required under the Companies Act, 2013. 
+
+###### [iv] Retained Earnings 
+
+Retained Earnings are the profits that the Group and its Joint Venture have earned till date, less any transfers to general reserve, dividends or other distributions paid to shareholders. 
+
+- [v] Other Comprehensive Income [OCI] 
+
+Other comprehensive income represents the differences arising on foreign currency translation, remeasurements of the defined benefit gratuity plan; comprising of actuarial gains and losses on its net liabilities and fair valuation of equity instruments. 
+
+###### [vi] ESAR Reserve - Refer Note 44 
+
+Employee stock options reserve is used to record the share-based payments, expense under the ESAR scheme. The reserve is used for the settlement of ESAR. 
+
+###### **NOTE 15: NON CURRENT BORROWINGS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Secured||||
+|Term loans from banks||9,133.95|7,433.77|
+|Less: Current maturities of borrowings||[2,212.15]|[767.30]|
+||**Total**|**6,921.80**|**6,666.47**|
+
+
+
+###### **15.1 Nature of security and terms of payment for loans** 
+
+- i) Term loans of ` 9,091.45 [PY : ` 7,433.77 Lakhs] are primarily secured by hypothecation & mortgage of Property, plant and equipment of Company on first charge basis and collaterally secured by hypothecation of stock & book debts on first charges basis. 
+
+ii) Term loan of ` 42.50 [PY : ` Nil] is secured by hypothecation & mortgage of vehicle car. 
+
+iii) Term loans carry interest rate in range of 9.30% to 9.35% p.a. as at March 31, 2025. [PY : 9.00% p.a. to 9.30% p.a.] 
+
+
+![](images/2025.pdf-0168-21.png)
+
+**[Image: 2025.pdf-0168-21.png (53x22, 0.9KB)]**
+
+
+**165** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 15: NON CURRENT BORROWINGS [CONTD.]** 
+
+###### 15.2 Repayment details are as under: 
+
+||||[`in Lakhs]<br>|
+|---|---|---|---|
+|HDFC Bank||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|F.Y . 2024-25||–|583.30|
+|F.Y . 2025-26||1,031.62|954.93|
+|F.Y . 2026-27||1,031.62|954.93|
+|F.Y . 2027-28||1,031.62|954.93|
+|F.Y . 2028-29||1,031.62|954.93|
+|F.Y . 2029-30||1,031.62|954.93|
+|F.Y . 2030-31||194.43|194.43|
+||**Total**|**5,352.53**|**5,552.38**|
+||||[`in Lakhs]|
+|State Bank of India||As at<br>March 31, 2025*|As at<br>March 31, 2024|
+|F.Y . 2024-25||–|184.00|
+|F.Y . 2025-26||1,168.06|308.00|
+|F.Y . 2026-27||974.08|308.00|
+|F.Y . 2027-28||415.14|308.00|
+|F.Y . 2028-29||340.08|308.00|
+|F.Y . 2029-30||358.70|308.00|
+|F.Y . 2030-31||240.00|157.39|
+|F.Y . 2031-32||242.86|–|
+||**Total**|**3,738.92**|**1,881.39**|
+
+
+
+- The repayment during the current year was as per the sanction letter dated March 21, 2024. The  repayment for FY 2025-26 includes an amount of ` 372 lakhs paid in April 2025 based on intimation received from State Bank of India in the month of April 2025 which included the revised repayment schedule w.e.f. original sanction letter. The repayment schedule as disclosed above has been reported based on said intimation. 
+
+###### 15.3 Repayment of loan secured by hypothecation & mortgage of vehicle car are as under: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|HDFC Bank||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|F.Y . 2025-26||12.47|–|
+|F.Y . 2026-27||13.69|–|
+|F.Y . 2027-28||15.03|–|
+|F.Y . 2028-29||1.31|–|
+||Sub total|42.50|–|
+||Total|9,133.95|7,433.77|
+
+
+
+
+![](images/2025.pdf-0169-08.png)
+
+**[Image: 2025.pdf-0169-08.png (56x22, 0.9KB)]**
+
+
+**166166** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 16: LEASE LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Non-currentportion of lease liabilities||57.35|163.13|
+||Total|57.35|163.13|
+
+
+
+###### **NOTE 17: OTHER FINANCIAL LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Payables for capitalgoods||2,374.69|3,046.44|
+||Total|2,374.69|3,046.44|
+
+
+
+###### **NOTE 18: NON CURRENT PROVISIONS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars<br>||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Provision for employees benefts -[Refer note 38]||||
+|–<br>Gratuity||158.25|113.01|
+|–<br>Compensated absence||123.89|90.72|
+||Total|282.14|203.73|
+
+
+
+###### **NOTE 19: OTHER NON-CURRENT LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Deferred income  -governmentgrants - refer note  24 note 34||1,077.98|-|
+|Deferred Liabilities for long-termpayables||6.19|215.50|
+||Total|1,084.17|215.50|
+
+
+
+###### **NOTE 20: CURRENT BORROWINGS** 
+
+[ ` in Lakhs] 
+
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|---|
+|Secured Loans||||
+|Loans Repayable on demand||||
+|–<br>Workingcapital loans from banks||3,551.89|4,542.75|
+|Current maturities of borrowings - term loan[Refer note 15]||2,212.15|767.30|
+|Unsecured Loans||||
+|From banks||||
+|–<br>Bill discounting||–|46.69|
+||**Total**|**5,764.04**|**5,356.74**|
+
+
+
+20.1  Working Capital facilities from bank are secured by hypothecation of entire current assets of the Company present & future, on pari passu basis. 
+
+
+![](images/2025.pdf-0170-13.png)
+
+**[Image: 2025.pdf-0170-13.png (53x22, 0.9KB)]**
+
+
+**167** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+- 20.2  Working capital facilities carry interest rate in the range of 0.45% to 1.86% [PY :  0.75% to 1.86%] above bank base rate / Tbill payable on monthly rest as at March 31, 2025. 
+
+###### **NOTE 21: LEASE LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Current portion of lease liabilities||105.77|108.28|
+||Total|105.77|108.28|
+
+
+
+###### **NOTE 22: TRADE PAYABLES** 
+
+[ ` in Lakhs] 
+
+|Parti|culars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|---|---|
+|[a]|Total outstanding dues of Micro and Small Enterprises [MSME]||||
+||Total payables for Goods and Services||||
+||Total outstanding dues of Micro Enterprises and Small Enterprises||847.01|811.12|
+|||**Total**|**847.01**|**811.12**|
+|[b]|Total outstanding dues Other than Micro and Small Enterprises||||
+||Total payables for Goods & Services||||
+||Total outstanding dues - other than Micro Enterprises and Small Enterprises||3,822.52|2,898.16|
+|||**Total**|**3,822.52**|**2,898.16**|
+
+
+
+###### **NOTE 22.1:** 
+
+###### **TRADE PAYABLE OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2025** 
+
+|||||||[`|in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars||Not Due|Outstandingfo|r following peri|ods from due d|ate of receipt|Total|
+||||Less than<br>1year|1-2 years|2-3 years|More than<br>3years||
+|[i]MSME||807.06|39.69|–|–|0.26|847.01|
+|[ii]Others||2,737.98|1,046.53|20.41|1.16|16.44|3,822.52|
+|[iii]Disputed dues - MSME||–|–|–|–|–|–|
+|[iv]Disputed dues - Others||–|–|–|–|–|–|
+||Total|3,545.04|1,086.22|20.41|1.16|16.70|**4,669.53**|
+
+
+
+
+![](images/2025.pdf-0171-11.png)
+
+**[Image: 2025.pdf-0171-11.png (56x22, 0.9KB)]**
+
+
+**168168** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **TRADE PAYABLE OUTSTANDING - AGEING SCHEDULE AS AT MARCH 31, 2024** 
+
+|||||||[|`in Lakhs]|
+|---|---|---|---|---|---|---|---|
+|Particulars||Not Due|Outstandingfo|r following peri|ods from due d|ate of receipt|Total|
+||||Less than<br>1year|1-2 years|2-3 years|More than<br>3years||
+|[i]MSME||500.78|303.64|1.44|-|5.26|**811.12**|
+|[ii]Others||2,165.52|664.77|8.05|7.77|52.05|**2,898.16**|
+|[iii]Disputed dues - MSME||–|–|–|–|–|**–**|
+|[iv]Disputed dues - Others||–|–|–|–|–|**–**|
+||Total|2,666.30|968.41|9.49|7.77|57.31|**3,709.28**|
+
+
+
+###### **NOTE 22.2:** 
+
+Micro and Small Enterprises under the Micro, Small and Medium Enterprises Development Act, 2006 [MSMED 2006] have been determined based on the information as available with the Company and the details of amount outstanding due to them are as given below: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Part|iculars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|a]|Principal amount outstanding|847.01|811.12|
+|b]|Interest due thereon|5.03|2.80|
+|c]|Interest paid by the Company in terms of Section 16 of MSMED 2006, along with amount<br>of thepayment made to the suppliers beyond the appointed dayduringtheyear .|–|–|
+|d]|Interest due and payable for the period of delay in making payment [which has been paid<br>but beyond the appointed day during the year] but without adding the interest specifed<br>under MSMED 2006.|0.71|32.37|
+|e]|Interest accrued and remainingunpaid|48.13|42.39|
+|f]|Further interest remaining due and payable in the succeeding years until such date when<br>the interest dues as above are actually paid to the small enterprises|2.00|1.51|
+
+
+
+###### **NOTE 23: OTHER FINANCIAL LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Unpaid dividends@||18.93|21.13|
+|Securitydeposits||227.29|316.80|
+|Payables for capitalgoods||1,258.73|720.71|
+|Interest accrued but not due||42.70|67.83|
+|Book overdraft||331.44|291.64|
+|Otherpayables # *||1,593.93|975.14|
+||**Total**|**3,473.02**|**2,393.25**|
+
+
+
+- @ There are no amounts due for payments to the Investors Education and Protection Fund at the year end. 
+
+- Other payables includes ` 291.36 lakhs [PY : ` 291.36 lakhs] on account of amount received by virtue of order of Hon’ble Additional Chief Magistrate. [Refer Note No. 40] 
+
+# Remaining balance of other payable represent liability towards employees payables, credit card dues etc. 
+
+
+![](images/2025.pdf-0172-11.png)
+
+**[Image: 2025.pdf-0172-11.png (53x22, 0.9KB)]**
+
+
+**169** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 24: OTHER CURRENT LIABILITIES** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Deferred income  -governmentgrants - refer note below and note 34||1,003.25|1,778.00|
+|Advance from customers||72.12|173.71|
+|Deferred liabilities for longtermpayables||209.31|293.95|
+|Statutoryliabilities||245.70|118.24|
+||**Total**|**1,530.38**|**2,363.90**|
+
+
+
+Note:  This comprise of grants [in the nature of export benefits] relating to property, plant and equipment imported under the Export Promotion Capital Goods [EPCG] scheme. Under such scheme, the Company is committed to export prescribed times of the duty saved on import of capital goods over a specified period of time. In case such commitments are not met, the Company would be required to pay the duty saved along with interest to the regulatory authorities. 
+
+###### **NOTE 25: CURRENT PROVISIONS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars<br>||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Provision for Employee Benefts [Refer note 38]||||
+|–<br>Gratuity||63.43|52.82|
+|–<br>Compensated absence||177.96|225.18|
+|Provision for sales tax [refer note below]||10.19|10.19|
+||**Total**|**251.58**|**288.19**|
+
+
+
+Movement of sales tax provision as per Ind AS 37 : 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Opening provision for sales tax|10.19|10.19|
+|Add : Additional provision made during the year|–|–|
+|Less : Utilised/reversed during the year|–|–|
+|**Closing provision for sales tax**|**10.19**|**10.19**|
+
+
+
+The above provision is primarily on account of possible claims against the Company and expected to be utilised upon closure of sales tax demand as appearing in Note 34. 
+
+
+![](images/2025.pdf-0173-10.png)
+
+**[Image: 2025.pdf-0173-10.png (56x22, 0.9KB)]**
+
+
+**170170** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 26: REVENUE FROM OPERATIONS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Sale ofproducts[Glass bottles]||37,542.52|28,606.61|
+|Other operatingrevenues||617.48|1,270.38|
+||**Total**|**38,160.00**|**29,876.99**|
+|Breakupof Other OperatingRevenues||||
+|Scrapsales<br>||111.28|70.02|
+|Export benefts||279.12|881.79|
+|Mould development charges||187.79|289.52|
+|Other miscellaneous operatingrevenue||39.29|29.05|
+||**Total**|**617.48**|**1,270.38**|
+
+
+
+- i] Segment wise revenue information - The Group and its Joint Venture have only one Operating Segment as per IND-AS 108 “Operating Segment” i.e. manufacturing of glass bottles. Revenue of ` 9,598.82 lakhs [PY: ` 6,456.37 lakhs] is derived from major customers. 
+
+- ii] Unsatisfied performance obligation - Aggregated amount of Transaction Price allocated to the contracts that are fully or partially unsatisfied at the end of the reporting period. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Advance from customers - Refer Note 24|72.12|173.71|
+
+
+
+iii] During the year, the Group has not recognised any revenue on account of performance obligations satisfied in the previous year. 
+
+- iv] Disaggregation of revenue - Geographically 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Sales in India||31,514.10|20,694.46|
+|Sales outside India||6,028.42|7,912.15|
+||**Total**|**37,542.52**|**28,606.61**|
+
+
+
+
+![](images/2025.pdf-0174-09.png)
+
+**[Image: 2025.pdf-0174-09.png (53x22, 0.8KB)]**
+
+
+**171** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 27: OTHER  INCOME** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Interest on fxed deposits||164.35|186.74|
+|Interest on others||28.11|9.56|
+|Dividend on equity investments||3.67|1.37|
+|Proft on sale of property, plant and equipments||46.99|783.42|
+|Foreign exchange gain [net]||15.15|51.46|
+|Unwinding of discount on security deposits||7.74|7.36|
+|Shared service income||94.17|87.76|
+|Unwinding of deferred liability for long term payables||293.95|276.01|
+|Other miscellaneous income*||117.66|155.36|
+||**Total**|**771.79**|**1,559.04**|
+
+
+
+*Includes sundry balances / provisions no longer required written back ` 117.66 lakhs [PY : ` 152.63 lakhs] 
+
+###### **NOTE 28: CHANGES IN INVENTORY OF FINISHED GOODS AND WORK IN PROGRESS** 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particula|rs||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|[a]<br>At t|he end of the year||||
+|[i]|Finished Goods||5,570.25|2,626.75|
+|[ii]|Work-in-Progress||63.99|67.27|
+|||**Sub-Total [A]**|**5,634.24**|**2,694.02**|
+|[B]<br>At t|he beginning of the year||||
+|[i]|Finished Goods||2,626.75|1,091.01|
+|[ii]|Work-in-Progress||67.27|58.97|
+|||**Sub-Total [B]**|**2,694.02**|**1,149.98**|
+|||**Total[B-A]**|**[2,940.22]**|**[1,544.04]**|
+
+
+
+###### **NOTE 29: EMPLOYEE BENEFITS EXPENSE** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Salaries, wages, bonus and allowances||4,545.79|3,771.24|
+|ESAR expenses[Refer note 44]||52.63|[2.66]|
+|Contribution toprovident fund and other funds||285.26|238.52|
+|Gratuityexpenses||68.43|45.51|
+|Employee's welfare expenses||162.89|105.40|
+||**Total**|**5,115.00**|**4,158.01**|
+
+
+
+
+![](images/2025.pdf-0175-09.png)
+
+**[Image: 2025.pdf-0175-09.png (56x22, 0.9KB)]**
+
+
+**172172** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 30: FINANCE COSTS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Interest on borrowings #||1,137.83|647.78|
+|Interest on late payment of income tax||–|16.50|
+|Other borrowing costs||357.29|288.25|
+||**Total**|**1,495.12**|**952.53**|
+
+
+
+# In accordance with Ind AS 23, the borrowing cost of ` Nil [PY : ` 164.81 Lakhs] has been capitalised to property, plant and equipment. 
+
+###### **NOTE 31: DEPRECIATION & AMORTISATION EXPENSE** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Depreciation of property, plant and equipment||2,763.20|1,767.19|
+|Depreciation of right of use assets||103.33|103.33|
+|Amortisation of intangible assets||9.59|9.28|
+||**Total**|**2,876.12**|**1,879.80**|
+
+
+
+###### **NOTE 32: OTHER EXPENSES** 
+
+|||||[`in Lakhs]<br>|
+|---|---|---|---|---|
+|Part|iculars||For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|[a]|Manufacturing Expenses||||
+||Consumption of  packing material, stores and spare parts||4,782.32|3,225.76|
+||Power and fuel||9,492.92|7,969.10|
+||Repairs to machinery||253.54|334.98|
+||Repairs to buildings||109.21|119.33|
+||Other manufacturing expenses - labour charges / freight etc||1,668.40|1,293.56|
+|||**Sub-Total**|**16,306.39**|**12,942.73**|
+|[b]|Selling and Distribution Expenses||||
+||Sales promotion and advertisement expenses||80.77|76.11|
+||Marketing Support Services||–|–|
+||Brokerage, discount and commission||0.46|0.74|
+||Carriage outwards||882.31|1,028.45|
+||Royalty||381.48|288.58|
+||Other selling and distribution expenses||354.81|9.46|
+|||**Sub-Total**|**1,699.83**|**1,403.34**|
+
+
+
+
+![](images/2025.pdf-0176-08.png)
+
+**[Image: 2025.pdf-0176-08.png (53x22, 0.9KB)]**
+
+
+**173** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|[c]<br>Administrative and General Expenses|||
+|Rent|130.20|40.18|
+|Rates, taxes and fees|115.58|102.39|
+|Insurance|78.11|84.35|
+|Auditors remuneration:|||
+|–<br>Statutory audit fees|25.00|24.00|
+|–<br>Taxation matters|–|6.00|
+|–<br>Certifcation fees|0.38|0.81|
+|–<br>Out of pocket expense|4.45|2.89|
+|Director's sitting fees|36.28|25.86|
+|Commission to directors|30.00|30.00|
+|Travelling and conveyance|226.23|191.84|
+|Legal and professional charges|374.51|288.12|
+|Repair & maintenance - others|164.01|158.38|
+|Bank charges|103.13|101.42|
+|Corporate Social Responsibility Expenses [Refer Note 35]|41.89|36.75|
+|Donation|53.12|115.58|
+|Bad debts|16.91|82.90|
+|Sundry balances written off|–|25.05|
+|Allowance for expected credit loss [net of reversal] [Refer Note 5 and 10]|96.53|[576.55]|
+|Allowance / [reversal] for credit impairment [Refer Note 12]|5.01|[101.74]|
+|Miscellaneous expenses|221.45|283.70|
+|**Sub-Total**|**1,722.79**|**921.93**|
+|**Total [a+b+c]**|**19,729.01**|**15,268.00**|
+
+
+
+
+![](images/2025.pdf-0177-03.png)
+
+**[Image: 2025.pdf-0177-03.png (56x22, 0.8KB)]**
+
+
+**174174** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 33: BASIC AND DILUTED EARNINGS PER EQUITY SHARE** 
+
+For the purpose of calculation of Basic and Diluted Earnings Per Share, the following amounts are considered : 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Part|iculars|For the Year Ended<br>March 31, 2025|For the Year Ended<br>March 31, 2024|
+|Prof|t Attributable to Equity Shareholders|1,881.34|2,456.72|
+||**Total**|**1,881.34**|**2,456.72**|
+|[a]|Weighted Average No. of Equity Shares Outstanding during the year|||
+||–<br>For Basic EPS|5,37,51,700|5,37,51,700|
+||–<br>For Diluted EPS|5,38,40,900|5,38,40,900|
+|[b]|Earnings Per Share|||
+||–<br>Basic EPS[in`]|3.50|4.57|
+||–<br>Diluted EPS[in`]|3.49|4.56|
+||–<br>Face Value Per EquityShare[in`]|1.00|1.00|
+|[c]|Reconciliation between number of shares used for calculating basic and<br>diluted earningsper share|||
+||–<br>No. of Shares used for calculatingBasic EPS|5,37,51,700|5,37,51,700|
+||–<br>Add: Potential equity shares expected to be allotted pursuant to ESAR<br>scheme|1,24,400|89,200|
+||–<br>No. of Shares used for calculating Diluted EPS|**5,38,76,100**|**5,38,40,900**|
+
+
+
+###### **NOTE 34: CONTINGENT LIABILITIES AND COMMITMENTS** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Part|iculars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[A]|Contingent Liabilities|||
+||Sales tax demand [Refer note 1 below]|442.55|442.55|
+||Claims against company not acknowledged as debts [Refer note 2 below]|22.08|22.08|
+||Demands by GST authority under dispute|22.35|527.97|
+||Labour law cases / other court cases [Refer note 3 below]|39.92|35.65|
+||Letter of credits outstanding & bank guarantees|1,023.44|890.49|
+|[B]|Commitments|||
+||Estimated amount of contracts remaining to be executed on capital account|209.14|649.09|
+||EPCG export obligation [Refer note 4 below]|12,487.38|10,668.00|
+
+
+
+###### **Notes:** 
+
+1. Excluding penalty and other levies the quantum of which is presently not determinable. 
+
+2. The Company had in earlier year filed complaint against its ex-employees for purported misappropriation within the Company. These employees have levied counter charges/complaint against the management of the Company with various authorities. The Company has suitably replied to those clarifications sought for. The management of the Company does not perceive that any financial/other adjustment is required to be made in the books of accounts of the Company arising out of the said matter. 
+
+3. Estimated amount for cases under labour court. 
+
+4. Out of the EPCG License issued to the Company as at March 31, 2025 of ` 2,955.35 lakhs [P.Y. ` 2,512.13 lakhs] [custom duty saved], the Company has utilised licenses to the tune of ` 874.12 lakhs [P.Y. ` 734.13 Lakhs] on cumulative basis and licenses amounting to ` 2,081.23 lakhs 
+
+
+![](images/2025.pdf-0178-11.png)
+
+**[Image: 2025.pdf-0178-11.png (53x22, 0.9KB)]**
+
+
+**175** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+[P.Y. ` 1,778.00 lakhs] are yet to be utilised for which are shown under current liabilities. To the extent of pending utilisation, the Company has an export obligation of 6 times amounting to ` 12,487.37 lakhs [P.Y. ` 10,668.00 Lakhs]. 
+
+5. The Company’s TRACES site shows an amount of ` 27.94  lakhs for income tax for various financial years i.e. from 2007-08 to 2024-25. Out of that, an amount of ` 13.07 lakhs has been provided by the Company. For the balance amount of ` 14.87 lakhs, the Company has submitted rectification letter and in the opinion of the management, after the necessary rectifications on the TRACES site there will be no amount payable. Considering the matter involved and rectification letter submitted by the Company, the management believes that the probability of matters being decided against the Company are remote in nature and hence not disclosed as contingent liability. 
+
+6. The Company has two parcels of land amounting to ` 159.94 lakhs [out of which ` 144.75 Lakhs is addition in the current year] which is agricultural land. These are to be converted into non-agricultural land by the Company. The conversion charges and stamp duty [as applicable] is payable at the time of conversion into non-agricultural land. 
+
+- **Note:** Future cash outflows, if any, in respect  of matters stated above is dependent upon the outcome of judgments / decisions etc. or non-fulfilment of export obligation. 
+
+###### **NOTE 35: RELATED PARTY DISCLOSURES** 
+
+Related party disclosures in accordance with the requirements of Ind AS 24 are as given below: 
+
+###### [A] Relationships 
+
+Category I : Enterprise owned or significant influenced by key managerial personnel and their relatives 
+
+Haldyn Corporation Limited - Ultimate Holding Company 
+
+|Category II : Jointly Controlled Entity|Country of<br>|**% of equit**|**y interest**|
+|---|---|---|---|
+||incorporation|**As at**|As at|
+|||**March 31, 2025**|March 31, 2024|
+|Haldyn Heinz Fine Glass Private Limited|India|56.80%|56.80%|
+
+
+
+###### Category III : Key Management Personnel and their Relatives 
+
+Mr. Narendra D. Shetty Executive Chairman Mr. Tarun N. Shetty Managing Director Mr. Rohan Y. Ajila Director Mr. Padmanabhan Gopalaraman Director Mr. Ajit Shah Director Mr. Sikandar Talwar Director [upto September 09, 2024] Mrs. K J Udeshi Director [upto September 09, 2024] Mrs. Mona Cheriyan Director [w.e.f August 13, 2024] Mr. Niraj Tipre Chief Executive Officer Mr. Ganesh P. Chaturvedi Chief Financial Officer Mr. Dhruv Mehta Company Secretary Mrs. Vinita R. Ajila Relative of Director Mrs. Shakuntala N. Shetty Relative of Director Mrs. Sadhana G. Chaturvedi Relative of Chief Financial Officer 
+
+
+![](images/2025.pdf-0179-14.png)
+
+**[Image: 2025.pdf-0179-14.png (56x22, 0.9KB)]**
+
+
+**176176** 
+
+|[`in Lakhs]<br>For the year ended<br>March 31, 2024<br>7.23<br>1.57<br>87.76<br>1,974.97<br>4.64|-<br>283.82<br>3.60<br>79.20<br>48.00<br>193.79<br>266.56<br>357.42<br>65.38<br>9.42<br>4.69<br>3.76<br>6.56<br>3.54<br>5.74<br>6.26<br>–<br>6.00<br>6.00<br>6.00<br>6.00<br>6.00<br>[531.16]|y.|
+|---|---|---|
+|For the year ended<br>March 31, 2025<br>2.23<br>8.97<br>93.84<br>2,214.55<br>21.38|274.04<br>376.75<br>3.60<br>79.20<br>48.00<br>187.88<br>331.90<br>323.19<br>70.95<br>6.58<br>8.73<br>6.35<br>5.61<br>3.37<br>7.49<br>8.98<br>4.48<br>6.00<br>6.00<br>6.00<br>6.00<br>6.00<br>–|luation for the Compan|
+|Category<br>Category I<br>Category II<br>Category II<br>Category I<br>Category II|Category I<br>Category I<br>Category III<br>Category I<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category I<br>Category II<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category III<br>Category II|rough an actuarial va|
+|Name of Related Parties<br>Haldyn Corporation Limited<br>Haldyn Heinz Fine Glass Private Limited<br>Haldyn Heinz Fine Glass Private Limited<br>Haldyn Corporation Limited<br>Haldyn Heinz Fine Glass Private Limited|Haldyn Corporation Limited<br>Haldyn Corporation Limited<br>Mrs. Sadhana G. Chaturvedi<br>Haldyn Corporation Limited<br>Mr. Tarun N. Shetty<br>Mr. Narendra D. Shetty<br>Mr. Tarun N. Shetty<br>Mr. Niraj Tipre<br>Mr. Ganesh P. Chaturvedi<br>Haldyn Corporation Limited<br>Haldyn Heinz Fine Glass Private Limited<br>Mr. Rohan Y. Ajila<br>Mrs. K J Udeshi<br>Mr. Sikandar Talwar<br>Mr. Ajit Shah<br>Mr. G Padmanabhan<br>Mrs. Mona Cheriyan<br>Mr. Rohan Y. Ajila<br>Mrs. K J Udeshi<br>Mr. Sikandar Talwar<br>Mr. Ajit Shah<br>Mr. G Padmanabhan<br>/other<br>Haldyn Heinz Fine Glass Private Limited|nd compensated absences which is determined th|
+|<br>Transactions with the related parties<br>Sr.<br>No.<br>Transactions<br>1<br>Sales of goods $ [net of sales return]<br>2<br>Rendering of services [misc. income]<br>3<br>Purchases $ [net of purchase return]|4<br>Job work expenses<br>5<br>Royalty expense $ 6<br>Motor car hire expense<br>7<br>Rent expense $ 8<br>Directors remuneration @<br>9<br>Employee remuneration @<br>10<br>Reimbursement of expenses [paid]<br>Reimbursement of expenses [Received]<br>11<br>Sitting fees & out of pocket expenses<br>12<br>Commission paid<br>13<br>Provision/[reversal of provision] against receivables<br>advances|$ Exclusive of tax.<br>@  Does not include liabilities in respect of gratuity a|
+
+
+
+
+![](images/2025.pdf-0180-04.png)
+
+**[Image: 2025.pdf-0180-04.png (53x22, 0.8KB)]**
+
+
+**177** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+###### 
+
+|[`in Lakhs]|For the year ended<br>March 31, 2024|883.15|**883.15**|[`in Lakhs]|As at<br>March 31, 2024|120.70|18.19|4,175.00|667.34|7.81|399.60|5.90|67.14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||For the year ended<br>March 31, 2025|913.92|**913.92**||As at<br>March 31, 2025|127.43|19.20|4,175.00|718.28|2.05|176.65|28.12|86.00|
+||||**Total**||Category|Category I|Category III|Category II|Category II|Category I|Category I|Category II|Category III|
+||onnel||||Name of Related Parties|Haldyn Corporation Limited|Mr. Tarun N. Shetty|Haldyn Heinz Fine Glass Private Ltd|Haldyn Heinz Fine Glass Private Limited|Haldyn Corporation Limited|Haldyn Corporation Limited|Haldyn Heinz Fine Glass Private Limited|Mr. Niraj Tipre|
+||Compensation paid to Key Management Pers|Short-term employee benefts||nces due from/to the related parties:|Transactions|Security deposits||Investment in equity shares|Trade receivables [gross]||Trade payables||Payable to employees|
+||Sr.<br>No.|1.||Bala|Sr.<br>No.|1.||2.|3.||4.||5.|
+
+
+
+
+![](images/2025.pdf-0181-05.png)
+
+**[Image: 2025.pdf-0181-05.png (56x22, 0.9KB)]**
+
+
+**178178** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 36: LEASES** 
+
+- i] For movement in ROU - refer Note 3 - ROU [Leasehold Property]. 
+
+- ii] The break-up of current and non-current lease liabilities as at March 31, 2025 and March 31, 2024 is as follows: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Current lease liability||105.77|108.28|
+|Non-current lease liability||57.35|163.13|
+||**Total**|**163.12**|**271.41**|
+
+
+
+iii] The movement in lease liabilities during the years ended March 31, 2025 and March 31, 2024 is as follows: 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Balance as at the beginningof theyear|271.41|370.90|
+|Additions|–|–|
+|Finance cost accrued during the year|18.91|27.71|
+|Payment of lease liabilities|[127.20]|[127.20]|
+|**Balance as at the end of the year**|**163.12**|**271.41**|
+
+
+
+iv] The details regarding the contractual maturities of lease liabilities as at March 31, 2025 and March 31, 2024 on an undiscounted basis are as follows : 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Less than oneyear<br>||115.20|127.20|
+|One to fve years<br>||59.40|174.60|
+|More than fve years||–|–|
+||**Total**|**174.60**|**301.80**|
+
+
+
+v] The details of amounts debited to Statement of Profit and Loss towards Leases is as follows: 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|Depreciation on ROU|103.33|103.33|
+|Interest on lease liability|18.91|27.71|
+|Rent [short term & variable]|130.20|26.57|
+
+
+
+###### **NOTE 37: CORPORATE SOCIAL RESPONSIBILITY [CSR] EXPENDITURE:** 
+
+As per Section 135 of the Companies Act, 2013 a CSR Committee has been formed by the Company. The funds are utilised during the year on activities which are specified in schedule VII of the Act. The utilisation is done by the way of direct contribution towards various activities. Amount approved by the Board to be spent by the Company during the year was ` 41.89 lakhs [PY : ` 36.75 lakhs] 
+
+
+![](images/2025.pdf-0182-13.png)
+
+**[Image: 2025.pdf-0182-13.png (53x22, 0.9KB)]**
+
+
+**179** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **Details of expenditure towards CSR as shown in Note 33 is given below:** 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|1.<br>Amount required to be spent by the Company during the year [after previous year<br>set off of excess spend]|40.97|36.73|
+|2.<br>Amount of expenditure incurred on:|||
+|i.<br>Construction/acquisition of any asset|–|–|
+|ii.<br>On purposes other than [i] above|41.89|36.75|
+|3.<br>Excess at the end of the year|[0.92]|[0.02]|
+|4.<br>Nature of CSR activities|Promoting<br>healthcare|Promoting<br>healthcare|
+
+
+
+###### **NOTE 38: EMPLOYEE BENEFITS** 
+
+38.1 As per Ind AS 19 ‘Employee Benefits’, the disclosure of Employee benefits as defined in the Ind AS are given below: 
+
+[ ` in Lakhs] 
+
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|---|---|---|
+|[a]<br>Defned Contribution Scheme:|||
+|Contribution to Defned Contribution Plan, recognised as expense for the years<br>are as under:|||
+|Employer’s contribution to provident fund|211.31|180.75|
+|Employer’s contribution to employee's state insurance corporation [ESIC] and<br>other funds|73.95|57.77|
+|Total|285.26|238.52|
+
+
+
+The contribution to provident fund is made to Employees’ Provident Fund managed by Provident Fund Commissioner. The contribution towards ESIC made to Employees State Insurance Corporation. The obligation of the Group is limited to the amount contributed and it has no further contractual nor any constructive obligation. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|[b]<br>Defned Beneft Scheme - Gratuity:|||
+|i]<br>The amounts recognised in Consolidated Balance Sheet are as follows :|||
+|Amount to be recognised in Balance Sheet|||
+|Present value of defned beneft obligation|565.63|472.59|
+|Less: fair value of plan assets|[343.95]|[306.76]|
+|Amount to be recognised as liability|221.68|165.83|
+
+
+
+
+![](images/2025.pdf-0183-10.png)
+
+**[Image: 2025.pdf-0183-10.png (56x22, 0.9KB)]**
+
+
+**180180** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 38: EMPLOYEE BENEFITS [CONTD.]** 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particular|s<br>|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|ii]|The amounts recognised in the consolidated statement of proft and loss<br>are as follows:|||
+||Current service cost|59.95|40.26|
+||Net interest [income]/expenses|8.48|5.25|
+||Net cost recognised|68.43|45.51|
+|iii]|The amounts recognised in the statement of other comprehensive income<br>[OCI]:|||
+||Due to Change in fnancial assumptions|20.42|50.03|
+||Due to change in demographic assumption|7.88|[23.43]|
+||Due to experience adjustments|6.74|29.55|
+||Return onplan assets excludingamounts included in interest income||-|
+||Total Remeasurements Cost/[Credit]for theyear recognised in OCI|35.04|56.15|
+||Add: Expected Return on Plan Assets|0.29|0.20|
+||Closingbalances remeasurement[gain]/loss<br>|35.33|56.35|
+|iv]|Movement in thepresent value of defned beneft obligation :|||
+||Obligation at the beginningof theyear|472.59|370.18|
+||Current service cost|59.95|40.26|
+||Past service cost|–|–|
+||Short term compensated absences|–|–|
+||Interest cost<br>|30.40|24.16|
+||Beneftspaid|[32.35]|[18.16]|
+||Actuarial[Gain]/loss on obligation|35.04|56.15|
+||Obligation at the end of theyear|565.63|472.59|
+|v]|Movement in the fair value ofplan assets :|||
+||Fair value at the beginningof theyear|306.76|272.50|
+||Adjustment to openingfair value ofplan asset|–|–|
+||Interest income|21.92|18.91|
+||Expected return onplan assets|[0.29]|[0.20]|
+||Contribution byemployer|47.91|33.71|
+||Beneftspaid|[32.35]|[18.16]|
+||**Fair value at the end of theyear**|**343.95**|**306.76**|
+|vi]|The broad categories of plan assets as a percentage of total plan assets<br>as at March 31, 2025 and March 31, 2024 of Employee’s Gratuity Scheme<br>are as under:|||
+||Policyof insurance|100%|100%|
+||Other investments|0%|0%|
+||**Total**|**100%**|**100%**|
+
+
+
+
+![](images/2025.pdf-0184-03.png)
+
+**[Image: 2025.pdf-0184-03.png (53x22, 0.9KB)]**
+
+
+**181** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 38: EMPLOYEE BENEFITS [CONTD.]** 
+
+###### Basis used to determine the overall expected return: 
+
+Since the scheme funds are invested with LIC of India, expected rate on planned assets is based on rate of return declared by fund managers. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|vii]<br>Principal actuarial assumptions at the balance sheet date|||
+|Actuarial assumptions|||
+|Mortality Table|IALM|IALM|
+||[2012-14]Ult|[2012-14] Ult|
+|Salary escalation rate [%]|10.00%|10.00%|
+|Discount rate [%]|6.51%|6.97%|
+|Average Remaining Service [years]|9.01|8.65|
+|Employee attrition rate [%]|||
+|–<br>up to 5 years|12.62%|9.25%|
+|–<br>above 5years|4.05%|5.41%|
+
+
+
+The estimate of rate of escalation in Salary considered in actuarial valuation takes into account inflation, seniority, promotion and other retirement factors including supply & demand in the employment market. The above information is certified by the actuary. 
+
+###### viii] General descriptions of defined plans - Gratuity Plan: 
+
+The Company operates gratuity plan wherein every employee is entitled to the benefit equivalent to fifteen days salary last drawn for each completed year of service.  The same is payable on termination of service or retirement whichever is earlier. The benefit vests after five years of continuous service. 
+
+The Company provides for gratuity, a defined benefit retirement plan [“the Gratuity Plan”] covering eligible Indian employees. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an amount based on the respective employee’s salary and the tenure of employment with the Company. 
+
+
+![](images/2025.pdf-0185-10.png)
+
+**[Image: 2025.pdf-0185-10.png (56x22, 0.9KB)]**
+
+
+**182182** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 38: EMPLOYEE BENEFITS [CONTD.]** 
+
+###### [ix] Sensitivity analysis: 
+
+Sensitivity analysis indicates the influence of a reasonable change in certain significant assumptions on the outcome of the Present value of obligation [PVO]. Sensitivity analysis is done by varying [increasing/ decreasing] one parameter by 100 basis points [1%]. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|Changes in<br>assumptions|Effect on Gratuity<br>obligation|
+|For theyear ended March 31, 2025|||
+|Salaryescalation rate|+1%|599.94|
+||-1%|[515.74]|
+|Discount rate|+1%|[512.90]|
+||-1%|605.10|
+|For theyear ended March 31, 2024|||
+|Salaryescalation rate|+1%|496.23|
+||-1%|[432.41]|
+|Discount rate|+1%|[430.40]|
+||-1%|499.40|
+
+
+
+[x] Weighted average remaining duration of Defined Benefit Obligation - 7.59 years [PY : 6.91 years] 
+
+###### [xi] Other long-term employee benefits: 
+
+Compensated absences are payable to employees at the rate of daily salary for each day of accumulated leave on death or on resignation or upon retirement. The amount of compensated absences outstanding as at  March 31, 2025, based on actuarial valuation using the projected accrued benefit method is ` 301.85 Lakhs [PY : ` 315.90 Lakhs]. 
+
+###### **NOTE 39: CAPITAL MANAGEMENT** 
+
+For the purpose of Group and its Joint Venture’s capital management, capital includes issued capital, all other equity reserves and debts. The primary objective of the Group and its Joint Venture’s capital management is to maximise shareholders value. The Group and its Joint Venture’s manages its capital structure and makes adjustments in the light of changes in economic environment and the requirements of the financial covenants. The Group and its Joint Venture’s monitors capital using gearing ratio, which is net debt divided by total capital [equity plus net debt]. Net debt are non-current and current debts as reduced by cash and cash equivalents, other bank balances and current investments. Equity comprises all components including other comprehensive income. One of the furnaces at the plant of the Company was shut down from June 08, 2023 to September 09, 2023 for relining / expansion / modernisation. For the said purpose Company has availed term loan from banks resulting in substantial increase in gearing ratio. 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Total Debt|12,685.84|12,023.21|
+|Less:- Cash and cash equivalent, Bank Balances other than cash and cash equivalent|1,207.23|1,108.92|
+|Net Debt|11,478.61|10,914.29|
+|Total Equity [Equity Share Capital plus Other Equity]|21,539.33|19,957.97|
+|Gearing ratio|53.29%|54.69%|
+
+
+
+
+![](images/2025.pdf-0186-11.png)
+
+**[Image: 2025.pdf-0186-11.png (53x22, 0.9KB)]**
+
+
+**183** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 40:** 
+
+In the earlier years, the Company had filed a complaint against its ex-employees for purported misappropriation of funds. By virtue of the Order of Hon’ble Additional Chief Magistrate received during the F.Y. 2016-17, the Company had received interim custody of certain valuables and amounts [invested in fixed deposits] which were accounted for in the books of account. Further, as per the Order, the Company was allowed to let-out the immovable property involved in the matter on leave and license basis. The valuables and Fixed Deposits have been shown under Other Current Assets. Further, the Company has recorded the corresponding liability and necessary provisions have already been made against the other receivables on a conservative basis. Final adjustments, if any, in respect of amounts recorded in the books and other amounts will be made on the settlement of the litigation. Refer note no. 11.2, 12, 13 and 23. 
+
+###### **NOTE 41: FAIR VALUES** 
+
+###### 41.1 Fair value of financial assets and liabilities: 
+
+Set out below is a comparison by class of the carrying amounts and fair value of the group’s financial assets and liabilities that are recognised in the financial statements. 
+
+||||||[`in Lakhs]|
+|---|---|---|---|---|---|
+|Particulars||As at March|31, 2025|As at March|31, 2024|
+|||Carrying<br>Value|Fair Value|Carrying<br>Value|Fair Value|
+|**Financial Assets:***||||||
+|Financial Assets designated at amortised cost:||||||
+|–<br>Cash and cash equivalents||351.17|351.17|297.92|297.92|
+|–<br>Other bank balances||856.06|856.06|811.00|811.00|
+|–<br>Trade receivables<br>||7,199.73|7,199.73|7,012.44|7,012.44|
+|–<br>Other fnancial assets||2,138.13|2,138.13|2,321.76|2,321.76|
+|Financial Assets designated at fair value through other<br>comprehensive income:||||||
+|–<br>Investment in equityinstruments||714.59|714.59|655.83|655.83|
+||Total|11,259.68|11,259.68|11,098.95|11,098.95|
+|**Financial Liabilities :**||||||
+|Financial Liabilities designated at amortised cost:||||||
+|–<br>Borrowings||12,685.84|12,685.84|12,023.21|12,023.21|
+|–<br>Tradepayable<br>||4,669.53|4,669.53|3,709.28|3,709.28|
+|–<br>Other fnancial liabilities||5,847.71|5,847.71|5,439.69|5,439.69|
+|–<br>Lease liabilities||163.12|163.12|271.41|271.41|
+||Total|23,366.20|23,366.20|21,443.59|21,443.59|
+
+
+
+*Excluding financial assets measured at cost 
+
+###### 41.2 Fair Valuation techniques used to determine fair value: 
+
+The group maintains procedures to value financial assets or financial liabilities using the best and most relevant data available. The fair values of the financial assets and liabilities are included at the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. 
+
+The following methods and assumptions were used to estimate the fair values: 
+
+- i] Fair value of cash and cash equivalents, trade payables, borrowings and other financial assets and liabilities are approximate at their carrying amounts largely due to the short-term maturities of these instruments. 
+
+ii] The fair values of trade receivables and non-current loans are calculated based on expected credit loss method and discounted cash flow using a current lending rate respectively. They are classified as level 3 fair values in the fair value 
+
+
+![](images/2025.pdf-0187-14.png)
+
+**[Image: 2025.pdf-0187-14.png (56x22, 0.9KB)]**
+
+
+**184184** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+hierarchy due to the inclusion of unobservable inputs including credit risk [refer note 41.3 below]. The fair values of noncurrent loan are approximate at their carrying amount due to interest bearing features of these instruments. 
+
+- iii] The group uses valuation techniques that are appropriate in the circumstances and for which sufficient data are available to measure fair value, maximising the use of relevant observable inputs and minimising the use of unobservable inputs. 
+
+- iv] Fair values of quoted financial instruments are derived from quoted market prices in active markets. 
+
+- v] Equity Investment in jointly venture entity is stated at cost. 
+
+###### 41.3 Fair value hierarchy 
+
+The group uses the following hierarchy for determining and disclosing the fair value of financial instruments by valuation techniques: 
+
+- Level 1:  Quoted prices / published NAV [unadjusted] in active markets for identical assets or liabilities. It includes fair value of financial instruments traded in active markets and are based on quoted market prices at the balance sheet date and financial instruments like mutual funds for which net assets value [NAV] is published by mutual fund operators at the balance sheet date. 
+
+- Level 2:  Inputs, other than quoted prices included within level 1, that are observable for the asset or liability, either directly [that is, as prices] or indirectly [that is, derived from prices]. It includes fair value of the financial instruments that are not traded in an active market [for example, over-the-counter derivatives] is determined by using valuation techniques. These valuation techniques maximise the use of observable market data where it is available and rely as little as possible on the group specific estimates. If all significant inputs required to fair value an instrument are observable then instrument is included in level 2. 
+
+- Level 3:  Inputs for the asset or liability that are not based on observable market data [that is, unobservable inputs]. If one or more of the significant inputs is not based on observable market data, the instrument is included in level 3. 
+
+Cash and cash equivalents, other financial assets, long term and short term borrowings, trade payables and other financial liabilities are measured at amortised cost. The following table provides hierarchy of the fair value measurement of Company’s asset and liabilities, grouped into Level 1 [Quoted prices in active markets], Level 2 [Significant observable inputs] and Level 3 [Significant unobservable inputs] as described below: 
+
+[ ` in Lakhs] 
+
+|Particulars|||March 31,202|5|
+|---|---|---|---|---|
+|||Level 1|Level 2|Level 3|
+|**Financial Assets*:**|||||
+|Financial Assets designated at amortised cost:|||||
+|–<br>Cash and cash equivalents||–|–|351.17|
+|–<br>Other bank balances||–|–|856.06|
+|–<br>Trade receivables||–|–|7,199.73|
+|–<br>Other fnancial assets||–|–|2,138.13|
+|Financial Assets designated at fair value through other compr|ehensive income:||||
+|–<br>Investment in equityinstruments||714.54|0.05|–|
+||Total|714.54|0.05|10,545.09|
+|Financial Liabilities :|||||
+|Financial Liabilities designated at amortised cost:|||||
+|–<br>Borrowings||–|–|12,685.84|
+|–<br>Tradepayable||–|–|4,669.53|
+|–<br>Other fnancial liabilities||–|–|5,847.71|
+|–<br>Lease Liability||–|–|163.12|
+||**Total**|**–**|**–**|**23,366.20**|
+
+
+
+*excluding financial assets measured at cost 
+
+
+![](images/2025.pdf-0188-14.png)
+
+**[Image: 2025.pdf-0188-14.png (53x22, 0.9KB)]**
+
+
+**185** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+|Particulars|||March 31,202|4|
+|---|---|---|---|---|
+|||Level 1|Level 2|Level 3|
+|Financial Assets<sup>*</sup>:|||||
+|Financial Assets designated at amortised cost:|||||
+|–<br>Cash and cash equivalents||–|–|297.92|
+|–<br>Other bank balances||–|–|811.00|
+|–<br>Trade receivables<br>||–|–|7,012.44|
+|–<br>Other fnancial assets||–|–|2,321.76|
+|Financial Assets designated at fair value through other compr|ehensive income:||||
+|–<br>Investment in equityinstruments||655.78|0.05|–|
+||**Total**|**655.78**|**0.05**|**10,443.12**|
+|Financial Liabilities:|||||
+|Financial Liabilities designated at amortised cost:|||||
+|–<br>Borrowings||–|–|12,023.21|
+|–<br>Tradepayable<br>||–|–|3,709.28|
+|–<br>Other fnancial liabilities||–|–|5,439.69|
+|–<br>Lease liabilities||–|–|271.41|
+||**Total**|**–**|**–**|**21,443.59**|
+
+
+
+There were no transfers between level 1 and level 2 during the year. 
+
+*Excluding financial assets measured at cost. 
+
+###### 41.4 Description of the valuation processes used by the group for fair value measurement categorised within level 3. 
+
+At each reporting date, the group analysis the movements in the values of financial assets and liabilities which are required to be remeasured or re-assessed as per the accounting policies. For this analysis, the group verifies the major inputs applied in the latest valuation by agreeing the information in the valuation computation to contracts and other relevant documents. The group also compares the change in the fair value of each financial asset and liability with relevant external sources to determine whether the change is reasonable. The group also discusses of the major assumptions used in the valuations. For the purpose of fair value disclosures, the group has determined classes of financial assets and liabilities on the basis of the nature, characteristics and risks of the asset or liability and the level of the fair value hierarchy as explained above. 
+
+###### **NOTE 42: FINANCIAL RISK MANAGEMENT - OBJECTIVES AND POLICIES** 
+
+The group is exposed to market risk, credit risk and liquidity risk. Risk management is carried out by the group under policies approved by the Board of Directors. This Risk management plan defines how risks associated with the group will be identified, analysed, and managed. It outlines how risk management activities will be performed, recorded, and monitored by the group. The basic objective of risk management plan is to implement an integrated risk management approach to ensure all significant areas of risks are identified, understood and effectively managed, to promote a shared vision of risk management and encourage discussion on risks at all levels of the organization to provide a clear understanding of risk/benefit trade-offs, to deploy appropriate risk management methodologies and tools for use in identifying, assessing, managing and reporting on risks, and to determine the appropriate balance between cost and control of risk and deploy appropriate resources to manage/optimize key risks. Activities are developed to provide feedback to management and other interested parties [e.g. Audit committee, Board etc.]. The results of these activities ensure that risk management plan is effective in the long term. 
+
+
+![](images/2025.pdf-0189-09.png)
+
+**[Image: 2025.pdf-0189-09.png (56x22, 0.9KB)]**
+
+
+**186186** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### 42.1 Market risk 
+
+Market risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices. Market prices comprise of three types of risk: foreign currency rate risk, interest rate risk and other price risks, such as equity price risk and commodity risk. Financial instruments affected by market risk include loans and borrowings, deposits and investments. The sensitivity analysis is given relating to the position as at March 31, 2025 and March 31, 2024. The sensitivity analysis excludes the impact of movements in market variables on the carrying value of post-employment benefit obligations, provisions and on the non-financial assets and liabilities. The sensitivity of the relevant statement of profit and loss item is the effect of the assumed changes in the respective market risks. The group’s activities expose it to a variety of financial risks, including the effects of changes in foreign currency exchange rates and interest rates. This is based on the financial assets and financial liabilities held as at March 31, 2025 and March 31, 2024. 
+
+###### [a] Foreign exchange risk and sensitivity 
+
+Foreign currency risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates. The group’s exposure to the risk of changes in foreign exchange rates relates primarily to the group’s operating activities. The group transacts business primarily in USD and Euro. The group has foreign currency trade payables and receivables and is therefore, exposed to foreign exchange risk. The group regularly reviews and evaluates exchange rate exposure arising from foreign currency transactions and the group has entered into forward contract to mitigate this risk. 
+
+The carrying amount of foreign currency denominated financial assets and liabilities including derivative contracts, are as follows: 
+
+|Particulars||Currency|As at March|31, 2025|As at Marc|h 31, 2024|
+|---|---|---|---|---|---|---|
+||||Amount<br>in Foreign<br>Currency#|`in Lakhs|Amount<br>in Foreign<br>Currency#|`in Lakhs|
+|Advance to Creditors/Capital Advances||USD|11,209|9.70|29,328|24.45|
+|Advance to Creditors/Capital Advances||EURO|11,043|9.81|112,536|98.49|
+|Advance to Creditors/Capital Advances||GBP|8,064|8.65|46,657|49.48|
+|Advance to Creditors/Capital Advances||SGD|–|–|905|0.58|
+|Trade Receivable||USD|2,308,116|1,975.32|2,351,468|1,960.51|
+|Cash and Cash Equivalents||USD|409,220|350.22|356,977|297.63|
+||**Total**|||**2,353.70**||**2,431.14**|
+|Securitydeposit received||USD|21,980|15.89|21,980|15.89|
+|Tradepayables||USD|116,289|99.52|48,148|40.14|
+|Tradepayables||EURO|968|0.89|–|–|
+|SundryCreditor for Capital Goods||EURO|4,015,639|3,707.13|3,965,324|3,577.43|
+|SundryCreditor for Capital Goods||GBP|–|–|32,760|34.49|
+|Other Payables||USD|536,711|459.33|225,814|188.27|
+|Advance received from customers||USD|58,325|48.18|137,423|113.67|
+||**Total**|||**4,330.94**||**3,969.89**|
+|Details of forward contracts|||||||
+
+
+
+|Particulars|Currency|As at March|31, 2025|As at March|31, 2024|
+|---|---|---|---|---|---|
+|||Amount<br>in Foreign<br>Currency#|`in Lakhs|Amount<br>in Foreign<br>Currency#|`in Lakhs|
+|Forward Contracts|EURO|2,342,250|2,194.55|–|–|
+
+
+
+# Amounts are in absolute value 
+
+
+![](images/2025.pdf-0190-09.png)
+
+**[Image: 2025.pdf-0190-09.png (53x22, 0.9KB)]**
+
+
+**187** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### Foreign currency sensitivity: 
+
+1% increase or decrease in foreign exchange rates will have the following impact on profit before tax [PBT] [for trade receivables, trade payables and sundry creditors for capital goods] : 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|March 3|1, 2025|March 3|1, 2024|
+||1% Increase -<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease -<br>Increase/<br>[Decrease]<br>in PBT|1% Increase -<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease -<br>Increase/<br>[Decrease]<br>in PBT|
+|USD|17.67|[17.67]|20.30|[20.30]|
+|EURO|[37.08]|37.08|[35.77]|35.77|
+|GBP<br>|-|-|[0.34]|0.34|
+|**Increase / [Decrease] inproft before tax**|**[19.41]**|**19.41**|**[15.82]**|**15.82**|
+
+
+
+###### [b] Interest rate risk and sensitivity: 
+
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. During the year, the group is having long term borrowings in the form of term loan and short term borrowings in the form of Working Capital Loan & Term Loan. 
+
+At the reporting date the interest rate profile of the Group’s interest bearing financial instruments are follows: 
+
+||||[`in Lakhs]|
+|---|---|---|---|
+|Particulars|Interest rates|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Workingcapital loan from banks|Variable|3,551.89|4,542.75|
+|Term Loans from Banks|Variable|9,133.95|7,433.77|
+||**Total**|**12,685.84**|**11,976.52**|
+
+
+
+The table below illustrates the impact of a 1% increase in interest rates on interest on financial liabilities assuming that the changes occur at the reporting date and has been calculated based on risk exposure outstanding as of date. The year end balances are not necessarily representative of the average debt outstanding during the year. This analysis also assumes that all other variables, in particular foreign currency rates, remain constant. 
+
+[ ` in Lakhs] 
+
+|**Particulars**|**2024**|**-25**|2023|-24|
+|---|---|---|---|---|
+||1% Increase-<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease-<br>Increase/<br>[Decrease]<br>in PBT|1% Increase-<br>Increase/<br>[Decrease]<br>in PBT|1% Decrease-<br>Increase/<br>[Decrease]<br>in PBT|
+|Working capital loan / Term Loan from Banks|[126.86]|126.86|[119.77]|119.77|
+
+
+
+The assumed movement in basis points for interest rate sensitivity analysis is based on the currently observable market environment. 
+
+###### [c] Commodity price risk: 
+
+The group is exposed to the movement in price of key traded materials in domestic and international markets. The group has entered into contracts for procurement of material. However, the group is not exposed to significant risk. 
+
+###### [d] Equity price risk: 
+
+The group has decided to fair value its equity instruments through Other Comprehensive Income and carry investment in jointly controlled entities at Cost. Therefore neither profit or loss nor equity will be affected by the equity price risk of 
+
+
+![](images/2025.pdf-0191-17.png)
+
+**[Image: 2025.pdf-0191-17.png (56x22, 0.9KB)]**
+
+
+**188188** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+those instruments. Accordingly, no sensitivity analysis is required. 
+
+###### 42.2 Credit risk 
+
+Credit risk is the risk that a counter party will not meet its obligations under a financial instrument or customer contract, leading to a financial loss. The group is exposed to credit risk from its operating activities [primarily trade receivables] and from its financing activities, including deposits with banks, foreign exchange transactions and other financial instruments. 
+
+- [a] Trade Receivables: 
+
+The group extends credit to customers in normal course of business. The group considers factors such as credit track record in the market and past dealings with the group for extension of credit to customers. The group monitors the payment track record of the customers. Outstanding customer receivables are regularly monitored. The group evaluates the concentration of risk with respect to trade receivables as low, as its customers are located in several jurisdictions and industries and operate in largely independent markets. The group has also taken security deposits in certain cases from its customers, which mitigate the credit risk to some extent. The group has adopted an Expected Credit Loss Model as per Ind AS 109 “Financial Instruments”, wherein the provision is made for expected losses for non-recovery of receivables and also for loss in value of money due to delayed receipt of money. However, the group does not expect any material risk on account of non-performance by group’s counterparties. 
+
+- [b] Financial instruments and cash deposits: 
+
+Liquidity risk is the risk that the group may not be able to meet its present and future cash and collateral obligations without incurring unacceptable losses. The group’s objective is to, at all times, maintain optimum levels of liquidity to meet its cash and collateral requirements. The group relies on operating cash flows and short term borrowings in the form of Working Capital Loan to meet its needs for funds. group does not breach any covenants [where applicable] on any of its borrowing facilities. The group has access to a sufficient variety of sources of funding as per requirement. 
+
+- The table below provides undiscounted cash flows towards financial liabilities into relevant maturity based on the remaining period at the balance sheet to the contractual maturity date. 
+
+###### 42.3 Liquidity risk 
+
+Liquidity risk is the risk that the Company may not be able to meet its present and future cash and collateral obligations without incurring unacceptable losses. The Company’s objective is to, at all times, maintain optimum levels of liquidity to meet its cash and collateral requirements. The Company relies on operating cash flows and short term borrowings in the form of Working Capital Loan to meet its needs for funds. Company has not breached any covenants [where applicable] on any of its borrowing facilities. The Company has access to a sufficient variety of sources of funding as per requirement. 
+
+The table below provides undiscounted cash flows towards financial liabilities into relevant maturity based on the remaining period at the balance sheet to the contractual maturity date. 
+
+||||||[`in Lakhs]|
+|---|---|---|---|---|---|
+|Particulars||Matur|ity||Total|
+||0 - 12<br>Months|1 - 2<br>Years|2 - 5<br>Years|More than<br>5 years||
+|As at March 31, 2025||||||
+|Lease Liabilities|115.20|59.40|-|-|174.60|
+|Longterm borrowings<br>|-|2,019.39|4,225.12|677.29|6,921.80|
+|Other non current fnancial liabilities|-|2,374.69|-|-|2,374.69|
+|Short term borrowings|5,764.04|-|-|-|5,764.04|
+|Tradepayable<br>|4,669.53|-|-|-|4,669.53|
+|Other current fnancial liabilities|3,473.02|-|-|-|3,473.02|
+
+
+
+
+![](images/2025.pdf-0192-13.png)
+
+**[Image: 2025.pdf-0192-13.png (53x22, 0.9KB)]**
+
+
+**189** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+||**Total**|**14,021.79**|**4,453.48**|**4,225.12**|**677.29**|**23,377.68**|
+|---|---|---|---|---|---|---|
+|||||||[`in Lakhs]|
+|Particulars|||Matur|ity||Total|
+|||0 - 12<br>Months|1 - 2<br>Years|2 - 5<br>Years|More than<br>5 years||
+|As at March 31, 2024|||||||
+|Lease Liabilities||127.20|115.20|59.40|-|301.80|
+|Longterm borrowings||-|1,262.93|3,788.79|1,614.75|6,666.47|
+|Other non current fnancial liabilities||-|-|3,046.44|-|3,046.44|
+|Short term borrowings||5,356.74|-|-|-|5,356.74|
+|Tradepayable||3,709.28|-|-|-|3,709.28|
+|Other current fnancial liabilities||2,393.25|-|-|-|2,393.25|
+||**Total**|**11,586.47**|**1,378.13**|**6,894.63**|**1,614.75**|**21,473.98**|
+
+
+
+###### 42.4 Competition and price risk 
+
+The group faces competition from local and foreign competitors. Nevertheless, it believes that it has competitive advantage in terms of high quality products,  cost advantage and by continuously upgrading its expertise and range of products to meet the needs of its customers. 
+
+
+![](images/2025.pdf-0193-05.png)
+
+**[Image: 2025.pdf-0193-05.png (56x22, 0.9KB)]**
+
+
+**190190** 
+
+|Variance<br>in %<br>Remarks|13% Not applicable|2% Not applicable|[39]% Note 1|[30]% Note 2|[28]% Note 3|[16]% Not applicable<br>[2]% Not applicable|[153]% Note 4|[40]% Note 5|[19]% Not applicable|128% Note 6||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|March<br>31, 2024|0.96|0.60|4.73|13.04%|9.01|4.62<br>2.63|[53.25]|8.22%|12.00%|0.04%|practise.|||||||
+|March<br>31, 2025|1.09|0.59|2.88|9.07%|6.51|5.37<br>2.57|27.96|4.93%|9.77%|0.08%|t with Industry|||||||
+|Denominator|Current Liabilities [including borrowings]|Shareholders Equity|depreciation Interest + repayment of lease liabilities<br>and term loan during the year|Average shareholder’s equity|Average Inventory|Average Trade Receivables<br>Average Trade Payables|Current Assets - Current Liabilities|Revenue from Operations|Total equity + Borrowings + Deferred Tax|Average Investments|wherever required due to reclassifcation and in consisten|of borrowing [including interest].|ompared to previous year.|the year.|evel during the year.|compared to previous year.|the year.|
+|Numerator|Current assets|Borrowings|Net proft after taxes + Interest +|Proft after Tax|Sale of product|Revenue from Operations<br>Purchase|Revenue from Operations|Proft after Tax|Proft before tax and interest|Income from Investment|rs are aligned with the current year’s|n account of increase in repayment|eduction in proft in current year as c|unt of increased in inventory during|nt of increased sales and inventory l|eduction in proft in current year as|nt of higher dividend received during|
+||tio|y Ratio|ce Coverage Ratio|Equity Ratio|urnover ratio|ivables turnover<br>bles turnover ratio|turnover ratio|atio|Capital employed|nvestment|for the previous yea|: Decreased mainly o|: Decreased due to r|: Decreased on acco|: Improved on accou|: Decreased due to r|: Increase on accou|
+|Particulars|[a] Current Ra|[b] Debt-Equit|[c] Debt Servi|[d] Return on|[e] Inventory t|[f] Trade Rece<br>ratio<br>[g] Trade paya|[h] Net capital|[i]<br>Net proft r|[j]<br>Return on|[k] Return on i|Notes: Ratios|Note 1|Note 2|Note 3|Note 4|Note 5|Note 6|
+
+
+
+
+![](images/2025.pdf-0194-04.png)
+
+**[Image: 2025.pdf-0194-04.png (53x22, 0.9KB)]**
+
+
+**191** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 44: EMPLOYEE STOCK APPRECIATION RIGHTS [‘ESAR’]** 
+
+“Pursuant to ESAR scheme/plan approved by the shareholders of the Company on May 27, 2021, the Nomination and Remuneration Committee of the Board of Directors on May 24, 2022 approved for issue of 11,11,000 ESAR’s to the employee of the Company. The Members approved ESARs to the employee of the Company, which upon conversion into equity shall not exceed 10 Lakh equity shares from time to time. 
+
+As per the Scheme/Plan of the total ESAR’s granted shall vest not earlier than minimum of 1 year and not later than a maximum of 5 years from the date of grant of ESARs as may be determined by the Committee and is subject to continued employment of the employee with the Company and upon achievement of prescribed performance conditions as prescribed in the Scheme. The employee pays the exercise price upon exercise of ESAR’s. 
+
+A summary of the activity in the Company’s ESAR [Scheme 2021] is as follows: 
+
+|**Particulars**||**Year End**|**ed**||
+|---|---|---|---|---|
+||**March**|**31, 2025**|March|31, 2024|
+||ESAR's|Weighted average<br>exercise price|ESAR's|Weighted average<br>exercise price|
+|Outstanding at beginning of year|11,11,000|`30|11,11,000|`30|
+|Granted|–|–|–|–|
+|Exercised|–|–|–|–|
+|Forfeited|–|–|–|–|
+|Outstanding at end of the year|11,11,000|`30|11,11,000|`30|
+|Vested ESAR's|2,32,610|–|–|–|
+|Unvested ESAR's|8,78,390|–|11,11,000|–|
+
+
+
+During the previous year, the Company has granted 11,11,000 ESAR’s under ESAR Plan 2021 at an exercise price of ` 30. 
+
+The weighted average share price for the year over which stock ESAR’s were exercised was ` Nil [March 31, 2024 - ` Nil]. 
+
+The weighted average fair value of ESAR’s granted is ` 23.96 
+
+The fair value of the awards are estimated using the Black-Scholes Model for time and non-market performance-based options and Monte Carlo simulation model is used for estimating the future performance considering the following inputs: 
+
+|Particulars|ESAR<br>[Scheme 2021]|
+|---|---|
+|Weighted average share price [in`]|23.96|
+|Exercise Price [in`]|30.00|
+|Expected Volatility|49.85|
+|Weighted average life [in years]|6.51|
+|Expected dividend rate|1.47%|
+|Average risk-free interest rate %|7.20|
+
+
+
+
+![](images/2025.pdf-0195-12.png)
+
+**[Image: 2025.pdf-0195-12.png (56x22, 0.9KB)]**
+
+
+**192192** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+The expected volatility was determined based on historical volatility data; historical volatility includes early years of the Company’s life; the Company expects the volatility of its share price to reduce as it matures 
+
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|---|---|---|
+|Proft after tax as reported|1,881.34|2,456.72|
+|Employee compensation cost recognized duringtheyear|52.63|[2.66]|
+|Total carryingamount in Employee Stock Appreciation Rights Reserve|85.00|32.37|
+|Earningsper share|3.50|4.57|
+|Diluted|3.49|4.56|
+
+
+
+###### **NOTE 45: OTHER DISCLOSURES** 
+
+- [a] The Group does not have any benami property held in its name. No proceedings have been initiated on or are pending against the Group for holding benami property under the Benami Transactions [Prohibition] Act, 1988 [45 of 1988] and Rules made thereunder. 
+
+- [b] The Group has not traded or invested in crypto currency or virtual currency during the financial year. 
+
+- [c] There are no loans or advances in the nature of loans granted to Promoters, Directors, KMPs and their related parties [as defined under Companies Act, 2013], either severally or jointly with any other person, that are: [a] repayable on demand; or [b] without specifying any terms or period of repayment. 
+
+- [d] The Group has complied with the requirements of the number of layers prescribed under clause [87] of section 2 of the Companies Act, 2013 read with Companies [Restriction on number of Layers] Rules, 2017. 
+
+- [e] The Group has not been declared wilful defaulter by any bank or financial institution or other lender or government or any government authority. 
+
+- [f] Utilisation of borrowed funds and share premium: 
+
+   - [i] The Group has not advanced or loaned or invested funds to any other person[s] or entity[ies], including foreign entities [Intermediaries] with the understanding that the Intermediary shall: 
+
+      - [a] Directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Group [Ultimate Beneficiaries] or 
+
+      - [b] Provide any guarantee, security or the like to or on behalf of the ultimate beneficiaries 
+
+   - [ii] The Group has not received any fund from any person[s] or entity[ies], including foreign entities [Funding Party] with the understanding [whether recorded in writing or otherwise] that the Group shall: 
+
+      - [a] Directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party [Ultimate Beneficiaries] or 
+
+      - [b] Provide any guarantee, security or the like to or on behalf of the ultimate beneficiaries 
+
+- [g] There is no income surrendered or disclosed as income during the year in tax assessments under the Income Tax Act, 1961 [such as search or survey], that has not been recorded in the books of account. 
+
+- [h] The Group does not have any charge which is yet to be registered or satisfied with Registrar of Companies [ROC] beyond the statutory period. 
+
+- [i] The Code on Social Security, 2020 [‘Code’] relating to employee benefits during employment and post- employment benefits received Indian Parliament’s approval and Presidential assent in September 2020. The Code has been published in the Gazette of India and subsequently, on November 13, 2020, draft rules were published and stakeholders’ suggestions were invited. However, the date on which the Code will come into effect has not been notified. The Group will assess the impact of the Code when it comes into effect and will record any related impact in the period the Code becomes effective. 
+
+
+![](images/2025.pdf-0196-19.png)
+
+**[Image: 2025.pdf-0196-19.png (53x22, 0.9KB)]**
+
+
+**193** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+- [j] Details of reconciliation of inventories and trade receivables [gross] towards borrowings :- 
+
+For the year ended March 31, 2025 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|As at Jun-24|As at Sep-24|As at Dec-24|As at Mar-25|
+|Value asperquarterlyreturns /statements fled with Banks|12,842.77|13,389.09|12,875.88|13,786.18|
+|Value of current assets asper IND-AS fnancial statements|12,826.69|13,356.10|13,509.09|14,205.16|
+|Differences|16.08|32.99|[633.21]|[418.98]|
+
+
+
+For June 24 and Sep 24 - differences mainly relate to related party receivables, Ind AS impact and changes in inventory valuation. 
+
+For Dec 24 and Mar 25 - differences mainly relate to related party receivables, Ind AS impact, changes in inventory valuation and debit notes payable to customer. 
+
+For the year ended March 31, 2024 
+
+|||||[`in Lakhs]|
+|---|---|---|---|---|
+|Particulars|As at Jun-23|As at Sep-23|As at Dec-23|As at Mar-24|
+|Value asperquarterlyreturns /statements fled with Banks|8,247.13|6,982.39|10,745.72|10,927.81|
+|Value of current assets asper IND-AS fnancial statements|8,938.36|7,626.84|11,327.19|11,454.31|
+|Differences|[691.23]|[644.45]|[581.47]|[526.50]|
+
+
+
+These differences mainly relate to related party receivables, Ind AS impact and changes in inventory valuation. 
+
+[k] Expenditure incurred during the year and capitalised/included in Capital work-in-progress as follows: 
+
+|||[`in Lakhs]|
+|---|---|---|
+|Particulars|For the year ended<br>March 31, 2025|For the year ended<br>March 31, 2024|
+|Stores and spares|67.77|201.23|
+|Power and fuel|20.05|96.34|
+|Payroll expenses|101.70|412.85|
+|Depreciation|–|4.72|
+|Interest|–|164.81|
+|Miscellaneous manufacturing expenses|2.62|2.64|
+|**Total**|**192.14**|**882.59**|
+
+
+
+[l] The Company does not have transactions with the companies struck off under section 248 of Companies Act, 2013 or Section 560 of Companies Act, 1956 for the year ended March 31, 2025 and March 31, 2024. 
+
+[m] The Group has used the borrowings from banks for the purpose for which it was taken. 
+
+[n] The Company has not entered into any scheme of arrangement which has an accounting impact on current or previous financial year. 
+
+
+![](images/2025.pdf-0197-15.png)
+
+**[Image: 2025.pdf-0197-15.png (56x22, 0.9KB)]**
+
+
+**194194** 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+|in Lakhs]<br>%<br>69.31%<br>2.90%<br>27.66%<br>0.13%<br>100.00%|in Lakhs]<br>%<br>77.44%<br>1.58%<br>20.97%|0.01%<br>100.00%|
+|---|---|---|
+|[` <br>Share in total<br>comprehensive<br>income<br>1,320.43<br>55.16<br>526.98<br>2.42<br>1,904.99|[` <br>Share in total<br>comprehensive<br>income<br>2,021.85<br>41.23<br>547.49|0.25<br>2,610.82|
+|%<br>101.14%<br>-<br>13.45%<br>[14.59%]<br>100.00%|%<br>94.90%<br>-<br>4.16%|0.94%<br>100.00%|
+|Share in other<br>comprehensive<br>income or<br>[loss]<br>23.92<br>-<br>3.18<br>[3.45]<br>23.65|Share in other<br>comprehensive<br>income or<br>[loss]<br>146.24<br>-<br>6.41|1.45<br>154.10|
+|%<br>68.92%<br>2.93%<br>27.84%<br>0.31%<br>100.00%|%<br>76.35%<br>1.68%<br>22.02%|[0.05%]<br>100.00%|
+|Share in<br>Proft or<br>[loss]<br>1,296.51<br>55.16<br>523.80<br>5.87<br>1,881.34|Share in<br>Proft or<br>[loss]<br>1,875.61<br>41.23<br>541.08|[1.20]<br>2,456.72|
+|%<br>99.45%<br>0.58%<br>-<br>[0.03%]<br>100.00%|%<br>102.33%<br>0.34%<br>-|[2.67%]<br>100.00%|
+|Net Assets i.e.<br>total assets<br>minus total<br>liabilities<br>21,420.94<br>124.52<br>-<br>[6.13]<br>21,539.33|Net Assets i.e.<br>total assets<br>minus total<br>liabilities<br>20,424.14<br>66.95<br>-|[533.12]<br>19,957.97|
+|Total||Total|
+|**March 31, 2025**<br>**Name of the Entity**<br>**Parent**<br>Haldyn Glass Limited<br>**Subsidiaries**<br>**Foreign**<br>Haldyn Glass USA Inc<br>**Joint Venture**<br>**Indian**<br>Haldyn Heinz Fine Glass Private Limited<br>Adjustments arising out of consolidation|**March 31, 2024**<br>**Name of the Entity**<br>**Parent**<br>Haldyn Glass Limited<br>**Subsidiaries**<br>**Foreign**<br>Haldyn Glass USA Inc<br>**Joint Venture**<br>**Indian**<br>Haldyn Heinz Fine Glass Private Limited|<br>Adjustments arising out of consolidation|
+
+
+
+
+![](images/2025.pdf-0198-03.png)
+
+**[Image: 2025.pdf-0198-03.png (53x22, 0.9KB)]**
+
+
+**195** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+**NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+###### **NOTE 47: INTEREST IN JOINT VENTURE** 
+
+- A. List of the company [Jointly Venture Company] included in the consolidation is mentioned below :- 
+
+|Joint Venture|Country of<br>Incorporation|Proportion of own<br>As at<br>March 31, 2025|ership interest<br>As at<br>March 31, 2024|
+|---|---|---|---|
+|Haldyn Heinz Fine Glass Private Limited|India|56.80%|56.80%|
+
+
+
+- B. Summarized Financial Information [Gross] 
+
+[ ` in Lakhs] 
+
+|||As at<br>March 31, 2025|As at<br>March 31, 2024|
+|---|---|---|---|
+|[A]|Non current assets|||
+|[B]|Current assets|||
+||i]<br>Cash and cash equivalent|340.95|527.09|
+||ii]<br>Other current assets|7,634.80|6,121.50|
+||Total current assets|7,975.75|6,648.59|
+||Total assets [A + B]|22,018.55|21,043.88|
+|[C]|Non current liabilities|||
+||i]<br>Financial liabilities<br>|3,250.94|2,853.09|
+||ii]<br>Non fnancial liabilities|253.80|225.69|
+||Total non current liabilities|3,504.74|3,078.78|
+|[D]|Current liabilities|||
+||i]<br>Financial liabilities|10,615.82|10,966.01|
+||ii]<br>Non fnancial liabilities|1,011.62|1,040.49|
+||Total current liabilities|11,627.44|12,006.50|
+||Total liabilities [C + D]|15,132.18|15,085.28|
+||Net assets|6,886.37|5,958.60|
+
+
+
+###### Summarized performance 
+
+[ ` in Lakhs] 
+
+|Particulars|Year Ended<br>March 31, 2025|Year Ended<br>March 31, 2024|
+|---|---|---|
+|Revenue|14,941.96|14,357.95|
+|Proft / [Loss] before tax|1,293.28|1,361.54|
+|Tax expense<br>|371.10|408.92|
+|Proft / [Loss] after tax|922.18|952.62|
+|Other comprehensive income|5.59|11.28|
+|Total comprehensive income|927.77|963.90|
+|Depreciation and amortization|1,498.09|1,001.47|
+|Interest income|68.33|29.33|
+|Finance Cost|659.56|519.98|
+
+
+
+
+![](images/2025.pdf-0199-11.png)
+
+**[Image: 2025.pdf-0199-11.png (56x22, 0.9KB)]**
+
+
+**196196** 
+
+### **NOTES** forming part of the  Consolidated Financial Statements for the Year Ended March 31, 2025 
+
+Reconciliation of net assets considered for consolidated financial statement to net asset as per Joint Venture financial statements 
+
+|||[`in Lakhs]|
+|---|---|---|
+|**Particulars**|As at<br>March 31, 2025|As at<br>March 31, 2024|
+|Net assets asper entity's fnancial statements|6,886.37|5,958.60|
+|Add /[Less]: Consolidation adjustments|||
+|[i]<br>Fair value adjustments|–|–|
+|[ii]<br>Dividend distributed|–|–|
+|[iii]<br>Accumulated share of otherjoint ventureparty<br>|[2,716.29]|[2,315.50]|
+|Net assets asper consolidated fnancial statements|4,170.08|3,643.10|
+
+
+
+Reconciliation of Profit / [Loss] and OCI considered for consolidated financial statement to net asset as per Joint Venture financial statements 
+
+|||[`in Lakhs]|
+|---|---|---|
+|**Particulars**|Year Ended<br>March 31, 2025|Year Ended<br>March 31, 2024|
+|Proft /[Loss]asper entity's fnancial statements|922.18|952.62|
+|Add /[Less]: Consolidation adjustments|||
+|[i]<br>Dividend distributed<br>|-|-|
+|[ii]<br>Share ofproft of otherjoint ventureparty<br>|[398.38]|[411.54]|
+|Proft /[Loss]asper consolidated fnancial statements<br>|523.80|541.08|
+|OCI asper entity's fnancial statements|5.59|11.28|
+|Add /[Less]: Consolidation adjustments|||
+|[i]<br>Fair valuation<br>|-|-|
+|[ii]<br>Share ofproft of otherjoint ventureparty<br>|[2.41]|[4.87]|
+|OCI asper consolidated fnancial statements|3.18|6.41|
+
+
+
+Movement of investment in Joint Ventures using equity method 
+
+|||[`in Lakhs]|
+|---|---|---|
+|**Particulars**|Year Ended<br>March 31, 2025|Year Ended<br>March 31, 2024|
+|Openinginterest<br>|3,643.10|3,095.61|
+|Add: Share ofproft for theperiod|523.80|541.08|
+|Add: Share of OCI for theperiod|3.18|6.41|
+|Closinginterest|4,170.08|3,643.10|
+
+
+
+###### **NOTE 48: EVENTS AFTER REPORTING PERIOD** 
+
+There were no significant events that occurred subsequent to the reporting period which need any adjustment or disclosure in these financial statements. 
+
+As per our Report of even date attached For and on behalf of the Board of Directors of Haldyn Glass Limited For **KNAV & CO. LLP Narendra Shetty Tarun Shetty** Chartered Accountants Executive Chairman Managing Director Firm Registration No. 120458W/W10079 DIN: 00025868 DIN: 00587108 **Samir Parmar** Place : Mumbai Place : Mumbai Partner Date: May 29, 2025 Date: May 29, 2025 Membership No. 113505 **Niraj Tipre Ganesh Chaturvedi** Place : Mumbai Chief Executive Officer Chief Financial Officer Date : May 29, 2025 FCA-27636 Place: Mumbai Place: Mumbai Date: May 29, 2025 Date: May 29, 2025 
+
+**Dhruv Mehta** Company Secretary ACS No. 46874 Place: Mumbai Date: May 29, 2025 
+
+
+![](images/2025.pdf-0200-11.png)
+
+**[Image: 2025.pdf-0200-11.png (53x22, 0.9KB)]**
+
+
+**197** 
+
+34<sup>TH</sup> ANNUAL REPORT | 2024-2025 
+
+### Notes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](images/2025.pdf-0201-11.png)
+
+**[Image: 2025.pdf-0201-11.png (56x22, 0.9KB)]**
+
+
+**198198** 
+
+
+![](images/2025.pdf-0202-00.png)
+
+**[Image: 2025.pdf-0202-00.png (1219x81, 2.3KB)]**
+
+
+
+![](images/2025.pdf-0202-01.png)
+
+**[Image: 2025.pdf-0202-01.png (834x609, 135.5KB)]**
+
+
+<!-- Start of picture text -->
+We shall satisfy our<br>customers by consistently<br>meeting their requirements<br>on time and rendering<br>support they expect from us.<br><!-- End of picture text -->
+
+
+![](images/2025.pdf-0202-02.png)
+
+**[Image: 2025.pdf-0202-02.png (287x1475, 14.3KB)]**
+
+
+
+![](images/2025.pdf-0202-03.png)
+
+**[Image: 2025.pdf-0202-03.png (544x116, 32.7KB)]**
+
+
+We shall satisfy our customers by consistently meeting their requirements on time and rendering support they expect from us. To achieve this, we shall 
+
+
+![](images/2025.pdf-0202-05.png)
+
+**[Image: 2025.pdf-0202-05.png (827x204, 40.5KB)]**
+
+
+<!-- Start of picture text -->
+To achieve this, we shall<br>�<br><!-- End of picture text -->
+
+
+![](images/2025.pdf-0202-06.png)
+
+**[Image: 2025.pdf-0202-06.png (17x12, 0.2KB)]**
+
+
+
+![](images/2025.pdf-0202-07.png)
+
+**[Image: 2025.pdf-0202-07.png (68x471, 3.4KB)]**
+
+
+- Provide reliable products at cost efficient prices 
+
+
+![](images/2025.pdf-0202-09.png)
+
+**[Image: 2025.pdf-0202-09.png (737x233, 40.4KB)]**
+
+
+<!-- Start of picture text -->
+at cost efficient prices<br>� Deliver Goods on time<br><!-- End of picture text -->
+
+- Deliver Goods on time 
+
+- � Manufacture products to laid down specifications 
+
+
+![](images/2025.pdf-0202-11.png)
+
+**[Image: 2025.pdf-0202-11.png (913x453, 71.8KB)]**
+
+
+<!-- Start of picture text -->
+� Manufacture products to<br>laid down specifications<br><!-- End of picture text -->
+
+
+![](images/2025.pdf-0203-00.png)
+
+**[Image: 2025.pdf-0203-00.png (118x119, 6.0KB)]**
+
+
+
+![](images/2025.pdf-0203-01.png)
+
+**[Image: 2025.pdf-0203-01.png (773x404, 55.9KB)]**
+
+
+
+---
+
+## Extracted Images
+
+| # | File | Dimensions | Size |
+|---|------|------------|------|
+| 1 | 2025.pdf-0002-00.png | 367x109 | 9.9KB |
+| 2 | 2025.pdf-0003-02.png | 28x49 | 1.0KB |
+| 3 | 2025.pdf-0003-03.png | 66x190 | 12.2KB |
+| 4 | 2025.pdf-0003-04.png | 26x47 | 0.9KB |
+| 5 | 2025.pdf-0003-05.png | 66x182 | 11.9KB |
+| 6 | 2025.pdf-0003-06.png | 24x43 | 0.8KB |
+| 7 | 2025.pdf-0003-07.png | 61x169 | 10.8KB |
+| 8 | 2025.pdf-0003-08.png | 22x40 | 0.8KB |
+| 9 | 2025.pdf-0003-09.png | 54x155 | 9.4KB |
+| 10 | 2025.pdf-0003-10.png | 22x38 | 0.8KB |
+| 11 | 2025.pdf-0003-11.png | 53x149 | 8.9KB |
+| 12 | 2025.pdf-0003-12.png | 111x24 | 2.7KB |
+| 13 | 2025.pdf-0003-14.png | 82x218 | 13.8KB |
+| 14 | 2025.pdf-0003-15.png | 151x163 | 14.4KB |
+| 15 | 2025.pdf-0003-16.png | 64x175 | 9.7KB |
+| 16 | 2025.pdf-0003-17.png | 72x124 | 9.6KB |
+| 17 | 2025.pdf-0003-18.png | 66x183 | 10.5KB |
+| 18 | 2025.pdf-0003-19.png | 74x130 | 10.3KB |
+| 19 | 2025.pdf-0003-20.png | 47x120 | 6.2KB |
+| 20 | 2025.pdf-0003-21.png | 103x93 | 6.7KB |
+| 21 | 2025.pdf-0003-22.png | 40x105 | 5.0KB |
+| 22 | 2025.pdf-0003-23.png | 80x80 | 5.4KB |
+| 23 | 2025.pdf-0003-25.png | 26x53 | 1.2KB |
+| 24 | 2025.pdf-0003-26.png | 41x17 | 1.1KB |
+| 25 | 2025.pdf-0003-27.png | 34x76 | 2.0KB |
+| 26 | 2025.pdf-0003-28.png | 8x86 | 1.1KB |
+| 27 | 2025.pdf-0003-29.png | 10x86 | 1.2KB |
+| 28 | 2025.pdf-0003-30.png | 55x22 | 1.8KB |
+| 29 | 2025.pdf-0003-31.png | 36x78 | 2.0KB |
+| 30 | 2025.pdf-0003-32.png | 9x89 | 1.1KB |
+| 31 | 2025.pdf-0003-33.png | 10x89 | 1.3KB |
+| 32 | 2025.pdf-0003-34.png | 58x24 | 1.9KB |
+| 33 | 2025.pdf-0003-35.png | 43x137 | 6.2KB |
+| 34 | 2025.pdf-0003-36.png | 103x132 | 6.7KB |
+| 35 | 2025.pdf-0004-42.png | 53x21 | 0.8KB |
+| 36 | 2025.pdf-0005-15.png | 56x22 | 0.8KB |
+| 37 | 2025.pdf-0006-23.png | 53x22 | 0.8KB |
+| 38 | 2025.pdf-0007-21.png | 56x22 | 0.8KB |
+| 39 | 2025.pdf-0008-16.png | 53x22 | 0.8KB |
+| 40 | 2025.pdf-0009-23.png | 56x22 | 0.8KB |
+| 41 | 2025.pdf-0010-21.png | 53x22 | 0.8KB |
+| 42 | 2025.pdf-0011-20.png | 56x22 | 0.8KB |
+| 43 | 2025.pdf-0012-17.png | 53x22 | 0.8KB |
+| 44 | 2025.pdf-0013-20.png | 56x22 | 0.9KB |
+| 45 | 2025.pdf-0014-18.png | 53x22 | 0.8KB |
+| 46 | 2025.pdf-0015-16.png | 56x22 | 0.8KB |
+| 47 | 2025.pdf-0016-11.png | 53x22 | 0.9KB |
+| 48 | 2025.pdf-0017-04.png | 56x22 | 0.8KB |
+| 49 | 2025.pdf-0018-04.png | 53x22 | 0.9KB |
+| 50 | 2025.pdf-0019-30.png | 56x22 | 0.9KB |
+| 51 | 2025.pdf-0020-17.png | 53x22 | 0.8KB |
+| 52 | 2025.pdf-0021-06.png | 988x440 | 65.5KB |
+| 53 | 2025.pdf-0021-14.png | 56x22 | 0.9KB |
+| 54 | 2025.pdf-0022-06.png | 53x22 | 0.9KB |
+| 55 | 2025.pdf-0023-12.png | 56x22 | 0.9KB |
+| 56 | 2025.pdf-0024-08.png | 53x22 | 0.8KB |
+| 57 | 2025.pdf-0025-15.png | 56x22 | 0.8KB |
+| 58 | 2025.pdf-0026-07.png | 53x22 | 0.9KB |
+| 59 | 2025.pdf-0027-27.png | 56x22 | 0.8KB |
+| 60 | 2025.pdf-0028-15.png | 53x22 | 0.9KB |
+| 61 | 2025.pdf-0029-17.png | 56x22 | 0.9KB |
+| 62 | 2025.pdf-0030-14.png | 53x22 | 0.8KB |
+| 63 | 2025.pdf-0031-13.png | 56x22 | 0.9KB |
+| 64 | 2025.pdf-0032-16.png | 53x22 | 0.9KB |
+| 65 | 2025.pdf-0033-21.png | 56x22 | 0.9KB |
+| 66 | 2025.pdf-0034-28.png | 53x22 | 0.9KB |
+| 67 | 2025.pdf-0035-24.png | 56x22 | 0.9KB |
+| 68 | 2025.pdf-0036-21.png | 53x22 | 0.8KB |
+| 69 | 2025.pdf-0037-24.png | 56x22 | 0.9KB |
+| 70 | 2025.pdf-0038-27.png | 53x22 | 0.9KB |
+| 71 | 2025.pdf-0039-18.png | 56x22 | 0.9KB |
+| 72 | 2025.pdf-0040-11.png | 53x22 | 0.9KB |
+| 73 | 2025.pdf-0041-20.png | 56x22 | 0.9KB |
+| 74 | 2025.pdf-0042-01.png | 53x22 | 0.9KB |
+| 75 | 2025.pdf-0043-16.png | 56x22 | 0.9KB |
+| 76 | 2025.pdf-0044-03.png | 53x22 | 0.8KB |
+| 77 | 2025.pdf-0045-14.png | 56x22 | 0.8KB |
+| 78 | 2025.pdf-0046-03.png | 53x22 | 0.9KB |
+| 79 | 2025.pdf-0047-05.png | 56x22 | 0.8KB |
+| 80 | 2025.pdf-0048-20.png | 53x22 | 0.9KB |
+| 81 | 2025.pdf-0049-09.png | 56x22 | 0.9KB |
+| 82 | 2025.pdf-0050-15.png | 53x22 | 0.8KB |
+| 83 | 2025.pdf-0051-12.png | 56x22 | 0.9KB |
+| 84 | 2025.pdf-0052-11.png | 53x21 | 0.9KB |
+| 85 | 2025.pdf-0053-15.png | 56x21 | 0.9KB |
+| 86 | 2025.pdf-0054-15.png | 53x21 | 0.9KB |
+| 87 | 2025.pdf-0055-15.png | 56x21 | 0.9KB |
+| 88 | 2025.pdf-0056-05.png | 53x21 | 0.9KB |
+| 89 | 2025.pdf-0057-14.png | 56x21 | 0.9KB |
+| 90 | 2025.pdf-0058-16.png | 53x21 | 0.9KB |
+| 91 | 2025.pdf-0059-20.png | 56x21 | 0.9KB |
+| 92 | 2025.pdf-0060-06.png | 53x21 | 0.9KB |
+| 93 | 2025.pdf-0061-13.png | 56x21 | 0.9KB |
+| 94 | 2025.pdf-0062-07.png | 53x21 | 0.9KB |
+| 95 | 2025.pdf-0063-10.png | 56x21 | 0.9KB |
+| 96 | 2025.pdf-0064-12.png | 53x21 | 0.9KB |
+| 97 | 2025.pdf-0065-11.png | 56x21 | 0.9KB |
+| 98 | 2025.pdf-0066-02.png | 53x21 | 0.9KB |
+| 99 | 2025.pdf-0067-21.png | 56x21 | 0.9KB |
+| 100 | 2025.pdf-0068-19.png | 53x22 | 0.9KB |
+| 101 | 2025.pdf-0069-16.png | 56x22 | 0.9KB |
+| 102 | 2025.pdf-0070-17.png | 53x22 | 0.9KB |
+| 103 | 2025.pdf-0071-19.png | 56x22 | 0.9KB |
+| 104 | 2025.pdf-0072-21.png | 53x22 | 0.9KB |
+| 105 | 2025.pdf-0073-21.png | 56x22 | 0.9KB |
+| 106 | 2025.pdf-0074-16.png | 53x22 | 0.8KB |
+| 107 | 2025.pdf-0075-21.png | 56x22 | 0.8KB |
+| 108 | 2025.pdf-0076-13.png | 53x22 | 0.9KB |
+| 109 | 2025.pdf-0077-18.png | 56x22 | 0.8KB |
+| 110 | 2025.pdf-0078-16.png | 53x22 | 0.9KB |
+| 111 | 2025.pdf-0079-21.png | 56x22 | 0.9KB |
+| 112 | 2025.pdf-0080-25.png | 53x22 | 0.8KB |
+| 113 | 2025.pdf-0081-04.png | 56x22 | 0.9KB |
+| 114 | 2025.pdf-0082-08.png | 53x22 | 0.9KB |
+| 115 | 2025.pdf-0083-06.png | 56x22 | 0.9KB |
+| 116 | 2025.pdf-0084-08.png | 53x22 | 0.9KB |
+| 117 | 2025.pdf-0085-08.png | 56x22 | 0.9KB |
+| 118 | 2025.pdf-0086-06.png | 53x22 | 0.9KB |
+| 119 | 2025.pdf-0087-11.png | 56x22 | 0.9KB |
+| 120 | 2025.pdf-0088-11.png | 53x22 | 0.9KB |
+| 121 | 2025.pdf-0089-08.png | 56x22 | 0.9KB |
+| 122 | 2025.pdf-0090-10.png | 53x22 | 0.9KB |
+| 123 | 2025.pdf-0091-09.png | 56x22 | 0.9KB |
+| 124 | 2025.pdf-0092-18.png | 53x22 | 0.9KB |
+| 125 | 2025.pdf-0093-04.png | 56x22 | 0.9KB |
+| 126 | 2025.pdf-0094-21.png | 53x22 | 0.9KB |
+| 127 | 2025.pdf-0095-08.png | 56x22 | 0.9KB |
+| 128 | 2025.pdf-0096-10.png | 53x22 | 0.9KB |
+| 129 | 2025.pdf-0097-10.png | 56x22 | 0.9KB |
+| 130 | 2025.pdf-0098-11.png | 53x22 | 0.9KB |
+| 131 | 2025.pdf-0099-10.png | 56x22 | 0.9KB |
+| 132 | 2025.pdf-0100-09.png | 53x22 | 0.9KB |
+| 133 | 2025.pdf-0101-09.png | 56x22 | 0.9KB |
+| 134 | 2025.pdf-0102-08.png | 53x22 | 0.9KB |
+| 135 | 2025.pdf-0103-03.png | 56x22 | 0.9KB |
+| 136 | 2025.pdf-0104-10.png | 53x22 | 0.9KB |
+| 137 | 2025.pdf-0105-14.png | 56x22 | 0.9KB |
+| 138 | 2025.pdf-0106-04.png | 53x22 | 0.9KB |
+| 139 | 2025.pdf-0107-04.png | 56x22 | 0.9KB |
+| 140 | 2025.pdf-0108-13.png | 53x22 | 0.9KB |
+| 141 | 2025.pdf-0109-11.png | 56x22 | 0.9KB |
+| 142 | 2025.pdf-0110-03.png | 53x22 | 0.9KB |
+| 143 | 2025.pdf-0111-10.png | 56x22 | 0.9KB |
+| 144 | 2025.pdf-0112-10.png | 53x22 | 0.9KB |
+| 145 | 2025.pdf-0113-10.png | 56x22 | 0.9KB |
+| 146 | 2025.pdf-0114-14.png | 53x22 | 0.8KB |
+| 147 | 2025.pdf-0115-08.png | 56x22 | 0.8KB |
+| 148 | 2025.pdf-0116-09.png | 53x22 | 0.9KB |
+| 149 | 2025.pdf-0117-08.png | 56x22 | 0.8KB |
+| 150 | 2025.pdf-0118-14.png | 53x22 | 0.9KB |
+| 151 | 2025.pdf-0119-15.png | 56x22 | 0.9KB |
+| 152 | 2025.pdf-0120-04.png | 53x22 | 0.8KB |
+| 153 | 2025.pdf-0121-05.png | 56x22 | 0.9KB |
+| 154 | 2025.pdf-0122-09.png | 53x22 | 0.9KB |
+| 155 | 2025.pdf-0123-18.png | 56x22 | 0.9KB |
+| 156 | 2025.pdf-0124-18.png | 53x22 | 0.8KB |
+| 157 | 2025.pdf-0125-13.png | 56x22 | 0.8KB |
+| 158 | 2025.pdf-0126-02.png | 53x22 | 0.9KB |
+| 159 | 2025.pdf-0127-12.png | 56x21 | 0.9KB |
+| 160 | 2025.pdf-0128-13.png | 53x21 | 0.9KB |
+| 161 | 2025.pdf-0129-12.png | 56x21 | 0.9KB |
+| 162 | 2025.pdf-0130-16.png | 53x21 | 0.9KB |
+| 163 | 2025.pdf-0131-14.png | 56x21 | 0.9KB |
+| 164 | 2025.pdf-0132-10.png | 53x21 | 0.9KB |
+| 165 | 2025.pdf-0133-13.png | 56x21 | 0.9KB |
+| 166 | 2025.pdf-0134-10.png | 53x21 | 0.9KB |
+| 167 | 2025.pdf-0135-21.png | 56x21 | 0.9KB |
+| 168 | 2025.pdf-0136-15.png | 53x21 | 0.9KB |
+| 169 | 2025.pdf-0137-10.png | 56x21 | 0.9KB |
+| 170 | 2025.pdf-0138-02.png | 53x21 | 0.9KB |
+| 171 | 2025.pdf-0139-18.png | 56x21 | 0.9KB |
+| 172 | 2025.pdf-0140-24.png | 53x22 | 0.9KB |
+| 173 | 2025.pdf-0141-17.png | 56x22 | 0.9KB |
+| 174 | 2025.pdf-0142-17.png | 53x22 | 0.9KB |
+| 175 | 2025.pdf-0143-17.png | 56x22 | 0.9KB |
+| 176 | 2025.pdf-0144-21.png | 53x22 | 0.8KB |
+| 177 | 2025.pdf-0145-19.png | 56x22 | 0.9KB |
+| 178 | 2025.pdf-0146-13.png | 53x22 | 0.9KB |
+| 179 | 2025.pdf-0147-19.png | 56x22 | 0.8KB |
+| 180 | 2025.pdf-0148-14.png | 53x22 | 0.9KB |
+| 181 | 2025.pdf-0149-19.png | 56x22 | 0.9KB |
+| 182 | 2025.pdf-0150-15.png | 53x22 | 0.8KB |
+| 183 | 2025.pdf-0151-17.png | 56x22 | 0.9KB |
+| 184 | 2025.pdf-0152-16.png | 53x22 | 0.9KB |
+| 185 | 2025.pdf-0153-20.png | 56x22 | 0.9KB |
+| 186 | 2025.pdf-0154-14.png | 53x22 | 0.9KB |
+| 187 | 2025.pdf-0155-04.png | 56x22 | 0.9KB |
+| 188 | 2025.pdf-0156-08.png | 53x22 | 0.9KB |
+| 189 | 2025.pdf-0157-06.png | 56x22 | 0.9KB |
+| 190 | 2025.pdf-0158-09.png | 53x22 | 0.9KB |
+| 191 | 2025.pdf-0159-08.png | 56x22 | 0.9KB |
+| 192 | 2025.pdf-0160-04.png | 53x22 | 0.9KB |
+| 193 | 2025.pdf-0161-12.png | 56x22 | 0.9KB |
+| 194 | 2025.pdf-0162-09.png | 53x22 | 0.9KB |
+| 195 | 2025.pdf-0163-09.png | 56x22 | 0.9KB |
+| 196 | 2025.pdf-0164-08.png | 53x22 | 0.9KB |
+| 197 | 2025.pdf-0165-09.png | 56x22 | 0.9KB |
+| 198 | 2025.pdf-0166-09.png | 53x22 | 0.9KB |
+| 199 | 2025.pdf-0167-16.png | 56x22 | 0.9KB |
+| 200 | 2025.pdf-0168-21.png | 53x22 | 0.9KB |
+| 201 | 2025.pdf-0169-08.png | 56x22 | 0.9KB |
+| 202 | 2025.pdf-0170-13.png | 53x22 | 0.9KB |
+| 203 | 2025.pdf-0171-11.png | 56x22 | 0.9KB |
+| 204 | 2025.pdf-0172-11.png | 53x22 | 0.9KB |
+| 205 | 2025.pdf-0173-10.png | 56x22 | 0.9KB |
+| 206 | 2025.pdf-0174-09.png | 53x22 | 0.8KB |
+| 207 | 2025.pdf-0175-09.png | 56x22 | 0.9KB |
+| 208 | 2025.pdf-0176-08.png | 53x22 | 0.9KB |
+| 209 | 2025.pdf-0177-03.png | 56x22 | 0.8KB |
+| 210 | 2025.pdf-0178-11.png | 53x22 | 0.9KB |
+| 211 | 2025.pdf-0179-14.png | 56x22 | 0.9KB |
+| 212 | 2025.pdf-0180-04.png | 53x22 | 0.8KB |
+| 213 | 2025.pdf-0181-05.png | 56x22 | 0.9KB |
+| 214 | 2025.pdf-0182-13.png | 53x22 | 0.9KB |
+| 215 | 2025.pdf-0183-10.png | 56x22 | 0.9KB |
+| 216 | 2025.pdf-0184-03.png | 53x22 | 0.9KB |
+| 217 | 2025.pdf-0185-10.png | 56x22 | 0.9KB |
+| 218 | 2025.pdf-0186-11.png | 53x22 | 0.9KB |
+| 219 | 2025.pdf-0187-14.png | 56x22 | 0.9KB |
+| 220 | 2025.pdf-0188-14.png | 53x22 | 0.9KB |
+| 221 | 2025.pdf-0189-09.png | 56x22 | 0.9KB |
+| 222 | 2025.pdf-0190-09.png | 53x22 | 0.9KB |
+| 223 | 2025.pdf-0191-17.png | 56x22 | 0.9KB |
+| 224 | 2025.pdf-0192-13.png | 53x22 | 0.9KB |
+| 225 | 2025.pdf-0193-05.png | 56x22 | 0.9KB |
+| 226 | 2025.pdf-0194-04.png | 53x22 | 0.9KB |
+| 227 | 2025.pdf-0195-12.png | 56x22 | 0.9KB |
+| 228 | 2025.pdf-0196-19.png | 53x22 | 0.9KB |
+| 229 | 2025.pdf-0197-15.png | 56x22 | 0.9KB |
+| 230 | 2025.pdf-0198-03.png | 53x22 | 0.9KB |
+| 231 | 2025.pdf-0199-11.png | 56x22 | 0.9KB |
+| 232 | 2025.pdf-0200-11.png | 53x22 | 0.9KB |
+| 233 | 2025.pdf-0201-11.png | 56x22 | 0.9KB |
+| 234 | 2025.pdf-0202-00.png | 1219x81 | 2.3KB |
+| 235 | 2025.pdf-0202-01.png | 834x609 | 135.5KB |
+| 236 | 2025.pdf-0202-02.png | 287x1475 | 14.3KB |
+| 237 | 2025.pdf-0202-03.png | 544x116 | 32.7KB |
+| 238 | 2025.pdf-0202-05.png | 827x204 | 40.5KB |
+| 239 | 2025.pdf-0202-06.png | 17x12 | 0.2KB |
+| 240 | 2025.pdf-0202-07.png | 68x471 | 3.4KB |
+| 241 | 2025.pdf-0202-09.png | 737x233 | 40.4KB |
+| 242 | 2025.pdf-0202-11.png | 913x453 | 71.8KB |
+| 243 | 2025.pdf-0203-00.png | 118x119 | 6.0KB |
+| 244 | 2025.pdf-0203-01.png | 773x404 | 55.9KB |
