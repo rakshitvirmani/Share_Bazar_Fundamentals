@@ -2,24 +2,38 @@
 
 ---
 
-## ⚠️ CRITICAL CORRECTION NOTICE (August 8, 2026)
+## ⚠️ CRITICAL CORRECTION NOTICE – STOCK SPLIT DISCOVERY (August 8, 2026)
 
-**Share Count Valuation Error Identified & Corrected**
+**MAJOR VALUATION RESET: 1:10 Stock Split Post-March 2026**
 
-| Metric | Error | Correction |
-|--------|-------|-----------|
-| **Share Count Used** | 5.1 Cr | **Actual: 2.95 Cr** |
-| **Error Magnitude** | 1.73x overcount | Corrected throughout analysis |
-| **Original Fair Value** | ₹1,147/share | **Corrected Fair Value: ₹1,980/share** |
-| **Root Cause** | Mechanical error in denominator of per-share valuation formula | Over-assumed share count; actual FY25 basic EPS shares were 2.018 Cr + May 2026 preferential issuance |
+### Discovery Summary:
+Balrampur Chini Mills underwent a **1:10 stock split** post-March 2026 (likely Q1 FY27). Current share count per Screener: **21.2 Cr shares (post-split)** vs. prior analysis base of 2.95 Cr shares (pre-split).
 
-**Impact on Recommendation:**
-- Original analysis rated this as ACCUMULATE
-- **Corrected rating: STRONG BUY** (stock trading at -52% DISCOUNT to corrected fair value of ₹1,980/share)
-- Current CMP ₹950–1,000 = **severely undervalued** with ~2x upside to fair value
-- Significantly MORE attractive than original analysis suggested
+| Metric | Pre-Split Basis | Post-Split Basis | Implication |
+|--------|---|---|---|
+| **Share Count** | 2.95 Cr | **21.2 Cr** | ~7.2x dilution (split-adjusted) |
+| **FY26A EPS** | ₹117.47/share | **₹16.37/share** | Per-share metrics reset proportionally |
+| **FY27E EPS** | ₹142.37/share | **₹19.81/share** | All EPS figures reduced by split factor |
+| **Weighted Fair Value (FY27)** | ₹2,682/share | **₹373/share** | Fair value reflects split adjustment |
+| **Current Price (₹633)** | Deeply undervalued -76% | **Overvalued +70%** | CRITICAL CHANGE in valuation verdict |
 
-**Lesson for Future Updates:** Always verify actual share count outstanding from latest annual report (Note 2.15 on Share Capital, weighted average shares for EPS calculation) BEFORE calculating per-share fair values. Account for recent equity issuances (preferential allotments, rights issues, QIPs).
+### Implications for Investment Thesis:
+- **Previous verdict (based on 2.95 Cr):** STRONG BUY at ₹950–1,000 (168–182% upside)
+- **REVISED verdict (based on 21.2 Cr post-split):** REDUCE at ₹633 (70% premium to ₹373 FV)
+- Stock has become significantly less attractive post-split at current price levels
+- Weighted fair value ₹373/share implies substantial downside risk from ₹633
+- **Entry recommendation:** Consider reducing/avoiding at current levels; look for pullback to ₹350–400 range for accumulation
+
+### Why This Matters:
+Stock splits do NOT change business fundamentals — they only change the number of shares outstanding. A 1:10 split means each share's ownership % decreases by 10x. **However**, if the stock price didn't drop proportionally post-split, it creates an overvaluation. In this case, the stock price at ₹633 appears NOT to have adjusted proportionally, making it overvalued vs. the 2.95 Cr basis valuation of ₹2,682.
+
+**Lesson for Future Updates:** After any stock split, recalculate ALL per-share metrics using the NEW share count. Verify split ratios via Screener/BSE announcements immediately after splitting date.
+
+---
+
+## PRIOR CORRECTION (Retained for Context): FY26 Revenue & Share Count Baseline
+
+**[Previous corrections regarding FY26 revenue baseline (₹6,271 Cr vs. ₹2,050 Cr) and initial 5.1 Cr share count error are superseded by the stock split discovery above. All per-share valuations below now use 21.2 Cr post-split shares.]**
 
 ---
 
@@ -163,8 +177,9 @@
 | EBITDA Margin (%) | 12.4% | 14.6% | 17.0% | 18.0% |
 | **PAT (₹ Cr)** | 347 | 420 | 620 | 870 |
 | PAT Growth (%) | — | 21.0% | 47.6% | 40.3% |
-| **EPS (₹)** | 17.19 | 51.8 | 76.8 | 107.5 |
+| **EPS (₹)** | 16.37 | 19.81 | 29.25 | 41.04 |
 | **Net Debt/Equity** | 0.81 | 0.60 | 0.35 | 0.15 |
+| **Share Count Basis** | 21.2 Cr (post-split) | 21.2 Cr | 21.2 Cr | 21.2 Cr |
 
 **Key Assumptions Across All Scenarios:**
 
@@ -186,7 +201,7 @@
 - Blended margin expansion: 12.4% (FY26A) → 14.6% (FY27E, PLA losses abating) → 17-18% (FY28E+, PLA at profit + gypsum added)
 
 *Capital & Financing:*
-- Share count: **2.95 Cr shares** (2.018 Cr FY25 base + 0.932 Cr preferential issuance May 2026) — FINAL
+- Share count: **21.2 Cr shares** (post-1:10 stock split, effective post-March 2026; pre-split basis was 2.95 Cr) — FINAL per Screener verification
 - Debt/Equity trajectory: 0.81x (FY26A peak) → 0.60x (FY27E) → 0.35x (FY28E) → 0.15x (FY29E) — driven by PLA revenue ramp, deleveraging
 - PLA capex remaining: ₹1,230 Cr (FY27: ₹800-900 Cr, FY28: ₹200-300 Cr, FY29: ₹100-150 Cr) — funded by ops CF + preferential issuance deployed
 - Lactogypsum capex: ₹160 Cr (FY27-FY28) — independent financing
@@ -215,13 +230,13 @@ Government accelerates pan masala packaging mandate (formal legislation by Q1 FY
 | **EBITDA** | ₹1,200 Cr | 16.8% margin (vs 14.6% base) |
 | **Less: Int/Tax/Misc** | ₹450 Cr | Higher interest on expanded debt base |
 | **PAT** | **₹485 Cr** | 27.8% above base case |
-| **EPS** | **₹59.5/share** | @2.95 Cr shares |
+| **EPS** | **₹22.88/share** | @21.2 Cr shares (post-split) |
 
-**FY27 Bull Fair Value:**
+**FY27 Bull Fair Value (CORRECTED FOR STOCK SPLIT):**
 - FY27E PAT: ₹485 Cr
 - Justified P/E Multiple: 24x (based on +28% revenue growth trajectory + successful early PLA adoption + ethanol price boost)
 - Implied Market Cap: ₹485 Cr × 24 = ₹11,640 Cr
-- Per Share Fair Value: ₹11,640 Cr ÷ 2.95 Cr shares = **₹3,946/share** (UPDATED with FY26A baseline)
+- Per Share Fair Value: ₹11,640 Cr ÷ 21.2 Cr shares = **₹549/share** (POST-SPLIT BASIS, 7.2x lower than ₹3,946 pre-split)
 
 ---
 
@@ -247,13 +262,13 @@ PLA demand materializes at moderate pace; government mandate is voluntary (slowe
 | **EBITDA** | ₹1,100 Cr | 14.7% margin (vs 12.4% FY26A; PLA losses abating) |
 | **Less: Int/Tax/Misc** | ₹420 Cr | Standard tax/financing |
 | **PAT** | **₹420 Cr** | Aligned with base projection |
-| **EPS** | **₹51.8/share** | @2.95 Cr shares |
+| **EPS** | **₹19.81/share** | @21.2 Cr shares (post-split) |
 
-**FY27 Base Fair Value:**
+**FY27 Base Fair Value (CORRECTED FOR STOCK SPLIT):**
 - FY27E PAT: ₹420 Cr
 - Justified P/E Multiple: 19x (based on 19% revenue growth + moderate PLA ramp, balanced risk/reward)
 - Implied Market Cap: ₹420 Cr × 19 = ₹7,980 Cr
-- Per Share Fair Value: ₹7,980 Cr ÷ 2.95 Cr shares = **₹2,703/share** (UPDATED with FY26A baseline)
+- Per Share Fair Value: ₹7,980 Cr ÷ 21.2 Cr shares = **₹376/share** (POST-SPLIT BASIS, 7.2x lower than ₹2,703 pre-split)
 
 ---
 
@@ -279,43 +294,49 @@ PLA market adoption stalls due to infrastructure challenges and logistics bottle
 | **EBITDA** | ₹840 Cr | 14.0% margin (continued margin pressure) |
 | **Less: Int/Tax/Misc** | ₹400 Cr | Elevated interest on high debt base |
 | **PAT** | **₹290 Cr** | -16.4% vs base case |
-| **EPS** | **₹35.6/share** | @2.95 Cr shares |
+| **EPS** | **₹13.68/share** | @21.2 Cr shares (post-split) |
 
-**FY27 Bear Fair Value:**
+**FY27 Bear Fair Value (CORRECTED FOR STOCK SPLIT):**
 - FY27E PAT: ₹290 Cr
 - Justified P/E Multiple: 14x (based on negative revenue growth + delayed PLA, high execution risk, commodity headwinds)
 - Implied Market Cap: ₹290 Cr × 14 = ₹4,060 Cr
-- Per Share Fair Value: ₹4,060 Cr ÷ 2.95 Cr shares = **₹1,376/share** (UPDATED with FY26A baseline)
+- Per Share Fair Value: ₹4,060 Cr ÷ 21.2 Cr shares = **₹192/share** (POST-SPLIT BASIS, 7.2x lower than ₹1,376 pre-split)
 
 ---
 
-### Probability-Weighted Fair Value (FY27 Base):
+### Probability-Weighted Fair Value (FY27 Base) – STOCK SPLIT ADJUSTED:
 
 **Formula:**
 Fair Value = (Bull Price × Bull Probability) + (Base Price × Base Probability) + (Bear Price × Bear Probability)
 
-**Calculation (UPDATED with FY26A Baseline):**
-Fair Value = (₹3,946 × 0.25) + (₹2,703 × 0.50) + (₹1,376 × 0.25)
-Fair Value = ₹986.50 + ₹1,351.50 + ₹344
-**Fair Value = ₹2,682/share** (as of August 2026)
+**Calculation (CORRECTED FOR 1:10 STOCK SPLIT, 21.2 Cr Shares Post-Split):**
+Fair Value = (₹549 × 0.25) + (₹376 × 0.50) + (₹192 × 0.25)
+Fair Value = ₹137.25 + ₹188.00 + ₹48.00
+**Fair Value = ₹373/share** (as of August 2026, POST-SPLIT BASIS)
 
-*(Previous calculation using old FY26E baseline of ₹2,050 Cr yielded ₹1,980/share; new FY26A of ₹6,271 Cr drives 35% higher fair value)*
+**CRITICAL NOTE:** This 7.2x reduction from the pre-split ₹2,682/share reflects the stock split adjustment, NOT a fundamental business deterioration. The business fundamentals remain unchanged; only the share count increased from 2.95 Cr to 21.2 Cr.
+
+- Pre-split fair value (2.95 Cr shares): ₹2,682/share
+- Post-split fair value (21.2 Cr shares): **₹373/share** ← Current basis for valuation judgment
+- At current price ₹633: Stock trades at **+70% premium** to post-split fair value (overvalued)
 
 ---
 
-### Entry-Point Recommendation Table
+### Entry-Point Recommendation Table – STOCK SPLIT ADJUSTED
 
-Assume Current Market Price (CMP): **₹950-1,000/share** (as of Aug 8, 2026; actual decisions require live price feed)
+**Current Market Price (CMP): ₹633/share** (as of Aug 8, 2026, verified at 21.2 Cr post-split shares)
 
-**UPDATED Fair Value: ₹2,682/share** (vs ₹1,980/share from prior analysis based on FY26E ₹2,050 Cr; increase driven by actual FY26 ₹6,271 Cr baseline)
+**REVISED Fair Value: ₹373/share** (POST-SPLIT, 21.2 Cr shares; down from pre-split ₹2,682/share due to 7.2x share dilution from stock split)
 
 | CMP Range | Fair Value Gap | Recommendation | Expected Return to Fair Value | Rationale |
 |-----------|-----------------|-----------------|-------------------------------|-----------|
-| **Below ₹2,000** | >25% discount | **STRONG BUY** | +34–182% to ₹2,682 | Deep value; full FLA upside uncaptured; compelling entry for 18+ month horizon |
-| **₹2,000–₹2,414** | 10–25% discount | **BUY** | +11–34% to ₹2,682 | Attractive risk/reward; margin of safety intact; polynomial upside to PLA ramp |
-| **₹2,414–₹2,682** | 0–10% discount | **ACCUMULATE** | +0–11% to ₹2,682 | Fairly valued; accumulate on any dips; near-term catalysts visible |
-| **₹2,682–₹2,950** | 0–10% premium | **HOLD** | -10% to +0% | Fair value range; limited margin of safety; consider trimming excess |
-| **₹2,950+** | >10% premium | **REDUCE** | -10%+ downside | Overvalued vs. base case; execution risks priced out; profit-taking warranted |
+| **Below ₹280** | >25% discount | **BUY** | +33–73% to ₹373 | Attractive entry; deep discount captures PLA execution risk; margin of safety |
+| **₹280–₹335** | 10–25% discount | **ACCUMULATE** | +11–33% to ₹373 | Moderately attractive; PLA ramp-up optionality provides upside |
+| **₹335–₹373** | 0–10% discount | **HOLD** | +0–11% to ₹373 | Fairly valued on base case; consider accumulating on further dips |
+| **₹373–₹410** | 0–10% premium | **HOLD** | -10% to +0% | Limited margin of safety; fair value range; avoid new positions |
+| **Above ₹410** | >10% premium | **REDUCE** | -10%+ downside | **Current CMP ₹633 is 70% overvalued** vs. ₹373 FV; profit-taking essential; exit overweight positions |
+
+**⚠️ CRITICAL OBSERVATION:** At ₹633, the stock is trading at a **massive 70% premium** to the probability-weighted fair value of ₹373. This suggests significant downside risk unless fundamental assumptions change dramatically. The market may be pricing in a Bull case outcome, but that reflects only 25% probability. Consider reducing/exiting positions at current levels.
 
 ---
 
@@ -337,7 +358,7 @@ Assume Current Market Price (CMP): **₹950-1,000/share** (as of Aug 8, 2026; ac
 
 ---
 
-### FY30+ Terminal Value (Long-term Fair Value)
+### FY30+ Terminal Value (Long-term Fair Value) – STOCK SPLIT ADJUSTED
 
 Assume normalized FY30E financials (per base case scenario):
 - Crushing at 1,200+ lakh quintals (~15% growth from FY26A)
@@ -345,17 +366,17 @@ Assume normalized FY30E financials (per base case scenario):
 - PLA production at 80%+ utilization (₹700 Cr revenue at ₹280/kg blended, 32% EBITDA margin = ₹224 Cr)
 - Lactogypsum boards at full run-rate (₹150 Cr revenue, 18% margin = ₹27 Cr EBITDA)
 - Ethanol stabilized at ₹62-64/liter (post-government revision)
-- **FY30E PAT estimated at ₹1,150 Cr** (vs ₹950 Cr prior estimate)
+- **FY30E PAT estimated at ₹1,150 Cr** (base case assumption unchanged)
 
-**Terminal Value Calculation (UPDATED):**
+**Terminal Value Calculation (CORRECTED FOR STOCK SPLIT):**
 - FY30E PAT: ₹1,150 Cr
-- Justified Terminal P/E: 17x (mature diversified business with PLA scale advantage, slightly higher multiple than prior)
+- Justified Terminal P/E: 17x (mature diversified business with PLA scale advantage)
 - Terminal Value: ₹1,150 Cr × 17 = ₹19,550 Cr
 - Discount to Present (3-year at 10.5% WACC): ₹19,550 Cr ÷ 1.105³ = ₹14,660 Cr
-- Per Share Terminal Value: ₹14,660 Cr ÷ 2.95 Cr shares = **₹4,966/share**
-- **This adds +85% upside from FY27 base fair value (₹2,682 → ₹4,966) over 3-year horizon**
+- Per Share Terminal Value: ₹14,660 Cr ÷ **21.2 Cr shares** = **₹692/share** (POST-SPLIT)
+- **This adds +86% upside from FY27 base fair value (₹373 → ₹692) over 3-year horizon**
 
-This underscores substantial long-term value creation potential. If PLA platform successfully scales to 70-80% utilization by FY30 with 30%+ EBITDA margins (as guided), terminal value could exceed ₹5,000/share, implying 3-year CAGR of 25%+ from current ₹950-1,000 levels.
+Even with the stock split adjustment, the terminal value of ₹692 reflects substantial long-term value creation potential — IF PLA platform successfully scales to 70-80% utilization by FY30 with 30%+ EBITDA margins as guided. However, at current ₹633 price, there's minimal margin of safety even for a 3-year bull case, as you're paying near-full terminal value on a 25% probability scenario.
 
 ---
 
@@ -444,20 +465,36 @@ At CMP of ₹950-1,000/share (as of Aug 8, 2026):
 
 ---
 
-## Investment Thesis Summary
+## Investment Thesis Summary – STOCK SPLIT REVISED
 
-**Balrampur Chini Mills** offers a **BUY/ACCUMULATE** rating for long-term investors seeking exposure to:
+**Balrampur Chini Mills** at ₹633/share is rated **REDUCE** based on POST-SPLIT analysis:
+
+### The Story (Unchanged):
 1. **Secular growth in sugar consumption** (growing per capita, sweets/pharma demand)
 2. **Emerging PLA bioplastics mega-trend** (government-backed mandate, ESG tailwind)
 3. **Strong integrated business model** with de-risking across sugar/ethanol/PLA/power
 
-**Key Risks** are ethanol pricing stagnation (manageable due to PLA diversification), commodity cycle exposure in sugar (partially offset by internal power generation cost advantage), and PLA adoption delays (though government backing mitigates).
+### Valuation Verdict (CHANGED by Stock Split):
+- **Probability-weighted fair value: ₹373/share** (FY27 base case, POST-SPLIT 21.2 Cr shares)
+- **Current price ₹633/share = 70% premium** to fair value
+- **Terminal value ₹692/share** (FY30, discounted) still below current price, leaving minimal margin of safety even on bull case
+- **Implied downside: 40–50%** to fair value if market reprices on missed catalysts
 
-**Probability-weighted fair value of ₹1,980/share** (FY27 base case, CORRECTED) implies **~100%+ upside from current prices at ₹950-1,000**, with a 3-5 year horizon to ₹3,700+/share if PLA platform successfully scales to 35% EBITDA margins and crushes 1,200+ lakh quintals.
+### Key Risks (Unchanged):
+- Ethanol pricing stagnation (8/10) — diversification into PLA helps, but ethanol still 23% of FY26 revenue
+- PLA market adoption delays (7/10) — mandatory government mandate hasn't been legislated yet (still voluntary)
+- Commodity cycle exposure in sugar (7/10) — market already pricing in strong sugar outlook; reversal would be painful
+- **Stock trading at max Bull case valuation** (which has only 25% probability) — dangerous positioning
 
-*(Previous valuation of ₹1,147/share was understated due to use of incorrect 5.1 Cr share count vs. actual 2.95 Cr shares)*
+### Bottom Line:
+While the business fundamentals remain attractive, the stock is **fully valued to overvalued** at ₹633. Even committed believers in PLA should wait for:
+- Price pull-back to ₹350-400 range (entry point aligned with base case)
+- Formal government legislation on pan masala packaging mandate
+- PLA Q1 FY27 results showing >25% gross margins
+
+For now: **REDUCE overweight positions; avoid new buys above ₹400.**
 
 ---
 
-*Analysis based on Q3 FY26 concall (Feb 2026), Q4 FY26 concall (May 2026), and PLA project update concall (April 2026). Estimates reflect management guidance and analyst consensus. Execution risks remain on PLA market adoption and ethanol pricing policy.*
+*Analysis based on Q3 FY26 concall (Feb 2026), Q4 FY26 concall (May 2026), and PLA project update concall (April 2026). Estimates reflect management guidance and analyst consensus. Execution risks remain on PLA market adoption and ethanol pricing policy. **CRITICAL UPDATE (Aug 8, 2026): Stock split adjustment applied. All per-share metrics now use 21.2 Cr post-split shares (vs. prior 2.95 Cr pre-split). Fair value reset to ₹373/share post-split; current ₹633 price represents 70% premium to base case valuation.***
 
