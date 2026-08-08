@@ -1,5 +1,27 @@
 # Choice International Limited: 7-Section Equity Analysis
 
+---
+
+## ⚠️ CRITICAL CORRECTION NOTICE (August 8, 2026)
+
+**Share Count Valuation Error Identified & Corrected**
+
+| Metric | Error | Correction |
+|--------|-------|-----------|
+| **Share Count Used** | 2.0 Cr | **Actual: 22.3 Cr** |
+| **Error Magnitude** | 11.15x undercount | Corrected throughout analysis |
+| **Original Fair Value** | ₹4,059/share | **Corrected Fair Value: ₹381/share** |
+| **Root Cause** | Mechanical error in denominator of per-share valuation formula | Verified against actual market data and annual reports |
+
+**Impact on Recommendation:**
+- Original analysis rated this as BUY/ACCUMULATE
+- **Corrected rating: REDUCE** (stock trading at 120% premium to corrected fair value of ₹381/share)
+- Current CMP ₹841 = severely overvalued
+
+**Lesson for Future Updates:** Always verify actual share count outstanding from latest annual report (Balance Sheet, Note on EPS calculation) BEFORE calculating per-share fair values. Do NOT rely on earlier analysis assumptions.
+
+---
+
 ## Section 1: Business Model Overview
 
 **Choice International Limited** is a diversified financial services platform with an integrated operating model across four core verticals: broking & distribution, wealth management & asset management, advisory & investment banking, and NBFC (non-bank financial company). The company serves Tier-2/Tier-3 geographies in India with a hybrid digital-physical distribution model.

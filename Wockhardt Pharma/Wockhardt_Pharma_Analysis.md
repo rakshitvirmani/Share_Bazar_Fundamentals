@@ -1,5 +1,28 @@
 # Wockhardt Limited: 7-Section Equity Analysis
 
+---
+
+## ⚠️ CRITICAL CORRECTION NOTICE (August 8, 2026)
+
+**Share Count Valuation Error Identified & Corrected**
+
+| Metric | Error | Correction |
+|--------|-------|-----------|
+| **Share Count Used** | 1.185 Cr | **Actual: 16.2 Cr** |
+| **Error Magnitude** | 13.65x undercount | Corrected throughout analysis |
+| **Original Fair Value** | ₹7,490/share | **Corrected Fair Value: ₹549/share** |
+| **Root Cause** | Mechanical error in denominator of per-share valuation formula | Share count from QIP assumption, not actual current shares outstanding |
+
+**Impact on Recommendation:**
+- Original analysis rated this as BUY
+- **Corrected rating: STRONG REDUCE** (stock trading at 268% premium to corrected fair value of ₹549/share)
+- Current CMP ₹2,021 = severely overvalued (priced for flawless Zaynich execution + speculation premium)
+- Bear case downside to ₹322/share implies 84% risk if Zaynich adoption disappoints
+
+**Lesson for Future Updates:** Always verify actual share count outstanding from latest annual report AND current shareholding patterns BEFORE calculating per-share fair values. Do NOT use projected share counts from QIPs or rights issues that haven't yet been reflected in current capitalization.
+
+---
+
 ## Section 1: Business Model Overview
 
 **Wockhardt Limited** is a global, research-driven pharmaceutical and biotechnology company with operations across three core platforms: pharmaceuticals (75% of business), specialty biologics/biosimilars, and novel antibiotics (NCE - New Chemical Entity). The company operates 11 manufacturing facilities and 2 R&D centers globally, with geographies spanning India, UK, Ireland, US, and emerging markets.

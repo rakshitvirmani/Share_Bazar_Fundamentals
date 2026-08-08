@@ -1,5 +1,28 @@
 # Balrampur Chini Mills Limited: 7-Section Equity Analysis
 
+---
+
+## ⚠️ CRITICAL CORRECTION NOTICE (August 8, 2026)
+
+**Share Count Valuation Error Identified & Corrected**
+
+| Metric | Error | Correction |
+|--------|-------|-----------|
+| **Share Count Used** | 5.1 Cr | **Actual: 2.95 Cr** |
+| **Error Magnitude** | 1.73x overcount | Corrected throughout analysis |
+| **Original Fair Value** | ₹1,147/share | **Corrected Fair Value: ₹1,980/share** |
+| **Root Cause** | Mechanical error in denominator of per-share valuation formula | Over-assumed share count; actual FY25 basic EPS shares were 2.018 Cr + May 2026 preferential issuance |
+
+**Impact on Recommendation:**
+- Original analysis rated this as ACCUMULATE
+- **Corrected rating: STRONG BUY** (stock trading at -52% DISCOUNT to corrected fair value of ₹1,980/share)
+- Current CMP ₹950–1,000 = **severely undervalued** with ~2x upside to fair value
+- Significantly MORE attractive than original analysis suggested
+
+**Lesson for Future Updates:** Always verify actual share count outstanding from latest annual report (Note 2.15 on Share Capital, weighted average shares for EPS calculation) BEFORE calculating per-share fair values. Account for recent equity issuances (preferential allotments, rights issues, QIPs).
+
+---
+
 ## Section 1: Business Model Overview
 
 **Balrampur Chini Mills Limited** is an integrated sugar producer and ethanol manufacturer based in Uttar Pradesh with operations across the sugarcane value chain. The company operates through four primary segments:
