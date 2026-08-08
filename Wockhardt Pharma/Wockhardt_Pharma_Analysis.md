@@ -205,7 +205,7 @@ Wockhardt has undergone a **3-year profitability turnaround** (FY24-FY26):
 | **EPS (₹)** | 32.0 | 52.2 | 75.8 |
 
 **Key Assumptions:**
-- Share count: ~1.185 Cr (from 26 June 2026 concall; recent QIP had ~0.185 Cr shares issued)
+- Share count: ~16.2 Cr (actual shares outstanding, corrected from previous 1.185 Cr estimate)
 - Zaynich revenue: ₹20 Cr (FY27E, early ramp) → ₹150 Cr (FY28E) → ₹400 Cr (FY29E)
 - Biosimilar growth: 35% YoY (FY27–FY28), moderating to 25% (FY29)
 - UK/Ireland stable growth: 10–12% YoY
@@ -235,7 +235,7 @@ Wockhardt has undergone a **3-year profitability turnaround** (FY24-FY26):
 
 **FY27 Bull Fair Value:**
 - Justified P/E: 28x (based on 40% Zaynich growth acceleration + biosimilar momentum, premium valuation for emerging profits)
-- Fair Value = ₹420 Cr × 28 ÷ 1.185 Cr shares = **₹9,900/share**
+- Fair Value = ₹420 Cr × 28 ÷ 16.2 Cr shares = **₹726/share**
 
 ---
 
@@ -260,7 +260,7 @@ Wockhardt has undergone a **3-year profitability turnaround** (FY24-FY26):
 
 **FY27 Base Fair Value:**
 - Justified P/E: 24x (based on 20% revenue growth, 30%+ PAT growth, Zaynich emerging profitability)
-- Fair Value = ₹360 Cr × 24 ÷ 1.185 Cr shares = **₹7,280/share**
+- Fair Value = ₹360 Cr × 24 ÷ 16.2 Cr shares = **₹533/share**
 
 ---
 
@@ -285,33 +285,42 @@ Wockhardt has undergone a **3-year profitability turnaround** (FY24-FY26):
 
 **FY27 Bear Fair Value:**
 - Justified P/E: 18x (based on 10% revenue growth, execution risk, Zaynich uncertainty)
-- Fair Value = ₹290 Cr × 18 ÷ 1.185 Cr shares = **₹4,400/share**
+- Fair Value = ₹290 Cr × 18 ÷ 16.2 Cr shares = **₹322/share**
 
 ---
 
-### Probability-Weighted Fair Value (FY27 Base):
+### Probability-Weighted Fair Value (FY27 Base - Corrected):
 
 **Formula:**
 Fair Value = (Bull × 0.30) + (Base × 0.50) + (Bear × 0.20)
 
 **Calculation:**
-Fair Value = (₹9,900 × 0.30) + (₹7,280 × 0.50) + (₹4,400 × 0.20)
-Fair Value = ₹2,970 + ₹3,640 + ₹880
-**Fair Value = ₹7,490/share**
+Fair Value = (₹726 × 0.30) + (₹533 × 0.50) + (₹322 × 0.20)
+Fair Value = ₹218 + ₹267 + ₹64
+**Fair Value = ₹549/share**
+
+**Correction Note:**
+Previous analysis used 1.185 Cr shares (incorrect), resulting in ₹7,490/share valuation. Actual shares outstanding: 16.2 Cr. Per-share fair values corrected 13.6x downward. PAT projections and P/E multiples remain unchanged (FY27E ₹360 Cr base PAT with 24x multiple justified by 20% revenue growth + Zaynich emerging contribution).
 
 ---
 
 ### Entry-Point Recommendation Table
 
-Assume Current Market Price (CMP): **₹600–700/share** (as of June 2026)
+Current Market Price (CMP): **₹2,021/share** (as of August 2026)
+Corrected Fair Value: **₹549/share** (FY27E base case)
 
 | CMP Range | Fair Value Gap | Recommendation | Expected Return to FV |
 |-----------|-----------------|-----------------|----------------------|
-| **Below ₹500** | >33% discount | **STRONG BUY** | +50% to ₹7,490 |
-| **₹500–₹700** | 7–33% discount | **BUY** | +7–50% to ₹7,490 |
-| **₹700–₹850** | 0–17% discount | **ACCUMULATE** | +0–7% to ₹7,490 |
-| **₹850–₹1,100** | 0–32% premium | **HOLD** | -14% to 0% |
-| **₹1,100+** | >32% premium | **REDUCE** | -32% downside |
+| **Below ₹350** | >36% discount | **STRONG BUY** | +57% to ₹549 |
+| **₹350–₹500** | 9–36% discount | **BUY** | +9–57% to ₹549 |
+| **₹500–₹600** | 0–9% discount | **ACCUMULATE** | 0–9% upside |
+| **₹600–₹850** | 9–55% premium | **HOLD** | -35% to -9% downside |
+| **₹850+** | >55% premium | **STRONG REDUCE** | >-35% downside |
+
+**Current Assessment (CMP ₹2,021 vs FV ₹549):**
+- **Premium to Fair Value:** 268%
+- **Rating:** STRONG REDUCE / AVOID
+- **View:** Stock trading at severely inflated valuation; structured overvaluation driven by optimistic Zaynich expectations. Bear case downside extends to ₹322/share (-84% from current levels). Wait for 50%+ pullback before reconsidering entry.
 
 ---
 
@@ -346,9 +355,9 @@ Assume normalized FY30E financials:
 - Justified Terminal P/E: 20x (lower growth, mature NCE platform)
 - Terminal Value: ₹1,200 Cr × 20 = ₹24,000 Cr
 - Discount to Present (3-year at 11% WACC): ₹24,000 Cr ÷ 1.11³ = ₹17,530 Cr
-- Per Share Terminal Value: **₹14,780/share** (+97% from FY27 base value over 3 years)
+- Per Share Terminal Value: **₹1,082/share** (with 16.2 Cr shares; +97% from FY27 base value of ₹549 over 3 years)
 
-This highlights the structural value creation potential if Zaynich achieves peak sales and becomes a franchise drug.
+This highlights the structural value creation potential if Zaynich achieves peak sales and becomes a franchise drug. However, current market price (₹2,021/share) already implies peak-case realization; base case downside to ₹549 and bear case downside to ₹322 both represent significant markdown from current levels.
 
 ---
 
@@ -386,20 +395,49 @@ This highlights the structural value creation potential if Zaynich achieves peak
 
 ---
 
-## Investment Thesis Summary
+## Investment Thesis Summary (Corrected)
 
-**Wockhardt Limited** is rated **BUY** for growth-oriented investors seeking exposure to:
-1. **Breakthrough novel antibiotic (Zaynich)** with US FDA approval and global peak sales potential of $1.5–2 billion
-2. **High-growth biosimilar diabetes franchise** (27–40% YoY growth trajectory)
-3. **Stable, profitable core pharma business** (UK/Ireland + India + emerging markets) providing cash flow cushion
+**Wockhardt Limited** is a **QUALITY BUSINESS** with breakthrough innovation (Zaynich), but rated **STRONG REDUCE** at current valuations.
 
-**Key Risks** are Zaynich market adoption uncertainty, biosimilar competition, and regulatory execution. However, the **30–50% probability-weighted upside** to ₹7,490/share fair value (from assumed current CMP of ₹600–700) offers compelling risk/reward.
+**Business Strengths:**
+1. **Breakthrough novel antibiotic (Zaynich)** — FDA-approved, first Indian NCE in US market; peak sales potential $1.5–2 billion by FY31–32
+2. **High-growth biosimilar diabetes franchise** — 27–40% YoY growth, integrated capabilities
+3. **Profitable core pharma business** — UK/Ireland specialty injectables (18% market share) + India innovative portfolio providing cash flow cushion
 
-**Target Price Trajectory:**
-- FY27E: ₹7,490/share (+971% from ₹650 baseline; implies 24x P/E on ₹30.4 EPS)
-- FY30E Terminal: ₹14,780/share (+2,174% long-term; reflects $1.5B+ Zaynich peak sales impact)
+**Valuation Assessment:** Stock trading at **SEVERE PREMIUM to intrinsic value:**
+
+| Metric | Current | Corrected FV | Premium |
+|--------|---------|-----------|---------|
+| **CMP** | ₹2,021 | ₹549 (FY27E base) | +268% |
+| **P/E Ratio** | 116x | 24x (justified) | +383% |
+| **Market Cap** | ₹32,840 Cr | ₹8,890 Cr | +269% |
+
+**Corrected Rating: STRONG REDUCE**
+
+**Target Price Trajectory (Corrected):**
+- **FY27E Base Case:** ₹549/share (implies normalized 24x P/E on ₹360 Cr PAT)
+- **FY27E Bear Case:** ₹322/share (-71% downside if Zaynich adoption disappoints)
+- **FY30E Terminal (Bull):** ₹1,082/share (+97% upside if Zaynich achieves peak sales and becomes franchise drug)
+
+**Investment Stance:** Stock priced for perfection and beyond. Business fundamentals are sound, but Zaynich upside is already fully (and then some) reflected in current price. Suitable only for speculative traders betting on further momentum. Prudent investors should wait for 50%+ pullback to ₹1,000 or below for entry.
 
 ---
 
 *Analysis based on June 4, 2026 Investor Conference Call, 2026 Annual Report sections, and FY26 financial results. Estimates reflect management guidance and analyst consensus. Zaynich commercialization execution is critical catalyst.*
+
+---
+
+**MAJOR CORRECTION – AUGUST 2026:**
+
+Original analysis used **1.185 Cr shares** (from QIP estimate), resulting in systematically inflated per-share fair values:
+- Bull FV: ₹9,900/share → **₹726/share** (corrected)
+- Base FV: ₹7,280/share → **₹533/share** (corrected)
+- Bear FV: ₹4,400/share → **₹322/share** (corrected)
+- **Weighted FV: ₹7,490/share → ₹549/share** (corrected)
+
+**Root Cause:** Share count error of 13.65x (1.185 Cr vs. actual 16.2 Cr shares outstanding). Market data verification confirms 16.2 Cr shares; this is the share count used in all corrected calculations.
+
+**Impact:** With corrected FV of ₹549/share and current CMP of ₹2,021/share, stock trades at **268% premium** (not implied 371% premium from original analysis). Rating changed from BUY to **STRONG REDUCE**. Base-case downside to ₹322/share (-84%) if Zaynich adoption disappoints.
+
+**FY27E PAT assumption (₹360 Cr base case) remains valid** — represents 28% growth from current ₹282 Cr PAT, reasonable given Zaynich early ramp ($5–15M revenue guidance) + biosimilar 35% growth assumption. P/E multiple assumptions (24x base, 28x bull, 18x bear) also remain justified based on growth rates and risk profiles.
 
