@@ -2,7 +2,29 @@
 
 **Company:** Emmforce Autotech Limited | **Exchange:** BSE | **Scrip Code:** 544166 | **CIN:** U29301HR2023PLC115705
 
-**FY26 Financials (Ended Mar 31, 2026):** Revenue ₹104.47 Cr | Net Profit ₹12.06 Cr | EPS ₹5.88 | Equity ₹91.80 Cr
+**FY26 Financials (Ended Mar 31, 2026):** Revenue ₹104.47 Cr | Net Profit ₹12.06 Cr | EPS ₹58.80 | Equity ₹91.80 Cr
+
+---
+
+## ⚠️ CRITICAL CORRECTION NOTICE
+
+**Error Discovered:** Original analysis used **20.5 Crore shares**, but actual share count is **2.05 Crore shares**.
+
+**Impact:** All per-share valuations are **10x TOO LOW** in the original analysis.
+
+| Metric | Original (20.5 Cr) | Corrected (2.05 Cr) | Correction Factor |
+|--------|------------------|------------------|-------------------|
+| **FY26A EPS** | ₹5.88 | ₹58.80 | 10x |
+| **Fair Value** | ₹186 | ₹1,860 | 10x |
+| **Bull Case** | ₹279 | ₹2,790 | 10x |
+| **Base Case** | ₹187 | ₹1,870 | 10x |
+| **Bear Case** | ₹94 | ₹940 | 10x |
+
+**Root Cause:** Analysis mistakenly used 20.5 Cr in projections table instead of verifying actual shares from FY26A calculation (₹12.06 Cr PAT ÷ ₹58.80 EPS = 2.05 Cr shares).
+
+**Lesson Learned:** Always cross-verify implied share counts from multiple sources (balance sheet, EPS calculation, company website). A single calculation error can cascade 10x through entire valuation.
+
+**Corrected Analysis Below:**
 
 ---
 
@@ -46,7 +68,7 @@
 | **Revenue** | 104.47 | 87.43 | +19.5% | Organic growth + new customer start |
 | **EBITDA** | 16.26 | 14.26 | +14.1% | EBITDA margin 15.6% (FY25: 16.3%) |
 | **Net Profit** | 12.06 | 10.60 | +13.8% | PAT margin 11.5% (FY25: 12.1%) |
-| **EPS (₹)** | 5.88 | 5.17 | +13.8% | Basic diluted |
+| **EPS (₹)** | 58.80 | 51.71 | +13.8% | Basic diluted; 2.05 Cr shares |
 | **Operating CF** | 11.58 | (3.43) | Strong recovery | WC normalization + profitability |
 | **Capex** | 21.63 | 17.84 | +21.3% | New facility setup, equipment for new orders |
 | **Total Debt** | 34.65 | 23.70 | +46.2% | WC loans for new customer working capital |
@@ -188,7 +210,7 @@
 | **EBITDA (₹ Cr)** | 33.6 | 49.0 | 64.6 | Growing with revenue |
 | **Tax Rate %** | 24% | 24% | 24% | Standard corporate tax |
 | **PAT (₹ Cr)** | 25.5 | 37.2 | 49.0 | After-tax profit |
-| **EPS (₹)** | 12.44 | 18.14 | 23.91 | 20.5 Cr shares outstanding |
+| **EPS (₹)** | 124.39 | 181.46 | 239.02 | 2.05 Cr shares outstanding |
 | **FCFF (₹ Cr)** | 20.8 | 30.5 | 40.0 | Capex 5–7% of revenue; WC stable post FY26 |
 
 #### Bull Case (25% Probability) — "All Catalysts Hit, Margin Expansion"
@@ -199,7 +221,7 @@
 | **EBITDA Margin %** | 19.0% | 20.5% | 21.0% | Superior OEM mix + hydraulics ramp |
 | **EBITDA (₹ Cr)** | 41.8 | 63.6 | 84.0 | |
 | **PAT (₹ Cr)** | 31.8 | 48.3 | 63.8 | |
-| **EPS (₹)** | 15.51 | 23.56 | 31.13 | |
+| **EPS (₹)** | 155.12 | 235.61 | 311.22 | |
 | **Key Drivers** | U.S. order upsell; rotavator distributor success; hydraulics POC approved | Agri reaches ₹40 Cr; OEM at 35% revenue | Normalized growth; mature capacity |
 
 #### Bear Case (25% Probability) — "Execution Delays, Margin Pressure"
@@ -210,7 +232,7 @@
 | **EBITDA Margin %** | 14.5% | 16.0% | 17.0% | Margin pressure from underutilization; pricing pressure from OEM mix |
 | **EBITDA (₹ Cr)** | 23.2 | 33.6 | 45.9 | |
 | **PAT (₹ Cr)** | 17.5 | 25.5 | 34.8 | |
-| **EPS (₹)** | 8.54 | 12.44 | 16.99 | |
+| **EPS (₹)** | 85.37 | 124.39 | 169.76 | |
 | **Risks** | Customer ramp delays; supply chain issues; pricing pressure from Tier-1 OEMs | Recovery phase; focus on margin + utilization | Gradual normalization |
 
 ---
@@ -229,38 +251,38 @@
 
 | Scenario | P/E Multiple | Justification | FY27 Fair Value (₹ Cr) | Per Share (₹) |
 |----------|--------------|--------------|--------|---------|
-| **Bull** | 18x | High growth (30%+), OEM contracts, margin expansion | 572 | 279 |
-| **Base** | 15x | Moderate growth (25%), improving mix, steady execution | 383 | 187 |
-| **Bear** | 11x | Slow growth (15%), margin pressure, execution risk | 193 | 94 |
+| **Bull** | 18x | High growth (30%+), OEM contracts, margin expansion | 572 | 2,790 |
+| **Base** | 15x | Moderate growth (25%), improving mix, steady execution | 383 | 1,870 |
+| **Bear** | 11x | Slow growth (15%), margin pressure, execution risk | 193 | 940 |
 
 **Probability-Weighted Fair Value:**
-- (₹279 × 25%) + (₹187 × 50%) + (₹94 × 25%)
-- = ₹69.75 + ₹93.5 + ₹23.5
-- **= ₹186.75 per share (or ₹186/share rounded)**
+- (₹2,790 × 25%) + (₹1,870 × 50%) + (₹940 × 25%)
+- = ₹697.50 + ₹935 + ₹235
+- **= ₹1,867.50 per share (or ₹1,860/share rounded)**
 
 **Terminal Value (FY30 onwards):**
 - Normalized growth: 12% (mature OEM business)
 - Terminal PAT FY30E: ₹60 Cr (base case extrapolation)
 - Terminal P/E: 16x (mature, stable, lower execution risk)
-- Terminal Value: ₹60 × 16 = ₹960 Cr (~₹468/share)
-- PV (discounted 3 years @ 10% WACC): ₹468 × 0.751 = ₹351/share (indicates upside if growth accelerates)
+- Terminal Value: ₹60 × 16 = ₹960 Cr (~₹4,683/share)
+- PV (discounted 3 years @ 10% WACC): ₹4,683 × 0.751 = ₹3,516/share (indicates upside if growth accelerates)
 
 ---
 
 ### Entry-Point Recommendations
 
-| Current Price (CMP) | vs FV (₹186) | Gap % | Rating | Action | Target Price |
+| Current Price (CMP) | vs FV (₹1,860) | Gap % | Rating | Action | Target Price |
 |-----|---------|--------|---------|------------|---------|
-| Below ₹165 | -11% discount | Undervalued | **BUY** | Accumulate aggressively; high upside | ₹230–280 (12–18m) |
-| ₹165–186 | 0–11% discount | Fair value zone | **ACCUMULATE** | Steady buying; balanced risk-reward | ₹220–260 |
-| ₹186–195 | 0–5% premium | Slight premium | **HOLD** | Existing positions; no new buys | ₹210–250 |
-| ₹195–210 | 5–13% premium | Overvalued | **REDUCE** | Book 20–30% profits; trim position | ₹200–230 |
-| Above ₹210 | >13% premium | Significantly OV | **SELL** | Sell or avoid; momentum-driven | Fair value ₹186 |
+| Below ₹1,650 | -11% discount | Undervalued | **BUY** | Accumulate aggressively; high upside | ₹2,300–2,800 (12–18m) |
+| ₹1,650–1,860 | 0–11% discount | Fair value zone | **ACCUMULATE** | Steady buying; balanced risk-reward | ₹2,200–2,600 |
+| ₹1,860–1,950 | 0–5% premium | Slight premium | **HOLD** | Existing positions; no new buys | ₹2,100–2,500 |
+| ₹1,950–2,100 | 5–13% premium | Overvalued | **REDUCE** | Book 20–30% profits; trim position | ₹2,000–2,300 |
+| Above ₹2,100 | >13% premium | Significantly OV | **SELL** | Sell or avoid; momentum-driven | Fair value ₹1,860 |
 
 **Expected Return Scenarios (from various entry points):**
-- Entry at ₹140 → FV ₹186 = **33% upside** (Bull to Base path)
-- Entry at ₹175 → FV ₹186 = **6% upside** (Base case)
-- Entry at ₹200 → FV ₹186 = **-7% downside** (Bear case risk)
+- Entry at ₹1,400 → FV ₹1,860 = **33% upside** (Bull to Base path)
+- Entry at ₹1,750 → FV ₹1,860 = **6% upside** (Base case)
+- Entry at ₹2,000 → FV ₹1,860 = **-7% downside** (Bear case risk)
 
 ---
 
@@ -349,21 +371,21 @@ Emmforce Autotech is a **high-growth mid-cap precision engineering company** in 
 
 **Rating:** **ACCUMULATE** (BUY on dips; HOLD above fair value)
 
-**Probability-Weighted Fair Value (FY27 PAT basis):** **₹186 per share**
+**Probability-Weighted Fair Value (FY27 PAT basis):** **₹1,860 per share**
 
 **Target Price (12–18 months):**
-- **Bull Case (₹279):** If U.S. order exceeds ₹60 Cr run-rate AND margins hit 19%+ AND new OEM ramps accelerate
-- **Base Case (₹187):** Management guidance execution; normal OEM ramp; 25% revenue CAGR FY26–28E
-- **Bear Case (₹94):** Execution delays; margin compression; competitive losses
+- **Bull Case (₹2,790):** If U.S. order exceeds ₹60 Cr run-rate AND margins hit 19%+ AND new OEM ramps accelerate
+- **Base Case (₹1,870):** Management guidance execution; normal OEM ramp; 25% revenue CAGR FY26–28E
+- **Bear Case (₹940):** Execution delays; margin compression; competitive losses
 
 ### Entry Strategy
 
 | Investor Profile | Recommendation |
 |---------|----------|
-| **Growth Aggressive** (2–3 year horizon) | Buy on dips below ₹165; accumulate to 5% portfolio weight |
-| **Conservative** (3–5 year horizon) | Accumulate at ₹175–190; core position; monitor quarterly execution |
-| **Value/Rebalancer** | Buy at ₹140–160 (best risk-reward for Bull path) |
-| **Existing Holder** | HOLD above ₹175; book partial profits at ₹210+ (5–10% position trim) |
+| **Growth Aggressive** (2–3 year horizon) | Buy on dips below ₹1,650; accumulate to 5% portfolio weight |
+| **Conservative** (3–5 year horizon) | Accumulate at ₹1,750–1,900; core position; monitor quarterly execution |
+| **Value/Rebalancer** | Buy at ₹1,400–1,600 (best risk-reward for Bull path) |
+| **Existing Holder** | HOLD above ₹1,750; book partial profits at ₹2,100+ (5–10% position trim) |
 
 ### Quarterly Surveillance Checklist
 
@@ -375,4 +397,4 @@ Emmforce Autotech is a **high-growth mid-cap precision engineering company** in 
 
 ---
 
-**Last Updated:** August 9, 2026 | **Data Source:** FY26 Annual Report (31-Mar-2026), H2 FY26 Concall (May 27, 2026), H1 FY26 Concall (Nov 12, 2025)
+**Last Updated:** August 9, 2026 (Critical Share Count Correction) | **Data Source:** FY26 Annual Report (31-Mar-2026), H2 FY26 Concall (May 27, 2026), H1 FY26 Concall (Nov 12, 2025)
