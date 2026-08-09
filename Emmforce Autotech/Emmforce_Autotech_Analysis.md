@@ -28,6 +28,33 @@
 
 ---
 
+## ⚠️ THIRD CRITICAL CORRECTION NOTICE
+
+**Error Discovered:** When correcting share count from 20.5 Cr to 2.05 Cr, per-share fair values were incorrectly multiplied by 10 instead of divided by 10.
+
+**Impact:** All per-share valuations were **10x TOO HIGH**.
+
+| Metric | Incorrect | Corrected | Error |
+|--------|-----------|-----------|-------|
+| Bull Fair Value | ₹2,790 | ₹279 | -90% |
+| Base Fair Value | ₹1,870 | ₹187 | -90% |
+| Bear Fair Value | ₹940 | ₹94 | -90% |
+| Weighted FV | ₹1,860 | ₹186 | -90% |
+
+**Verification:** 
+- Total Fair Value: ₹572 Cr
+- Shares: 2.05 Cr
+- Per Share: ₹572 Cr ÷ 2.05 Cr = **₹279** ✓
+
+**Root Cause:** Mathematical error when scaling valuations for share count correction. When the share count decreased by 10x (from 20.5 Cr to 2.05 Cr), the per-share values were incorrectly inflated instead of corrected to reflect the actual share base.
+
+**Lesson Learned:** When correcting for share count changes:
+- Total market cap should be calculated once from fundamentals (₹572 Cr based on scenario P/E multiples)
+- Per-share value = Total Market Cap ÷ Correct Share Count
+- Each scenario gets divided by 2.05 Cr shares once, not adjusted by the 10x correction factor
+
+---
+
 ## 1. Business Model Overview
 
 **Core Business:** Emmforce Autotech is a precision engineering and automotive components manufacturer specializing in:
@@ -251,46 +278,46 @@
 
 | Scenario | P/E Multiple | Justification | FY27 Fair Value (₹ Cr) | Per Share (₹) |
 |----------|--------------|--------------|--------|---------|
-| **Bull** | 18x | High growth (30%+), OEM contracts, margin expansion | 572.4 | 2,790 |
-| **Base** | 15x | Moderate growth (25%), improving mix, steady execution | 382.5 | 1,870 |
-| **Bear** | 11x | Slow growth (15%), margin pressure, execution risk | 192.5 | 940 |
+| **Bull** | 18x | High growth (30%+), OEM contracts, margin expansion | 572.4 | 279 |
+| **Base** | 15x | Moderate growth (25%), improving mix, steady execution | 382.5 | 187 |
+| **Bear** | 11x | Slow growth (15%), margin pressure, execution risk | 192.5 | 94 |
 
 **Probability-Weighted Fair Value:**
-- (₹2,790 × 25%) + (₹1,870 × 50%) + (₹940 × 25%)
-- = ₹697.50 + ₹935 + ₹235
-- **= ₹1,860 per share**
+- (₹279 × 25%) + (₹187 × 50%) + (₹94 × 25%)
+- = ₹69.75 + ₹93.50 + ₹23.50
+- **= ₹186 per share**
 
 **Terminal Value (FY30 onwards):**
 - Normalized growth: 12% (mature OEM business)
 - Terminal PAT FY30E: ₹54.88 Cr (base case: ₹49.0 Cr FY29E × 1.12)
 - Terminal P/E: 16x (mature, stable, lower execution risk)
-- Terminal Value: ₹54.88 × 16 = ₹877.08 Cr (~₹4,275/share)
-- PV (discounted 3 years @ 10% WACC): ₹4,275 × 0.751 = ₹3,210/share
+- Terminal Value: ₹54.88 × 16 = ₹877.08 Cr (~₹427.5/share)
+- PV (discounted 3 years @ 10% WACC): ₹427.5 × 0.751 = ₹321/share
 - **Note:** Terminal value significantly higher than base case, indicating substantial optionality from order visibility and margin expansion
 
 ---
 
 ### Entry-Point Recommendations
 
-**Probability-Weighted Fair Value: ₹1,860/share | Entry Strategy by Price Level:**
+**Probability-Weighted Fair Value: ₹186/share | Entry Strategy by Price Level:**
 
-| Price Level | vs FV ₹1,860 | Rating | Action | Rationale |
+| Price Level | vs FV ₹186 | Rating | Action | Rationale |
 |-----|---------|--------|---------|---------|
-| Below ₹1,650 | >10% discount | **BUY** | Accumulate aggressively | Strong margin of safety; upside to ₹2,300–2,800 (12–18m) |
-| ₹1,650–1,860 | 0–10% discount | **ACCUMULATE** | Build position selectively | Fair value zone; reasonable risk-reward for 3-year hold |
-| ₹1,860–1,950 | 0–5% premium | **HOLD** | Maintain existing positions | Fair value; no new buys unless special catalyst |
-| ₹1,950–2,100 | 5–13% premium | **REDUCE** | Trim 20–30% of position | Growing overvaluation; book partial profits |
-| Above ₹2,100 | >13% premium | **SELL** | Exit or avoid | Significantly overvalued; wait for correction |
+| Below ₹165 | >10% discount | **BUY** | Accumulate aggressively | Strong margin of safety; upside to ₹230–280 (12–18m) |
+| ₹165–186 | 0–10% discount | **ACCUMULATE** | Build position selectively | Fair value zone; reasonable risk-reward for 3-year hold |
+| ₹186–195 | 0–5% premium | **HOLD** | Maintain existing positions | Fair value; no new buys unless special catalyst |
+| ₹195–210 | 5–13% premium | **REDUCE** | Trim 20–30% of position | Growing overvaluation; book partial profits |
+| Above ₹210 | >13% premium | **SELL** | Exit or avoid | Significantly overvalued; wait for correction |
 
 **12–18 Month Target Price:**
-- **Bull (25% prob):** ₹2,300–2,800 (OEM orders exceeding ₹75 Cr run-rate, margin 18%+ achieved)
-- **Base (50% prob):** ₹2,000–2,200 (guidance delivery, U.S. order ₹60 Cr run-rate, margin 16%)
-- **Bear (25% prob):** ₹1,200–1,400 (execution delays, margin compression below 14%)
+- **Bull (25% prob):** ₹230–280 (OEM orders exceeding ₹75 Cr run-rate, margin 18%+ achieved)
+- **Base (50% prob):** ₹200–220 (guidance delivery, U.S. order ₹60 Cr run-rate, margin 16%)
+- **Bear (25% prob):** ₹120–140 (execution delays, margin compression below 14%)
 
-**Expected Return Scenarios (from various entry points to weighted FV of ₹1,860):**
-- Entry at ₹1,400 → FV ₹1,860 = **33% upside** (deep value)
-- Entry at ₹1,650 → FV ₹1,860 = **13% upside** (conservative entry, strong position building)
-- Entry at ₹1,860 → FV ₹1,860 = **0% at fair value** (current fair value)
+**Expected Return Scenarios (from various entry points to weighted FV of ₹186):**
+- Entry at ₹140 → FV ₹186 = **33% upside** (deep value)
+- Entry at ₹165 → FV ₹186 = **13% upside** (conservative entry, strong position building)
+- Entry at ₹186 → FV ₹186 = **0% at fair value** (current fair value)
 
 ---
 
@@ -371,7 +398,7 @@ Emmforce Autotech is a **compelling mid-cap precision engineering growth story**
 - FY26A actual PAT: ₹12.06 Cr (11.53% margin)
 - FY27E weighted PAT: ₹25.08 Cr (13.0% weighted margin)
 - FY28E–29E: Strong CAGR of 25–30% as U.S. orders ramp and OEM contracts mature
-- **Probability-Weighted Fair Value: ₹1,860/share** (Bull ₹2,790 | Base ₹1,870 | Bear ₹940)
+- **Probability-Weighted Fair Value: ₹186/share** (Bull ₹279 | Base ₹187 | Bear ₹94)
 
 **Key Strengths:**
 - **Order visibility:** ₹500 Cr+ order book with multi-year contracts (U.S., OEM, Agri)
@@ -389,23 +416,23 @@ Emmforce Autotech is a **compelling mid-cap precision engineering growth story**
 
 ### Rating & Price Targets
 
-**Rating:** **ACCUMULATE** *(Entry thesis: structural growth visibility, margin expansion path, reasonable entry below ₹1,860)*
+**Rating:** **ACCUMULATE** *(Entry thesis: structural growth visibility, margin expansion path, reasonable entry below ₹186)*
 
-**Probability-Weighted Fair Value:** **₹1,860/share** (50% base case weight; terminal value upside to ₹3,210/share)
+**Probability-Weighted Fair Value:** **₹186/share** (50% base case weight; terminal value upside to ₹321/share)
 
 **12–18 Month Price Targets:**
-- **Bull Case (₹2,300–2,800):** U.S. order exceeds ₹75 Cr run-rate, EBITDA margin 18%+ achieved, new OEM wins materialize
-- **Base Case (₹2,000–2,200):** Management guidance execution (₹190 Cr revenue, 16% EBITDA margin FY27), U.S. order ₹60 Cr run-rate
-- **Bear Case (₹1,200–1,400):** Execution delays (U.S. order ramp to H2 FY27), margin compression <14%, OEM traction slower
+- **Bull Case (₹230–280):** U.S. order exceeds ₹75 Cr run-rate, EBITDA margin 18%+ achieved, new OEM wins materialize
+- **Base Case (₹200–220):** Management guidance execution (₹190 Cr revenue, 16% EBITDA margin FY27), U.S. order ₹60 Cr run-rate
+- **Bear Case (₹120–140):** Execution delays (U.S. order ramp to H2 FY27), margin compression <14%, OEM traction slower
 
 ### Entry Strategy
 
 | Investor Profile | Action | Rationale |
 |---------|----------|---------|
-| **Accumulator** (3–5 year hold) | **BUY below ₹1,650** | Strong risk-reward; 30%+ upside to fair value; optionality above |
-| **Value Trader** (12–18m horizon) | **ACCUMULATE ₹1,650–1,860** | Fair value entry; execution confirmation visible each quarter |
-| **Growth Investor** | **BUILD on weakness <₹1,800** | Structural order visibility + margin expansion = 25–30% CAGR FY26–29E |
-| **Existing Holder (avg <₹1,500)** | **ACCUMULATE selectively** | Hold core; add on dips to build position; target ₹2,200–2,400 for trim
+| **Accumulator** (3–5 year hold) | **BUY below ₹165** | Strong risk-reward; 30%+ upside to fair value; optionality above |
+| **Value Trader** (12–18m horizon) | **ACCUMULATE ₹165–186** | Fair value entry; execution confirmation visible each quarter |
+| **Growth Investor** | **BUILD on weakness <₹180** | Structural order visibility + margin expansion = 25–30% CAGR FY26–29E |
+| **Existing Holder (avg <₹150)** | **ACCUMULATE selectively** | Hold core; add on dips to build position; target ₹220–240 for trim
 
 ### Quarterly Surveillance Checklist
 
