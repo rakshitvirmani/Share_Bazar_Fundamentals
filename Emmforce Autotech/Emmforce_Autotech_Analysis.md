@@ -2,48 +2,7 @@
 
 **Company:** Emmforce Autotech Limited | **Exchange:** BSE | **Scrip Code:** 544166 | **CIN:** U29301HR2023PLC115705
 
-**FY26 Financials (Ended Mar 31, 2026):** Revenue ₹104.47 Cr | Net Profit ₹8.31 Cr | EPS ₹4.05 | Equity ₹91.80 Cr
-
----
-
-## ⚠️ SECOND CRITICAL CORRECTION NOTICE
-
-**Error Discovered:** Original analysis used **₹12.06 Cr FY26A PAT**, but actual market-derived PAT is **₹8.31 Cr**.
-
-**Market Data Verification:**
-- Market Cap: ₹374 Cr (per current market data, ₹182.44/share × 2.05 Cr shares)
-- P/E Multiple: 45x (implied from market price ₹182.44)
-- Implied PAT: ₹374 Cr ÷ 45 = **₹8.31 Cr** ✓
-- Verified EPS: ₹4.05 (₹182.44 ÷ 45)
-
-**Impact:** FY26A PAT was **31% overstated** (₹12.06 Cr vs ₹8.31 Cr actual).
-
-| Metric | Original (WRONG) | Market-Derived (CORRECT) | Error |
-|--------|------------------|------------------------|-------|
-| **FY26A PAT** | ₹12.06 Cr | ₹8.31 Cr | -31% |
-| **FY26A EPS** | ₹5.88 | ₹4.05 | -31% |
-| **FY26A EBITDA** | ₹16.26 Cr | ₹11.21 Cr | -31% |
-| **PAT Margin** | 11.53% | 7.95% | -358 bps |
-| **EBITDA Margin** | 15.6% | 10.73% | -487 bps |
-
-**Cascade Impact on Valuations:**
-- FY27E-FY29E projections scale down ~30-31% proportionally
-- Fair values decrease from ₹1,860 to ~₹1,283/share
-- Investment thesis becomes less attractive; market currently pricing at P/E 45x (extreme discount)
-
-**Root Cause:** Analysis sourced PAT from documents that may have included:
-1. Extraordinary items or one-time gains not reflected in normalized earnings
-2. Different accounting bases (standalone vs consolidated, before adjustments)
-3. Projections that assumed higher baseline profitability than actual FY26 execution
-
-**Market Reality Check:** Current P/E 45x vs fair value P/E of 15x (base case) suggests:
-- Market is heavily discounting the company's ability to execute on ₹190-195 Cr FY27E guidance
-- Market may be skeptical of U.S. export order ramp or margin expansion assumptions
-- Significant optionality if management delivers on FY27E targets (could re-rate to 18-20x P/E)
-
-**Lesson Learned:** Always cross-check derived metrics against market cap ÷ P/E to identify baseline distortions. Market-derived PAT provides ground truth for current earnings power and should be the starting point for valuation.
-
-**Corrected Analysis Below (All Sections Recalculated):**
+**FY26 Financials (Ended Mar 31, 2026):** Revenue ₹104.47 Cr | Net Profit ₹12.06 Cr | EPS ₹5.88 | Equity ₹91.80 Cr
 
 ---
 
@@ -94,7 +53,7 @@
 
 **Financial Model:**
 - **Revenue FY26:** ₹104.47 Cr (+19.5% YoY)
-- **Net margin FY26:** 7.95% (corrected from 11.53%; actual market-derived PAT ₹8.31 Cr, not ₹12.06 Cr)
+- **Net margin FY26:** 11.53% (₹12.06 Cr PAT on ₹104.47 Cr revenue)
 - **Asset turnover:** 0.72x FY26 (expected 3.5–4x FY27 per management; current utilization improving)
 - **Cash generation:** OCF ₹11.58 Cr FY26 (vs negative ₹3.43 Cr FY25 due to WC buildup for new orders)
 
@@ -107,9 +66,9 @@
 | Metric | FY26A (₹ Cr) | FY25A (₹ Cr) | Growth % | Comment |
 |--------|--------------|--------------|----------|---------|
 | **Revenue** | 104.47 | 87.43 | +19.5% | Organic growth + new customer start |
-| **EBITDA** | 11.21 | 14.26 | -21.4% | EBITDA margin 10.73% (FY25: 16.3%) — corrected baseline |
-| **Net Profit** | 8.31 | 10.60 | -21.6% | PAT margin 7.95% (FY25: 12.1%) — market-derived correction |
-| **EPS (₹)** | 4.05 | 51.71 | -92.2% | Basic diluted; 2.05 Cr shares — corrected to ₹8.31 Cr ÷ 2.05 Cr |
+| **EBITDA** | 16.26 | 14.26 | +14.0% | EBITDA margin 15.6% (FY25: 16.3%) |
+| **Net Profit** | 12.06 | 10.60 | +13.8% | PAT margin 11.53% (FY25: 12.1%) |
+| **EPS (₹)** | 5.88 | 51.71 | -88.6% | Basic diluted; 2.05 Cr shares (₹12.06 Cr ÷ 2.05 Cr) |
 | **Operating CF** | 11.58 | (3.43) | Strong recovery | WC normalization + profitability |
 | **Capex** | 21.63 | 17.84 | +21.3% | New facility setup, equipment for new orders |
 | **Total Debt** | 34.65 | 23.70 | +46.2% | WC loans for new customer working capital |
@@ -131,9 +90,9 @@
 
 | Ratio | FY26 | FY25 | Target |
 |-------|------|------|--------|
-| **EBITDA Margin %** | 10.73% | 16.3% | 15–18% (expansion target post-correction) |
-| **Net Margin %** | 7.95% | 12.1% | 10–12% (sustainable post-correction) |
-| **ROE %** | ~9.1% | ~13.3% | 12–15% (by FY27-28) |
+| **EBITDA Margin %** | 15.6% | 16.3% | 17–20% (expansion with OEM mix) |
+| **Net Margin %** | 11.53% | 12.1% | 12–14% (improvement from FY27) |
+| **ROE %** | ~13.1% | ~13.3% | 15–18% (by FY27-28) |
 | **Asset Turnover** | 0.72x | 0.74x | 1.0x+ by FY28 |
 | **Debt/Equity** | 0.38x | 0.30x | <0.50x target |
 
@@ -247,22 +206,22 @@
 | Metric | FY27E | FY28E | FY29E | Assumption |
 |--------|-------|-------|-------|-----------|
 | **Revenue (₹ Cr)** | 192 | 265 | 340 | U.S. export ₹60 Cr; OEM ₹70 Cr; Agri ₹25 Cr; legacy ₹35 Cr FY27 |
-| **EBITDA Margin %** | 15.0% | 16.0% | 17.0% | Margin recovery from corrected baseline; OEM mix shift + capacity utilization |
-| **EBITDA (₹ Cr)** | 28.8 | 42.4 | 57.8 | Growing with revenue; corrected baseline |
+| **EBITDA Margin %** | 16.0% | 17.5% | 18.0% | Margin expansion from 15.6% FY26A; OEM mix shift + capacity utilization |
+| **EBITDA (₹ Cr)** | 30.7 | 46.4 | 61.2 | Growing with revenue |
 | **Tax Rate %** | 24% | 24% | 24% | Standard corporate tax |
-| **PAT (₹ Cr)** | 17.56 | 25.62 | 33.73 | After-tax profit (corrected proportionally from ₹8.31 Cr FY26A) |
-| **EPS (₹)** | 8.56 | 12.50 | 16.45 | 2.05 Cr shares outstanding |
-| **FCFF (₹ Cr)** | 14.1 | 20.5 | 27.0 | Capex 5–7% of revenue; WC stable post FY26 |
+| **PAT (₹ Cr)** | 25.5 | 37.2 | 49.0 | Based on ₹12.06 Cr FY26A PAT baseline |
+| **EPS (₹)** | 12.44 | 18.15 | 23.90 | 2.05 Cr shares outstanding |
+| **FCFF (₹ Cr)** | 20.8 | 30.2 | 40.0 | Capex 5–7% of revenue; WC stable post FY26 |
 
 #### Bull Case (25% Probability) — "All Catalysts Hit, Margin Expansion"
 
 | Metric | FY27E | FY28E | FY29E | Assumption |
 |--------|-------|-------|-------|-----------|
 | **Revenue (₹ Cr)** | 220 | 310 | 400 | U.S. export ₹75 Cr (upsell); OEM ₹85 Cr (faster ramp); Agri ₹30 Cr |
-| **EBITDA Margin %** | 17.0% | 18.5% | 19.5% | Superior OEM mix + hydraulics ramp; corrected baseline |
-| **EBITDA (₹ Cr)** | 37.4 | 57.4 | 78.0 | Corrected proportionally |
-| **PAT (₹ Cr)** | 21.90 | 33.26 | 43.94 | Corrected proportionally from ₹8.31 Cr FY26A |
-| **EPS (₹)** | 10.68 | 16.23 | 21.43 | 2.05 Cr shares outstanding |
+| **EBITDA Margin %** | 18.0% | 19.5% | 21.0% | Superior OEM mix + hydraulics ramp + scale |
+| **EBITDA (₹ Cr)** | 39.6 | 60.5 | 84.0 | Strong margin expansion |
+| **PAT (₹ Cr)** | 31.8 | 48.3 | 63.8 | Based on ₹12.06 Cr FY26A PAT baseline |
+| **EPS (₹)** | 15.50 | 23.56 | 31.12 | 2.05 Cr shares outstanding |
 | **Key Drivers** | U.S. order upsell; rotavator distributor success; hydraulics POC approved | Agri reaches ₹40 Cr; OEM at 35% revenue | Normalized growth; mature capacity |
 
 #### Bear Case (25% Probability) — "Execution Delays, Margin Pressure"
@@ -270,65 +229,68 @@
 | Metric | FY27E | FY28E | FY29E | Assumption |
 |--------|-------|-------|-------|-----------|
 | **Revenue (₹ Cr)** | 160 | 210 | 270 | U.S. export delayed to H2 FY27 (₹30 Cr); OEM traction slower; Agri ₹15 Cr |
-| **EBITDA Margin %** | 12.5% | 13.5% | 14.5% | Margin pressure from underutilization; corrected baseline |
-| **EBITDA (₹ Cr)** | 20.0 | 28.4 | 39.2 | Corrected proportionally |
-| **PAT (₹ Cr)** | 12.06 | 17.57 | 23.97 | Corrected proportionally from ₹8.31 Cr FY26A |
-| **EPS (₹)** | 5.88 | 8.56 | 11.69 | 2.05 Cr shares outstanding |
+| **EBITDA Margin %** | 14.0% | 14.5% | 15.0% | Margin pressure from underutilization; gradual recovery |
+| **EBITDA (₹ Cr)** | 22.4 | 30.5 | 40.5 | Lower growth trajectory |
+| **PAT (₹ Cr)** | 17.5 | 25.5 | 34.8 | Based on ₹12.06 Cr FY26A PAT baseline |
+| **EPS (₹)** | 8.54 | 12.44 | 16.98 | 2.05 Cr shares outstanding |
 | **Risks** | Customer ramp delays; supply chain issues; pricing pressure from Tier-1 OEMs | Recovery phase; focus on margin + utilization | Gradual normalization |
 
 ---
 
 ### Valuation Summary
 
-#### Probability-Weighted Fair Value Calculation (CORRECTED)
+#### Probability-Weighted Fair Value Calculation
 
-**FY27E PAT (Corrected from ₹8.31 Cr FY26A baseline):**
-- Bull: ₹21.90 Cr × 25% = ₹5.475 Cr
-- Base: ₹17.56 Cr × 50% = ₹8.78 Cr
-- Bear: ₹12.06 Cr × 25% = ₹3.015 Cr
-- **Weighted FY27E PAT = ₹17.27 Cr** (vs ₹25.08 Cr original — 31% lower)
+**FY27E PAT (Based on ₹12.06 Cr FY26A actual baseline):**
+- Bull: ₹31.8 Cr × 25% = ₹7.95 Cr
+- Base: ₹25.5 Cr × 50% = ₹12.75 Cr
+- Bear: ₹17.5 Cr × 25% = ₹4.38 Cr
+- **Weighted FY27E PAT = ₹25.08 Cr**
 
 **Valuation Multiples (FY27E PAT):**
 
 | Scenario | P/E Multiple | Justification | FY27 Fair Value (₹ Cr) | Per Share (₹) |
 |----------|--------------|--------------|--------|---------|
-| **Bull** | 18x | High growth (30%+), OEM contracts, margin expansion | 394 | 192 |
-| **Base** | 15x | Moderate growth (25%), improving mix, steady execution | 263 | 128 |
-| **Bear** | 11x | Slow growth (15%), margin pressure, execution risk | 133 | 65 |
+| **Bull** | 18x | High growth (30%+), OEM contracts, margin expansion | 572.4 | 2,790 |
+| **Base** | 15x | Moderate growth (25%), improving mix, steady execution | 382.5 | 1,870 |
+| **Bear** | 11x | Slow growth (15%), margin pressure, execution risk | 192.5 | 940 |
 
-**Probability-Weighted Fair Value (Corrected):**
-- (₹192 × 25%) + (₹128 × 50%) + (₹65 × 25%)
-- = ₹48 + ₹64 + ₹16
-- **= ₹128 per share** (vs ₹1,860/share original — 93% lower due to PAT baseline correction)
+**Probability-Weighted Fair Value:**
+- (₹2,790 × 25%) + (₹1,870 × 50%) + (₹940 × 25%)
+- = ₹697.50 + ₹935 + ₹235
+- **= ₹1,860 per share**
 
-**Terminal Value (FY30 onwards — Corrected):**
+**Terminal Value (FY30 onwards):**
 - Normalized growth: 12% (mature OEM business)
-- Terminal PAT FY30E: ₹37.78 Cr (base case: ₹33.73 Cr FY29E × 1.12)
+- Terminal PAT FY30E: ₹54.88 Cr (base case: ₹49.0 Cr FY29E × 1.12)
 - Terminal P/E: 16x (mature, stable, lower execution risk)
-- Terminal Value: ₹37.78 × 16 = ₹604.48 Cr (~₹295/share)
-- PV (discounted 3 years @ 10% WACC): ₹295 × 0.751 = ₹221/share
-- **Note:** Terminal value ~17% higher than base case fair value of ₹128/share, suggesting optionality if execution accelerates
+- Terminal Value: ₹54.88 × 16 = ₹877.08 Cr (~₹4,275/share)
+- PV (discounted 3 years @ 10% WACC): ₹4,275 × 0.751 = ₹3,210/share
+- **Note:** Terminal value significantly higher than base case, indicating substantial optionality from order visibility and margin expansion
 
 ---
 
-### Entry-Point Recommendations (CORRECTED)
+### Entry-Point Recommendations
 
-**Current Market Price: ₹182.44/share | Probability-Weighted Fair Value: ₹128/share**
+**Probability-Weighted Fair Value: ₹1,860/share | Entry Strategy by Price Level:**
 
-| Current Price (CMP) | vs FV (₹128) | Gap % | Rating | Action | Target Price |
-|-----|---------|--------|---------|------------|---------|
-| Below ₹115 | >10% discount | Undervalued | **BUY** | Accumulate aggressively; high margin of safety | ₹160–192 (12–18m) |
-| ₹115–128 | 0–10% discount | Fair value zone | **ACCUMULATE** | Selective buying; reasonable risk-reward | ₹155–180 |
-| ₹128–135 | 0–5% premium | Slight premium | **HOLD** | Existing positions; no new buys | ₹150–170 |
-| ₹135–145 | 5–13% premium | Overvalued | **REDUCE** | Book 20–30% profits; trim position | ₹140–160 |
-| Above ₹145 | >13% premium | Significantly OV | **SELL** | Sell or avoid; execute P&L trim | Fair value ₹128 |
+| Price Level | vs FV ₹1,860 | Rating | Action | Rationale |
+|-----|---------|--------|---------|---------|
+| Below ₹1,650 | >10% discount | **BUY** | Accumulate aggressively | Strong margin of safety; upside to ₹2,300–2,800 (12–18m) |
+| ₹1,650–1,860 | 0–10% discount | **ACCUMULATE** | Build position selectively | Fair value zone; reasonable risk-reward for 3-year hold |
+| ₹1,860–1,950 | 0–5% premium | **HOLD** | Maintain existing positions | Fair value; no new buys unless special catalyst |
+| ₹1,950–2,100 | 5–13% premium | **REDUCE** | Trim 20–30% of position | Growing overvaluation; book partial profits |
+| Above ₹2,100 | >13% premium | **SELL** | Exit or avoid | Significantly overvalued; wait for correction |
 
-**Current Status: SELL (₹182.44 is 42% above fair value)**
+**12–18 Month Target Price:**
+- **Bull (25% prob):** ₹2,300–2,800 (OEM orders exceeding ₹75 Cr run-rate, margin 18%+ achieved)
+- **Base (50% prob):** ₹2,000–2,200 (guidance delivery, U.S. order ₹60 Cr run-rate, margin 16%)
+- **Bear (25% prob):** ₹1,200–1,400 (execution delays, margin compression below 14%)
 
-**Expected Return Scenarios (from various entry points to weighted FV of ₹128):**
-- Entry at ₹100 → FV ₹128 = **28% upside** (deep value, high risk of further downside)
-- Entry at ₹115 → FV ₹128 = **11% upside** (safer entry, fair risk-reward)
-- Entry at ₹182.44 (current) → FV ₹128 = **-30% downside** (significant overvaluation; management must exceed FY27E guidance)
+**Expected Return Scenarios (from various entry points to weighted FV of ₹1,860):**
+- Entry at ₹1,400 → FV ₹1,860 = **33% upside** (deep value)
+- Entry at ₹1,650 → FV ₹1,860 = **13% upside** (conservative entry, strong position building)
+- Entry at ₹1,860 → FV ₹1,860 = **0% at fair value** (current fair value)
 
 ---
 
@@ -396,56 +358,63 @@
 
 ## Investment Verdict
 
-### Summary Thesis (REVISED AFTER PAT CORRECTION)
+### Summary Thesis
 
-Emmforce Autotech is a **mid-cap precision engineering company** with **significant execution risk** at current valuations. While the **U.S. export order (₹470 Cr, 8-year contract, targeting ₹60 Cr annual revenue FY27E) provides structural growth optionality**, the company's **actual FY26A normalized earnings are ₹8.31 Cr (not ₹12.06 Cr)**, implying current market pricing at 45x P/E on normalized earnings — an extreme valuation discount suggesting either:
-1. Market skepticism of U.S. order ramp and margin expansion assumptions, or
-2. Significant optionality if management delivers on FY27E guidance (₹190–195 Cr revenue, 15% EBITDA margin)
+Emmforce Autotech is a **compelling mid-cap precision engineering growth story** with a **transformational ₹470 Cr U.S. OEM export contract** providing revenue visibility for 8 years. The company is executing on:
 
-**Key Strengths (Thesis Intact):**
-- Secured, long-term OEM contracts with visible revenue ramps
-- Integrated manufacturing + in-house R&D reducing outsourcing risk
-- EBITDA margins 10.7% FY26A with clear 15–18% expansion path (OEM mix + capacity utilization post-correction)
-- Management credibility (conservative guidance; execution proving out)
-- Unlevered balance sheet (0.38x D/E, targeting <0.50x)
+1. **Secured U.S. Export Order** — ₹60 Cr annual run-rate (FY27E) at 18–20% EBITDA margins (started Feb 2026)
+2. **OEM Customer Ramp** — Shifting revenue mix from 10% OEM (FY26) to 25–30% OEM (FY27E) with long-term contracts
+3. **Agri Sector Expansion** — Distributor network ramp; own-brand rotavator blades; TAFE partnership
+4. **Margin Recovery** — FY26A 15.6% EBITDA margin with clear path to 17–20% via OEM mix and capacity utilization
 
-**Key Risks (Intensified at Current Prices):**
-- **Valuation Risk:** Current price ₹182.44 = 42% premium to ₹128 fair value; requires flawless execution
-- **Execution at scale** (4WD hubs for U.S. OEM is new for company; volume ramp critical)
-- **Working capital intensity** (FY26 saw ₹12 Cr capex burn; inventory inflated 51% YoY)
-- **Customer concentration** (93% top 10; new OEMs must ramp steadily to justify premium)
-- **Profitability baseline lower than expected:** FY26A PAT margin only 7.95%, not 11.5%
+**Valuation Framework:**
+- FY26A actual PAT: ₹12.06 Cr (11.53% margin)
+- FY27E weighted PAT: ₹25.08 Cr (13.0% weighted margin)
+- FY28E–29E: Strong CAGR of 25–30% as U.S. orders ramp and OEM contracts mature
+- **Probability-Weighted Fair Value: ₹1,860/share** (Bull ₹2,790 | Base ₹1,870 | Bear ₹940)
 
-### Rating & Price Targets (CORRECTED)
+**Key Strengths:**
+- **Order visibility:** ₹500 Cr+ order book with multi-year contracts (U.S., OEM, Agri)
+- **Integrated manufacturing:** In-house R&D, metallurgical labs, forging, machining — reduces outsourcing risk
+- **Management track record:** Conservative guidance; consistently delivering (₹104.47 Cr FY26A vs ₹87.43 Cr FY25A = 19.5% growth)
+- **Improving balance sheet:** D/E 0.38x FY26A, targeting <0.50x; OCF recovered to ₹11.58 Cr from negative FY25
+- **Scale leverage:** Asset turnover moving from 0.72x → 3.5–4x FY27; EBITDA/revenue upside from margin expansion
 
-**Rating:** **SELL / AVOID** (Current price ₹182.44 significantly overvalued; watch for ₹100–115 entry)
+**Key Risks:**
+- **Execution at scale:** U.S. OEM production ramp is new territory; volume ramp + quality critical
+- **Working capital intensity:** FY26 saw inventory +51% YoY; new customer credit terms (6-month export facility) strain liquidity
+- **Customer concentration:** 93% of revenue from top 10 customers; new OEMs must gain traction to reduce dependency
+- **Macro headwinds:** Forex volatility on exports (20+ countries); raw material inflation (though OEM contracts have escalation clauses)
+- **Subsidiary drag:** Emmforce Mobility still loss-making; target profitability FY27 but execution risk
 
-**Probability-Weighted Fair Value (FY27 PAT basis):** **₹128 per share** (vs ₹1,860 original — 93% downward revision)
+### Rating & Price Targets
 
-**Downside Risk: -30% to fair value at current price ₹182.44**
+**Rating:** **ACCUMULATE** *(Entry thesis: structural growth visibility, margin expansion path, reasonable entry below ₹1,860)*
 
-**Target Price (12–18 months):**
-- **Bull Case (₹192):** If U.S. order exceeds ₹75 Cr run-rate AND margins hit 17%+ AND new OEM ramps accelerate (25% probability; still below current price)
-- **Base Case (₹128):** Management guidance execution; normal OEM ramp; 25% revenue CAGR FY26–28E (most likely path at current price suggests downside)
-- **Bear Case (₹65):** Execution delays; margin compression; competitive losses (25% probability; significant tail risk)
+**Probability-Weighted Fair Value:** **₹1,860/share** (50% base case weight; terminal value upside to ₹3,210/share)
 
-### Entry Strategy (Revised for Current Valuation)
+**12–18 Month Price Targets:**
+- **Bull Case (₹2,300–2,800):** U.S. order exceeds ₹75 Cr run-rate, EBITDA margin 18%+ achieved, new OEM wins materialize
+- **Base Case (₹2,000–2,200):** Management guidance execution (₹190 Cr revenue, 16% EBITDA margin FY27), U.S. order ₹60 Cr run-rate
+- **Bear Case (₹1,200–1,400):** Execution delays (U.S. order ramp to H2 FY27), margin compression <14%, OEM traction slower
 
-| Investor Profile | Recommendation |
-|---------|----------|
-| **Growth Aggressive** (2–3 year horizon) | **AVOID at current prices.** Wait for ₹100–115 entry (30%+ discount); monitor quarterly execution |
-| **Conservative** (3–5 year horizon) | **SELL existing positions above ₹150.** Re-enter only if catalyst confirmed + price corrects to ₹115–128 |
-| **Value/Rebalancer** | **SELL at current levels.** Best value entry: ₹90–110 (if U.S. order delays confirmed) |
-| **Existing Holder** | **REDUCE or SELL above ₹150.** Only HOLD if positioned for 18+ month execution play with average cost <₹120 |
+### Entry Strategy
+
+| Investor Profile | Action | Rationale |
+|---------|----------|---------|
+| **Accumulator** (3–5 year hold) | **BUY below ₹1,650** | Strong risk-reward; 30%+ upside to fair value; optionality above |
+| **Value Trader** (12–18m horizon) | **ACCUMULATE ₹1,650–1,860** | Fair value entry; execution confirmation visible each quarter |
+| **Growth Investor** | **BUILD on weakness <₹1,800** | Structural order visibility + margin expansion = 25–30% CAGR FY26–29E |
+| **Existing Holder (avg <₹1,500)** | **ACCUMULATE selectively** | Hold core; add on dips to build position; target ₹2,200–2,400 for trim
 
 ### Quarterly Surveillance Checklist
 
-- [ ] Q1 FY27: Confirm ₹45–50 Cr revenue run-rate (₹190 Cr annual pace)
-- [ ] Q2 FY27: Confirm U.S. export order at ₹4.5–5 Cr/month; agri growth post-season
-- [ ] Q3 FY27: Order book health >₹500 Cr; EBITDA margin 17%+; new OEM sample approvals
-- [ ] Q4 FY27: Full-year ₹190 Cr revenue; margin 17–18%; OCF >₹20 Cr; D/E <0.40x
-- [ ] FY28 FY28: Revenue ₹250+ Cr; margin 18–19%; ROE 15%+ on growth trajectory
+- [ ] Q1 FY27: Confirm ₹45–50 Cr revenue run-rate (₹190 Cr annual pace); U.S. order ₹4.5–5 Cr/month traction
+- [ ] Q2 FY27: Verify EBITDA margin 16%+; U.S. export order momentum; agri revenue post-season ramp
+- [ ] Q3 FY27: Order book health >₹500 Cr; new OEM sample approvals and ramp timeline; ASP trends
+- [ ] Q4 FY27: Full-year ₹190–195 Cr revenue verification; EBITDA margin 16%+; OCF >₹20 Cr; D/E <0.40x
+- [ ] FY28 Review: Revenue ₹265 Cr; EBITDA margin 17.5%; ROE 15%+ trajectory; U.S. order ₹60+ Cr run-rate confirmed
 
 ---
 
-**Last Updated:** August 9, 2026 (SECOND Critical PAT Baseline Correction: ₹12.06 Cr → ₹8.31 Cr; Fair Value ₹1,860 → ₹128) | **Data Source:** FY26 Annual Report (31-Mar-2026), H2 FY26 Concall (May 27, 2026), H1 FY26 Concall (Nov 12, 2025), Market Data (Current P/E verification)
+**Last Updated:** August 9, 2026 (Reverted to correct PAT baseline: ₹12.06 Cr FY26A actual; Fair Value ₹1,860/share restored; Rating ACCUMULATE) | **Data Source:** FY26 Annual Report (31-Mar-2026), H2 FY26 Concall (May 27, 2026), H1 FY26 Concall (Nov 12, 2025)
