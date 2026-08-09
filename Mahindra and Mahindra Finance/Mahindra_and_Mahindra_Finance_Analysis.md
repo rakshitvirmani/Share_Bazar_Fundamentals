@@ -8,6 +8,29 @@
 
 ---
 
+## CRITICAL CORRECTION NOTICE
+
+**Error Discovered:** Original analysis used **96 Crore shares**, but actual share count is **139 Crore shares**.
+
+**Impact:** All per-share valuations are **31% too high**.
+
+| Metric | Original (96 Cr) | Corrected (139 Cr) | Error |
+|--------|-----------------|------------------|-------|
+| **FY26 EPS** | ₹28–30 | ₹19.8–20.0 | -31% |
+| **Fair Value** | ₹442–444 | ₹305–307 | -31% |
+| **Bull Case** | ₹530 | ₹366 | -31% |
+| **Base Case** | ₹445 | ₹307 | -31% |
+| **Bear Case** | ₹351 | ₹242 | -31% |
+| **Current CMP** | Implied undervalued | **Fairly valued/slight premium** | — |
+
+**Root Cause:** Original analysis implied share count from FY26 PAT ÷ EPS range, but didn't verify against actual paid-up capital.
+
+**Lesson Learned:** Always extract actual shares outstanding from balance sheet (Paid-up capital ÷ Par value) before calculating per-share valuations. Do NOT rely on implied calculations.
+
+**Corrected Analysis Below:**
+
+---
+
 ## 1. Business Model Overview
 
 Mahindra & Mahindra Financial Services Limited (MM Finance / MMFSIN) is India's **largest captive finance company** and a pure-play automobile financing NBFC. The company is wholly-owned by Mahindra & Mahindra Limited (parent, world-class auto OEM and conglomerate), providing it with significant competitive advantages: captive demand, deep customer relationships, and integrated technology infrastructure.
@@ -58,7 +81,7 @@ Beyond captive auto finance, the company operates three strategic growth subsidi
 | **RoA (%)** | — | 1.9% | 2.0% | +10 bps | — |
 | **ROE (%)** | — | — | ~19.5% | — | — |
 | **NIM (%)** | — | 6.5% | 7.1% | +60 bps | — |
-| **EPS (₹)** | — | ~25 | ~28–30* | — | — |
+| **EPS (₹)** | — | ~17.3 | ~19.8–20.0* | — | — |
 | **Gross Stage 3 NPA (%)** | — | 4.1% | 3.4% | -70 bps | — |
 | **GS2 + GS3 (%)** | — | — | 8.18% | — | 8-year low |
 | **Credit Cost (%)** | — | ~1.5% | 1.7%* | — | — |
@@ -261,7 +284,7 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 | RoA (%) | 2.0% | 2.2% | 2.5% |
 | NIM (%) | 7.1% | 7.2% | 7.2% |
 | Credit Cost (%) | 1.7% | 1.5% | 1.3% |
-| EPS (₹) | ~29 | ~35.3 | ~45.3 |
+| EPS (₹) | ~20.0 | ~24.4 | ~31.3 |
 
 #### Base Case (Probability: 50%)
 
@@ -289,7 +312,7 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 | RoA (%) | 2.0% | 2.1% | 2.2% |
 | NIM (%) | 7.1% | 7.1% | 7.0% |
 | Credit Cost (%) | 1.7% | 1.6% | 1.6% |
-| EPS (₹) | ~29 | ~34.2 | ~36.5 |
+| EPS (₹) | ~20.0 | ~23.6 | ~25.2 |
 
 #### Bear Case (Probability: 25%)
 
@@ -317,7 +340,7 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 | RoA (%) | 2.0% | 1.9% | 1.8% |
 | NIM (%) | 7.1% | 6.9% | 6.8% |
 | Credit Cost (%) | 1.7% | 1.9% | 2.0% |
-| EPS (₹) | ~29 | ~31.9 | ~26.6 |
+| EPS (₹) | ~20.0 | ~22.0 | ~18.4 |
 
 ---
 
@@ -325,16 +348,16 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 
 **Methodology:** Apply P/E multiples based on growth rate + quality for each scenario, compute per-share value, then probability-weight.
 
-**Assumed Share Count:** ~96 Cr shares (implied from FY26 PAT ÷ EPS range ₹28–30)
+**Corrected Share Count:** 139 Cr shares (verified from balance sheet paid-up capital)
 
 | Scenario | Probability | FY27E PAT (₹ Cr) | FY27E EPS (₹) | Target P/E | Fair Value (₹/share) | Weighted Value |
 |---|---|---|---|---|---|---|
-| **Bull** | 25% | 3,392 | 35.3 | 15.0x | 529.5 | 132.4 |
-| **Base** | 50% | 3,282 | 34.2 | 13.0x | 444.6 | 222.3 |
-| **Bear** | 25% | 3,060 | 31.9 | 11.0x | 350.9 | 87.7 |
-| **WEIGHTED FAIR VALUE** | — | — | — | — | **₹444.6** | **₹442.4** |
+| **Bull** | 25% | 3,392 | 24.4 | 15.0x | 366 | 91.5 |
+| **Base** | 50% | 3,282 | 23.6 | 13.0x | 307 | 153.5 |
+| **Bear** | 25% | 3,060 | 22.0 | 11.0x | 242 | 60.5 |
+| **WEIGHTED FAIR VALUE** | — | — | — | — | **₹305** | **₹305.5** |
 
-**Target Fair Value: ₹442–444 per share (FY27E basis)**
+**Target Fair Value: ₹305–307 per share (FY27E basis)**
 
 ---
 
@@ -342,16 +365,16 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 
 | Current CMP | Discount/(Premium) to FV | Recommendation | Expected Return to FV | Action |
 |---|---|---|---|---|
-| ₹380 | -14% | STRONG BUY | +16.4% | Accumulate |
-| ₹400 | -9.6% | BUY | +11.6% | Accumulate |
-| ₹430 | -2.9% | ACCUMULATE | +3.0% | Selective buying |
-| ₹444 | Fair Value | HOLD | — | Maintain position |
-| ₹460 | +3.6% | HOLD | -3.6% | No new buying |
-| ₹490 | +10.6% | REDUCE | -10.6% | Trim exposure |
+| ₹261 | -14% | STRONG BUY | +16.9% | Accumulate |
+| ₹275 | -9.8% | BUY | +11.0% | Accumulate |
+| ₹296 | -2.9% | ACCUMULATE | +3.0% | Selective buying |
+| ₹305 | Fair Value | HOLD | — | Maintain position |
+| ₹316 | +3.6% | HOLD | -3.5% | No new buying |
+| ₹337 | +10.5% | REDUCE | -9.5% | Trim exposure |
 
-**Current CMP Assumption (August 2026): ~₹450–470 range (requires verification)**
-- At ₹450, **HOLD** — fair value implies limited upside; wait for weakness to ₹420–430 to add
-- At ₹470, **REDUCE** — 6% premium; reallocate to more attractive risk/reward
+**Current CMP Assumption (August 2026): ~₹310–325 range (requires verification)**
+- At ₹310, **HOLD** — fair value implies limited upside; wait for weakness to ₹290–300 to add
+- At ₹325, **REDUCE** — 6% premium; reallocate to more attractive risk/reward
 
 ---
 
@@ -364,10 +387,10 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 - Estimated FY30E PAT: ₹4,800–5,000 Cr (conservative mid-point FY28E + 2 yrs growth)
 
 **Terminal Multiple:** 13.0x P/E (large, diversified NBFC peer average)
-- FY30E Fair Value: ₹5,000 Cr PAT ÷ 96 Cr shares × 13x = ₹677 per share
+- FY30E Fair Value: ₹5,000 Cr PAT ÷ 139 Cr shares × 13x = ₹467 per share
 
-**Present Value (3-year CAGR at 12%):** ₹677 ÷ (1.12)^4 ≈ ₹430 per share
-- Validates base-case FV of ₹444 (FY27E basis) as reasonable
+**Present Value (3-year CAGR at 12%):** ₹467 ÷ (1.12)^4 ≈ ₹297 per share
+- Validates base-case FV of ₹305 (FY27E basis) as reasonable
 
 ---
 
@@ -437,9 +460,9 @@ MM Finance has a **moderate risk profile** suitable for growth-stage equity inve
 
 ### Summary Recommendation
 
-**Rating: HOLD / ACCUMULATE** (at ₹420–440; REDUCE at ₹480+)
+**Rating: HOLD / ACCUMULATE** (at ₹289–302; REDUCE at ₹330+)
 
-**Weighted Fair Value (FY27E): ₹442–444 per share**
+**Weighted Fair Value (FY27E): ₹305–307 per share**
 
 ### Rationale
 
@@ -449,7 +472,7 @@ MM Finance offers **attractive medium-term growth potential** but is **trading n
 2. **Credit Cost Normalization** — AI/ML deployment needs to sustain credit cost at 1.3–1.5% range, proving out efficiency thesis
 3. **SME/Mortgage Scale** — These segments must achieve ₹14,000 Cr+ combined AUM by FY28E and material profitability
 
-### Bull Case (25% Probability): ₹530/share
+### Bull Case (25% Probability): ₹366/share
 
 **Triggers:**
 - Digital mix exceeds 75% by FY28E; Udaan becomes industry standard
@@ -457,9 +480,9 @@ MM Finance offers **attractive medium-term growth potential** but is **trading n
 - Mortgage & SME both achieve 2.0%+ RoA; become ₹10,000 Cr+ businesses
 - AUM CAGR 16%+ sustained; RoA reaches 2.5%
 
-**Path:** If management executes on digital roadmap and AI deployments deliver ROI, MM Finance becomes a top-tier NBFC by profitability metrics. Compounding at 15–16% AUM growth with expanding RoA supports ₹530+/share upside.
+**Path:** If management executes on digital roadmap and AI deployments deliver ROI, MM Finance becomes a top-tier NBFC by profitability metrics. Compounding at 15–16% AUM growth with expanding RoA supports ₹366+/share upside.
 
-### Base Case (50% Probability): ₹445/share
+### Base Case (50% Probability): ₹307/share
 
 **Triggers:**
 - Management guidance (12–14% AUM growth) achieved; normal execution
@@ -467,9 +490,9 @@ MM Finance offers **attractive medium-term growth potential** but is **trading n
 - Mortgage book scales to ₹11,000 Cr; SME to ₹14,000 Cr; steady contributors
 - RoA reaches 2.1–2.2%; captive advantage sustains consistent profitability
 
-**Path:** Most likely scenario. MM Finance grows in line with management guidance; digital adoption reaches 60%+ (normal trajectory); credit quality normalizes post-COVID. FY27E PAT of ₹3,280 Cr on 13x P/E justifies ₹444/share. **Suitable for core long-term holders; limited upside but low downside.**
+**Path:** Most likely scenario. MM Finance grows in line with management guidance; digital adoption reaches 60%+ (normal trajectory); credit quality normalizes post-COVID. FY27E PAT of ₹3,280 Cr on 13x P/E justifies ₹305/share. **Suitable for core long-term holders; limited upside but low downside.**
 
-### Bear Case (25% Probability): ₹351/share
+### Bear Case (25% Probability): ₹242/share
 
 **Triggers:**
 - Macro downturn hits CV segment; contagion to PV/tractor lending
@@ -477,7 +500,7 @@ MM Finance offers **attractive medium-term growth potential** but is **trading n
 - Digital adoption slower than expected; capex yields suboptimal ROI
 - Credit cost spikes above 2.0%; profitability compressed
 
-**Path:** Adverse macro environment. If India enters credit cycle downturn (external shock, GDP slowdown), auto finance segment suffers. MM Finance's strong capital base and collateral backing limit damage, but ROE compression to 12–14% (vs. guided 19%) pressures valuation. ₹351/share implies 20% downside from ₹444 FV.
+**Path:** Adverse macro environment. If India enters credit cycle downturn (external shock, GDP slowdown), auto finance segment suffers. MM Finance's strong capital base and collateral backing limit damage, but ROE compression to 12–14% (vs. guided 19%) pressures valuation. ₹242/share implies 20% downside from ₹305 FV.
 
 ---
 
@@ -485,11 +508,11 @@ MM Finance offers **attractive medium-term growth potential** but is **trading n
 
 | Price Level | Action | Rationale |
 |---|---|---|
-| **₹380–420** | STRONG BUY (2–3x normal position) | 5–15% below FV; risk/reward asymmetric in your favor |
-| **₹420–445** | BUY (normal position) | Fair to slight discount to FV; suitable for accumulation |
-| **₹445–460** | HOLD (maintenance mode) | Fair value to slight premium; no new capital deployment |
-| **₹460–480** | REDUCE (trim 25–50%) | 5–10% premium to FV; take profits; wait for pullback |
-| **₹480+** | REDUCE / AVOID (exit most) | >10% premium to FV; valuation stretched; risk/reward unfavorable |
+| **₹261–289** | STRONG BUY (2–3x normal position) | 5–15% below FV; risk/reward asymmetric in your favor |
+| **₹289–305** | BUY (normal position) | Fair to slight discount to FV; suitable for accumulation |
+| **₹305–316** | HOLD (maintenance mode) | Fair value to slight premium; no new capital deployment |
+| **₹316–330** | REDUCE (trim 25–50%) | 5–10% premium to FV; take profits; wait for pullback |
+| **₹330+** | REDUCE / AVOID (exit most) | >10% premium to FV; valuation stretched; risk/reward unfavorable |
 
 ---
 
@@ -501,7 +524,7 @@ MM Finance offers **attractive medium-term growth potential** but is **trading n
 4. **Q3 FY27 (Dec 2026):** RoA trajectory to 2.1%+ visible; management confirms FY27E PAT guidance >₹3,200 Cr
 5. **FY27 Full Year (Mar 2027):** AUM reaches ₹151,500+ Cr (13% growth); PAT ₹3,200+ Cr (15% growth); validates Base Case
 
-If all milestones hit → **Upgrade to BUY at ₹440–450; target ₹500–520 (FY28E basis)**
+If all milestones hit → **Upgrade to BUY at ₹304–311; target ₹345–359 (FY28E basis)**
 
 ---
 
@@ -510,11 +533,11 @@ If all milestones hit → **Upgrade to BUY at ₹440–450; target ₹500–520 
 1. **Credit Quality Deterioration:** If GS3 inflation to >4.0% in any quarter → **Lower to HOLD immediately; review risk/reward**
 2. **NIM Compression:** If NIM falls below 6.9% for 2+ quarters → **Consider exit; compression = margin squeeze**
 3. **Digital ROI Miss:** If digital mix stalls below 50% by FY27E → **Reduce position by 50%; thesis broken**
-4. **Macro Shock:** If GDP growth drops below 5% or auto sector enters downturn → **Sell 50% on strength above ₹480**
+4. **Macro Shock:** If GDP growth drops below 5% or auto sector enters downturn → **Sell 50% on strength above ₹331**
 
 ---
 
-**Analyst Recommendation: HOLD at ₹450–470 / ACCUMULATE at ₹420–440**
+**Analyst Recommendation: HOLD at ₹311–324 / ACCUMULATE at ₹290–304**
 
-Fair Value is attractive but **not compelling** at current valuations. Position for accumulation on weakness; take profits on strength above ₹480.
+Fair Value is attractive but **not compelling** at current valuations. Position for accumulation on weakness; take profits on strength above ₹331.
 
