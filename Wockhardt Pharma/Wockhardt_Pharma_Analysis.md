@@ -23,6 +23,64 @@
 
 ---
 
+## ⚠️ Q1 FY27 RESULTS UPDATE (August 10, 2026)
+
+**Actual Q1 FY27 Performance (Quarter ended June 30, 2026):**
+
+| Metric | Q1 FY27 Actual | Q1 Run-Rate Annualized | FY27E Projection | Status |
+|--------|---|---|---|---|
+| **Revenue (₹ Cr)** | 561 | 2,244 | 3,450-4,050 | Below guidance; Q1 typically weak |
+| **PBDT/EBITDA (₹ Cr)** | 148 | 592 | 717-850 | Below guidance; strong margin% |
+| **EBITDA Margin (%)** | 26.4% | 26.4% | 20.8-21.0% | **Above projection (+540-560 bps)** |
+| **PAT (₹ Cr)** | 107 | 428 | 360-420 | **At/above guidance** |
+| **PAT Margin (%)** | 19.07% | 19.07% | 10.4-12.2% | **Significantly above projection** |
+| **EPS (₹)** | 6.62 | 26.48 | 30.4-32.0 | On track; early Zaynich ramp |
+| **Other Income (₹ Cr)** | 33 | 132 | ~100-120E | Interest income from strong cash balance |
+
+**Key Observations:**
+
+1. **Profit Margins Substantially Higher Than Projected:**
+   - Q1 NPM of 19.07% vs. FY27E base case of 10.4% (830 bps outperformance)
+   - Q1 EBITDA margin of 26.4% vs. FY27E base case of 20.8% (560 bps outperformance)
+   - Suggests either: (a) Portfolio mix weighted toward high-margin products, (b) Lower promotional spend in Q1, (c) Improved operational efficiency
+
+2. **Revenue Below Full-Year Run Rate (As Expected for Early Zaynich Launch):**
+   - Q1 revenue of ₹561 Cr is below FY27E guidance range of ₹3,450-4,050 Cr
+   - This is expected: Zaynich launched late June 2026, so Q1 contribution would be <₹5-10 Cr
+   - Rest of business (legacy pharma + biosimilars) running at ~₹555 Cr in Q1
+   - Implies legacy business declining YoY vs. FY26 base, requiring biosimilar/Zaynich acceleration in Q2-Q4
+
+3. **Strong PAT Delivery Despite Revenue Below Guidance:**
+   - Q1 PAT ₹107 Cr → annualized ₹428 Cr (vs. base case ₹360 Cr; +18.9% above guidance)
+   - High margins suggest pricing power and cost discipline intact
+   - If this margin profile persists, FY27E PAT could reach ₹380-400 Cr base case (slightly above current projections)
+
+4. **Interest Income Elevated (₹33 Cr Other Income):**
+   - Annualized: ~₹132 Cr, suggesting ₹600+ Cr cash balance earning interest
+   - FY26 ended with ₹662 Cr cash; likely still at similar level or higher
+   - This "other income" is non-operating; ex-this, core EBIT in Q1 was lower
+
+**Implications for FY27E Projections:**
+
+- **Revenue Guidance:** FY27E of ₹3,450-4,050 Cr may be at risk if legacy business is not accelerating. Q1 legacy run-rate (~₹555 Cr) × 4 = ₹2,220 Cr. For full-year ₹3,450 Cr, need Zaynich + biosimilar acceleration to contribute ₹1,230 Cr (35%+ of total). **This is achievable but requires strong Q2-Q4 momentum.**
+
+- **PAT Guidance:** FY27E base case ₹360 Cr appears conservative. If margins sustain at 18-19% NPM and revenues come in at ₹3,400-3,600 Cr, PAT could be ₹610-680 Cr (before considering interest/tax normalization). **Revise FY27E PAT upward to ₹400-420 Cr base case.**
+
+- **EBITDA Margin:** Projected 20.8% vs. Q1 actual 26.4% suggests projections were conservative OR Q1 had favorable mix/one-time items. **Monitor Q2 onwards for sustainability.**
+
+**Zaynich Contribution in Q1:**
+- Zaynich revenue in Q1 estimated at ₹5-10 Cr (late June launch, so only ~1 week of selling)
+- Implies legacy business (pharma + biosimilars) had revenue of ~₹551-556 Cr
+- Need faster ramp in Q2-Q4 to hit FY27E targets of ₹25-40 Cr for Zaynich annual contribution
+
+**Revised Outlook:**
+- Early execution on Zaynich appears on track (Q1 results consistent with mid-quarter launch)
+- Margin profile better than expected, providing cushion if revenue growth disappoints
+- Next critical quarter: Q2 FY27 (Jul-Sep 2026) will show first full quarter of Zaynich selling + impact on legacy business growth
+- **Wait for Q2 results (October 2026) before adjusting FY27E/FY28E guidance significantly; Q1 alone insufficient to override base case.**
+
+---
+
 ## Section 1: Business Model Overview
 
 **Wockhardt Limited** is a global, research-driven pharmaceutical and biotechnology company with operations across three core platforms: pharmaceuticals (75% of business), specialty biologics/biosimilars, and novel antibiotics (NCE - New Chemical Entity). The company operates 11 manufacturing facilities and 2 R&D centers globally, with geographies spanning India, UK, Ireland, US, and emerging markets.
@@ -61,15 +119,16 @@
 
 ## Section 2: Financial Performance Trajectory
 
-| Metric | FY24 | FY25 | FY26 | Notes |
-|--------|------|------|------|-------|
-| **Revenue (₹ Cr)** | 2,240 | 2,880 | 3,373 | Growth: 28.5% FY25, 17.1% FY26 |
-| **EBITDA (₹ Cr)** | 120 | 280 | 630 | Margin expansion: 5.4% → 18.6% |
-| **EBITDA Margin (%)** | 5.4 | 9.7 | 18.6 | Operational leverage from cost cuts + portfolio optimization |
-| **PAT (₹ Cr)** | 20 | 95 | 238 | 3-year transformation narrative |
-| **PAT Margin (%)** | 0.9 | 3.3 | 7.1 | Below operating margin due to finance costs |
-| **Cash Equivalent (₹ Cr)** | 180 | 420 | 662 | Strong liquidity position |
-| **Net Debt/Equity (x)** | 1.2 | 0.5 | 0.1 | De-leveraging trajectory *(per June 2026 concall)* |
+| Metric | FY24 | FY25 | FY26 | Q1 FY27 | Notes |
+|--------|------|------|------|---------|-------|
+| **Revenue (₹ Cr)** | 2,240 | 2,880 | 3,373 | 561 (Q1) | Growth: 28.5% FY25, 17.1% FY26; Q1 seasonal weakness |
+| **EBITDA (₹ Cr)** | 120 | 280 | 630 | 148 (Q1) | Margin expansion: 5.4% → 18.6% → 26.4% (Q1) |
+| **EBITDA Margin (%)** | 5.4 | 9.7 | 18.6 | 26.4% (Q1) | Q1 above FY26 avg; suggests improved mix or operational gains |
+| **PAT (₹ Cr)** | 20 | 95 | 238 | 107 (Q1) | 3-year transformation; Q1 shows strong profitability |
+| **PAT Margin (%)** | 0.9 | 3.3 | 7.1 | 19.07% (Q1) | Q1 margin +1,197 bps vs. FY26 avg; exceptional profitability |
+| **EPS (₹)** | - | - | - | 6.62 (Q1) | Annualized: ₹26.48 (implies ₹107 Cr PAT) |
+| **Cash Equivalent (₹ Cr)** | 180 | 420 | 662 | ~650E | Strong liquidity; earning ₹33 Cr other income in Q1 |
+| **Net Debt/Equity (x)** | 1.2 | 0.5 | 0.1 | ~0.1E | De-leveraging trajectory stable *(per June 2026 concall)* |
 
 **Business Transformation Context:**
 
@@ -388,17 +447,16 @@ This highlights the structural value creation potential if Zaynich achieves peak
 
 ### Quarterly KPI Tracking Table:
 
-| KPI | FY26 Actual | FY27E Target | Monitoring Frequency |
-|-----|------------|--------------|----------------------|
-| **Pharma Revenue Growth (%)** | 17.1% | 15–20% | Quarterly |
-| **Zaynich Revenue (₹ Cr)** | 0 (pre-launch) | 15–30 | Monthly (post-launch) |
-| **Zaynich US Revenue ($M)** | 0 | 5–15 | Monthly |
-| **Zaynich Hospital Penetration (%)** | 0 | 10–20% of target hospitals | Quarterly |
-| **Biosimilar Growth (%)** | 27% | 30–40% | Quarterly |
-| **EBITDA Margin (%)** | 18.6% | 20–22% | Quarterly |
-| **PAT Growth (%)** | 151% | 50–60% | Quarterly |
-| **Cash Position (₹ Cr)** | 662 | 600–700 (post-investment) | Quarterly |
-| **Net Debt/Equity (x)** | 0.1 | 0.05–0.15 | Quarterly |
+| KPI | FY26 Actual | Q1 FY27 Actual | FY27E Target | Status |
+|-----|------------|---|--------------|--------|
+| **Pharma Revenue (₹ Cr)** | 3,373 (full year) | 561 (Q1) | 3,450-4,050 | Q1 below run-rate; weak legacy growth |
+| **Zaynich Revenue (₹ Cr)** | 0 (pre-launch) | 5-10 (late June launch) | 20–40 | **Early launch confirmed; ramp on track** |
+| **Zaynich US Revenue ($M)** | 0 | ~2-5E (first 1-2 weeks) | 10–20 | Ramping; wait for Q2 data |
+| **Biosimilar Growth (%)** | 27% | TBD (Q1 blended result) | 30–40% | Monitor Q2 for segment detail |
+| **EBITDA Margin (%)** | 18.6% | 26.4% (Q1) | 20–22% | **Q1 well above target; watch for sustainability** |
+| **PAT Margin (%)** | 7.1% | 19.07% (Q1) | 10.4–12.2% | **Q1 exceptional; 1,200+ bps above guidance** |
+| **Cash Position (₹ Cr)** | 662 | ~650E | 600–700 | Stable; generating ₹33 Cr other income (Q1) |
+| **Net Debt/Equity (x)** | 0.1 | ~0.10E | 0.05–0.15 | Stable; strong liquidity |
 
 ### Watch-Out Indicators:
 
@@ -418,31 +476,53 @@ This highlights the structural value creation potential if Zaynich achieves peak
 
 ---
 
-## Investment Thesis Summary (Corrected)
+## Investment Thesis Summary (Corrected – with Q1 FY27 Update)
 
-**Wockhardt Limited** is a **QUALITY BUSINESS** with breakthrough innovation (Zaynich), but rated **STRONG REDUCE** at current valuations.
+**Wockhardt Limited** is a **QUALITY BUSINESS** with breakthrough innovation (Zaynich), but rated **STRONG REDUCE** at current valuations. Q1 FY27 results show **exceptional profitability but require confirmation of revenue growth trajectory**.
 
-**Business Strengths:**
-1. **Breakthrough novel antibiotic (Zaynich)** — FDA-approved, first Indian NCE in US market; peak sales potential $1.5–2 billion by FY31–32
+**Business Strengths (Reinforced by Q1 FY27):**
+
+1. **Breakthrough novel antibiotic (Zaynich)** — FDA-approved, first Indian NCE in US market; peak sales potential $1.5–2 billion by FY31–32. Q1 confirms early launch execution on track.
 2. **High-growth biosimilar diabetes franchise** — 27–40% YoY growth, integrated capabilities
 3. **Profitable core pharma business** — UK/Ireland specialty injectables (18% market share) + India innovative portfolio providing cash flow cushion
+4. **Exceptional margin profile** — Q1 NPM of 19.07% and EBITDA margin of 26.4% demonstrate operating leverage and pricing power far above historical levels
+
+**Q1 FY27 Reality Check:**
+
+- **Profitability:** Q1 PAT margin of 19.07% is 1,200 bps above FY27E base case assumption of 10.4%. Annualized Q1 PAT would be ₹428 Cr, vs. base case ₹360 Cr.
+- **Revenue Growth Risk:** Q1 revenue of ₹561 Cr (legacy business ~₹555 Cr) runs below full-year target. Annualized legacy run-rate would be ₹2,220 Cr, requiring Zaynich + biosimilar contribution of ₹1,230 Cr (35%+ of total) for FY27E ₹3,450 Cr target.
+- **Implication:** FY27E revenue guidance may need downward revision to ₹3,200-3,400 Cr, but **PAT could remain ₹360-400 Cr or higher** due to margin strength.
 
 **Valuation Assessment:** Stock trading at **SEVERE PREMIUM to intrinsic value:**
 
 | Metric | Current | Corrected FV | Premium |
-|--------|---------|-----------|---------|
+| --- | --- | --- | --- |
 | **CMP** | ₹2,021 | ₹549 (FY27E base) | +268% |
 | **P/E Ratio** | 116x | 24x (justified) | +383% |
 | **Market Cap** | ₹32,840 Cr | ₹8,890 Cr | +269% |
+| **Q1 PAT Annualized** | 116x | 47x (on ₹428 Cr) | Higher valuation justified if margins sustain |
 
-**Corrected Rating: STRONG REDUCE**
+**Revised Fair Value (Considering Q1 Upside in Margins):**
 
-**Target Price Trajectory (Corrected):**
-- **FY27E Base Case:** ₹549/share (implies normalized 24x P/E on ₹360 Cr PAT)
-- **FY27E Bear Case:** ₹322/share (-71% downside if Zaynich adoption disappoints)
-- **FY30E Terminal (Bull):** ₹1,082/share (+97% upside if Zaynich achieves peak sales and becomes franchise drug)
+- If FY27E PAT revises to ₹400 Cr (from ₹360 Cr base case) due to margin beats
+- Fair Value = ₹400 Cr × 24x ÷ 16.2 Cr = **₹593/share** (vs. prior ₹549/share)
+- **CMP/FV Premium still 241%** — minimal change despite Q1 beat
 
-**Investment Stance:** Stock priced for perfection and beyond. Business fundamentals are sound, but Zaynich upside is already fully (and then some) reflected in current price. Suitable only for speculative traders betting on further momentum. Prudent investors should wait for 50%+ pullback to ₹1,000 or below for entry.
+**Corrected Rating: STRONG REDUCE** (unchanged, but with higher earnings cushion)
+
+**Target Price Trajectory (Revised with Q1 Upside):**
+
+- **FY27E Base Case:** ₹593/share (if margins sustain at 19% NPM; implies ₹400 Cr PAT with 24x multiple)
+- **FY27E Bear Case:** ₹322/share (-84% downside if Zaynich adoption disappoints + margins revert to 10%)
+- **FY30E Terminal (Bull):** ₹1,082/share (+97% upside from FY27E if Zaynich achieves peak sales and becomes franchise drug)
+
+**Investment Stance:** Stock priced for perfection and beyond. Q1 results demonstrate **better operational execution than expected**, lifting PAT guidance, but this benefit is **fully offset by revenue growth uncertainty**. Suitable only for speculative traders betting on further momentum or Zaynich upside surprise. **Prudent investors should wait for:**
+
+- Q2 FY27 results (October 2026) to confirm Zaynich ramp trajectory
+- Evidence of legacy pharma business stabilization (no further decline)
+- 40%+ pullback to ₹1,200 or below for entry into base case
+
+**Probability Shift Alert:** If Q2-Q3 FY27 confirm Zaynich revenue >₹30-40 Cr per quarter AND legacy business growth turns positive, upgrade bull case probability from 30% to 40%, which would raise weighted fair value to ~₹610-630/share. Still 220%+ discount to current price.
 
 ---
 
@@ -453,6 +533,7 @@ This highlights the structural value creation potential if Zaynich achieves peak
 **MAJOR CORRECTION – AUGUST 2026:**
 
 Original analysis used **1.185 Cr shares** (from QIP estimate), resulting in systematically inflated per-share fair values:
+
 - Bull FV: ₹9,900/share → **₹726/share** (corrected)
 - Base FV: ₹7,280/share → **₹533/share** (corrected)
 - Bear FV: ₹4,400/share → **₹322/share** (corrected)
@@ -463,4 +544,3 @@ Original analysis used **1.185 Cr shares** (from QIP estimate), resulting in sys
 **Impact:** With corrected FV of ₹549/share and current CMP of ₹2,021/share, stock trades at **268% premium** (not implied 371% premium from original analysis). Rating changed from BUY to **STRONG REDUCE**. Base-case downside to ₹322/share (-84%) if Zaynich adoption disappoints.
 
 **FY27E PAT assumption (₹360 Cr base case) remains valid** — represents 28% growth from current ₹282 Cr PAT, reasonable given Zaynich early ramp ($5–15M revenue guidance) + biosimilar 35% growth assumption. P/E multiple assumptions (24x base, 28x bull, 18x bear) also remain justified based on growth rates and risk profiles.
-
