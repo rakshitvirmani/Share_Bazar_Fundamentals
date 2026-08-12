@@ -4,6 +4,38 @@
 
 ---
 
+## ⚠️ Q1 FY27 UPDATE (August 12, 2026)
+
+**Q1 FY27 Results (Quarter ended June 30, 2026):**
+
+| Metric | Q1 FY27 Actual | Q1 Annualized | FY27E Guidance | YoY Comparison |
+|---|---|---|---|---|
+| **Revenue (₹ Cr)** | 121.45 | 485.8 | 564 | — |
+| **PAT (₹ Cr)** | 18.57 | 74.28 | 57 | **+30% ABOVE** |
+| **EPS (₹)** | 1.60 | 6.40 | 4.91 | **+30% ABOVE** |
+| **PAT Margin (%)** | 15.3% | 15.3% | 10.1% | **+520 bps above** |
+
+**Key Insights:**
+
+1. **Profitability Significantly Beating Guidance:**
+   - Q1 PAT margin of 15.3% is substantially higher than FY27E base assumption of 10.1%
+   - Annualized PAT run-rate of ₹74.28 Cr exceeds FY27E guidance of ₹57 Cr by 30%
+   - This suggests either: (a) Current operations running at higher margins than modeled, or (b) Early contribution from new facilities (R-32 plant, helium facility) already kicking in
+
+2. **Revenue Tracking Below Guidance (Q2-Q4 Ramp Required):**
+   - Q1 revenue ₹121.45 Cr annualizes to ₹485.8 Cr
+   - FY27E guidance is ₹564 Cr, implying Q2-Q4 FY27 needs to deliver ₹442.55 Cr revenue (vs Q1 actual ₹121.45 Cr)
+   - Confirms need for significant acceleration in Q2-Q4 as new plants ramp
+
+3. **Margin Expansion Narrative Accelerating:**
+   - If current margin profile (15.3% PAT margin) sustains, FY27 PAT could reach ₹80-90 Cr instead of guided ₹57 Cr
+   - This would support bull case scenario and justify higher valuation
+
+**Action Items for Next Update:**
+- Await Q2 FY27 results (October 2026) to confirm: (a) whether R-32 plant is operational, (b) if margins sustain at 15%+ level, (c) revenue acceleration trajectory in Q2-Q4
+
+---
+
 ## 1. Business Model Overview
 
 **Company Profile**
@@ -78,7 +110,7 @@
    - FY26 PAT margin: 10.1% (up from 8.5% FY25)
    - Management targeting 22-24% PAT margin by FY27-28 as new facilities ramp
    - Path: Capex-heavy FY26-27 (facility buildout), then margin expansion FY28+ as R-32 + HFO plants stabilize
-   - Expected H1 FY27 margins: Conversant with current (strained from capex), H2 FY27 margins: +6% uplift (new revenue streams)
+   - Expected Q1-Q2 FY27 margins: Strained from capex, Q3-Q4 FY27 margins: +6% uplift as new revenue streams come online
 
 4. **Capital Intensity Cycle**
    - FY26-27: Heavy capex (₹250 Cr R-32, ₹200-400 Cr HFO over 2 years)
@@ -152,7 +184,7 @@
 | **Capex Execution Risk** | **7/10** | R-32 plant scheduled for Oct 2026, but already slipped from earlier dates. HFO plant capex ₹200-400 Cr range suggests uncertainty on scope. Any 6-month delay = ₹15+ Cr PAT miss. Management's claim of "stabilization, then move to next project" adds execution complexity. |
 | **Demand Risks (Volume Headwinds)** | **6/10** | FY26 showed 14% revenue growth despite favorable market; Q4 volume down 27% QoQ. If LPG supply issues persist or end-customer industries face slowdown (auto, HVAC), volume could compress further. Management acknowledges "geopolitical uncertainties, LPG shortage, supply chain" as headwinds. |
 | **Pricing Power Erosion** | **5/10** | R-32 prices ₹900/kg today but could compress if global capacity comes online (China unfreezes, other Indian players launch). Management claims pricing will hold due to supply constraints, but risk exists. HFO blending less commodity-like (higher margins), so mix shift mitigates. |
-| **Margin Dilution During Capex** | **5/10** | H1 FY27 guidance: Margins at current levels (strained). If capex costs bleed into operations (labor, interest), H1 FY27 margins could be 8-9% vs target 10%+. Would compress FY27 PAT to ₹85 Cr vs guided ₹100 Cr. |
+| **Margin Dilution During Capex** | **5/10** | Q1-Q2 FY27 guidance: Margins at current levels (strained). If capex costs bleed into operations (labor, interest), Q1-Q2 FY27 margins could be 8-9% vs target 10%+. Would compress FY27 PAT to ₹85 Cr vs guided ₹100 Cr. |
 | **Geopolitical Exposure (Helium Sourcing)** | **5/10** | Helium sourcing from Qatar oil fields; geopolitical tensions affecting supplies (mentioned in call). No hedging strategy disclosed. If helium becomes unavailable, Khalapur facility stranded. Mitigation: Alternative sourcing being explored, but timeline unclear. |
 | **Working Capital Spike** | **4/10** | Current cash ₹434 Cr, OD facility ₹120 Cr unused. If capex accrues faster than projected and working capital ties up (inventory, receivables), liquidity could tighten. Management claims confidence but hasn't detailed working capital forecast. |
 | **Competitive Intensity in Refrigerants** | **4/10** | Balaji Amines, Chemours, others expanding R-32 capacity. Stallion's 10,000 MT plant is 10-12% of India demand; fragmented market means pricing pressure possible. However, Stallion's cost structure (backward integrated, captive helium) provides advantage. |
