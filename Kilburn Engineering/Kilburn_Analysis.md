@@ -916,24 +916,62 @@ At 28.4x P/E, the market is implicitly pricing in **bear-case or lower-base-case
 
 ---
 
+### **Insider Buying Activity — Bullish Signal**
+
+**Promoter Confidence Indicator (September 2026):**
+
+| Detail | Value | Signal |
+|--------|------|---|
+| **Insider Purchase** | ~200,000 shares | Promoter accumulation |
+| **Average Buy Price** | ₹370/share | Near fair value range |
+| **Current Market Price** | ₹445/share | Insider bought at -17% discount to current |
+| **Total Buy Value** | ~₹7.4 Cr | Meaningful commitment of capital |
+| **Sentiment** | **Bullish** | Promoter sees value below ₹370; confidence in ₹700 Cr FY27 guidance |
+
+**Interpretation:**
+1. **Promoter Conviction:** Insider purchase at ₹370 validates my fair value estimate of ₹350-382 (base case)
+2. **Timing Signal:** Purchase suggests promoter is **not concerned about Q1 miss** (geopolitical delays); confident recovery in H2 FY27
+3. **Buy Recommendation:** Insider buying at ₹370 suggests management sees ₹400-500+ upside within 6-12 months
+4. **Contrarian Positive:** Market was pessimistic post-Q1 miss; insider stepped in to accumulate → reduces bear case probability slightly
+
+**Impact on Fair Value Assessment:**
+- ✅ Supports base case execution (₹700 Cr FY27, capex on-time)
+- ✅ Suggests bear case risk is <25% (promoter wouldn't buy if confident in bear scenario)
+- ⚠️ However, does NOT eliminate execution risks (Q2 order inflow critical, capex delays possible)
+
+**Adjusted Probability Estimate (Post-Insider Buying):**
+- **Bull Case:** 25% → **28%** (slightly higher on insider signal)
+- **Base Case:** 50% → **52%** (promoter confidence in guidance)
+- **Bear Case:** 25% → **20%** (insider unlikely to buy if bear likely)
+- **Revised Weighted Fair Value:** ₹382 → **₹390** (modest uplift on promoter conviction)
+
+**Action Implication:**
+- Insider buying **de-risks entry at ₹380-400 range** (promoter voting with capital)
+- At ₹445, still recommend **HOLD if own; WAIT for dips** to ₹380-400
+- Insider buy signals confidence but doesn't eliminate Q2 execution risk
+
+---
+
 ### **Closing Thoughts on ₹445 Valuation**
 
 **Kilburn at ₹445 is a mixed story:**
 
 ✅ **Bull thesis intact:** If capex executes on-time + large orders close + geopolitical resolves = upside to ₹600-800 over 24 months
 
+✅ **Insider buying adds credibility:** Promoter accumulated ~200K shares at ₹370 (near fair value); suggests confidence in FY27 ₹700 Cr guidance and H2 recovery
+
 ❌ **But current price overvalues near-term execution:** 28.4x P/E leaves **no margin of safety** for Q2 FY27 miss, capex delays, or geopolitical escalation
 
-⚠️ **Execution risk is HIGH:** 
+⚠️ **Execution risk remains HIGH:** 
 - Q1 FY27 was a -37.8% miss (geopolitical timing)
 - Q2 will be critical to validate FY27 ₹700 Cr guidance
 - Capex already delayed 2 months; further delays could extend
 
 🎯 **Optimal strategy:**
 - **Existing holders:** Take partial profits on ₹500+ spike; set stop-loss at ₹380; hold core for upside
-- **New buyers:** WAIT for ₹350-380 entry or Q2 FY27 results clarity before deploying capital
+- **New buyers:** Insider buying at ₹370 is bullish; WAIT for ₹350-400 entry or Q2 FY27 results clarity before deploying capital
 
-The stock has **significant upside potential (44-73% to bull case), but only justified if execution de-risks** in next 6 months. Current price = "show me" valuation where management must prove FY27 guidance is achievable despite Q1 headwinds.
+The stock has **significant upside potential (44-73% to bull case), but only justified if execution de-risks** in next 6 months. Current price = "show me" valuation where management must prove FY27 guidance is achievable despite Q1 headwinds. **Insider buying = promoter confidence signal; increases odds of base case execution.**
 
 ---
 
