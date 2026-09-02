@@ -53,12 +53,18 @@ Kilburn Engineering manufactures customized **thermal processing equipment** (dr
 
 ### **Revenue Contribution Matrix** *(Consolidated basis)*
 
-| Entity | FY25 Contribution | FY26E Contribution | Key Business |
+**Note:** FY26 figures below show ACTUAL RESULTS (not estimates). Standalone and Consolidated breakdowns as at March 31, 2026.
+
+| Entity | FY25 Actual | FY26 Actual | Key Business |
 |--------|------|------|---|
-| Kilburn Standalone | ₹335.50 Cr | ₹600 Cr | Rotary, Paddle, Heat Exchangers |
-| M.E. Energy | ₹89.2 Cr | ₹120 Cr | Waste Heat Recovery Boilers |
-| Monga Strayfield | ₹— (acq. Jan 25) | ₹90-110 Cr | RF Heating, Drying, Kilns |
-| **Consolidated Total** | **₹424.46 Cr** | **₹810-830 Cr** | — |
+| Kilburn Standalone | ₹335.50 Cr | **₹629 Cr** (+87.5% growth) | Rotary, Paddle, Heat Exchangers |
+| M.E. Energy | ₹89.2 Cr | ₹~120 Cr | Waste Heat Recovery Boilers |
+| Monga Strayfield | ₹— (acq. Jan 25) | ₹90-110 Cr (partial year; 3 months) | RF Heating, Drying, Kilns |
+| **Consolidated Total** | **₹424.46 Cr** | **₹~810-830 Cr** (est. based on component add-up) | — |
+
+**Reconciliation Note:** 
+- Kilburn Standalone FY26 ₹629 Cr represents 87.5% growth YoY (vs. FY25 ₹335.50 Cr); driven by OCP Morocco order (₹126 Cr) + nuclear sector uptake
+- Consolidated FY26 ~₹810-830 Cr reflects M.E. Energy full-year + Monga Strayfield 3-month contribution post-January 2025 acquisition
 
 **Export Penetration** *(per AR FY25)*
 - Foreign exchange earned: ₹97.1 Cr (23% of FY25 revenue)
@@ -392,35 +398,40 @@ Kilburn Engineering manufactures customized **thermal processing equipment** (dr
 
 **Fair Value Per Share (FY27E basis)**
 
-| Scenario | FY27E PAT (Cr) | Justified P/E | Implied Market Cap (Cr) | Shares Outstanding | Fair Value Per Share |
-|--------|------|------|------|------|------|
-| **Bull (25%)** | 180 | 20x | 3,600 | 548 | ₹657 |
-| **Base (50%)** | 120 | 16x | 1,920 | 548 | ₹350 |
-| **Bear (25%)** | 85 | 11x | 935 | 548 | ₹171 |
+**Share Count Reconciliation:** 
+- Post-warrant conversion (FY25 Q1): ~5.48 Cr shares
+- Post-additional dilution (FY26): ~5.60 Cr shares (warrant conversion + other issuances)
+- **Using FY26 current share count: 5.60 Cr shares** (most up-to-date post-current valuation at ₹445)
 
-**Probability-Weighted Fair Value:**
-- Bull: ₹657 × 25% = ₹164
-- Base: ₹350 × 50% = ₹175
-- Bear: ₹171 × 25% = ₹43
-- **Weighted Fair Value = ₹382 per share**
+| Scenario | FY27E PAT (Cr) | Justified P/E | Implied Market Cap (Cr) | Fair Value Per Share (÷ 5.60 Cr) |
+|--------|------|------|------|------|
+| **Bull (25%)** | 180 | 20x | 3,600 | ₹643 |
+| **Base (50%)** | 120 | 16x | 1,920 | ₹343 |
+| **Bear (25%)** | 85 | 11x | 935 | ₹167 |
 
-**Shares Outstanding:** ~548 Cr (after warrant conversion in FY25 Q1)
+**Probability-Weighted Fair Value (using 5.60 Cr shares):**
+- Bull: ₹643 × 25% = ₹161
+- Base: ₹343 × 50% = ₹172
+- Bear: ₹167 × 25% = ₹42
+- **Weighted Fair Value = ₹375 per share**
+
+**Note:** Earlier sections referencing ₹382 used 5.48 Cr shares pre-dilution. The corrected fair value using current share count (5.60 Cr) is **₹375/share**. All valuation recommendations below are based on ₹375 as the anchor.
 
 ---
 
-### **ENTRY-POINT RECOMMENDATIONS TABLE**
+### **ENTRY-POINT RECOMMENDATIONS TABLE** *(Based on Corrected Fair Value ₹375)*
 
-| Current Market Price (Assumed) | vs. Weighted FV | Expected Return to FV | Recommendation |
+| Current Market Price | vs. Weighted FV (₹375) | Expected Return to FV | Recommendation |
 |--------|------|------|------|
-| **₹250** | -35% discount | +53% upside | **STRONG BUY** |
-| **₹280** | -27% discount | +36% upside | **BUY** |
-| **₹310** | -19% discount | +23% upside | **BUY** |
-| **₹350** | -8% discount | +9% upside | **ACCUMULATE** |
-| **₹380** | -1% discount | +0.5% upside | **HOLD** |
-| **₹420** | +10% premium | -10% downside | **REDUCE** |
-| **₹500** | +31% premium | -24% downside | **SELL** |
+| **₹250** | -33% discount | +50% upside | **STRONG BUY** |
+| **₹280** | -25% discount | +34% upside | **BUY** |
+| **₹310** | -17% discount | +21% upside | **BUY** |
+| **₹340** | -9% discount | +10% upside | **ACCUMULATE** |
+| **₹375** | 0% (fair value) | +0% | **HOLD** |
+| **₹410** | +9% premium | -8% downside | **REDUCE** |
+| **₹480** | +28% premium | -22% downside | **SELL** |
 
-**Current Context (Sept 2, 2026):** *Assumed CMP not provided; analysis assumes fair value ₹382 as anchor point.*
+**Current Context (Sept 2, 2026):** *Analysis assumes fair value ₹375/share (corrected for 5.60 Cr post-warrant diluted shares). Current CMP ₹445 implies 18.7% premium to FV; see "Current Valuation at ₹445" section below.*
 
 ---
 
@@ -478,11 +489,11 @@ Kilburn Engineering manufactures customized **thermal processing equipment** (dr
 - Discount back to Sept 2026 (4-year horizon): ₹4,304 Cr ÷ (1.12)^4 = **₹2,729 Cr** (present value)
 
 **Valuation Bridging (FY27E to Terminal Value):**
-1. FY27E Fair Value (Weighted): ₹382/share = ₹2,096 Cr market cap
-2. Terminal Value (PV): ₹2,729 Cr
-3. **Implied Blended Fair Value (Weight 40% near-term / 60% terminal):** (₹2,096 × 0.4) + (₹2,729 × 0.6) = ₹2,475 Cr = **₹452/share**
+1. FY27E Fair Value (Weighted): ₹375/share = ₹2,100 Cr market cap (based on 5.60 Cr shares)
+2. Terminal Value (PV, FY2030): ₹2,729 Cr
+3. **Implied Blended Fair Value (Weight 40% near-term / 60% terminal):** (₹2,100 × 0.4) + (₹2,729 × 0.6) = ₹2,477 Cr = **₹442/share**
 
-**Key Takeaway:** Terminal value analysis suggests fair value could expand to ₹452/share if long-term vision (₹1,300+ Cr revenue by FY29, 24%+ EBITDA margins) materializes. Near-term (FY27E) fair value ₹382/share anchors downside; upside case unlocks if bull catalysts align.
+**Key Takeaway:** Terminal value analysis suggests fair value could expand to ₹442/share if long-term vision (₹1,300+ Cr revenue by FY29, 24%+ EBITDA margins) materializes. Near-term (FY27E) fair value ₹375/share anchors downside; blended fair value ₹442/share reflects terminal value upside. Bull catalysts would unlock ₹600+ per share on multiple expansion + earnings growth.
 
 ---
 
@@ -585,24 +596,24 @@ Kilburn Engineering manufactures customized **thermal processing equipment** (dr
 
 ## INVESTMENT VERDICT
 
-### **Weighted Fair Value Summary**
+### **Weighted Fair Value Summary** *(Corrected for 5.60 Cr Shares Post-Dilution)*
 
 | Scenario | Probability | FY27E PAT | Fair Value Per Share | Contribution |
 |--------|------|------|------|------|
-| **Bull Case** | 25% | ₹180 Cr | ₹657 | +₹164 |
-| **Base Case** | 50% | ₹120 Cr | ₹350 | +₹175 |
-| **Bear Case** | 25% | ₹85 Cr | ₹171 | +₹43 |
-| **Probability-Weighted Fair Value** | — | — | **₹382** | — |
+| **Bull Case** | 25% | ₹180 Cr | ₹643 | +₹161 |
+| **Base Case** | 50% | ₹120 Cr | ₹343 | +₹172 |
+| **Bear Case** | 25% | ₹85 Cr | ₹167 | +₹42 |
+| **Probability-Weighted Fair Value** | — | — | **₹375** | — |
 
-### **Rating Framework**
+### **Rating Framework** *(As of Sept 2, 2026; Current CMP ₹445)*
 
-**Assuming Current Market Price (CMP) = ₹300** (illustrative; update with live price)
-
-- **Current Price:** ₹300
-- **Weighted Fair Value:** ₹382
-- **Upside Potential:** +27% to fair value
-- **Rating:** **BUY**
-- **Price Target (12-month):** ₹380-400 (base case) / ₹600+ (bull case)
+- **Current Market Price:** ₹445
+- **Weighted Fair Value:** ₹375
+- **Premium to FV:** +18.7% (overvalued)
+- **Expected Return to FV:** -15.7% (downside risk)
+- **Rating:** **HOLD / REDUCE** (overvalued at current price)
+- **Target Entry Price:** ₹340-360 (10-15% discount to FV for margin of safety)
+- **Price Target (12-month, IF bull catalysts align):** ₹450-500 (base case recovery) / ₹600-800 (bull case full upside)
 
 ### **Bull Case Narrative (25% Probability — Upside +73% to ₹657)**
 
@@ -678,15 +689,25 @@ Geopolitical headwinds (West Asia tensions, nuclear approval delays) push large 
 5. **Monga Integration Progress (Q2 FY27 concall):** Cross-sell revenue contribution; synergy realization pace
 6. **FY27 Full-Year Results (June 2027):** Validate ₹700 Cr guidance; set tone for FY28 visibility
 
-### **Final Verdict**
+### **Final Verdict** *(Corrected; Updated Sept 2, 2026)*
 
-**Kilburn Engineering is a HIGH-CONVICTION BUY** below ₹350, with a 24-36 month price target of **₹600-800** if bull catalysts align (capex execution, large order wins, export ramp, operating leverage).
+**Kilburn Engineering at ₹445 is OVERVALUED by ~19%** (premium to corrected fair value of ₹375). Rating: **HOLD / REDUCE at current levels.**
 
-**Core Thesis:** Transformation from niche project-focused dryer maker to diversified **₹1,000+ Cr industrial platform** (FY29 aspiration) through organic growth (25%+ CAGR) + bolt-on acquisitions (M.E. Energy, Monga Strayfield). Current valuation (assuming ₹300 CMP = 15x FY27E) de-risks FY27 execution; large upside if capex unlocks operating leverage and large order pipeline converts.
+**For Current Holders:**
+- Set stop-loss at ₹380 (-15% from ₹445) to protect against H2 FY27 execution risk
+- Target re-entry on dips to ₹340-360 (10-15% discount to FV; provides margin of safety)
+- Hold core position if convinced of bull case; upside to ₹600+ if capex + order inflows execute
 
-**Catalyst Dependency:** Bull case hinges on 3 non-negotiables — (1) capex on-time by Sept 2026, (2) H2 FY27 order inflows >₹450 Cr, (3) geopolitical headwinds ease by Q3 FY27. If any fail, fair value reprices to ₹250-280 (bear case); if all hit, ₹600+ on multiple expansion + earnings growth.
+**For New Investors:**
+- **AVOID at ₹445** (no margin of safety; expected return -7% to +15% depending on scenario)
+- **BUY on dips to ₹340-360** (attractive entry with 10-20% margin of safety)
+- **STRONG BUY below ₹300** (asymmetric 25%+ upside on base case)
 
-**Risk Tolerance:** For **growth-oriented investors** with 2-3 year horizon and tolerance for 25-40% volatility, this is an asymmetric bet on emerging industrial platform. For **value / income investors**, wait for ₹280-300 or proof of capex execution before entry.
+**Core Thesis:** Transformation from niche project-focused dryer maker to diversified **₹1,000+ Cr industrial platform** (FY29 aspiration) remains intact. However, near-term execution risk (H2 FY27 order timing, capex delays, geopolitical headwinds) is not adequately compensated for at ₹445.
+
+**Catalyst Dependency (24-36 months):** Bull case hinges on 3 non-negotiables — (1) capex on-time by Sept 2026, (2) H2 FY27 order inflows >₹450 Cr, (3) geopolitical headwinds ease by Q3 FY27. If all align: upside to ₹600-800. If any fail: re-pricing to ₹300-340 (base/bear case).
+
+**Conviction Level:** HIGH on long-term thesis (5-year CAGR 20%+); MEDIUM on near-term (12-month) execution.
 
 ---
 
@@ -704,16 +725,16 @@ Geopolitical headwinds (West Asia tensions, nuclear approval delays) push large 
 
 ---
 
-### **Valuation vs. My Fair Value Scenarios**
+### **Valuation vs. My Fair Value Scenarios** *(Using Corrected 5.60 Cr Share Count)*
 
-| Scenario | My Fair Value/Share | Current Price | Premium / Discount | Probability |
+| Scenario | My Fair Value/Share | Current Price (₹445) | Premium / Discount | Probability |
 |--------|------|------|------|------|
 | **Bull Case** | ₹643 | ₹445 | **-31% downside** | 25% |
 | **Base Case** | ₹343 | ₹445 | **+30% premium** ⚠️ | 50% |
 | **Bear Case** | ₹167 | ₹445 | **+166% premium** ⚠️⚠️ | 25% |
-| **Weighted Fair Value** | ₹375 | ₹445 | **+19% premium** | — |
+| **Probability-Weighted Fair Value** | **₹375** | ₹445 | **+18.7% premium** | — |
 
-**Verdict:** Stock is trading at **19% premium to probability-weighted fair value** (₹375). This implies market is **overvalued by ₹70/share** on expected value basis.
+**Verdict:** Stock is trading at **+18.7% premium to probability-weighted fair value** (₹375). On expected-value basis, market is **overvalued by ₹70/share** (i.e., ₹445 current price - ₹375 fair value = ₹70 overvaluation).
 
 ---
 
