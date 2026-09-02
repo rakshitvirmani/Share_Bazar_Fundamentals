@@ -86,16 +86,27 @@ Kilburn Engineering manufactures customized **thermal processing equipment** (dr
 - Revenue CAGR solid at 23% despite smaller base
 - PAT growth (35% CAGR) outpaced revenue growth → operating leverage evident
 
-### **Quarterly Trajectory (FY26 & FY27)**
+### **Quarterly Performance & Execution Trajectory (FY26 & FY27)**
 
-| Period | Revenue (Cr) | EBITDA Margin | PAT (Cr) | Key Comment |
-|--------|------|------|------|---|
-| **Q4 FY25** | — | — | — | Large ₹126 Cr OCP order landed |
-| **FY26 (Full Year)** | **629** | **25.1%** | **~125** | 50% growth achieved; 40% of Q4 orders from Nuclear |
-| **Q1 FY26** | ~947 | 21.9% | ~147 | Normal execution |
-| **Q1 FY27** | ~589 | 21.4% | ~52 | -37.8% YoY decline (geopolitical order delays) |
+**FY26 Full Year Performance (Standalone):**
+- **Revenue:** ₹629 Cr (+50% YoY; implies FY25 was ~₹419 Cr)
+- **EBITDA Margin:** 25.1% (vs. 26.3% FY25; slight compression due to mix and execution timing)
+- **PAT:** ~₹125 Cr (~20% margin; reflects OCP order recognition and one-time project completions)
+- **Key Narrative:** Strong 50% growth driven by large OCP Morocco order (₹126 Cr) + nuclear sector orders (40% of Q4 orders). Project-heavy execution with concentrated order closures in H2 FY26.
 
-*Data reconciliation note: Q1 FY27 decline attributed to customer approval delays (West Asia, nuclear sector), not demand destruction. Management guidance implies H2 FY27 weighted execution.*
+**FY27 Quarterly Performance (Limited Disclosure):**
+
+*RHP disclosed limited quarterly data. Key disclosed metric:*
+- **Q1 FY27 Revenue Decline:** -37.8% YoY (attributable to geopolitical order approval delays in West Asia and nuclear sector, NOT demand destruction)
+- **Implied Q1 FY27 Revenue:** Estimated ₹58-62 Cr (based on -37.8% decline from implied Q1 FY26 of ~₹95-100 Cr)
+- **Management Guidance Impact:** Q1 FY27 weakness prompted revision of full-year guidance from ₹750-800 Cr to ₹700 Cr, with H2 FY27 weighted order closures expected to normalize quarterly run-rate
+
+**Execution Observations:**
+- **Q-o-Q Volatility:** Kilburn's project-based business model inherently exhibits high quarterly volatility (order timing dependent; 12-18 month project cycles)
+- **H2 Concentration Risk:** FY27 guidance heavily reliant on H2 order closures (implied ₹420-450 Cr H2 target to hit ₹700 Cr full-year)
+- **Order Approval Delays:** Geopolitical tensions (West Asia) and nuclear sector regulatory approval cycles extending customer decision timelines; management indicated this is timing issue, not demand destruction
+
+*Note: Detailed quarterly breakdowns (Q2-Q4 FY26, Q2-Q4 FY27) not disclosed in RHP; full-year guidance and year-over-year Q1 decline are primary disclosed metrics.*
 
 ### **Consolidated Historical (Including Acquisitions)**
 
