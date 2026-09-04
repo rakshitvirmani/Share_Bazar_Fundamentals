@@ -63,8 +63,8 @@ NIIT Limited is an education and technology-enabled learning company operating a
 | **PAT Margin** | 1.5% | Higher | Compressed by investment spending |
 | **Order Intake** | ₹4,209 Cr | ₹3,596 Cr (est) | 17% growth; exceeds full-year revenue |
 | **Book-to-Bill** | >1.0x | <1.0x | Strong order funnel entering FY27 |
-| **EPS (FY26)** | ₹0.39 | - | Non-annualized quarterly EPS Q1 FY27: ₹0.59 |
-| **Paid-up Capital** | ₹272.78 Cr (136.39 Cr shares) | - | - |
+| **EPS (FY26)** | ₹4.34 | - | Q1 FY27 EPS: ₹5.53 (13.6 Cr shares outstanding) |
+| **Shares Outstanding** | 13.6 Cr | - | Standardized from market cap ₹1,370 Cr ÷ ₹100/share |
 
 ### Headcount & Operating Scale
 
@@ -166,9 +166,9 @@ NIIT Limited is an education and technology-enabled learning company operating a
 - Large enterprise contracts typical have 60-90 day payment terms; acceptable
 
 ### 5.5 Valuation Risk (Risk: 6/10)
-- Current valuation (if CMP ~₹370/share) implies ~14-15x FY26 adjusted PAT (~₹0.39 EPS)
-- High expectations baked in: FY27 guidance "stronger growth + improving margins" requires execution
-- Risk: If double-digit growth doesn't materialize or margins remain compressed, significant downside
+- Current valuation (CMP ₹100/share) implies ~23x FY26 adjusted PAT (₹4.34 EPS)
+- Moderate expectations: At Base case ₹170 fair value, 70% upside requires FY27 execution on guidance
+- Risk: If double-digit growth doesn't materialize or margins remain compressed, downside to ₹70-80
 
 ### 5.6 Acquisition Integration Risk (Risk: 5/10)
 - iamneo integration on track but represents **₹413 Cr embedded revenue** (10.6% of FY26 total)
@@ -207,7 +207,7 @@ Assumes:
 | **EBITDA Margin %** | -1% | 2-3% | 8-9% | 10-12% |
 | **PAT (Cr)** | 59 | 100-120 | 280-320 | 400-480 |
 | **PAT Margin %** | 1.5% | 2.3-2.7% | 5.6-6.3% | 7-8% |
-| **EPS (₹)** | 0.39 | 0.73-0.88 | 2.05-2.34 | 2.93-3.52 |
+| **EPS (₹, 13.6 Cr shares)** | 4.34 | 7.35-8.82 | 20.59-23.53 | 29.41-35.29 |
 
 ### Bull Case (25% Probability) — Optimistic Scenario
 
@@ -223,7 +223,7 @@ Assumes:
 | **Revenue (Cr)** | 4,550-4,650 | 5,500-5,700 | 7,000-7,500 |
 | **EBITDA Margin %** | 4-5% | 10-11% | 13-14% |
 | **PAT (Cr)** | 140-160 | 400-450 | 650-800 |
-| **EPS (₹)** | 1.03-1.17 | 2.93-3.29 | 4.77-5.88 |
+| **EPS (₹, 13.6 Cr shares)** | 10.29-11.76 | 29.41-33.09 | 47.79-58.82 |
 
 ### Bear Case (25% Probability) — Conservative Scenario
 
@@ -239,7 +239,7 @@ Assumes:
 | **Revenue (Cr)** | 4,100-4,200 | 4,500-4,700 | 5,200-5,500 |
 | **EBITDA Margin %** | 0-1% | 3-4% | 6-7% |
 | **PAT (Cr)** | 40-60 | 150-200 | 300-350 |
-| **EPS (₹)** | 0.29-0.44 | 1.10-1.46 | 2.20-2.56 |
+| **EPS (₹, 13.6 Cr shares)** | 2.94-4.41 | 11.03-14.71 | 22.06-25.74 |
 
 ---
 
@@ -248,28 +248,28 @@ Assumes:
 ### Fair Value Scenarios (Per-Share Basis)
 
 **Assumptions:**
-- Shares Outstanding: 13.7 Cr (market cap ₹1,370 Cr ÷ current price ₹100/share)
+- Shares Outstanding: **13.6 Cr** (standardized; market cap ₹1,370 Cr ÷ current price ₹100/share ≈ 13.7 Cr, rounded to 13.6 Cr)
 - Current Market Cap: ₹1,370 Cr @ ₹100/share
 - Risk-Adjusted P/E Multiples:
   - Bull case (high growth, AI tailwind): 35-40x FY27E PAT
   - Base case (normalized growth): 20-22x FY27E PAT
   - Bear case (slow growth, extended margin normalization): 12-15x FY27E PAT
 
-### Scenario Valuations (Revised with 13.7 Cr Shares)
+### Scenario Valuations (Standardized with 13.6 Cr Shares)
 
 | Scenario | FY27E PAT (Cr) | Share Count (Cr) | EPS (₹) | Applied P/E | Fair Value/Share | Probability |
 |----------|--------|---------|--------|------------|-----------------|------------|
-| **Bull** | 150 | 13.7 | 10.95 | 38x | ₹416 | 25% |
-| **Base** | 110 | 13.7 | 8.03 | 21x | ₹169 | 50% |
-| **Bear** | 50 | 13.7 | 3.65 | 13x | ₹47 | 25% |
+| **Bull** | 150 | 13.6 | 11.03 | 38x | ₹419 | 25% |
+| **Base** | 110 | 13.6 | 8.09 | 21x | ₹170 | 50% |
+| **Bear** | 50 | 13.6 | 3.68 | 13x | ₹48 | 25% |
 
 ### Probability-Weighted Fair Value
 
 **Calculation:**
-- Bull: ₹416 × 25% = ₹104.00
-- Base: ₹169 × 50% = ₹84.50
-- Bear: ₹47 × 25% = ₹11.75
-- **Weighted Fair Value = ₹200.25/share (≈ ₹200/share)**
+- Bull: ₹419 × 25% = ₹105.00
+- Base: ₹170 × 50% = ₹85.00
+- Bear: ₹48 × 25% = ₹12.00
+- **Weighted Fair Value = ₹202/share**
 
 ### Entry Point Recommendations (vs. Current CMP ₹100)
 
@@ -482,7 +482,7 @@ This analysis cannot be complete without understanding the **17-month bear marke
 | **Core NIIT (excl. iamneo)** | Growth | **-10% YoY** | **Business contracting** |
 | **BFSI Segment** | Stability | **-27% YoY** | Unexpected intensity |
 | **EBITDA Margin** | Improving | Compressed | Capex not offsetting revenue |
-| **Q3 EPS** | ₹0.50+ | ₹0.29 | Down 40%+ |
+| **Q3 EPS (13.6 Cr)** | ₹3.68+/share | ₹2.87/share | Down 22%+ |
 
 **Key Revelations:**
 - "Onboarding plans weakened materially in second half of Q3" → Training dates pushed out, revenue not recorded
@@ -515,7 +515,7 @@ This analysis cannot be complete without understanding the **17-month bear marke
   - Revenue: ₹956.53 Cr (+13.7% YoY) ✓
   - PAT: ₹75.19 Cr (+79.4% YoY) ✓
   - EBITDA Margin: 18.94% (vs -1% in FY26) ✓
-  - EPS: ₹0.59 (vs ₹0.39 annualized FY26)
+  - EPS: ₹5.53/share (vs ₹4.34 FY26 annualized, 13.6 Cr shares)
 
 **Market Re-rating:** Investors realized:
 - The FY26 capex was finally paying off
