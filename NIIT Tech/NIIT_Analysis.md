@@ -448,6 +448,157 @@ NIIT Limited represents a **compelling deep-value opportunity** on a quality EdT
 | ₹160-200 (0-20% premium) | **HOLD** | Neutral; wait for FY27 confirmation | -5% to +6% |
 | ₹200+ (20%+ premium) | **REDUCE** | Fair value reached; take profits | <-5% |
 
+---
+
+## 10. Historical Context: The 2024-2026 Downturn & Recovery (Critical for Risk Understanding)
+
+### Timeline: ₹200 (Nov 2024) → ₹50 (Apr 2026) → ₹100 (Sept 2026)
+
+This analysis cannot be complete without understanding the **17-month bear market** that crushed the stock 75% and then recovered 100%. Understanding what went wrong is essential to assessing current risks.
+
+### Phase 1: Gradual Deterioration (Nov 2024 → Aug 2025)
+
+**Market Sentiment:** Early warning signs of hiring freeze in financial services
+- Fresh hire training demand weakening across banking sector
+- Management guidance became increasingly cautious
+- Stock declined from ₹200 toward ₹150+ range gradually
+- iamneo acquisition (April 2025) at 70% stake failed to excite market — viewed as admitting core NIIT weakness
+
+**What Management Missed:**
+- Severity of BFSI hiring freeze (underestimated by 2-3 quarters)
+- Speed of macro deterioration in financial services
+- Dependency on fresh hire training (despite stated pivot to working professionals)
+
+### Phase 2: Earnings Disasters Trigger Acceleration (Q1-Q3 FY26: Aug 2025 → Jan 30, 2026)
+
+**Q1 FY26 (Aug 2025):** Weak start, investment narrative didn't work immediately
+**Q2 FY26 (Nov 2025):** Continued margin pressure visible; capex spending not yet showing ROI
+
+**Q3 FY26 Catastrophe (Jan 30, 2026) — THE CRASH:**
+
+| Metric | Expected | Actual | Reality Check |
+|--------|----------|--------|---------------|
+| **Revenue Growth** | Double-digit+ | +3% YoY | Missed by 7-10 points |
+| **Core NIIT (excl. iamneo)** | Growth | **-10% YoY** | **Business contracting** |
+| **BFSI Segment** | Stability | **-27% YoY** | Unexpected intensity |
+| **EBITDA Margin** | Improving | Compressed | Capex not offsetting revenue |
+| **Q3 EPS** | ₹0.50+ | ₹0.29 | Down 40%+ |
+
+**Key Revelations:**
+- "Onboarding plans weakened materially in second half of Q3" → Training dates pushed out, revenue not recorded
+- Large private sector banks cut hiring dramatically (core customer base hit)
+- Top IT services firms reduced fresh hire spending
+- **Management had entered Q3 expecting 10%+ growth but got 3%** — confidence was shattered
+
+**Market Reaction:** Stock likely crashed 30-40% in days following announcement. By February 2026, stock was in free-fall toward ₹50.
+
+### Phase 3: Further Deterioration & Bottom (Feb 2026 → Apr 2026)
+
+**Q4 FY26 (May 14, 2026 announcement, but visible by April):**
+- FY26 Full Year: ₹3,902 Cr revenue (+9% YoY) — well below expectations
+- **EBITDA: -1% margin (negative EBITDA!)** despite 9% revenue growth
+  - This was the smoking gun: capex spending + investment in GTM + AI had **zero payoff**
+- Core business (excl. iamneo) essentially flat
+- Margin recovery timeline became uncertain
+
+**Stock touched ₹50 by April 2026 because:**
+1. Growth expectations completely reset (double-digit → single-digit)
+2. Margin profile questioned (negative EBITDA = business fundamentally broken?)
+3. iamneo integration was marginal (₹413 Cr = only 10.6% of FY26 revenue)
+4. Investor confidence in management shattered
+
+### Phase 4: Recovery Begins (May 2026 → Sept 2026)
+
+**Q4 FY26 (May 14, 2026) + Q1 FY27 (July 21, 2026):**
+- Q4 FY26: Showed stabilization; management signaled "strong pipeline"
+- **Q1 FY27: STRONG RECOVERY**
+  - Revenue: ₹956.53 Cr (+13.7% YoY) ✓
+  - PAT: ₹75.19 Cr (+79.4% YoY) ✓
+  - EBITDA Margin: 18.94% (vs -1% in FY26) ✓
+  - EPS: ₹0.59 (vs ₹0.39 annualized FY26)
+
+**Market Re-rating:** Investors realized:
+- The FY26 capex was finally paying off
+- Core business stabilized after 4-5 quarters of deterioration
+- BFSI damage contained; not collapsing further
+- AI narrative finally materialized in revenue (8% of Q4 FY26, likely higher in Q1 FY27)
+- Stock recovered from ₹50 to ₹100 by Sept 2026 (+100%)
+
+---
+
+### What Management Got Wrong (& What They Got Right)
+
+#### **Wrong:**
+1. **Timing of Inflection:** Expected margin recovery & capex payoff in FY26; took until Q1 FY27 (4 quarters late)
+2. **BFSI Severity:** Underestimated hiring freeze intensity; -27% in Q3 was unexpected ("materially weakened" language suggests surprise)
+3. **iamneo as Growth Driver:** Acquisition only contributed ₹413 Cr (10.6% of FY26) — insufficient to offset core decline
+4. **Capex ROI Timing:** Spending peaked FY26 but tangible returns invisible until Q1 FY27
+5. **Guidance Discipline:** Entered Q3 expecting "double-digit growth" but delivered +3% → credibility destroyed
+
+#### **Right:**
+1. **Structural Pivot:** Shift from fresh-hire-dependent to working-professional upskilling (correct, but took 6+ quarters to pay off)
+2. **AI Investment:** AI embedding in 70% of programs was correct thesis, but realization delayed
+3. **Cost Discipline in Downturn:** Maintained profitability in Q3 despite revenue miss via tight cost control
+4. **GTM Expansion:** Added 64 enterprise logos in FY26; this base paid off in Q1 FY27
+5. **iamneo Integration:** Despite marginality, acquisition is on track and validates M&A strategy
+
+---
+
+### Critical Lessons for Current Investment
+
+**Risk Management Implications:**
+
+1. **Watch for Growth Stalls:** Stock fell 75% when growth fell from 10%+ guidance to +3% actual. Current Q1 FY27 at +13.7% looks healthy, but if it drops below 8% in Q2/Q3 FY27, **SELL** (margin expectations reset).
+
+2. **BFSI Stabilization is Critical:** 
+   - If BFSI returns to -10%+ decline in FY27, margin recovery at risk
+   - FY26 BFSI was -27%; Q1 FY27 needs to show stabilization (at least 0-5% decline)
+   - **Red flag:** If BFSI stabilization falters, stock could revisit ₹70-80
+
+3. **EBITDA Margin is Non-Negotiable:**
+   - FY26 negative EBITDA (-1%) was the ultimate confidence killer
+   - Management must hit 2-3% EBITDA in FY27 (guided as breakeven to 1-2%)
+   - If FY27 ends with <1% EBITDA, valuation reset downward (target ₹120-150)
+
+4. **Capex Payoff Timeline:**
+   - FY26 was peak capex year; FY27 normalization expected
+   - If capex doesn't normalize OR if normalized capex doesn't improve EBITDA, another downturn possible
+   - Monitor depreciation run-rate; if capex doesn't fall, capex thesis broken
+
+5. **Order Book Conversion Risk:**
+   - Order book of ₹4.2B (>1.0x revenue) is healthy, but execution is key
+   - If order intake stalls or conversion slips, growth stalls again
+   - Watch: Order intake growth <10% YoY = warning signal
+
+---
+
+### What Current Valuation ₹100 Reflects
+
+At ₹100/share (Sept 2026), the market has:
+- **Priced in moderate optimism** (Base case ₹169, so 40% downside from fair value)
+- **Assumed FY27 execution** (double-digit growth, 2-3% EBITDA margin)
+- **Contained BFSI risk** (not assuming further 27% declines)
+- **Believed AI narrative** (enough to justify 70% portfolio penetration)
+
+**If FY27 execution misses (like FY26 Q3), stock could revisit ₹50-70 again.**
+
+This is why the **margin of safety matters**: even at Base case, you have ₹169 target with ₹47 Bear case floor. The current ₹100 price offers **2.1x upside to Base, but 0.5x margin to Bear** — reasonable but not asymmetric if management stumbles again.
+
+---
+
+### Key Metrics to Verify Management Execution (FY27)
+
+| Metric | FY26 Actual | FY27 Guidance | Need to See | Warning Level |
+|--------|------------|---------------|------------|---|
+| **Revenue Growth** | +9% | Double-digit (12%+) | ≥12% confirmed in H1 | <8% = SELL |
+| **EBITDA Margin** | -1% | Breakeven to +2% | 1-3% by Q3 FY27 | <0% = reset lower |
+| **BFSI Growth** | -27% | Stabilization | -5% to +5% by Q3 | <-10% = red flag |
+| **Order Intake Growth** | +17% | Sustained double-digit | ≥15% in FY27 | <10% = pipeline warning |
+| **Organic Growth (excl. iamneo)** | ~0% | 8%+ | Visible by Q3 FY27 | <3% = structural issue |
+| **Enterprise Logos** | 64/yr | 100+ | 25+ in H1 FY27 | <15/half year = slowdown |
+
+**Bottom Line:** FY27 is the validation year. If management delivers these metrics, stock can easily reach ₹200+. If they miss by similar margins as FY26, expect another 40-50% drawdown.
+
 ### Key Catalysts (12-Month)
 
 **Positive:**
