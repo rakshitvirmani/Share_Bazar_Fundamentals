@@ -1,7 +1,7 @@
 # NIIT Limited - Equity Research Analysis
 
-**Analysis Date:** September 2026  
-**Base Case Assumption CMP:** ₹370/share (approx, as of late-2025)  
+**Analysis Date:** September 4, 2026  
+**Current CMP:** ₹100/share | **Market Cap:** ₹1,370 Cr | **Shares Outstanding:** 13.7 Cr  
 **Ticker:** BSE: 500304 | NSE: NIITLTD
 
 ---
@@ -248,38 +248,40 @@ Assumes:
 ### Fair Value Scenarios (Per-Share Basis)
 
 **Assumptions:**
-- Shares Outstanding: ~136.4 Cr (272.78 Cr paid-up capital ÷ ₹2 face value)
+- Shares Outstanding: 13.7 Cr (market cap ₹1,370 Cr ÷ current price ₹100/share)
+- Current Market Cap: ₹1,370 Cr @ ₹100/share
 - Risk-Adjusted P/E Multiples:
   - Bull case (high growth, AI tailwind): 35-40x FY27E PAT
   - Base case (normalized growth): 20-22x FY27E PAT
   - Bear case (slow growth, extended margin normalization): 12-15x FY27E PAT
 
-### Scenario Valuations
+### Scenario Valuations (Revised with 13.7 Cr Shares)
 
 | Scenario | FY27E PAT (Cr) | Share Count (Cr) | EPS (₹) | Applied P/E | Fair Value/Share | Probability |
 |----------|--------|---------|--------|------------|-----------------|------------|
-| **Bull** | 150 | 136.4 | 1.10 | 38x | ₹418 | 25% |
-| **Base** | 110 | 136.4 | 0.81 | 21x | ₹292 | 50% |
-| **Bear** | 50 | 136.4 | 0.37 | 13x | ₹186 | 25% |
+| **Bull** | 150 | 13.7 | 10.95 | 38x | ₹416 | 25% |
+| **Base** | 110 | 13.7 | 8.03 | 21x | ₹169 | 50% |
+| **Bear** | 50 | 13.7 | 3.65 | 13x | ₹47 | 25% |
 
 ### Probability-Weighted Fair Value
 
 **Calculation:**
-- Bull: ₹418 × 25% = ₹104.50
-- Base: ₹292 × 50% = ₹146.00
-- Bear: ₹186 × 25% = ₹46.50
-- **Weighted Fair Value = ₹297/share**
+- Bull: ₹416 × 25% = ₹104.00
+- Base: ₹169 × 50% = ₹84.50
+- Bear: ₹47 × 25% = ₹11.75
+- **Weighted Fair Value = ₹200.25/share (≈ ₹200/share)**
 
-### Entry Point Recommendations (vs. Assumed CMP ₹370)
+### Entry Point Recommendations (vs. Current CMP ₹100)
 
 | Price Level | Discount/Premium to Weighted FV | Recommendation | Target Return to FV |
 |------------|------|-----------------|--------|
-| ₹280-320 (10-8% discount) | -5% to -8% | **ACCUMULATE** | +6-9% |
-| ₹320-350 (8-5% discount) | -5% to -8% | **HOLD** | +0-6% |
-| ₹350-380 (0-5% premium) | 0% to +5% | **HOLD** | -5% to 0% |
-| ₹380+ (5%+ premium) | +5%+ | **REDUCE** | <-5% |
+| **₹80-100 (25-20% discount)** | **-20% to -25%** | **BUY** | **+20-25%** |
+| **₹100-120 (20-15% discount)** | **-15% to -20%** | **ACCUMULATE** | **+15-20%** |
+| ₹120-160 (15-0% discount) | -0% to -15% | **HOLD** | +0-15% |
+| ₹160-200 (0-20% premium) | 0% to +20% | **HOLD** | -20% to 0% |
+| ₹200+ (20%+ premium) | +20%+ | **REDUCE** | <-20% |
 
-**Base case assumption (CMP ₹370):** At 25% premium to weighted FV; suggests holding for profit-taking on rallies above ₹380.
+**Current Setup (CMP ₹100):** At 50% discount to weighted FV of ₹200; **exceptional risk/reward for entry**. FY27 execution is key to closing valuation gap.
 
 ---
 
@@ -402,46 +404,49 @@ Assumes:
 
 ## Investment Verdict
 
-### Rating: **ACCUMULATE** (at prices ₹280-340)
+### Rating: **BUY** (at current ₹100/share, 50% discount to weighted FV)
 
 ### Thesis Summary
 
-NIIT Limited represents a **compelling inversion play** on a quality EdTech/skills company transiting through a deliberate investment cycle. Key investment case:
+NIIT Limited represents a **compelling deep-value opportunity** on a quality EdTech/skills company transiting through a deliberate investment cycle, currently trading at a 50% discount to probability-weighted fair value. Key investment case:
 
-1. **Structural Tailwinds:** AI-augmented learning is **not cyclical**; GSIs/GCCs actively deploying AI-smaller engineering teams. NIIT positioned as key beneficiary.
+1. **Structural Tailwinds:** AI-augmented learning is **not cyclical**; GSIs/GCCs actively deploying AI-smaller engineering teams. NIIT positioned as key beneficiary. 70% of portfolio now AI-embedded.
 
 2. **Order Book Inflection:** ₹4.2B order intake (>1.0x revenue) and 64 new enterprise logos in FY26 suggest **strong execution** on GTM expansion. Management guidance for "double-digit growth" in FY27 appears achievable.
 
 3. **Peak Investment Cycle:** FY26 represented capex & marketing spend peak. Margin recovery expected FY27+. Capex normalization de-risked by explicit management guidance.
 
-4. **iamneo Validation:** Acquisition tracking ahead of projections validates M&A strategy and AI platform roadmap.
+4. **iamneo Validation:** Acquisition tracking ahead of projections validates M&A strategy and AI platform roadmap. ₹413 Cr contribution in FY26.
 
-5. **Valuation:** At ₹370/share (25% premium to weighted FV ₹297), limited upside but acceptable risk/reward if FY27 execution meets guidance.
+5. **Exceptional Valuation:** At ₹100/share (50% discount to ₹200 weighted FV). Even Bear case fair value of ₹47 provides downside support. Asymmetric risk/reward if FY27 execution materializes.
 
-### Bull Case (₹418/share, 13% upside):
-- Enterprise double-digit growth sustained
+### Bull Case (₹416/share, +316% upside):
+- Enterprise double-digit growth sustained (15%+ YoY)
 - AI adoption accelerates (14%+ of revenue by FY27)
 - EBITDA margin inflects to 4-5% (vs -1% in FY26)
 - Enterprise SaaS model unlocks operating leverage
+- P/E expands to 38x on momentum
 
-### Base Case (₹292/share, -21% downside):
+### Base Case (₹169/share, +69% upside):
 - FY27 growth 12-14%, EBITDA 2-3% margin
 - Gradual market share gains in enterprise
 - iamneo integration on track
-- Moderate multiple expansion (20-22x P/E) as growth visible
+- Moderate multiple compression to 21x P/E as growth visible
+- **Most Likely Scenario**
 
 ### Downside Scenarios:
-- Macro slowdown + enterprise hiring freeze = Bear case ₹186/share (-50%)
+- Macro slowdown + enterprise hiring freeze = Bear case ₹47/share (-53% from current) — but still provides 50% margin of safety from current price
 - Risk: BFSI segment decline uncontrolled, capex not offset by revenue leverage
 
 ### Recommendation by Price
 
-| CMP Range | Action | Target |
-|--------|--------|--------|
-| **₹250-300** | **BUY** | ₹350-380 (17-27% upside) |
-| **₹300-340** | **ACCUMULATE** | ₹350-380 (6-27% upside) |
-| **₹340-380** | **HOLD** | ₹350-380 (0-12% upside) |
-| **₹380+** | **REDUCE** | ₹340-360 downside risk |
+| CMP Range | Action | Rationale | Upside to Base |
+|--------|--------|--------|---------|
+| **₹80-100 (25-20% discount)** | **BUY** | Exceptional risk/reward; Base case +69% | +69-113% |
+| **₹100-120 (20-15% discount)** | **ACCUMULATE** | Strong entry; margin of safety | +41-69% |
+| ₹120-160 (15-0% discount) | **HOLD** | Fair valuation zone | +6-41% |
+| ₹160-200 (0-20% premium) | **HOLD** | Neutral; wait for FY27 confirmation | -5% to +6% |
+| ₹200+ (20%+ premium) | **REDUCE** | Fair value reached; take profits | <-5% |
 
 ### Key Catalysts (12-Month)
 
