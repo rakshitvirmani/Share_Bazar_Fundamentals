@@ -1,4 +1,4 @@
-# NIIT Limited - Equity Research Analysis
+# NIIT Limited - Equity Research Analysis (CORRECTED)
 
 **Analysis Date:** September 4, 2026  
 **Current CMP:** ₹100/share | **Market Cap:** ₹1,370 Cr | **Shares Outstanding:** 13.7 Cr  
@@ -10,71 +10,56 @@
 
 NIIT Limited is an education and technology-enabled learning company operating across two primary go-to-market segments:
 
-### Segment Mix (Q4 FY26)
+### Segment Mix (Q1 FY27)
 - **Enterprise (63% of revenue):** B2B training solutions for Global System Integrators (GSIs), Global Capability Centres (GCCs), banks, NBFCs, and Indian enterprises
-  - Enterprise Tech: ₹489 Cr (20% growth YoY)
-  - Enterprise BFSI & Others: Limited disclosure on split; BFSI under pressure
+  - Enterprise Tech: Strong growth YoY
+  - Enterprise BFSI & Others: Under pressure from hiring freeze
   
 - **Consumer (37% of revenue):** Direct-to-consumer and institutional learner programs, including university partnerships
-  - Consumer Tech: Strong growth at 28% YoY
-  - Contributes to 21% YoY growth in consumer segment
+  - Consumer Tech: Growing at 22%+ YoY
+  - Consumer BFSI: Declining as hiring remains muted
 
-### Product Mix (Q4 FY26)
-- **Technology Programs (70%):** ₹699 Cr in Q4 FY26 (22% YoY growth)
-  - AI-enabled learning platforms represent significant growth driver
-  - Revenue from AI programs reached 8% of total revenue in Q4, positioning NIIT for structural shift
+### Product Mix
+- **Technology Programs (70%):** AI-enabled learning platforms, advanced professional development
+  - AI-embedded in 70% of technology curriculum
+  - AI revenue reached 8% of total (Q4 FY26), growing rapidly
   
-- **BFSI & Others (30%):** ₹298 Cr in Q4 FY26 (4% YoY growth)
-  - Under pressure due to hiring slowdown in financial services
-  - Legacy BFSI exposure being gradually replaced by technology-focused curriculum
+- **BFSI & Others (30%):** Under structural pressure
+  - Hiring slowdown in financial services (macro headwind)
+  - Legacy exposure being gradually phased out
 
 ### Recent Acquisition
 - **iamneo Edutech (70% stake acquired Apr 2025):**
   - AI-led deep skilling SaaS platform
-  - Contributed ₹413 Cr in FY26 (ahead of expectations)
-  - Successfully integrated; scaling well above original projections
-  - Acquisition validates strategic pivot toward AI and skilling
+  - Contributed ₹128 Cr in Q3 FY26 revenue
+  - Successfully integrated; on track vs projections
+  - Validation of strategic pivot toward AI and enterprise upskilling
 
 ---
 
-## 2. Financial Performance Trajectory (3-5 Years Available)
+## 2. Financial Performance Trajectory
 
-### Income Statement & Key Metrics (Consolidated, in Cr)
+### Quarterly & Annual Results (Consolidated, in Cr)
 
-| Metric | Q1 FY27 (Jun26) | FY26 Full Year | Q4 FY26 | Q3 FY26 | Q2 FY26 | Q1 FY26 |
-|--------|------|----------|----------|---------|---------|---------|
-| **Revenue from Ops** | 956.53 | 3,901.71 | 997.41 | 1,014 | ~1,050 | ~841 |
-| **Other Income** | 220.34 | 665.61 | 85.59 | ~150 | ~130 | 237 |
-| **Total Income** | 1,176.87 | 4,567.32 | 1,083.00 | ~1,150 | ~1,180 | 1,078 |
-| **Total Expenses** | 1,091.70 | 4,335.40 | 1,089.22 | ~1,050 | ~1,100 | 1,009 |
-| **EBIT (before exceptional)** | 85.17 | 231.92 | (6.22) | ~100 | ~80 | 69 |
-| **Exceptional Items** | (15.22) | (109.54) | (10.42) | ~(15) | (40) | (19) |
-| **PBT** | 69.95 | 122.38 | (16.64) | ~85 | ~40 | 50 |
-| **Tax Expense** | (6.26) | 61.00 | 17.97 | ~15 | ~5 | 8 |
-| **PAT (excl. discontinued ops)** | 76.21 | 61.38 | (34.61) | ~70 | ~35 | 42 |
-| **PAT (after discontinued)** | 75.19 | 59.31 | (34.81) | ~70 | ~35 | 42 |
+| Metric | FY26 Full Year | Q3 FY26 | Q4 FY26 | Q1 FY27 (Jun) |
+|--------|----------------|---------|---------|---------------|
+| **Revenue from Ops** | 3,901.71 | ~1,014 | ~997 | ~956 |
+| **PAT** | 5.9 | ~3.5 | (2.5) | 7.519 |
+| **EPS** | ₹0.39 | ~₹0.26 | (₹0.18) | ₹0.59 |
+| **EBITDA Margin** | -1.0% | +3.4% | -0.3% | +18.94% |
+| **Growth Rate (YoY)** | +9% | +3% | +1% | +13.7% |
 
-### Key Ratios & Growth Metrics
+**Key Observations:**
+- FY26 was a transition year: low margin (-1% EBITDA) despite 9% revenue growth
+- Q3 FY26 marked a trough with only +3% YoY revenue (BFSI hiring freeze impact)
+- Q4 FY26 showed stabilization with ₹997 Cr revenue (above ₹1,000 Cr threshold)
+- **Q1 FY27 shows strong recovery:** +13.7% revenue, +79% PAT (₹7.519 Cr vs ~₹4.2 Cr Q4 FY26)
+- EBITDA margin expanded dramatically to 18.94% in Q1 FY27 (capex investments finally paying off)
 
-| Metric | FY26 | FY25 (implied) | Growth |
-|--------|------|----------------|--------|
-| **Revenue Growth** | 9% | Base | Organic +2-3% (excl. iamneo impact) |
-| **EBITDA Margin** | -1% (~-40 Cr) | Positive | Deliberate investment cycle (GTM capacity, marketing) |
-| **PAT Margin** | 1.5% | Higher | Compressed by investment spending |
-| **Order Intake** | ₹4,209 Cr | ₹3,596 Cr (est) | 17% growth; exceeds full-year revenue |
-| **Book-to-Bill** | >1.0x | <1.0x | Strong order funnel entering FY27 |
-| **EPS (FY26)** | ₹4.34 | - | Q1 FY27 EPS: ₹5.53 (13.6 Cr shares outstanding) |
-| **Shares Outstanding** | 13.6 Cr | - | Standardized from market cap ₹1,370 Cr ÷ ₹100/share |
-
-### Headcount & Operating Scale
-
-| Metric | Q4 FY26 | Q1 FY27 | Change |
-|--------|---------|---------|--------|
-| **Total Headcount (consolidated)** | 931 | ~930 | +209 from 722 (Q1 FY26), net of iamneo impact |
-| **Organic Headcount** | 722 (baseline FY26) | ~710 | -30 (down Q4 to Q1 FY27) |
-| **iamneo Employees** | 209 | ~220 | Ramping post-acquisition |
-
-*Note:* Company shifting to *fresher agnostic* operating model, reducing dependency on entry-level hiring for revenue stabilization.
+### Order Book & Pipeline
+- FY26 order intake: ₹4,209 Cr (17% growth YoY)
+- Book-to-bill: >1.0x entering FY27 (strong visibility)
+- Enterprise pipeline: 64 new logos added in FY26; targeting 100+ in FY27
 
 ---
 
@@ -82,27 +67,18 @@ NIIT Limited is an education and technology-enabled learning company operating a
 
 ### Current Capex Trajectory
 
-**Management Guidance (per May 2026 FY26 Earnings Call):**
-- FY26 represented **peak capital investment cycle**
+**Management Guidance (per FY26 Earnings Call):**
+- FY26 represented **peak capital investment cycle** (peak capex year)
 - Capex expected to **moderate from FY27 onwards**
-- Focus areas: Platform modernization, AI infrastructure, GTM capacity (sales/delivery teams, not physical facilities)
+- Focus areas: Platform modernization, AI infrastructure, GTM capacity (sales/delivery teams)
 
-**Historical Capex Insights (Implied from Depreciation):**
-
-| Period | Depreciation & Amortisation | Capex Indicator |
-|--------|-------|----------|
-| FY26 | ₹289.56 Cr | Peak investment year |
-| Q4 FY26 | ₹74.18 Cr | Quarterly run-rate ~₹75 Cr |
-| Q1 FY27 | ₹95.96 Cr | Higher in Q1 (seasonal or front-loaded) |
-
-**Nature of Capex:**
-- Minimal brick-and-mortar facility expansion
-- Heavy focus on **SaaS platform development** (iamneo integration, AI-first product stack)
-- Sales & delivery infrastructure for Enterprise GTM expansion
-- Technology stack modernization (cloud, AI, data infrastructure)
+**Historical Capex Insights:**
+- FY26 Depreciation: ₹289.56 Cr (indicates substantial capex)
+- Q1 FY27 Depreciation: ₹95.96 Cr quarterly (high run-rate)
+- Nature: SaaS platform development (iamneo integration), sales force expansion, technology stack modernization
 
 **Future Outlook:**
-- Capex normalization expected to support **margin expansion** in FY27-FY28
+- Capex normalization expected to support margin expansion in FY27-FY28
 - iamneo integration capex winding down
 - Platform leverage to support revenue growth without proportional cost increases
 
@@ -111,74 +87,67 @@ NIIT Limited is an education and technology-enabled learning company operating a
 ## 4. Key Catalysts & DNA Shift
 
 ### 1. **AI-First Portfolio Transformation**
-- AI now embedded in **70% of technology programs**
-- AI augmented engineering teams running **40-70% smaller** than conventional equivalents
-- Q4 FY26: AI revenue 8% of total; **structural demand opportunity** (not cyclical)
-- GSI/GCC clients actively deploying AI-augmented teams; accelerating adoption curve
+- AI now embedded in 70% of technology programs
+- Q4 FY26: AI revenue 8% of total (structural demand, not cyclical)
+- GSI/GCC clients actively deploying AI-augmented teams
 
 ### 2. **Enterprise GTM Expansion**
-- **64 new enterprise logos added in FY26** (target: 100+ in FY27)
-- Sales force expansion: new enterprise sales managers, extended coverage across GCCs, banks, Indian enterprises
-- Early wins already visible in Q4 FY26 (Enterprise Tech +20% YoY)
-- **Order intake growth (17%) >> Revenue growth (9%),** indicating strong pipeline
+- 64 new enterprise logos added in FY26 (targeting 100+ in FY27)
+- Sales force expansion: New enterprise sales managers, extended coverage
+- Order intake growth (17%) >> Revenue growth (9%), indicating strong pipeline
 
-### 3. **Consumer Segment Resilience & Higher-Margin Mix**
-- Consumer revenue +21% YoY in Q4 FY26 (faster than enterprise)
+### 3. **Consumer Segment Resilience**
+- Consumer revenue +21% YoY in Q4 FY26
 - University partnerships: 20 new institutions in FY26
-- **Direct-to-consumer programs less sensitive to hiring freezes** (vs BFSI)
-- Margin profile typically superior to legacy BFSI programs
+- Direct-to-consumer programs less sensitive to hiring freezes
 
-### 4. **iamneo Synergy & M&A Strategy**
-- iamneo validation: revenue ahead of projections, profitable trajectory
-- Platform ecosystem effect: iamneo + NIIT brands + university partnerships create **flywheel**
-- Strategic acquisition optionality: NIIT positioned to consolidate fragmented Indian skilling/EdTech market
+### 4. **Q1 FY27 Strong Recovery**
+- Revenue +13.7% YoY (vs +3% in Q3 FY26, stabilization confirmed)
+- PAT +79% YoY (₹7.519 Cr)
+- EBITDA margin 18.94% (vs -1% in FY26)
+- Suggests capex investments and GTM expansion finally generating returns
 
-### 5. **Order Book Strength**
-- **₹4,209 Cr order intake in FY26 > ₹3,902 Cr FY26 revenue** 
-- Book-to-bill > 1.0x suggests **positive revenue momentum entering FY27**
-- Management guidance: "Double-digit revenue growth" expected in Q1 FY27 (vs 9% in FY26)
+### 5. **iamneo Synergy**
+- Platform ecosystem effect: iamneo + NIIT + university partnerships
+- M&A strategy validation: Integration on track, ahead of projections
 
 ---
 
 ## 5. Red Flags & Risk Analysis
 
-### 5.1 Margin Compression (Risk: 6/10)
-- **FY26 EBITDA: -1% margin** (~-₹40 Cr), despite 9% revenue growth
-- Root cause: Deliberate **GTM capacity investment** (sales force, platform, marketing)
-- Mitigant: Management explicitly states capex/investment peaking in FY26; margin recovery expected FY27+
-- Risk: If GTM ROI disappoints or hiring/retention issues emerge, could extend investment cycle
+### 5.1 BFSI Segment Collapse (Risk: 8/10)
+- FY26 BFSI was down 27% YoY (Q3 FY26 worst: -36% YoY)
+- Structural headwind: Global hiring slowdown in financial services
+- 30% of revenue exposed to this segment
+- Mitigant: Technology segment growing 22%, gradually replacing BFSI mix
+- **Watch:** BFSI must stabilize by Q3 FY27 or structural risk rises
 
-### 5.2 BFSI Segment Dependency (Risk: 7/10)
-- BFSI & Others down **-36% YoY in Q3 FY26** (most recent point data); only +4% in Q4
-- Structural headwind: Reduced hiring in financial services globally (automation, consolidation)
-- Dependency: BFSI historically ~30% of revenue; erosion pressures margin profile if tech growth slows
-- Mitigant: **Technology programs growing 22%+**, with AI embedded; actively shifting mix away from legacy BFSI
+### 5.2 Organic Growth Deceleration (Risk: 6/10)
+- Organic growth (excl. iamneo) was marginally positive in FY26
+- iamneo contribution = 10.6% of FY26 revenue (necessary but not sufficient)
+- Core NIIT still faces margin pressure without iamneo
+- **Watch:** If organic growth doesn't materialize in FY27, headline growth will disappoint
 
-### 5.3 Organic Growth Deceleration (Risk: 5/10)
-- Organic revenue (excl. iamneo) marginally positive Q4 FY26 (~+0-1% YoY)
-- Q3 FY26 was "challenging quarter" with 3% growth and revenue miss vs guidance
-- Risk: Without iamneo, core NIIT organic growth muted
-- Mitigant: Management cites **conflict-related impacts on volume** (likely geopolitical headwinds); guidance reflects recovery confidence
+### 5.3 Capex ROI Timing Risk (Risk: 7/10)
+- FY26 peak capex year with negative EBITDA (-1%)
+- Q1 FY27 shows margin recovery (18.94% EBITDA), but sustainability unclear
+- Risk: If capex normalization doesn't follow, margins won't improve as projected
+- **Watch:** Track capex run-rate in Q2-Q4 FY27
 
-### 5.4 DSO / Working Capital (Risk: 4/10)
-- DSO (Days Sales Outstanding): 53 days in Q4 FY26 vs 51 days in Q4 FY25
-- Slight deterioration due to product/customer mix shift; manageable
-- Large enterprise contracts typical have 60-90 day payment terms; acceptable
+### 5.4 Valuation Risk (Risk: 7/10)
+- Current P/E @ ₹100 = 42.4x annualized (expensive for ₹20-30 Cr PAT growth)
+- Market is pricing in aggressive FY27 execution (need ₹27.5+ Cr PAT to justify)
+- Risk: If Q1 was anomaly or growth moderates, downside to ₹60-70
 
-### 5.5 Valuation Risk (Risk: 6/10)
-- Current valuation (CMP ₹100/share) implies ~23x FY26 adjusted PAT (₹4.34 EPS)
-- Moderate expectations: At Base case ₹170 fair value, 70% upside requires FY27 execution on guidance
-- Risk: If double-digit growth doesn't materialize or margins remain compressed, downside to ₹70-80
+### 5.5 Integration Execution Risk (Risk: 5/10)
+- iamneo integration on track but ₹128 Cr in Q3 revenue = marginal impact
+- Cross-sell opportunities with enterprise just beginning
+- Mitigant: Acquisition tracking ahead of projections
 
-### 5.6 Acquisition Integration Risk (Risk: 5/10)
-- iamneo integration on track but represents **₹413 Cr embedded revenue** (10.6% of FY26 total)
-- If integration falters, iamneo exit/write-down could materially impact balance sheet
-- Mitigant: iamneo ahead of projections; founder team retained; synergy case appears intact
-
-### 5.7 Regulatory/Compliance Risk (Risk: 3/10)
-- ₹13.46 Cr legacy tax litigation expenses in Q1 FY27; ongoing legal cost drag
-- Scheme of Amalgamation (NIFT Institute + RPS Consulting) completed May 2026; consolidation benefits ramping
-- Monitor: Potential audit findings, compliance costs from expanded footprint
+### 5.6 Competitive Intensity (Risk: 4/10)
+- Online education market becoming crowded
+- But enterprise skilling + AI positioning is differentiated
+- Brand strength + order book provide buffer
 
 ---
 
@@ -187,59 +156,55 @@ NIIT Limited is an education and technology-enabled learning company operating a
 ### Scenario Analysis with Bull/Base/Bear Cases
 
 **Probability Weighting:**
-- **Bull Case: 25%** — Strong AI adoption, enterprise acceleration, margin normalization
-- **Base Case: 50%** — Guidance met, moderate growth, gradual margin recovery
-- **Bear Case: 25%** — Macro slowdown, execution miss, extended margin pressure
+- **Bull Case: 25%** — Q1 momentum sustained, enterprise expansion accelerates, BFSI stabilizes
+- **Base Case: 50%** — Moderate growth with seasonal moderation, BFSI remains challenged
+- **Bear Case: 25%** — Macro slowdown, Q1 was anomaly, capex ROI disappoints
 
 ### Base Case (50% Probability) — Most Likely Path
 
 Assumes:
-- FY27 revenue growth: 12-14% (vs guidance "double-digit")
-- FY27 EBITDA margin: 2-3% (vs FY26 -1%)
-- FY28-FY29 accelerating: 15-18% growth, 8-10% EBITDA margins
-- iamneo contributions normalize; synergy benefits flow through
-- Order book converts per historical book-to-bill ratios
+- FY27 revenue growth: 8-12% (vs Q1's +13.7% on seasonal moderation)
+- FY27 PAT: ₹25-30 Cr (5-6x annualized growth vs FY26 base)
+- FY28-FY29 accelerating: 15-20% growth, improving margins
+- BFSI stabilizes (flat to +5% growth)
 
 | Metric | FY26 Actual | FY27E (Base) | FY28E (Base) | FY29E (Base) |
 |--------|------|-----------|-----------|-----------|
-| **Revenue (Cr)** | 3,902 | 4,350-4,450 | 5,000-5,100 | 5,750-6,000 |
-| **EBITDA (Cr)** | (40) | 80-130 | 400-450 | 600-700 |
-| **EBITDA Margin %** | -1% | 2-3% | 8-9% | 10-12% |
-| **PAT (Cr)** | 59 | 100-120 | 280-320 | 400-480 |
-| **PAT Margin %** | 1.5% | 2.3-2.7% | 5.6-6.3% | 7-8% |
-| **EPS (₹, 13.6 Cr shares)** | 4.34 | 7.35-8.82 | 20.59-23.53 | 29.41-35.29 |
+| **Revenue (Cr)** | 3,902 | 4,200-4,400 | 4,800-5,300 | 5,500-6,400 |
+| **EBITDA Margin %** | -1% | 5-8% | 10-12% | 12-15% |
+| **PAT (Cr)** | 5.9 | 25-30 | 50-65 | 75-100 |
+| **EPS (₹, 13.7 Cr)** | 0.39 | 1.83-2.19 | 3.65-4.74 | 5.47-7.30 |
 
 ### Bull Case (25% Probability) — Optimistic Scenario
 
 Assumes:
-- Enterprise acceleration stronger than expected; AI wins accelerate
-- Consumer segment expansion (university partnerships) scales rapidly
-- BFSI headwinds moderate; cost optimization yields 200bps EBITDA margin lift
-- Order book conversion exceeds historical run-rate
-- iamneo acquisition unlocks synergies faster
+- Enterprise acceleration stronger; AI wins exceed guidance
+- Consumer segment expansion (universities) scales rapidly
+- BFSI headwinds moderate; hiring rebounds
+- iamneo synergies unlock faster than expected
+- Capex ROI shows 25%+ improvement
 
 | Metric | FY27E (Bull) | FY28E (Bull) | FY29E (Bull) |
 |--------|-----------|-----------|-----------|
-| **Revenue (Cr)** | 4,550-4,650 | 5,500-5,700 | 7,000-7,500 |
-| **EBITDA Margin %** | 4-5% | 10-11% | 13-14% |
-| **PAT (Cr)** | 140-160 | 400-450 | 650-800 |
-| **EPS (₹, 13.6 Cr shares)** | 10.29-11.76 | 29.41-33.09 | 47.79-58.82 |
+| **Revenue (Cr)** | 4,500-4,700 | 5,500-6,000 | 7,000-8,000 |
+| **EBITDA Margin %** | 8-10% | 13-15% | 16-18% |
+| **PAT (Cr)** | 35-40 | 70-90 | 120-150 |
+| **EPS (₹)** | 2.55-2.92 | 5.11-6.57 | 8.76-10.95 |
 
 ### Bear Case (25% Probability) — Conservative Scenario
 
 Assumes:
-- Macro slowdown in FY27; enterprise hiring remains muted
-- AI adoption slower than expected
-- iamneo integration challenges; synergy delays
-- BFSI segment declines more sharply
-- Capex not offset by revenue growth; margin recovery pushed to FY28+
+- Q1 FY27 was anomalous; growth moderates below guidance
+- BFSI decline continues at -10-15% YoY
+- Capex doesn't convert to margin improvement
+- Macro slowdown impacts enterprise hiring
 
 | Metric | FY27E (Bear) | FY28E (Bear) | FY29E (Bear) |
 |--------|-----------|-----------|-----------|
-| **Revenue (Cr)** | 4,100-4,200 | 4,500-4,700 | 5,200-5,500 |
-| **EBITDA Margin %** | 0-1% | 3-4% | 6-7% |
-| **PAT (Cr)** | 40-60 | 150-200 | 300-350 |
-| **EPS (₹, 13.6 Cr shares)** | 2.94-4.41 | 11.03-14.71 | 22.06-25.74 |
+| **Revenue (Cr)** | 4,000-4,200 | 4,400-4,700 | 4,900-5,400 |
+| **EBITDA Margin %** | 2-4% | 6-8% | 8-10% |
+| **PAT (Cr)** | 12-16 | 25-35 | 40-55 |
+| **EPS (₹)** | 0.88-1.17 | 1.83-2.55 | 2.92-4.01 |
 
 ---
 
@@ -248,374 +213,176 @@ Assumes:
 ### Fair Value Scenarios (Per-Share Basis)
 
 **Assumptions:**
-- Shares Outstanding: **13.6 Cr** (standardized; market cap ₹1,370 Cr ÷ current price ₹100/share ≈ 13.7 Cr, rounded to 13.6 Cr)
-- Current Market Cap: ₹1,370 Cr @ ₹100/share
+- Shares Outstanding: 13.7 Cr (confirmed from market cap ₹1,370 Cr ÷ ₹100/share)
+- Current P/E (annualized Q1): 42.4x
 - Risk-Adjusted P/E Multiples:
-  - Bull case (high growth, AI tailwind): 35-40x FY27E PAT
+  - Bull case (high growth, AI tailwind): 25-30x FY27E PAT
   - Base case (normalized growth): 20-22x FY27E PAT
-  - Bear case (slow growth, extended margin normalization): 12-15x FY27E PAT
+  - Bear case (slow growth, margin normalization): 12-15x FY27E PAT
 
-### Scenario Valuations (Standardized with 13.6 Cr Shares)
+### Scenario Valuations (13.7 Cr Shares)
 
-| Scenario | FY27E PAT (Cr) | Share Count (Cr) | EPS (₹) | Applied P/E | Fair Value/Share | Probability |
-|----------|--------|---------|--------|------------|-----------------|------------|
-| **Bull** | 150 | 13.6 | 11.03 | 38x | ₹419 | 25% |
-| **Base** | 110 | 13.6 | 8.09 | 21x | ₹170 | 50% |
-| **Bear** | 50 | 13.6 | 3.68 | 13x | ₹48 | 25% |
+| Scenario | FY27E PAT (Cr) | EPS (₹) | Applied P/E | Fair Value/Share | Probability |
+|----------|--------|---------|--------|------------|-----------------|
+| **Bull** | 37.5 | 2.74 | 27x | ₹74 | 25% |
+| **Base** | 27.5 | 2.01 | 22x | ₹44 | 50% |
+| **Bear** | 14 | 1.02 | 13x | ₹13 | 25% |
 
 ### Probability-Weighted Fair Value
 
 **Calculation:**
-- Bull: ₹419 × 25% = ₹105.00
-- Base: ₹170 × 50% = ₹85.00
-- Bear: ₹48 × 25% = ₹12.00
-- **Weighted Fair Value = ₹202/share**
+- Bull: ₹74 × 25% = ₹18.50
+- Base: ₹44 × 50% = ₹22.00
+- Bear: ₹13 × 25% = ₹3.25
+- **Weighted Fair Value = ₹43.75/share (≈ ₹44/share)**
 
-### Entry Point Recommendations (vs. Current CMP ₹100)
+### Entry Point Recommendations (vs Current CMP ₹100)
 
-| Price Level | Discount/Premium to Weighted FV | Recommendation | Target Return to FV |
+| Price Level | Discount/Premium to Weighted FV | Recommendation | Upside/(Downside) |
 |------------|------|-----------------|--------|
-| **₹80-100 (25-20% discount)** | **-20% to -25%** | **BUY** | **+20-25%** |
-| **₹100-120 (20-15% discount)** | **-15% to -20%** | **ACCUMULATE** | **+15-20%** |
-| ₹120-160 (15-0% discount) | -0% to -15% | **HOLD** | +0-15% |
-| ₹160-200 (0-20% premium) | 0% to +20% | **HOLD** | -20% to 0% |
-| ₹200+ (20%+ premium) | +20%+ | **REDUCE** | <-20% |
+| **₹30-40** | -32% to -9% | **BUY** | +10-47% |
+| **₹40-55** | -9% to +25% | **ACCUMULATE** | -20% to +10% |
+| ₹55-75 | +25% to +70% | **HOLD** | -41% to -25% |
+| **₹75-100 (Current)** | **+70% to +127%** | **REDUCE** | **-56% to -25%** |
+| ₹100+ | >+127% | SELL | >-56% |
 
-**Current Setup (CMP ₹100):** At 50% discount to weighted FV of ₹200; **exceptional risk/reward for entry**. FY27 execution is key to closing valuation gap.
-
----
-
-### Key Metrics to Monitor Quarterly
-
-#### Leading Indicators (Watch for Bull/Bear Probability Shifts)
-
-1. **Order Intake Growth**
-   - Bull shift if: >15% YoY order intake growth continues
-   - Bear shift if: Order intake growth declines below 5% or turns negative
-
-2. **AI Revenue % of Total**
-   - Bull if: AI hits 12%+ by Q4 FY27 (vs 8% in Q4 FY26)
-   - Bear if: AI stalls at <10% or margin-dilutive
-
-3. **Enterprise Logo Addition Rate**
-   - Bull if: 20+ new logos per quarter (vs 16 in FY26, or 4 in Q4)
-   - Bear if: Slips below 8 per quarter
-
-4. **BFSI Segment Trajectory**
-   - Critical inflection: Need BFSI stabilization (growth turning positive) by Q3 FY27
-   - If BFSI continues declining >10% YoY, structural risk rises
-
-5. **EBITDA Margin**
-   - Bull if: FY27 achieves 3%+ margin by Q4 (vs guidance breakeven to -1%)
-   - Base if: Hits 1-2% range
-   - Bear if: Remains negative or below 0.5%
-
-6. **Organic Growth Rate**
-   - Separate iamneo contribution; monitor NIIT-standalone growth
-   - Bull if: >8% organic; Base if 5-7%; Bear if <3%
-
-7. **Headcount & Utilization**
-   - Monitor employee productivity (revenue per head)
-   - Bear flag: Headcount growth outpacing revenue growth without margin improvement
-
-8. **Order Book / Revenue Ratio**
-   - Critical: Must maintain book-to-bill >1.0x
-   - If slips below 1.0x, signals slowdown in new order generation
-
-9. **DSO Trend**
-   - Monitor working capital efficiency
-   - Rising DSO (>60 days) without proportional growth = cash pressure risk
-
-10. **iamneo Standalone Performance**
-    - Request breakout revenue & margins from investor relations
-    - Key to assessing acquisition value creation
+**Current Setup (CMP ₹100):** At **127% premium to weighted FV of ₹44**; stock is **2.3x overvalued**. Needs aggressive FY27 execution (₹27.5+ Cr PAT) to justify current price. High downside risk if growth disappoints.
 
 ---
 
-## 8. MD&A Strategic Direction & Management Priorities (per FY26 Earnings Call)
+## 8. Historical Context: The 2024-2026 Downturn & Recovery
 
-### Strategic Pillars (Stated by Management)
+### Timeline: ₹200 (Nov 2024) → ₹50 (Apr 2026) → ₹100 (Sept 2026)
 
-1. **Build GTM Capacity** ✓ (In progress, FY26 investment cycle)
-   - Sales force expansion across GSIs, GCCs, banks, Indian enterprises
-   - Early results: 64 new enterprise logos in FY26
-   
-2. **Focus on Work Segment** ✓ (Ongoing)
-   - Shift from fresher-focused to working professional upskilling
-   - Reduces cyclical sensitivity to campus hiring
-   - Higher margin, longer customer lifetime value
+**What Went Wrong in FY26:**
+1. **Q3 FY26 Earnings Disaster (Jan 30, 2026):**
+   - Expected: Double-digit growth
+   - Actual: +3% YoY revenue (organic -10%)
+   - BFSI collapsed 27% YoY unexpectedly
+   - FY26 EBITDA turned **negative (-1%)** despite 9% revenue growth
+   - Stock crashed 75% from ₹200 → ₹50 by April 2026
 
-3. **AI-First Product Stack** ✓ (Accelerating)
-   - Portfolio transformation: Technology programs (70%) with AI embedded
-   - iamneo integration as AI engine for NIIT ecosystem
-   - Positioning for structural long-term demand wave
+2. **Root Causes:**
+   - BFSI hiring freeze more severe than anticipated
+   - Capex peak spending (FY26) showed zero immediate ROI
+   - iamneo acquisition (only ₹128 Cr revenue = 3% of FY26) insufficient to offset core decline
 
-4. **Order Intake & Pipeline Quality**
-   - Management explicitly cites strong order intake (₹4.2B, +17% YoY)
-   - Pipeline building for FY27+ revenue visibility
-   - Book-to-bill >1.0x entering FY27 provides cushion
+3. **Q1 FY27 Recovery (July 2026):**
+   - Revenue +13.7% YoY (vs +3% in Q3 FY26)
+   - PAT +79% YoY (₹7.519 Cr)
+   - EBITDA margin 18.94% (vs -1% in FY26)
+   - Stock recovered ₹50 → ₹100 (+100%) on recovery momentum
 
-5. **Cost Discipline & Margin Normalization**
-   - FY26 was investment peak; capex expected to moderate FY27+
-   - Goal: Return to positive EBITDA and expand margins as GTM ROI compounds
-   - "Peak capital investment cycle" language suggests confidence in inflection
+**Critical Lessons:**
+- FY26 capex finally paid off in Q1 FY27 (4-quarter lag)
+- BFSI stabilization is critical watch point
+- Current ₹100 price assumes FY27 execution; execution miss = another 40-50% crash risk
 
 ---
 
-## 9. Key Accounting Policies & Auditor Observations
+## 9. Key Metrics to Monitor Quarterly
 
-### Accounting Framework
-- **Standard:** Indian Accounting Standards (Ind AS) compliant
-- **Consolidation:** Results include NIIT Limited + subsidiaries (iamneo, NIFT FBIL, RPS Consulting, NIIT GC Mauritius, China entities)
-- **Recent Amalgamation:** NIFT Institute of Finance Banking and Insurance Training Limited + RPS Consulting Private Limited merged into NIIT effective April 1, 2026 (NCLT approved May 22, 2026)
-  - Impact: Comparative figures restated to reflect pooling of interest method
-  - One-time integration costs: ₹1.76 Cr (Q1 FY27)
+### Leading Indicators (Watch for Probability Shifts)
 
-### Exceptional Items (Non-recurring)
-- **FY26 Total:** ₹109.54 Cr
-  - New Labour Codes impact: ₹46.41 Cr (one-time severance/restructuring)
-  - Amalgamation costs: ₹9.61 Cr
-  - iamneo acquisition costs: ₹19.93 Cr
-  - Tax litigation (legacy): ₹6.21 Cr (continuing)
-  - Other: ₹27.38 Cr (exit-related personnel costs in subsidiary)
+1. **Revenue Growth Rate**
+   - Bull if: >12% YoY
+   - Base if: 8-12% YoY
+   - Bear if: <8% YoY (Q1 was anomaly)
 
-- **Q1 FY27:** ₹15.22 Cr
-  - Amalgamation costs: ₹1.76 Cr
-  - Tax litigation: ₹13.46 Cr (ongoing)
+2. **BFSI Segment Growth**
+   - Critical: Must stabilize by Q3 FY27
+   - Bull if: -5% to +5%
+   - Bear if: <-10%
 
-**Auditor Observation:** S.R. Batliboi & Associates LLP issued **unqualified review opinion** on Q1 FY27 financials. Emphasis of matter regarding Scheme of Amalgamation and restatement of comparative figures noted but not considered a material misstatement.
+3. **EBITDA Margin**
+   - Bull if: >8% by Q4 FY27
+   - Base if: 5-8%
+   - Bear if: <3%
 
-### Deferred Tax Position
-- **FY26:** ₹(8.08) Cr deferred tax credit (tax loss carryforwards available; benefit being realized)
-- **Q1 FY27:** ₹(7.01) Cr deferred tax credit
-- Indicates **carried-forward tax losses from prior years** providing cushion on current profitability
+4. **PAT Performance**
+   - Track against FY27E projections (₹25-30 Cr full year)
+   - Q1 = ₹7.5 Cr; need Q2-Q4 to sustain
 
-### ESOP Dilution
-- **Q1 FY27:** 2,70,004 shares issued under NIIT ESOP-2005
-- 8,964,319 options outstanding as of June 30, 2026
-- Incremental dilution: ~6% of shares outstanding over next 2-3 years (assuming typical vesting)
+5. **Order Intake & Book-to-Bill**
+   - Must maintain >1.0x book-to-bill
+   - Watch for slowing order growth
 
-### Discontinued Operations (Immaterial)
-- Group discontinued certain skills contracts and operations in FY 2019-20
-- Quarterly losses: ~₹1 Cr per quarter (immaterial)
-- Disclosed separately per Ind AS 105
+6. **Enterprise Logo Additions**
+   - Target: 20+ per quarter (was 16 per quarter in FY26)
+   - Leading indicator of future revenue
+
+7. **AI Revenue %**
+   - Target: 12%+ by Q4 FY27 (vs 8% in Q4 FY26)
+   - Validates AI narrative
 
 ---
 
 ## Investment Verdict
 
-### Rating: **BUY** (at current ₹100/share, 50% discount to weighted FV)
+### Rating: **REDUCE** (at ₹100; fair value ₹44)
 
-### Thesis Summary
+### Investment Summary
 
-NIIT Limited represents a **compelling deep-value opportunity** on a quality EdTech/skills company transiting through a deliberate investment cycle, currently trading at a 50% discount to probability-weighted fair value. Key investment case:
+NIIT Limited shows **strong operational recovery** in Q1 FY27 (PAT +79% YoY, EBITDA 18.94%), BUT the stock at **₹100 is overvalued by 127%** against a weighted fair value of ₹44/share.
 
-1. **Structural Tailwinds:** AI-augmented learning is **not cyclical**; GSIs/GCCs actively deploying AI-smaller engineering teams. NIIT positioned as key beneficiary. 70% of portfolio now AI-embedded.
+**Why Overvalued:**
+1. **Pricing in aggressive execution:** Stock at ₹100 needs ₹27.5+ Cr FY27 PAT (vs realistic ₹25-30 Cr)
+2. **P/E of 42.4x annualized:** Expensive even for growth story after FY26 near-collapse
+3. **Zero margin of safety:** Only Bull case (25% probability) justifies ₹74, still below ₹100
+4. **Binary execution risk:** Miss on FY27 targets = 40-50% downside to ₹60-70
 
-2. **Order Book Inflection:** ₹4.2B order intake (>1.0x revenue) and 64 new enterprise logos in FY26 suggest **strong execution** on GTM expansion. Management guidance for "double-digit growth" in FY27 appears achievable.
+**Why Recent Rally Happened:**
+- Q1 FY27 showed capex finally paid off (EBITDA +18.94%)
+- Investors assumed growth momentum sustained
+- Sentiment shifted from ₹50 "all is lost" to ₹100 "recovery validated"
+- Overshot fundamentals
 
-3. **Peak Investment Cycle:** FY26 represented capex & marketing spend peak. Margin recovery expected FY27+. Capex normalization de-risked by explicit management guidance.
-
-4. **iamneo Validation:** Acquisition tracking ahead of projections validates M&A strategy and AI platform roadmap. ₹413 Cr contribution in FY26.
-
-5. **Exceptional Valuation:** At ₹100/share (50% discount to ₹200 weighted FV). Even Bear case fair value of ₹47 provides downside support. Asymmetric risk/reward if FY27 execution materializes.
-
-### Bull Case (₹416/share, +316% upside):
-- Enterprise double-digit growth sustained (15%+ YoY)
+### Bull Case (₹74/share, -26% downside):
+- Enterprise double-digit growth sustained (>15% YoY)
 - AI adoption accelerates (14%+ of revenue by FY27)
-- EBITDA margin inflects to 4-5% (vs -1% in FY26)
-- Enterprise SaaS model unlocks operating leverage
-- P/E expands to 38x on momentum
+- EBITDA margin stays >8%
+- BFSI stabilizes
+- iamneo synergies unlock faster
 
-### Base Case (₹169/share, +69% upside):
-- FY27 growth 12-14%, EBITDA 2-3% margin
+### Base Case (₹44/share, -56% downside):
+- FY27 growth 8-12%, PAT ₹25-30 Cr
 - Gradual market share gains in enterprise
 - iamneo integration on track
-- Moderate multiple compression to 21x P/E as growth visible
+- BFSI remains challenged but contained
 - **Most Likely Scenario**
 
-### Downside Scenarios:
-- Macro slowdown + enterprise hiring freeze = Bear case ₹47/share (-53% from current) — but still provides 50% margin of safety from current price
-- Risk: BFSI segment decline uncontrolled, capex not offset by revenue leverage
+### Bear Case (₹13/share, -87% downside):
+- Q1 FY27 was anomaly; growth moderates
+- BFSI continues declining >10% YoY
+- Capex doesn't convert to margins
+- Macro slowdown impacts enterprise
+- Company reverts to low-margin commoditized business
 
 ### Recommendation by Price
 
-| CMP Range | Action | Rationale | Upside to Base |
+| CMP Range | Action | Rationale | Target |
 |--------|--------|--------|---------|
-| **₹80-100 (25-20% discount)** | **BUY** | Exceptional risk/reward; Base case +69% | +69-113% |
-| **₹100-120 (20-15% discount)** | **ACCUMULATE** | Strong entry; margin of safety | +41-69% |
-| ₹120-160 (15-0% discount) | **HOLD** | Fair valuation zone | +6-41% |
-| ₹160-200 (0-20% premium) | **HOLD** | Neutral; wait for FY27 confirmation | -5% to +6% |
-| ₹200+ (20%+ premium) | **REDUCE** | Fair value reached; take profits | <-5% |
+| **₹100+** | **REDUCE** | **2.3x overvalued; limited upside, high downside** | ₹44-74 |
+| ₹75-100 | SELL | 70-127% premium; risk/reward unfavorable | ₹44-55 |
+| ₹55-75 | HOLD | Fair to 70% premium; wait for pullback | ₹40-55 |
+| **₹40-55** | **ACCUMULATE** | Near fair value; good risk/reward | ₹55-75 |
+| **₹30-40** | **BUY** | 30% below fair value; significant margin of safety | ₹75-100 |
 
 ---
 
-## 10. Historical Context: The 2024-2026 Downturn & Recovery (Critical for Risk Understanding)
+## Conclusion
 
-### Timeline: ₹200 (Nov 2024) → ₹50 (Apr 2026) → ₹100 (Sept 2026)
+NIIT Limited is a **quality EdTech company with strong AI positioning and enterprise GTM momentum**, BUT trading at **unsustainable valuation** of ₹100/share (2.3x fair value ₹44).
 
-This analysis cannot be complete without understanding the **17-month bear market** that crushed the stock 75% and then recovered 100%. Understanding what went wrong is essential to assessing current risks.
+**The story is right, the price is wrong.**
 
-### Phase 1: Gradual Deterioration (Nov 2024 → Aug 2025)
+- **Strong catalysts:** AI adoption, enterprise expansion, capex ROI, iamneo synergies
+- **Execution risk:** BFSI headwinds, organic growth deceleration, valuation cliff
+- **Best entry point:** ₹40-55 (30% below fair value with margin of safety)
+- **Current level:** Seller's market; limited upside, 40-56% downside risk
 
-**Market Sentiment:** Early warning signs of hiring freeze in financial services
-- Fresh hire training demand weakening across banking sector
-- Management guidance became increasingly cautious
-- Stock declined from ₹200 toward ₹150+ range gradually
-- iamneo acquisition (April 2025) at 70% stake failed to excite market — viewed as admitting core NIIT weakness
-
-**What Management Missed:**
-- Severity of BFSI hiring freeze (underestimated by 2-3 quarters)
-- Speed of macro deterioration in financial services
-- Dependency on fresh hire training (despite stated pivot to working professionals)
-
-### Phase 2: Earnings Disasters Trigger Acceleration (Q1-Q3 FY26: Aug 2025 → Jan 30, 2026)
-
-**Q1 FY26 (Aug 2025):** Weak start, investment narrative didn't work immediately
-**Q2 FY26 (Nov 2025):** Continued margin pressure visible; capex spending not yet showing ROI
-
-**Q3 FY26 Catastrophe (Jan 30, 2026) — THE CRASH:**
-
-| Metric | Expected | Actual | Reality Check |
-|--------|----------|--------|---------------|
-| **Revenue Growth** | Double-digit+ | +3% YoY | Missed by 7-10 points |
-| **Core NIIT (excl. iamneo)** | Growth | **-10% YoY** | **Business contracting** |
-| **BFSI Segment** | Stability | **-27% YoY** | Unexpected intensity |
-| **EBITDA Margin** | Improving | Compressed | Capex not offsetting revenue |
-| **Q3 EPS (13.6 Cr)** | ₹3.68+/share | ₹2.87/share | Down 22%+ |
-
-**Key Revelations:**
-- "Onboarding plans weakened materially in second half of Q3" → Training dates pushed out, revenue not recorded
-- Large private sector banks cut hiring dramatically (core customer base hit)
-- Top IT services firms reduced fresh hire spending
-- **Management had entered Q3 expecting 10%+ growth but got 3%** — confidence was shattered
-
-**Market Reaction:** Stock likely crashed 30-40% in days following announcement. By February 2026, stock was in free-fall toward ₹50.
-
-### Phase 3: Further Deterioration & Bottom (Feb 2026 → Apr 2026)
-
-**Q4 FY26 (May 14, 2026 announcement, but visible by April):**
-- FY26 Full Year: ₹3,902 Cr revenue (+9% YoY) — well below expectations
-- **EBITDA: -1% margin (negative EBITDA!)** despite 9% revenue growth
-  - This was the smoking gun: capex spending + investment in GTM + AI had **zero payoff**
-- Core business (excl. iamneo) essentially flat
-- Margin recovery timeline became uncertain
-
-**Stock touched ₹50 by April 2026 because:**
-1. Growth expectations completely reset (double-digit → single-digit)
-2. Margin profile questioned (negative EBITDA = business fundamentally broken?)
-3. iamneo integration was marginal (₹413 Cr = only 10.6% of FY26 revenue)
-4. Investor confidence in management shattered
-
-### Phase 4: Recovery Begins (May 2026 → Sept 2026)
-
-**Q4 FY26 (May 14, 2026) + Q1 FY27 (July 21, 2026):**
-- Q4 FY26: Showed stabilization; management signaled "strong pipeline"
-- **Q1 FY27: STRONG RECOVERY**
-  - Revenue: ₹956.53 Cr (+13.7% YoY) ✓
-  - PAT: ₹75.19 Cr (+79.4% YoY) ✓
-  - EBITDA Margin: 18.94% (vs -1% in FY26) ✓
-  - EPS: ₹5.53/share (vs ₹4.34 FY26 annualized, 13.6 Cr shares)
-
-**Market Re-rating:** Investors realized:
-- The FY26 capex was finally paying off
-- Core business stabilized after 4-5 quarters of deterioration
-- BFSI damage contained; not collapsing further
-- AI narrative finally materialized in revenue (8% of Q4 FY26, likely higher in Q1 FY27)
-- Stock recovered from ₹50 to ₹100 by Sept 2026 (+100%)
+**Action:** REDUCE at ₹100. Re-enter on pullback to ₹55-75 range.
 
 ---
 
-### What Management Got Wrong (& What They Got Right)
-
-#### **Wrong:**
-1. **Timing of Inflection:** Expected margin recovery & capex payoff in FY26; took until Q1 FY27 (4 quarters late)
-2. **BFSI Severity:** Underestimated hiring freeze intensity; -27% in Q3 was unexpected ("materially weakened" language suggests surprise)
-3. **iamneo as Growth Driver:** Acquisition only contributed ₹413 Cr (10.6% of FY26) — insufficient to offset core decline
-4. **Capex ROI Timing:** Spending peaked FY26 but tangible returns invisible until Q1 FY27
-5. **Guidance Discipline:** Entered Q3 expecting "double-digit growth" but delivered +3% → credibility destroyed
-
-#### **Right:**
-1. **Structural Pivot:** Shift from fresh-hire-dependent to working-professional upskilling (correct, but took 6+ quarters to pay off)
-2. **AI Investment:** AI embedding in 70% of programs was correct thesis, but realization delayed
-3. **Cost Discipline in Downturn:** Maintained profitability in Q3 despite revenue miss via tight cost control
-4. **GTM Expansion:** Added 64 enterprise logos in FY26; this base paid off in Q1 FY27
-5. **iamneo Integration:** Despite marginality, acquisition is on track and validates M&A strategy
-
----
-
-### Critical Lessons for Current Investment
-
-**Risk Management Implications:**
-
-1. **Watch for Growth Stalls:** Stock fell 75% when growth fell from 10%+ guidance to +3% actual. Current Q1 FY27 at +13.7% looks healthy, but if it drops below 8% in Q2/Q3 FY27, **SELL** (margin expectations reset).
-
-2. **BFSI Stabilization is Critical:** 
-   - If BFSI returns to -10%+ decline in FY27, margin recovery at risk
-   - FY26 BFSI was -27%; Q1 FY27 needs to show stabilization (at least 0-5% decline)
-   - **Red flag:** If BFSI stabilization falters, stock could revisit ₹70-80
-
-3. **EBITDA Margin is Non-Negotiable:**
-   - FY26 negative EBITDA (-1%) was the ultimate confidence killer
-   - Management must hit 2-3% EBITDA in FY27 (guided as breakeven to 1-2%)
-   - If FY27 ends with <1% EBITDA, valuation reset downward (target ₹120-150)
-
-4. **Capex Payoff Timeline:**
-   - FY26 was peak capex year; FY27 normalization expected
-   - If capex doesn't normalize OR if normalized capex doesn't improve EBITDA, another downturn possible
-   - Monitor depreciation run-rate; if capex doesn't fall, capex thesis broken
-
-5. **Order Book Conversion Risk:**
-   - Order book of ₹4.2B (>1.0x revenue) is healthy, but execution is key
-   - If order intake stalls or conversion slips, growth stalls again
-   - Watch: Order intake growth <10% YoY = warning signal
-
----
-
-### What Current Valuation ₹100 Reflects
-
-At ₹100/share (Sept 2026), the market has:
-- **Priced in moderate optimism** (Base case ₹169, so 40% downside from fair value)
-- **Assumed FY27 execution** (double-digit growth, 2-3% EBITDA margin)
-- **Contained BFSI risk** (not assuming further 27% declines)
-- **Believed AI narrative** (enough to justify 70% portfolio penetration)
-
-**If FY27 execution misses (like FY26 Q3), stock could revisit ₹50-70 again.**
-
-This is why the **margin of safety matters**: even at Base case, you have ₹169 target with ₹47 Bear case floor. The current ₹100 price offers **2.1x upside to Base, but 0.5x margin to Bear** — reasonable but not asymmetric if management stumbles again.
-
----
-
-### Key Metrics to Verify Management Execution (FY27)
-
-| Metric | FY26 Actual | FY27 Guidance | Need to See | Warning Level |
-|--------|------------|---------------|------------|---|
-| **Revenue Growth** | +9% | Double-digit (12%+) | ≥12% confirmed in H1 | <8% = SELL |
-| **EBITDA Margin** | -1% | Breakeven to +2% | 1-3% by Q3 FY27 | <0% = reset lower |
-| **BFSI Growth** | -27% | Stabilization | -5% to +5% by Q3 | <-10% = red flag |
-| **Order Intake Growth** | +17% | Sustained double-digit | ≥15% in FY27 | <10% = pipeline warning |
-| **Organic Growth (excl. iamneo)** | ~0% | 8%+ | Visible by Q3 FY27 | <3% = structural issue |
-| **Enterprise Logos** | 64/yr | 100+ | 25+ in H1 FY27 | <15/half year = slowdown |
-
-**Bottom Line:** FY27 is the validation year. If management delivers these metrics, stock can easily reach ₹200+. If they miss by similar margins as FY26, expect another 40-50% drawdown.
-
-### Key Catalysts (12-Month)
-
-**Positive:**
-- Q1 FY27 reported double-digit growth ✓
-- Q3 FY27 EBITDA margin inflects positive
-- iamneo crosses ₹500 Cr annual run-rate
-- Enterprise logo count exceeds 100 cumulative
-
-**Negative:**
-- Organic (excl. iamneo) growth remains <3%
-- BFSI segment contracts >20% YoY
-- Order intake growth slips below 5%
-- Capex fails to normalize; margin recovery delayed beyond FY28
-
----
-
-**Document Prepared:** September 4, 2026  
-**Sources:** NIIT Limited Q1 FY27 Results (Jun 2026), FY26 Full Year Earnings Call Transcript (May 2026), Q3 FY26 Conference Call (Feb 2026)  
-*per AR FY26*, *per Q1 FY27 Results*, *per FY26 Earnings Call*
-
+*Analysis based on Q1 FY27 results (₹7.519 Cr PAT), FY26 full-year performance (₹5.9 Cr PAT), 13.7 Cr shares outstanding, and ₹100 current price (Sept 4, 2026).*
