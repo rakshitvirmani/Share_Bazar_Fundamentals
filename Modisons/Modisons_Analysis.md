@@ -11,7 +11,7 @@
 
 ### Company Profile
 
-Modisons Limited is a leading manufacturer of **electrical contacts and contact materials** catering to low-voltage (LV), medium-voltage (MV), high-voltage (HV), and extra-high-voltage (EHV) switchgear industries. Founded in 1965 as a trading enterprise for tool steels and engineering goods, the company pivoted into silver refining (1975) and then electrical contacts manufacturing (1977), establishing its core business for nearly five decades.
+Modisons Limited is a leading manufacturer of **electrical contacts and contact materials** catering to low-voltage (LV), medium-voltage (MV), high-voltage (HV), How and extra-high-voltage (EHV) switchgear industries. Founded in 1965 as a trading enterprise for tool steels and engineering goods, the company pivoted into silver refining (1975) and then electrical contacts manufacturing (1977), establishing its core business for nearly five decades.
 
 ### Business Segments
 

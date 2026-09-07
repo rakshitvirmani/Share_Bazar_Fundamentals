@@ -509,7 +509,7 @@ Given IPO share capital structure (Fresh Issue ~18.5 Lakh shares @ ₹4 face val
 | **Udaipur Capacity Expansion Capex** | ₹40-60 Cr in FY2027 | Quarterly capex updates | Alert if capex <₹15 Cr by Q2 FY2027 (suggests project delays) |
 | **Total Capex (all plants)** | ₹85-130 Cr in FY2027-28 | Annual capex guidance | Alert if cumulative capex >₹150 Cr (cost overruns) or <₹70 Cr (capacity delays) |
 | **Mexico Subsidiary Setup** | Incorporation + capex start by Q2 FY2027 | Annual update | Alert if still not incorporated by Q3 FY2027 (execution risk) |
-| **Working Capital as % of Revenue** | 18-20% | Quarterly balance sheet | Alert if >22% (suggests WC deterioration; receivable collection issues) |
+| **Working Capital as % of Revenue** | 40-45% (baseline; improve to 38-42% by FY2028) | Quarterly balance sheet | Alert if >48% (deterioration; slow collections or excess inventory build) |
 
 ### **Margin & Operational Health**
 
@@ -605,7 +605,7 @@ Tempsen Instruments is transitioning from a **niche temperature sensor manufactu
 1. **M&A Integration Success (24 months):** Marathon Heater margin recovery (50-100 bps uplift); GmbH/Polska profitability (50+ Cr EBITDA contribution by FY2028)
 2. **Export Ramp (18-24 months):** Increase from 28.5% (FY2026) to 35-40% (FY2028) via GmbH/Polska footprint + organic growth
 3. **New Product Launches (18-36 months):** IoT/smart sensors (₹80-100 Cr revenue potential by FY2028); EV thermal management sensors (emerging $1B+ global market)
-4. **Organic Growth Acceleration (FY2027-28):** 15-18% CAGR on base business; capex-driven capacity enabling ₹1,000+ Cr revenue aspiration by FY2029
+4. **Organic Growth Acceleration (FY2027-28):** 15-18% CAGR on base business; capex-driven capacity enabling ₹6,500+ Cr revenue aspiration by FY2029
 
 ### **Fair Value & Valuation**
 
@@ -636,7 +636,7 @@ Tempsen Instruments is transitioning from a **niche temperature sensor manufactu
 ### **Bull Case Upside (24-36 months)**
 
 If all three catalysts align:
-- **FY2028E Revenue:** ₹6,500+ Cr (vs. ₹5,050 Cr base case)
+- **FY2028E Revenue:** ₹6,500+ Cr (vs. ₹5,900 Cr base case)
 - **FY2028E EBITDA Margin:** 25%+ (recovery to pre-M&A levels)
 - **FY2028E PAT:** ₹1,100+ Cr (vs. ₹931 Cr base case)
 - **Implied Fair Value:** ₹280-300 (22x P/E on 20%+ growth visibility)
