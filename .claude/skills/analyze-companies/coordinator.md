@@ -19,9 +19,8 @@ You will receive company names to analyze (single or batch).
 
 ### Phase 2: PDF Conversion (Convert new PDFs to markdown)
 **Agent Task:** Check if any PDFs in the company folder lack markdown equivalents.
-- If yes, use the PDF-to-Markdown skill to convert them
+- If yes, convert using: `.venv/bin/python -m markitdown <PDF_FILE> -o <PDF_NAME>.md`
 - New files follow naming: `Company_MonthYear_transcript.md`, `Company_MonthYear_result.md`, etc.
-- Extract any images and organize in `images/` subdirectory
 - **Purpose:** Ensure all source documents are in searchable markdown form
 
 ### Phase 3: Annual Reports Analysis
