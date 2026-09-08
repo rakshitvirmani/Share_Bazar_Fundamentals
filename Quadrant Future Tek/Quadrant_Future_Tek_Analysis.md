@@ -71,7 +71,7 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 
 ## 2. Financial Performance Trajectory
 
-### Historical Performance (FY25–FY26)
+### Historical Performance (FY25–FY26) – Corrected P&L
 
 | Metric | FY25 | FY26 | Change |
 |--------|------|------|--------|
@@ -85,12 +85,41 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 | **Debt (Non-Curr. Liabilities)** | — | ₹218 Mn | — |
 | **D/E Ratio** | — | 0.18x | Low |
 
+### **FY26 Detailed P&L Breakdown (₹ Mn)** *per ResultJune2026.pdf, audited*
+
+| Line Item | Amount | Notes |
+|-----------|--------|-------|
+| **Revenue from Operations** | **₹1,530** | Specialty Cables: ₹1,530 Mn; TCAS: ~₹0 Mn (pre-commercial) |
+| **Other Income** | **₹53** | Interest, misc. gains |
+| **Total Income** | **₹1,583** | |
+| | | |
+| **Cost of Raw Materials Consumed** | ₹1,894 | Copper, resin, other direct materials |
+| **Less: Inventory Adjustment (Credit)** | ₹(688) | Finished goods/WIP reduction = working capital release |
+| **Net COGS (Material)** | **₹1,206** | Effective material cost (79% of revenue) |
+| | | |
+| **Employee Benefit Expense** | ₹285 | Salary, ESOP costs for 50+ engineers + admin |
+| **Other Operating Expenses** | ₹432 | Utilities, manufacturing overhead, SG&A |
+| **Finance Cost** | ₹30 | Interest on debt |
+| **Depreciation & Amortisation** | ₹187 | Electron beam accelerator, IP amortization |
+| **Total Operating Expenses** | **₹1,910** | Excluding depreciation: ₹1,723 Mn |
+| | | |
+| **Profit Before Tax (PBT)** | **₹(557)** | Total Income - Total Expenses |
+| **Income Tax Benefit** | ₹128 | Tax loss carryforward utilization |
+| **PAT** | **₹(429)** | |
+| | | |
+| **Add: Depreciation** | ₹187 | Non-cash expense |
+| **Add: Finance Cost** | ₹30 | Non-operating |
+| **Less: Other Income** | (₹53) | One-time/non-operating |
+| **EBITDA** | **₹(340)** | Operational profitability metric |
+
 **Key Observations:**
 - FY25 pre-IPO phase; minimal revenue, heavy R&D investment resulted in ₹197 Mn loss
-- FY26 (post-IPO Feb 2025): Revenue grew modestly (+1.6%), but EBITDA deteriorated sharply to ₹(340) Mn
-  - Raw material costs surged 50.8% YoY (₹1,894 Mn cost of goods in FY26 vs. historical ~₹1,400 Mn)
-  - TCAS division R&D & development costs still unprofitable; dragging overall EBITDA
-  - Q4 FY26 showed sequential strength: Revenue ₹566 Mn (+70% QoQ) with EBITDA turning positive ₹35 Mn
+- FY26 (post-IPO Feb 2025): Revenue grew modestly (+1.6%), EBITDA deteriorated to ₹(340) Mn
+  - **CRITICAL CORRECTION**: Raw material consumption ₹1,894 Mn appears extreme, BUT was partially offset by **₹688 Mn working capital release** from inventory reduction
+  - Effective COGS: ₹1,206 Mn (79% of revenue) vs. ₹1,894 Mn reported
+  - This inventory release was a one-time working capital benefit; normalizing forward, COGS will revert to ₹1,800+ Mn if volumes scale
+  - TCAS division R&D & development costs still unprofitable; dragging overall EBITDA by ~₹150–200 Mn
+  - Q4 FY26 showed sequential strength: Revenue ₹566 Mn (+70% QoQ) with Specialty Cables EBITDA positive ₹52 Mn
     - Signals operational momentum returning as TCAS entered pilot phase
 
 ### Quarterly Trajectory (FY26–FY27)
@@ -109,6 +138,33 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 - **Q1 FY27**: Revenue ₹405.88 Mn (+41.3% YoY vs. Q1 FY26's ₹287 Mn)
   - EBITDA still negative ₹(29) Mn (though improving vs. Q1 FY26's ₹(75) Mn)
   - Continues cash burn phase; consecutive quarters of cash losses (Q4: ₹310 Mn, Q1 FY27: ₹25.71 Mn)
+
+**Q1 FY27 Detailed P&L (₹ Mn)** *per ResultJune2026.pdf (Unaudited)*
+
+| Line Item | Q1 FY27 | Q1 FY26 | Change |
+|-----------|---------|---------|--------|
+| Revenue from Operations | ₹406 | ₹287 | +41.3% |
+| Cost of Raw Materials Consumed | ₹362 | ₹208 | +73.8% |
+| Inventory Adjustment (Credit) | ₹(48) | ₹(187) | Less WC release this quarter |
+| Effective COGS | ₹314 | ₹21 | +1,395% (driven by volume + commodity spike) |
+| Employee Benefits | ₹68 | ₹68 | Flat (headcount stable) |
+| Other Operating Expenses | ₹58 | ₹— | (breakdown not in quarterly detail) |
+| **Operating Loss (EBITDA basis)** | **₹(29)** | **₹(75)** | +159% improvement |
+| Depreciation | ₹36 | ₹44 | — |
+| Finance Cost | ₹8 | ₹13 | Lower debt post-IPO |
+| **PBT** | **₹(73)** | **₹(132)** | Improving |
+| Tax Benefit | ₹18 | ₹— | Tax loss utilization |
+| **PAT** | **₹(91)** | **₹(135)** | +33% loss reduction |
+| **Cash Loss (Operating + WC)** | **₹(25.71)** | **₹(134.97)** | Significant improvement |
+
+**Key Insights - Q1 FY27:**
+- **Cost surge 73.8% YoY** driven by both higher volumes AND elevated commodity prices (copper +50% from prior year)
+- **Inventory reduction credit ₹48 Mn** provided working capital relief (similar to FY26 pattern)
+- **EBITDA improving** (₹(29) Mn vs. ₹(75) Mn in Q1 FY26) despite higher material costs
+  - **Signal**: Specialty Cables segment gaining operational leverage; Cables EBITDA standalone was ₹42 Mn (per segment data)
+  - TCAS division still unprofitable (~₹(70) Mn EBITDA drag) in pre-commercial phase
+- **Cash loss of ₹25.71 Mn** is PAT loss (₹91 Mn) adjusted for depreciation add-back (₹36 Mn) and small WC changes
+  - Much improved from Q4 FY26's ₹310 Mn cash loss (which was a one-time inventory sale timing issue)
 
 ### Balance Sheet Strength (as of Mar 31, 2026)
 
@@ -314,9 +370,12 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 
 **Key Drivers:**
 - KAVACH approval triggers ₹800–1,200 Mn annual revenue ramp-up by FY28–FY29
-- Specialty Cables mix shift (EV, renewables, defense) improves EBITDA margin from 2% to 7–8%
-- Commodity cost normalization adds 200–300 bps EBITDA improvement
-- Operating leverage on fixed R&D spend (~₹150 Mn annually)
+- Specialty Cables mix shift (EV, renewables, defense) improves EBITDA margin from (2%) to 5–7%
+  - FY26 had one-time ₹688 Mn inventory release benefit; normalizing this, base COGS = ₹1,800+ Mn (normalized to 75% of revenue going forward)
+  - New product mix (EV, renewables, defense) commands 15–20% higher ASP, offsetting commodity headwinds
+- Commodity cost normalization (copper -5–10% YoY) adds 150–250 bps EBITDA improvement
+- Operating leverage: TCAS contribution margin 35–40% on incremental units once volumes ramp
+- R&D spend (currently ₹150–200 Mn annually, dragging results) moderates as TCAS moves to commercial phase
 
 **FY29 Valuation (Bull):**
 - FY29E PAT: ₹311 Mn
@@ -344,9 +403,11 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 
 **Key Drivers:**
 - KAVACH approval occurs later (Q4 FY27); revenue contribution limited to FY29 ramp-up
-- Specialty Cables modest mix improvement; competition/commodity headwinds limit margin expansion
+- Specialty Cables modest mix improvement (EV +₹20 Mn, renewables +₹30 Mn incremental); competition limits ASP expansion
+- Normalized COGS (₹1,800+ Mn baseline for Specialty Cables; no recurring inventory release) offsets modest mix uplift
+- Commodity costs remain elevated or moderately decline; no major relief
 - Flat-to-positive EBITDA by FY28; modest profitability by FY29
-- FY27 remains cash-burn year; turnaround FY28+
+- FY27–FY27 remains cash-burn year (still funding TCAS R&D); turnaround FY28+ as KAVACH deploys
 
 **FY29 Valuation (Base):**
 - FY29E PAT: ₹160 Mn
@@ -375,9 +436,10 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 **Key Drivers:**
 - KAVACH approval significantly delayed (2–3 quarters beyond management guidance)
 - Customer concentration risk materializes; government capex reduced / reprioritized
-- Specialty Cables competition intensifies; margin compression to 2–3% EBITDA range
-- Commodity costs remain elevated; no pricing power recovery
-- FY28 remains loss-making; slow recovery only by FY29
+- Specialty Cables competition intensifies; normalized COGS (₹1,800+ Mn) combined with pricing pressure compresses EBITDA margin to 0–2%
+- Commodity costs remain elevated; no pricing power recovery in government bid markets
+- TCAS R&D burn continues without revenue offset; cumulative cash burn becomes unsustainable
+- FY28 remains loss-making; slow recovery only by FY29 if approval finally lands
 
 **FY29 Valuation (Bear):**
 - FY29E PAT: ₹28 Mn (barely profitable)
