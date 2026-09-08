@@ -554,6 +554,74 @@ Quadrant Future Tek operates in two high-growth, infrastructure-critical segment
 
 ---
 
+## ⚠️ VALUATION ALERT – Current Market Price vs. Fair Value
+
+**Last Updated: September 8, 2026**
+
+**Current Market Price:** ₹423/share  
+**Analysis Fair Value:** ₹98.71/share (probability-weighted)  
+**Valuation Gap:** **+328% PREMIUM (OVERVALUED)**
+
+### **Current Price Disconnect Analysis**
+
+At ₹423/share with 40 Mn shares, market cap = **₹16,920 Mn**
+
+This implies the market is pricing in one of these scenarios:
+
+| Scenario | Implied FY29 Revenue | vs. My Bull | Multiple | Probability |
+|----------|---------------------|-------------|----------|-------------|
+| **Extreme Bull** | ₹9,400 Mn | 2.5x higher | 15x P/E | <5% |
+| **Elevated Bull** | ₹5,600 Mn | 1.5x higher | 25x P/E | 10% |
+| **My Bull Case** | ₹3,700 Mn | Baseline | 28x P/E | 25% |
+| **Speculative Premium** | ₹3,700 Mn baseline | + Terminal expansion | 40x+ | Large |
+
+### **Risk Breakdown at ₹423**
+
+| Case | Fair Value | Probability | Downside | Risk Level |
+|------|-----------|------------|----------|-----------|
+| Bull (KAVACH perfect) | ₹217 | 25% | -49% | Medium |
+| Base (KAVACH measured) | ₹84 | 50% | -80% | **SEVERE** |
+| Bear (KAVACH delayed) | ₹9 | 25% | -98% | **CATASTROPHIC** |
+| **Expected Value** | **₹98** | — | **-77%** | **SELL** |
+
+### **What Could Justify ₹423?**
+
+✅ **Confirmed News (Not Yet Disclosed):**
+1. RDSO final KAVACH approval locked in with specific deployment timeline
+2. Incremental order book >₹12,000 Mn (vs. current ₹8,054 Mn)
+3. Export orders materialized (Bangladesh/ASEAN railways signed)
+4. Specialty Cables entering >₹500 Mn revenue run-rate (EV/renewables traction)
+
+✅ **Market-Based Factors:**
+- Railway sector momentum (IPO hype cycle, macro tailwinds)
+- Small-cap liquidity premium (thin float = retail euphoria)
+- Strategic acquisition at premium by Siemens/Alstom/global player
+
+### **Our Recommendation at ₹423**
+
+**RATING: 🔴 STRONG SELL / AVOID**
+
+| Action | Reasoning |
+|--------|-----------|
+| **If Own:** SELL 50%+ | Lock in gains; risk-reward unfavorable at 77% downside vs. 50% upside |
+| **If Considering Entry:** WAIT | Re-evaluate after KAVACH approval announcement; target entry ₹150–200 |
+| **Short Candidates:** YES | If you're a sophisticated trader, risk-reward favors short at ₹400+ |
+| **Long-term Believers:** REDUCE | Trim to 25% position; wait for ₹150 to re-accumulate |
+
+### **Catalysts That Could Re-Rate Stock**
+
+**Downside Catalysts (More Likely):**
+- KAVACH approval delays beyond Q2 FY27 → stock to ₹200–250
+- Q2 FY27 TCAS revenue <₹50 Mn → execution doubt → stock to ₹150–180
+- Specialty Cables revenue growth <5% → saturation signal → stock to ₹100–120
+
+**Upside Catalysts (If Realized):**
+- RDSO approval Q2 FY27 → first 500 units on order → stock to ₹300–350 (still below ₹423)
+- Export deals announced → RailTel/ASEAN traction → stock to ₹250–300
+- Strategic buyer for stake → acquisition premium → stock to ₹500+
+
+---
+
 ## Investment Verdict
 
 ### Fair Value Summary
