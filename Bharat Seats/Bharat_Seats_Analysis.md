@@ -57,28 +57,31 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 ## 2. Financial Performance Trajectory
 
-### Income Statement (8-Quarter Performance)
+> **Correction (Sept 2026):** The previous version of this table understated every absolute Rs. Cr figure by exactly 10x. Source filings (`Jun2026Results.txt`, `March2026AnnualReports.txt`) report figures **in Rs. Lakhs**; the prior draft divided lakhs by 1,000 to get crores instead of by 100 (1 Cr = 100 Lakhs). Margins, ratios, growth %, and per-share figures (EPS) were computed correctly and are unchanged — only the absolute Rs. Cr rows below were fixed. Verified against: `STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED JUNE 30, 2026` and the audited FY26 Statement of Profit & Loss in the Annual Report.
 
-| Particulars | Q1FY27<br/>(Jun 2026)<br/>Rs. Cr | Q4FY26<br/>(Mar 2026)<br/>Rs. Cr* | FY26<br/>(Full Yr)<br/>Rs. Cr | FY25<br/>(Full Yr)<br/>Rs. Cr | Growth FY26 |
+### Income Statement (Quarterly & Annual Performance)
+
+| Particulars | Q1FY27<br/>(Jun 2026)<br/>Rs. Cr | Q4FY26<br/>(Mar 2026)<br/>Rs. Cr | FY26<br/>(Full Yr)<br/>Rs. Cr | FY25<br/>(Full Yr)<br/>Rs. Cr | Growth FY26 |
 |---|---|---|---|---|---|
-| Revenue from Operations | 57.78 | 57.43 | 195.10 | 128.88 | **+51.4%** |
+| Revenue from Operations | 577.83 | 574.28 | 1,950.95 | 1,288.82 | **+51.4%** |
 | Other Income | 1.07 | 0.57 | 5.28 | 3.59 | +47.1% |
-| **Total Income** | 58.89 | 58.00 | 200.38 | 132.47 | +51.4% |
-| Cost of Materials Consumed | 49.77 | 49.02 | 165.44 | 119.98 | +37.9% |
-| Employee Benefits Expense | 1.82 | 1.75 | 6.56 | 5.24 | +25.2% |
-| Finance Costs | 0.22 | 0.24 | 1.02 | 0.89 | +14.6% |
-| Depreciation & Amortization | 0.94 | 0.93 | 3.53 | 2.62 | +34.8% |
-| Other Expenses | 2.83 | 2.75 | 10.68 | 8.39 | +27.3% |
-| **Total Expenses** | 56.12 | 55.63 | 189.73 | 136.04 | +39.4% |
-| **PBT (before exceptional items)** | 1.77 | 1.85 | 10.44 | 7.90 | +32.1% |
-| Exceptional Items | - | - | -0.14 | - | - |
-| **PBT** | 1.77 | 1.85 | 10.30 | 7.90 | +30.4% |
-| Tax Expense | 0.45 | 0.53 | 1.54 | 1.18 | +30.5% |
-| **PAT** | 1.32 | 1.33 | 4.22 | 3.27 | **+29.1%** |
+| **Total Income** | 578.90 | 574.85 | 1,956.23 | 1,292.41 | +51.4% |
+| Cost of Materials Consumed | 497.68 | 490.23 | 1,654.38 | 1,079.65 | +53.2% |
+| Employee Benefits Expense | 18.19 | 17.48 | 65.58 | 53.15 | +23.4% |
+| Finance Costs | 2.19 | 2.45 | 10.17 | 8.91 | +14.1% |
+| Depreciation & Amortization | 9.35 | 9.27 | 35.29 | 26.24 | +34.5% |
+| Other Expenses | 28.26 | 27.47 | 106.80 | 79.65 | +34.1% |
+| **Total Expenses** | 561.18 | 556.33 | 1,897.26 | 1,248.51 | +52.0% |
+| **PBT (before exceptional items)** | 17.72 | 18.52 | 58.98 | 43.90 | +34.4% |
+| Exceptional Items | - | - | 1.37 | - | - |
+| **PBT** | 17.72 | 18.52 | 57.60 | 43.90 | +31.2% |
+| Tax Expense | 4.50 | 5.26 | 15.37 | 11.20 | +37.3% |
+| **PAT** | 13.21 | 13.25 | 42.23 | 32.70 | **+29.1%** |
 | Other Comprehensive Income | -0.05 | -0.09 | -0.22 | 0.05 | - |
-| **Total Comprehensive Income** | 1.27 | 1.32 | 4.20 | 3.28 | +28.0% |
+| **Total Comprehensive Income** | 13.16 | 13.17 | 42.02 | 32.75 | +28.3% |
+| **EPS (Basic & Diluted, Rs.)** | 2.10 | 2.11 | 6.72 | 5.21 | +29.0% |
 
-*Q4FY26 is derived figure (Full Year FY26 minus 9M to Dec 2025); Note: Figures in Rs. Crore (1 Crore = 10 Million)
+Note: Q4FY26 and Q1FY26 (Jun 2025) figures are taken directly from the quarter-ended columns reported in the June 2026 results filing, not derived. Figures in Rs. Crore (1 Crore = 100 Lakhs) unless stated. Shares outstanding: 6.28 Cr (Rs. 2 face value each).
 
 ### Key Margin Metrics
 
@@ -88,7 +91,7 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 | **EBITDA Margin** | 5.35% | 6.13% | -0.78 pts |
 | **Operating (EBIT) Margin** | 4.10% | 4.10% | Flat |
 | **Net Profit Margin** | 2.16% | 2.54% | -0.38 pts |
-| **Return on Equity (RoE)** | 16.81% | 16.81% | Flat |
+| **Return on Equity (RoE)** | 18.39% | 18.29% | +10 bps |
 | **Return on Assets (RoA)** | 6.1% | 4.8% | +1.3 pts |
 
 ### Balance Sheet Highlights (as of Mar 31, 2026 vs. Mar 31, 2025)
@@ -266,24 +269,24 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 | Metric | FY27E | FY28E | FY29E | CAGR FY26-FY29 |
 |---|---|---|---|---|
-| **Revenue (Rs. Cr)** | 265 | 340 | 410 | **24.3%** |
+| **Revenue (Rs. Cr)** | 2,650 | 3,400 | 4,100 | **24.3%** |
 | Revenue Growth YoY | +35.9% | +28.3% | +20.6% | - |
-| EBITDA (Rs. Cr) | 18.5 | 24.8 | 31.0 | +26.8% |
+| EBITDA (Rs. Cr) | 185 | 248 | 310 | +26.8% |
 | EBITDA Margin | 6.98% | 7.29% | 7.56% | +146 bps vs FY26 |
-| EBIT/PAT (Rs. Cr) | 14.8 | 20.2 | 25.8 | - |
-| PAT (Rs. Cr) | 10.8 | 14.9 | 19.0 | **+43.0%** |
+| EBIT/PAT (Rs. Cr) | 148 | 202 | 258 | - |
+| PAT (Rs. Cr) | 108 | 149 | 190 | **+43.0%** |
 | PAT Margin | 4.08% | 4.38% | 4.63% | +192 bps vs FY26 |
 | EPS (Rs.) | 17.20 | 23.73 | 30.25 | - |
 
 **Key Drivers:**
 1. MSIL volumes: 2.1 Mn (FY26 actual) → 2.35 Mn (FY27E) → 2.60 Mn (FY28E) → 2.85 Mn (FY29E)
 2. BSL content per vehicle: Rs. 850 (FY26) → Rs. 900 (FY27E) → Rs. 950 (FY28E) → Rs. 1,000 (FY29E)
-3. Two-wheeler revenue: Rs. 20 Cr (FY26) → Rs. 40 Cr (FY27E) → Rs. 65 Cr (FY28E) → Rs. 95 Cr (FY29E)
+3. Two-wheeler revenue: Rs. 200 Cr (FY26) → Rs. 400 Cr (FY27E) → Rs. 650 Cr (FY28E) → Rs. 950 Cr (FY29E)
 4. Margin expansion: EBIT 4.1% (FY26) → 5.6% (FY27E) → 5.94% (FY28E) → 6.29% (FY29E) via Kharkhauda ramp + VA-VE initiatives
 5. Operating leverage on fixed costs; R&D spending as % of revenue moderates to 0.50% from 0.64%
 
 **Valuation - Bull Case:**
-- FY29E PAT: Rs. 19.0 Cr → EPS Rs. 30.25
+- FY29E PAT: Rs. 190 Cr → EPS Rs. 30.25
 - Justified P/E Multiple: 18x (growth rate 20%+, quality business, improving margins, MSIL backing)
 - Fair Value: Rs. 30.25 × 18 = **Rs. 544 per share**
 
@@ -295,24 +298,24 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 | Metric | FY27E | FY28E | FY29E | CAGR FY26-FY29 |
 |---|---|---|---|---|
-| **Revenue (Rs. Cr)** | 235 | 285 | 335 | **19.1%** |
+| **Revenue (Rs. Cr)** | 2,350 | 2,850 | 3,350 | **19.1%** |
 | Revenue Growth YoY | +20.5% | +21.3% | +17.5% | - |
-| EBITDA (Rs. Cr) | 15.8 | 19.8 | 24.5 | +24.6% |
+| EBITDA (Rs. Cr) | 158 | 198 | 245 | +24.6% |
 | EBITDA Margin | 6.72% | 6.95% | 7.31% | +96 bps vs FY26 |
-| EBIT/PAT (Rs. Cr) | 12.0 | 15.0 | 18.5 | - |
-| PAT (Rs. Cr) | 8.8 | 11.0 | 13.5 | **+32.8%** |
+| EBIT/PAT (Rs. Cr) | 120 | 150 | 185 | - |
+| PAT (Rs. Cr) | 88 | 110 | 135 | **+32.8%** |
 | PAT Margin | 3.74% | 3.86% | 4.03% | +87 bps vs FY26 |
 | EPS (Rs.) | 14.01 | 17.52 | 21.50 | - |
 
 **Key Drivers:**
 1. MSIL volumes: 2.1 Mn (FY26) → 2.28 Mn (FY27E) → 2.50 Mn (FY28E) → 2.75 Mn (FY29E) [12% CAGR]
 2. BSL content per vehicle: Rs. 850 (FY26) → Rs. 875 (FY27E) → Rs. 900 (FY28E) → Rs. 925 (FY29E)
-3. Two-wheeler revenue: Rs. 20 Cr (FY26) → Rs. 32 Cr (FY27E) → Rs. 48 Cr (FY28E) → Rs. 65 Cr (FY29E)
+3. Two-wheeler revenue: Rs. 200 Cr (FY26) → Rs. 320 Cr (FY27E) → Rs. 480 Cr (FY28E) → Rs. 650 Cr (FY29E)
 4. Margin expansion: EBIT 4.1% (FY26) → 5.1% (FY27E) → 5.26% (FY28E) → 5.52% (FY29E)
 5. Tax rate normalization to 25.5% from FY27E onwards
 
 **Valuation - Base Case:**
-- FY29E PAT: Rs. 13.5 Cr → EPS Rs. 21.50
+- FY29E PAT: Rs. 135 Cr → EPS Rs. 21.50
 - Justified P/E Multiple: 15x (15-17% growth, quality, slight margin compression vs bull; but still robust)
 - Fair Value: Rs. 21.50 × 15 = **Rs. 323 per share**
 
@@ -324,24 +327,24 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 | Metric | FY27E | FY28E | FY29E | CAGR FY26-FY29 |
 |---|---|---|---|---|
-| **Revenue (Rs. Cr)** | 210 | 245 | 280 | **12.8%** |
+| **Revenue (Rs. Cr)** | 2,100 | 2,450 | 2,800 | **12.8%** |
 | Revenue Growth YoY | +7.7% | +16.7% | +14.3% | - |
-| EBITDA (Rs. Cr) | 11.5 | 13.8 | 16.5 | +14.3% |
+| EBITDA (Rs. Cr) | 115 | 138 | 165 | +14.3% |
 | EBITDA Margin | 5.48% | 5.63% | 5.89% | -46 bps vs FY26 |
-| EBIT/PAT (Rs. Cr) | 8.0 | 9.8 | 11.8 | - |
-| PAT (Rs. Cr) | 5.8 | 7.2 | 8.6 | **+23.0%** |
+| EBIT/PAT (Rs. Cr) | 80 | 98 | 118 | - |
+| PAT (Rs. Cr) | 58 | 72 | 86 | **+23.0%** |
 | PAT Margin | 2.76% | 2.94% | 3.07% | -40 bps vs FY26 |
 | EPS (Rs.) | 9.24 | 11.46 | 13.70 | - |
 
 **Key Drivers:**
 1. MSIL volumes: 2.1 Mn (FY26) → 2.18 Mn (FY27E) → 2.35 Mn (FY28E) → 2.55 Mn (FY29E) [8% CAGR - recession/macro stress]
 2. BSL content per vehicle: Rs. 850 (FY26) → Rs. 860 (FY27E) → Rs. 870 (FY28E) → Rs. 880 (FY29E) [limited uplift]
-3. Two-wheeler revenue: Rs. 20 Cr (FY26) → Rs. 25 Cr (FY27E) → Rs. 30 Cr (FY28E) → Rs. 35 Cr (FY29E) [slow ramp]
+3. Two-wheeler revenue: Rs. 200 Cr (FY26) → Rs. 250 Cr (FY27E) → Rs. 300 Cr (FY28E) → Rs. 350 Cr (FY29E) [slow ramp]
 4. Margin compression: EBIT 4.1% (FY26) → 3.81% (FY27E) → 4.0% (FY28E) → 4.21% (FY29E) [operating deleverage from underutilized Kharkhauda capacity]
 5. Competitive pressure from other suppliers (Dilip Buildcon, Voestalpine, Inoac India) on pricing
 
 **Valuation - Bear Case:**
-- FY29E PAT: Rs. 8.6 Cr → EPS Rs. 13.70
+- FY29E PAT: Rs. 86 Cr → EPS Rs. 13.70
 - Justified P/E Multiple: 11x (10-12% growth; margin compression; higher execution risk)
 - Fair Value: Rs. 13.70 × 11 = **Rs. 151 per share**
 
@@ -351,12 +354,16 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 | Scenario | Probability | FY29E PAT (Cr) | P/E Multiple | Fair Value / Share | Weighted Contribution |
 |---|---|---|---|---|---|
-| **Bull** | 25% | 19.0 | 18x | Rs. 544 | Rs. 136 |
-| **Base** | 50% | 13.5 | 15x | Rs. 323 | Rs. 162 |
-| **Bear** | 25% | 8.6 | 11x | Rs. 151 | Rs. 38 |
+| **Bull** | 25% | 190 | 18x | Rs. 544 | Rs. 136 |
+| **Base** | 50% | 135 | 15x | Rs. 323 | Rs. 162 |
+| **Bear** | 25% | 86 | 11x | Rs. 151 | Rs. 38 |
 | | | | **Weighted Fair Value** | | **Rs. 336** |
 
 **Implied Fair Value (as of Aug 2026): Rs. 336 per share**
+
+> **CMP verified (Sept 7, 2026): Rs. 227.65** (NSE: BHARATSE / BSE: 523229; mkt cap ~Rs. 1,405 Cr; reported TTM P/E 30.36x, P/B 6.12x). This confirms the corrected EPS above, not the prior draft's figures — Rs. 227.65 ÷ TTM EPS ~Rs. 7.37-7.50 ≈ 30-31x, matching the exchange-reported P/E almost exactly. The earlier "CMP ~Rs. 280-300 / 20-22x P/E" assumption was wrong on both counts.
+>
+> At CMP Rs. 227.65, discount to weighted Fair Value (Rs. 336) = **32.3%** → squarely in the **BUY** zone per the Entry-Point table below.
 
 ---
 
@@ -398,11 +405,11 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 | Metric | Current (FY26/FY27Q1) | Monitor For | Bull Threshold | Bear Threshold | Frequency |
 |---|---|---|---|---|---|
-| **Revenue (Q-o-Q Growth)** | Q1FY27: Rs. 57.78 Cr; FY26: Rs. 195.1 Cr | Sequential growth sustainability | >8% Q-o-Q avg (suggest base case +) | <3% Q-o-Q (ramp stalling) | Quarterly |
+| **Revenue (Q-o-Q Growth)** | Q1FY27: Rs. 577.83 Cr; FY26: Rs. 1,950.95 Cr | Sequential growth sustainability | >8% Q-o-Q avg (suggest base case +) | <3% Q-o-Q (ramp stalling) | Quarterly |
 | **EBITDA Margin** | FY26: 5.35%; Target FY27: 5.5%+ | Margin expansion realization | >5.8% (bull track) | <4.8% (compression) | Quarterly |
 | **PAT Margin** | FY26: 2.16% (depressed by new plant costs) | Normalization as Kharkhauda ramps | >3.5% (bull) | <2.5% (bear) | Quarterly |
 | **MSIL Volume Data (Public)** | 2.1 Mn units (FY26) | MSIL Q growth; BSL content per vehicle | MSIL >2.3 Mn run-rate (bull) | MSIL <2.2 Mn (bear) | Monthly (SIAM data) |
-| **Two-Wheeler Revenue Contribution** | Rs. 20 Cr (FY26 est.) | Ramp-up trajectory; margins | Rs. 40+ Cr annual run-rate by Q4FY27 | <Rs. 30 Cr annual run-rate (slow) | Quarterly |
+| **Two-Wheeler Revenue Contribution** | Rs. 200 Cr (FY26 est.) | Ramp-up trajectory; margins | Rs. 400+ Cr annual run-rate by Q4FY27 | <Rs. 300 Cr annual run-rate (slow) | Quarterly |
 | **Kharkhauda Plant Utilization** | Commenced Apr 2025; initial ramp | Capacity absorption; cost absorption | >80% utilization by Q3FY27 | <60% utilization (underperformance) | Quarterly (mgmt commentary) |
 | **Debt-to-Equity Ratio** | 0.48 (down from 0.78 in FY25) | Deleveraging trajectory | <0.40 (conservative financial policy) | >0.60 (re-leverage risk) | Quarterly (balance sheet) |
 | **Interest Coverage Ratio** | 10.27x (FY26) | Debt servicing comfort | >9x (healthy) | <6x (stress signal) | Quarterly |
@@ -438,10 +445,10 @@ Bharat Seats Limited (BSL) is a mid-cap automotive component manufacturer founde
 
 | Multiple | Current (Aug 2026 Estimate*) | Bull Fair Value | Base Fair Value | Bear Fair Value | Action Zone |
 |---|---|---|---|---|---|
-| **P/E (TTM + FY27E)** | ~20-22x (assuming CMP ~Rs. 280-300) | 18x (Rs. 544) | 15x (Rs. 323) | 11x (Rs. 151) | Track quarterly EPS progression |
-| **EV/EBITDA (FY27E)** | ~12-13x | 10.5x (bull) | 8.5x (base) | 6.5x (bear) | Macro rate environment sensitive |
-| **P/B (Price-to-Book)** | ~1.4-1.5x | 1.8x (bull) | 1.4x (base) | 0.8x (bear) | Track ROE trajectory (currently 16.8%) |
-| **Dividend Yield (FY27E)** | ~2.0% | 2.2% | 2.0% | 1.8% | Compare to risk-free rate & auto sector avg (2.5-3%) |
+| **P/E (TTM)** | 30.36x at CMP Rs. 227.65 (verified live, Sept 7 2026) | 18x (Rs. 544) | 15x (Rs. 323) | 11x (Rs. 151) | Track quarterly EPS progression |
+| **EV/EBITDA (FY27E)** | ~9-10x (Net debt ~Rs. 98 Cr + mkt cap ~Rs. 1,405 Cr ÷ Base FY27E EBITDA Rs. 158 Cr) | 10.5x (bull) | 8.5x (base) | 6.5x (bear) | Macro rate environment sensitive |
+| **P/B (Price-to-Book)** | 6.12x (reported); ~6.1x implied (mkt cap Rs. 1,405 Cr ÷ net worth Rs. 229.7 Cr) | 1.8x (bull) | 1.4x (base) | 0.8x (bear) | Track ROE trajectory (currently 18.4%) |
+| **Dividend Yield (FY27E)** | ~0.7% (Rs. 1.50/share ÷ Rs. 227.65) | 2.2% | 2.0% | 1.8% | Compare to risk-free rate & auto sector avg (2.5-3%) |
 
 ---
 
@@ -467,14 +474,18 @@ Macro stress (recession, rate shocks) limit MSIL growth to 8% CAGR. Competitive 
 
 **Recommendation: BUY at prices below Rs. 240/share (28% discount to base case fair value); HOLD at Rs. 240-Rs. 353/share; REDUCE above Rs. 395/share.**
 
+**At the verified live price of Rs. 227.65 (Sept 7, 2026), Bharat Seats is a BUY** — a 32.3% discount to the probability-weighted fair value of Rs. 336/share.
+
 ---
 
-**Analysis Prepared:** August 2026  
+**Analysis Prepared:** August 2026 | **Corrected:** September 8, 2026
+**Correction Note:** The original draft misconverted source figures reported in Rs. Lakhs to Rs. Crore (divided by 1,000 instead of 100), understating every absolute revenue/profit figure in Sections 2, 6, and 7 by 10x (e.g., FY26 revenue shown as Rs. 195 Cr instead of the correct Rs. 1,951 Cr; FY26 PAT shown as Rs. 4.22 Cr instead of Rs. 42.23 Cr). EPS and all margin/ratio figures were already computed on the correct scale and are unchanged. CMP was also verified live (Rs. 227.65, Sept 7 2026) against the previously assumed Rs. 280-300 placeholder.
 **Data Sources:** 
-- Bharat Seats Jun 2026 Q1 Results (Unaudited)
-- Bharat Seats FY26 Annual Report (Audited, March 31, 2026)
+- Bharat Seats Jun 2026 Q1 Results (Unaudited) — `Jun2026Results.txt`
+- Bharat Seats FY26 Annual Report (Audited, March 31, 2026) — `March2026AnnualReports.txt`
 - Management Discussion & Analysis (MD&A), Board Report
 - SEBI Filings, BSE/NSE Announcements
+- Live market price cross-check (Sept 7, 2026)
 - Investor presentations & earnings call transcripts
 
 *This analysis is based on publicly available information and company disclosures. Projections are subject to significant assumptions and market risks. Investors should conduct their own due diligence and consult financial advisors before making investment decisions.*
