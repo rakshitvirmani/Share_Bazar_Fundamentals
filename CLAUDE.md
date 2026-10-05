@@ -6,9 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A personal equity research repository for publicly-listed companies (primarily Indian mid-cap, small-cap, and micro-cap stocks; also includes select US-listed companies). Each company gets its own folder containing:
 1. A Markdown analysis file — the primary research document
-2. Supporting PDFs (local only, gitignored) — earnings call transcripts, investor presentations, regulatory filings
+2. Supporting source material (local only, gitignored) — earnings call PDFs, investor presentations, regulatory filings, plus any PDF-to-Markdown conversions (`Nov2025.md`, `*_transcript.md`, `*_result.md`, `_docN.md`), `.txt` extracts and `images/` folders
 
-There is no build system, no code, and no dependencies. This is a document repository managed with Git. Only the Markdown analyses are version-controlled; PDFs are source material kept locally and excluded via `.gitignore` (`*.pdf`), so they can be deleted once the analysis is written.
+There is no build system, no code, and no dependencies. This is a document repository managed with Git. Only the analyses are version-controlled; all source material is kept locally and excluded via `.gitignore`, so it can be deleted once the analysis is written. `.gitignore` only lets company-folder Markdown through if the filename contains "Analysis", so always name the analysis `[Company]_Analysis.md`.
 
 ## Repository Structure
 
@@ -16,7 +16,9 @@ There is no build system, no code, and no dependencies. This is a document repos
 Share_Bazar_Fundamentals/
 └── [Company_Name]/
     ├── [Company]_Analysis.md     # Core research note (see format below)
-    └── [MonthYear].pdf           # Earnings transcripts and filings (gitignored, not committed)
+    ├── [MonthYear].pdf           # Earnings transcripts and filings (gitignored, not committed)
+    ├── [MonthYear].md            # PDF-to-Markdown conversion (gitignored, not committed)
+    └── images/                   # Images extracted from PDFs (gitignored, not committed)
 ```
 
 ## Analysis Document Format

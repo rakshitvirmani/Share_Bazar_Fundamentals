@@ -1,3 +1,15 @@
-# Source documents (transcripts, presentations, filings) stay local only
+# Source documents stay local only; only the analyses are version-controlled
 *.pdf
 *.PDF
+*.txt
+*.xls
+
+# PDF-to-Markdown conversions and their extracted images
+*/images/
+*/*.md
+!*/*[Aa]naly*.md
+!harsh and apoorva videos/*.md
+
+# OS / editor junk
+.DS_Store
+~$*
