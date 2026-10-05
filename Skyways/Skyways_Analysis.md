@@ -44,6 +44,8 @@ The company runs a **single reportable operating segment** ("Logistic services a
 | EBITDA Margin | — | — | — | — | 4.47% |
 | PBT | — | 43.65 | 67.15 | 43.21 | 87.68 |
 | **PAT (Group)** | — | **32.65** | **48.13** | **33.61** | **63.52** |
+| PAT attributable to owners | — | 32.65 | 39.14 | 33.61 | 41.01 |
+| Non-controlling interests | — | — | 8.97 | — | 22.52 |
 | PAT Margin | — | 2.42% | 2.14% | 2.37% | 2.26% |
 | EPS (Basic & Diluted, ₹) | — | 3.09 | 3.71 | 2.92 | 3.56 |
 | ROCE | — | — | 14.61% | — | 18.11% |
@@ -53,9 +55,9 @@ The company runs a **single reportable operating segment** ("Logistic services a
 
 *\*FY24 consolidated revenue of ~₹1,289 cr is management's own reference point from the Q1FY27 concall (cited as the base for a "48% 2-year CAGR" to FY26's ₹2,812.90 cr) — not independently verified from an FY24 annual report, which is outside this repository.*
 
-**Critical valuation nuance:** Standalone (parent-only) PAT grew just **+2.9%** YoY (₹32.65cr → ₹33.61cr) while **consolidated group PAT grew +32.0%** (₹48.13cr → ₹63.52cr) — the entire incremental profit growth is coming from subsidiaries, chiefly the 51%-owned Odyssey Logistics. Back-calculating from disclosed EPS (₹3.56 × ~11.51cr weighted shares), **profit attributable to Skyways' own shareholders is ~₹41 cr, not the ₹63.52cr "consolidated PAT" headline** — Non-Controlling Interests (NCI) absorb roughly a third of group profit. Any DCF or P/E-based valuation must use owners' EPS, not group PAT.
+**Critical valuation nuance:** Standalone (parent-only) PAT grew just **+2.9%** YoY (₹32.65cr → ₹33.61cr) while **consolidated group PAT grew +32.0%** (₹48.13cr → ₹63.52cr) — the entire incremental profit growth is coming from subsidiaries, chiefly the 51%-owned Odyssey Logistics. **Profit attributable to Skyways' own shareholders was ₹41.01 cr, not the ₹63.52cr "consolidated PAT" headline** (NCI ₹22.52 cr; consistent with EPS ₹3.56 × 11.50cr weighted shares) *(AR FY26, consolidated P&L)* — NCI absorbed ~35% of group profit, up from ~19% in FY25. **Owners' PAT grew just +4.8% YoY (₹39.14cr → ₹41.01cr)**. Any DCF or P/E-based valuation must use owners' EPS, not group PAT.
 
-**Quality of earnings improved sharply**: Cash from Operations swung from near-zero/negative (FY24) to ₹2.01cr (FY25) to **₹113.62cr (FY26)** — for FY26, CFO actually exceeded consolidated PAT, a genuine positive signal, though the multi-year trend shows this is a recent inflection rather than a sustained pattern.
+**Quality of earnings improved sharply**: Cash from Operations swung from near-zero (₹2.01cr, FY25) to **₹113.62cr (FY26)** — for FY26, CFO actually exceeded consolidated PAT, a genuine positive signal, though the multi-year trend shows this is a recent inflection rather than a sustained pattern.
 
 **Price/volume decomposition (AR FY26, p.26):** Growth was volume-led, not price-led — air freight realization *fell* from ₹280/kg to ₹258/kg (-11.0%) even as tonnage rose 43.2%; ocean freight realization fell from ₹1,84,036/TEU to ₹1,49,462/TEU (-18.8%) even as TEU rose 31.9%. Management explicitly chose to sacrifice unit yield to secure volume and airline/shipping-line capacity commitments (CMD letter, p.8).
 
@@ -153,9 +155,11 @@ All figures are consolidated group projections with **profit attributable to own
 | CMP vs. Weighted FV (₹127.1) | Recommendation | Expected Return to FV |
 |---|---|---|
 | Below ₹114 (>10% discount) | BUY | >11% |
-| ₹114–₹127 (0-10% discount) | ACCUMULATE | 0-11% |
-| ₹127–₹133 (0-5% premium) | **HOLD ← current CMP ₹126.97** | ~0% |
-| Above ₹133 (>5% premium) | REDUCE | Negative |
+| ₹114.4–₹127.1 (0-10% discount) | ACCUMULATE ← current CMP ₹126.97 (0.06% discount — on the boundary) | 0-11% |
+| ₹127.1–₹133.5 (0-5% premium) | HOLD | 0% to -5% |
+| Above ₹133.5 (>5% premium) | REDUCE | Worse than -5% |
+
+*Strictly by the bands, CMP sits ₹0.08 inside ACCUMULATE, which is rounding noise. The FY30 cross-check below points lower, so the verdict stays HOLD (see Section 7).*
 
 ### Probability Shifters
 
@@ -184,6 +188,12 @@ Assuming revenue growth moderates to a ~17-20% CAGR through FY30 (FY27E ₹3,800
 - FY30E Implied Market Cap: ₹108cr × 18 ≈ **₹1,944 cr** → **₹133.8/share**
 - Discounted back 3 years at ~14% cost of equity: PV ≈ **₹90.3/share** (context only; the FY27E-anchored weighted fair value above is the primary valuation reference)
 
+**Reconciling with the Base Case (₹123.3 vs. ₹133.8):** The arithmetic in both is correct (₹56cr × 32 = ₹1,792cr; ₹108cr × 18 = ₹1,944cr; both ÷ 14.53cr shares). But they sit awkwardly together. Owners' PAT nearly doubles from FY27E to FY30E (₹56cr → ₹108cr, ~24% CAGR), yet value per share rises only ~8.5% (₹123.3 → ₹133.8), because the multiple compresses from 32x to 18x. Discounted at 14%, the FY30 value is worth ₹90.3 today, **~27% below the Base Case fair value**. Holding ₹123.3 today and earning a 14% return needs an FY30 value of ~₹183/share (~₹2,655cr market cap). That means either:
+- a terminal multiple of **~24.5x** on the Base Case ₹108cr owners' PAT, not 18x; or
+- owners' PAT of **~₹148cr** at 18x, about 37% above the Base Case trajectory.
+
+**Implication:** The Base Case ₹123.3 depends on the market keeping a growth multiple (32x) for longer than this note's own normalized trajectory supports. If the multiple de-rates to 18x by FY30 as modelled, today's price already discounts most of the next three years of earnings growth. This cross-check leans bearish and is a key reason the verdict is HOLD rather than ACCUMULATE. Note also that owners' PAT grew only 4.8% in FY26, so the Base Case +37% FY27E owners' PAT growth (₹41cr → ₹56cr) is itself a step-up that must be proven.
+
 ---
 
 ## 7. Key Metrics to Monitor
@@ -204,6 +214,6 @@ Assuming revenue growth moderates to a ~17-20% CAGR through FY30 (FY27E ₹3,800
 
 ### Investment Verdict
 
-**Rating: HOLD** (probability-weighted fair value ≈ ₹127/share vs. CMP ₹126.97 — essentially at fair value, ~0% margin of safety either way).
+**Rating: HOLD** (probability-weighted fair value ≈ ₹127.1/share vs. CMP ₹126.97). That is formally 0.06% inside the ACCUMULATE band, within rounding. HOLD is kept deliberately: the FY30 terminal cross-check (PV ≈ ₹90/share) shows the Base Case relies on a 32x multiple holding up, so there is no real margin of safety.
 
 The core bull case — a genuine, real-volume-driven consolidator gaining share in a structurally growing Indian air-cargo market, with a credible tech-driven operating-leverage story and a deliberate pivot toward stickier pharma cargo — is real and supported by hard data (19% YoY volume growth vs. 3.8% market growth; share gain from 5.9% to 6.2% QoQ). But the market has already priced most of this in at a ~45x trailing P/E, and the reported financials require real care: roughly two-thirds of the eye-catching Q1FY27 revenue growth is fuel-cost pass-through rather than durable volume expansion, and about a third of consolidated group profit belongs to minority shareholders in subsidiaries, not to Skyways' own shareholders. Layer on an unresolved EOW investigation, heavy promoter personal guarantees, rising net debt pre-IPO, and a governance structure that is only months old as a public company, and the stock looks fully — not cheaply — valued at current levels. Accumulate only on a pullback toward the ₹110-115 zone, or on clearer evidence over 2-3 quarters that volume growth (not fuel pass-through) is driving the numbers.
