@@ -6,9 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A personal equity research repository for publicly-listed companies (primarily Indian mid-cap, small-cap, and micro-cap stocks; also includes select US-listed companies). Each company gets its own folder containing:
 1. A Markdown analysis file — the primary research document
-2. Supporting PDFs — earnings call transcripts, investor presentations, regulatory filings
+2. Supporting PDFs (local only, gitignored) — earnings call transcripts, investor presentations, regulatory filings
 
-There is no build system, no code, and no dependencies. This is a document repository managed with Git.
+There is no build system, no code, and no dependencies. This is a document repository managed with Git. Only the Markdown analyses are version-controlled; PDFs are source material kept locally and excluded via `.gitignore` (`*.pdf`), so they can be deleted once the analysis is written.
 
 ## Repository Structure
 
@@ -16,7 +16,7 @@ There is no build system, no code, and no dependencies. This is a document repos
 Share_Bazar_Fundamentals/
 └── [Company_Name]/
     ├── [Company]_Analysis.md     # Core research note (see format below)
-    └── [MonthYear].pdf           # Earnings transcripts and filings
+    └── [MonthYear].pdf           # Earnings transcripts and filings (gitignored, not committed)
 ```
 
 ## Analysis Document Format
@@ -132,7 +132,7 @@ After reading all PDFs, produce or update the `[Company]_Analysis.md` using the 
 1. Create a folder: `[Company_Name]/`
 2. Place all available PDFs into the folder
 3. Read every PDF, then create `[Company_Name]_Analysis.md` following the 7-section format
-4. Commit with a descriptive message: `"[Company Name] analysis added"` or `"[Company Name] Q3FY26 update"`
+4. Commit only the analysis `.md` (PDFs are gitignored) with a descriptive message: `"[Company Name] analysis added"` or `"[Company Name] Q3FY26 update"`
 
 ## Key Existing Analyses (for reference style)
 

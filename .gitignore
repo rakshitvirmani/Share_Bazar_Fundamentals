@@ -1,0 +1,3 @@
+# Source documents (transcripts, presentations, filings) stay local only
+*.pdf
+*.PDF
