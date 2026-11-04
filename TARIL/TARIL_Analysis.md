@@ -221,7 +221,7 @@ We use **~75,000 MVA from Q3FY27** (Changodar live) as the working figure. Even 
 - **Basis:** consolidated, to match the reported EPS.
 - **FY26 base:** revenue ₹2,509 Cr, EBITDA ₹383 Cr, PAT ₹272 Cr, EPS ₹9.07.
 - **Share count:** **~30.0 Cr shares** (FV ₹1). Derived as FY26 PAT ₹272.2 Cr ÷ basic EPS ₹9.07. Not stated in the concalls.
-- **CMP:** **₹292**, the NSE close on 13-Aug-2026 per the Kanohar RHP peer table. This is the latest price in the source set. It **pre-dates the Q2FY27 results (13-Oct-2026)**, so re-check the live price before acting. Implied market cap ≈ ₹8,760 Cr.
+- **CMP:** **₹317** (user-supplied, 4-Nov-2026; post-Q2FY27 results). Implied market cap ≈ ₹9,510 Cr; 35.0x FY26 EPS. The earlier reference price was ₹292, the NSE close on 13-Aug-2026 per the Kanohar RHP peer table.
 - **FY27E:** management guides ~₹3,200 Cr and 16% standalone EBITDA, with subsidiaries adding ~100 bps.
 - **FY28E/FY29E:** Changodar at full ramp, Moraiya EHV partly contributing, BI margin benefit phasing in, and higher D&A and interest from the BI capex and leases.
 - **Excluded:** HVDC and BESS upside.
@@ -249,7 +249,7 @@ We use **~75,000 MVA from Q3FY27** (Changodar live) as the working figure. Even 
 | **Bear** | 25% | 261 | 8.70 | 18x | 4,698 | **157** |
 
 **Why these multiples:**
-- **Bull, 35x:** a modest re-rating above today's ~32x trailing as credibility is rebuilt. It is still a deep discount to the peer average of 107x.
+- **Bull, 35x:** holding today's ~35x trailing (vs ~32x in Aug-2026) as credibility is rebuilt. It is still a deep discount to the peer average of 107x.
 - **Base, 27x:** ~1x PEG on a ~29% FY26–29E EPS CAGR in the base case (9.07 → 19.55). It also equals ~20x FY28E EPS.
 - **Bear, 18x:** de-rating to a mid-cycle industrial multiple if FY27 guidance is missed again and cash burn continues.
 - **Probability weights:** we tilt toward the bear case (25% bear vs 20% bull) because of the guidance track record.
@@ -260,7 +260,7 @@ We use **~75,000 MVA from Q3FY27** (Changodar live) as the working figure. Even 
 `= ₹91.2 + ₹166.3 + ₹39.2`
 **= ₹296.7 ≈ ₹297/share** (implied market cap ≈ ₹8,900 Cr)
 
-At CMP ₹292, the stock trades at a **~1.6% discount** to weighted fair value. That is 26.1x base FY27E EPS and 19.4x base FY28E EPS.
+At CMP ₹317, the stock trades at a **~6.8% premium** to weighted fair value. That is 28.3x base FY27E EPS and 21.1x base FY28E EPS.
 
 ### 6e. Entry-Point Recommendation Table (Weighted FV ₹297)
 
@@ -270,9 +270,10 @@ At CMP ₹292, the stock trades at a **~1.6% discount** to weighted fair value. 
 | 250 | (15.7%) | +18.7% | **BUY** |
 | 266 | (10.3%) | +11.5% | **BUY** (threshold ≈ ₹267) |
 | 280 | (5.6%) | +6.0% | **ACCUMULATE** |
-| **292 (CMP)** | **(1.6%)** | **+1.6%** | **ACCUMULATE** |
+| 292 | (1.6%) | +1.6% | **ACCUMULATE** |
 | 300 | 1.1% | −1.1% | **HOLD** |
 | 311 | 4.8% | −4.6% | **HOLD** (upper bound ≈ ₹312) |
+| **317 (CMP)** | **6.8%** | **−6.4%** | **REDUCE** |
 | 330 | 11.2% | −10.1% | **REDUCE** |
 | 360 | 21.3% | −17.6% | **REDUCE** |
 
@@ -306,27 +307,27 @@ At CMP ₹292, the stock trades at a **~1.6% discount** to weighted fair value. 
 - **FY30 value** = 18 × ₹23.0 = **₹414/share**.
 - **Present value**, discounted ~3.4 years (Nov-2026 → Mar-2030) at 13% cost of equity: ₹414 / 1.13^3.4 = **₹273/share**.
 
-**Interpretation:** The terminal-value present value of ₹273 is slightly *below* CMP. At ₹292 the market is already paying for most of the base-case FY30 outcome. Upside needs the bull path: management's ₹7,000–8,000 Cr aspiration actually delivered, or a sector-level re-rating.
+**Interpretation:** The terminal-value present value of ₹273 is ~14% *below* CMP. At ₹317 the market is already paying for most of the base-case FY30 outcome. Upside needs the bull path: management's ₹7,000–8,000 Cr aspiration actually delivered, or a sector-level re-rating.
 
 ---
 
 ## 7. Investment Verdict & Key Metrics to Monitor
 
 ### Weighted Fair Value & Entry Recommendation
-**Probability-weighted fair value: ₹297/share. CMP (13-Aug-2026 reference): ₹292, a 1.6% discount.**
-**Rating: ACCUMULATE**, at the low end of the band. Prefer adding below ₹267 (BUY zone), which gives a margin of safety for the credibility discount.
+**Probability-weighted fair value: ₹297/share. CMP (4-Nov-2026): ₹317, a 6.8% premium.**
+**Rating: REDUCE**, just past the ₹312 threshold. The post-results rally has priced in the base case and part of the bull case. Re-enter below ₹297 (ACCUMULATE) and add below ₹267 (BUY zone), which gives a margin of safety for the credibility discount.
 
 ### Bull Case (20%) – What Needs to Go Right → ₹456
 Changodar and the BI plants come in on the latest dates. FY27 revenue beats ₹3,400 Cr. The 75,000 MVA base reaches ~80% utilisation in FY28. BI adds the full 200–300 bps, taking EBITDA toward 18–19.5%. PGCIL and state utility "mega orders" keep coming at ₹1,000+ Cr per quarter, and nuclear and data-centre orders recur. Working capital falls to 120 days, so FCF turns positive and the stock re-rates toward 35x as the governance discount fades.
 
 ### Base Case (55%) – Most Likely Path → ₹302
-FY27 guidance of ~₹3,200 Cr and 16–16.5% EBITDA is broadly met, helped by the strong H1 and the Changodar start. FY28–29 grow 24–28% a year, and BI margin benefit arrives gradually. Working capital stays heavy at 130–150 days, so debt is flat to slightly higher. The multiple holds near today's level (~27x FY27E / ~20x FY28E). Returns would track earnings growth, not re-rating.
+FY27 guidance of ~₹3,200 Cr and 16–16.5% EBITDA is broadly met, helped by the strong H1 and the Changodar start. FY28–29 grow 24–28% a year, and BI margin benefit arrives gradually. Working capital stays heavy at 130–150 days, so debt is flat to slightly higher. The multiple holds near today's level (~28x FY27E / ~21x FY28E). Returns would track earnings growth, not re-rating.
 
 ### Bear Case (25%) – What Could Go Wrong → ₹157
 History repeats. Changodar and the BI plants slip again, and FY27 revenue lands at ~₹2,900 Cr (a third straight guidance miss). EBITDA is held near 14.5% by mix, LDs and input disruption (CRGO duty, bushings). Debt climbs past ₹700 Cr on inventory and capex, and governance overhangs (World Bank, management churn) persist. The stock de-rates to ~18x.
 
-### Rating: **ACCUMULATE** (weighted FV ₹297 vs CMP ₹292)
-The order book (₹7,237 Cr; 2.6x TTM revenue) and Q2FY27's operating leverage are real. Management's record on timelines, debt and order-book targets is poor, though, and the current price already discounts the base case. **Size positions modestly. Add on dips below ₹267, or after Q3FY27 confirms Changodar output and the ₹900 Cr+ quarterly run-rate.**
+### Rating: **REDUCE** (weighted FV ₹297 vs CMP ₹317)
+The order book (₹7,237 Cr; 2.6x TTM revenue) and Q2FY27's operating leverage are real. Management's record on timelines, debt and order-book targets is poor, though, and at ₹317 the price already discounts more than the base case. **Trim into strength; don't add fresh. Re-enter below ₹297, add below ₹267, or upgrade if Q3FY27 confirms Changodar output and the ₹900 Cr+ quarterly run-rate (which would lift bull odds).**
 
 ### Key Metrics to Monitor (Quarterly)
 
@@ -348,4 +349,4 @@ The order book (₹7,237 Cr; 2.6x TTM revenue) and Q2FY27's operating leverage a
 
 ---
 
-*Disclaimer: Personal research notes, not investment advice. Several FY26 Q4 datapoints are derived because the Q4FY26 transcript was not available. CMP and share count are inferred from the Kanohar RHP (13-Aug-2026). Verify against current exchange data before acting.*
+*Disclaimer: Personal research notes, not investment advice. Several FY26 Q4 datapoints are derived because the Q4FY26 transcript was not available. CMP ₹317 is user-supplied (4-Nov-2026); share count is inferred from the Kanohar RHP. Verify against current exchange data before acting.*
