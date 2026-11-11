@@ -49,11 +49,6 @@
    - Trial product targeted June/July 2026
    - Represents fundamental DNA shift: from pure coil/reactor player to full-spectrum HV equipment platform
 
-**Geographic Footprint:**
-- Domestic: ~50% of revenue (India)
-- International: ~50% (Europe, Middle East, Asia, Australia)
-- 3,225+ branches through subsidiary network
-- 76,000+ employees (group-wide)
 
 **Financial Structure:**
 - Listed on BSE & NSE (Scrip: 511218 / SHRIRAMFIN for Shriram; 517030 for Quality Power)
