@@ -1,708 +1,371 @@
 # Rolex Rings Limited – Equity Research Analysis
 
-**Ticker:** BSE 543325 / NSE ROLEXRINGS  
-**CIN:** L28910GJ2003PLC041991  
-**Regd. Office:** Behind Glowtech Steel Private Limited, Gondal Road, Kotharia, Rajkot  
-**Current Date:** August 15, 2026  
-**FY Referencing:** Indian Fiscal Year (Apr 1 – Mar 31)
+**Ticker:** BSE 543325 / NSE ROLEXRINGS
+**CIN:** L28910GJ2003PLC041991
+**Regd. Office:** Behind Glowtech Steel Private Limited, Gondal Road, Kotharia, Rajkot
+**Current Date:** November 11, 2026
+**Data as of:** Q2FY27 / H1FY27 results and earnings call (Nov 5, 2026)
+**FY Referencing:** Indian fiscal year (Apr 1 – Mar 31). All figures in ₹ Crore (Cr) unless stated.
+
+**Capital structure (verified):**
+- Face value **₹1/share**, after a 10:1 split (FV ₹10 → ₹1) with record date **Oct 17, 2025**. Paid-up capital went from 2,72,33,312 shares to **27,23,33,120 shares** (*per Q1FY27 results, note 6*).
+- **Buyback of 1,00,00,000 shares at ₹180** (₹180 Cr), approved Apr/May 2026 and completed in Jul/Aug 2026. Promoters did not tender (*per Q1FY27 results, note 4; Q1FY27 concall*).
+- **Current share count: 26.23 Cr shares** (27.2333 − 1.0000). This is cross-checked against Q2FY27 EPS of ₹2.82 on PAT of ₹74 Cr, i.e. 26.2 Cr shares (*screener.in*).
+- **CMP: ₹209** (close on Nov 11, 2026, *screener.in*). **Market cap: ₹5,470 Cr.** Trailing P/E: 24.5x. Book value: ₹44.4/share. Range shown on screener: ₹99.3 to ₹215.
+- **Promoter holding: 54.24%** (Sep 2026), up from 52.24% (Mar 2026) mechanically because of the buyback (*screener.in*). The old note's "~63%" was wrong.
+- **Net cash: ~₹260 Cr** after the buyback; zero debt (*per Q2FY27 concall*).
+
+---
+
+## 0. Performance vs. Old Analysis (Aug 15, 2026 note → Nov 11, 2026 update)
+
+### 0.1 Root cause of the old note's inconsistency (now fixed)
+
+The Aug 2026 note gave two incompatible answers: a weighted FV of ₹85 with "STRONG SELL / AVOID", and a weighted FV of ₹820 with "BUY (with high conviction)". Neither number holds up. There were four errors:
+
+1. **Share-count mix-up after the split.** Section 6 said "Share Count: 2.72 Cr shares (post-10:1 split, post-buyback)". That is the **pre-split** count. The verdict's ₹820 is simply the ₹2,227 Cr weighted market cap divided by 2.72 Cr shares (2,227 / 2.72 = ₹819), which was then compared with a **post-split** price of ₹180. The sensitivity table (₹646–1,134/sh) had the same error. The correct count is 27.23 Cr post-split and **26.23 Cr post-buyback**.
+2. **PAT was badly understated.** Section 6 used depreciation of ₹88–105 Cr a year, but the actual figure is about ₹37 Cr (FY26 ₹37.1 Cr; Q1FY27 ₹9.0 Cr, *per Q1FY27 results*). It also ignored other income of about ₹50 Cr. The result was a FY27E base PAT of ₹142 Cr, while Section 2 of the same note said ₹180 Cr. H1FY27 alone delivered ₹134 Cr.
+3. **EBITDA definitions were mixed.** The FY26 quarterly EBITDA figures (77/69/75/73) were "gross" EBITDA including other income, as management quoted them on the FY26 calls. The FY27 quarters were operating EBITDA. Q4FY26 was also misstated: operating EBITDA was ₹56 Cr (18.4%), not ₹73 Cr, and **reported PAT was ≈ ₹0** after the ₹49.2 Cr exceptional RoR/labour-code charge, not ₹49 Cr.
+4. **The multiples were too low (12–20x).** Combined with the understated PAT, they produced bear/base/bull values (₹47/87/120) well below where the stock has traded even at its trough (₹99 low ≈ 14x normalised earnings).
+
+All tables below are rebuilt from the results filings and concall transcripts on one consistent basis: **operating EBITDA excludes other income** (management's FY27 convention), and per-share values use **26.23 Cr shares**.
+
+### 0.2 Old projections vs. actuals
+
+| Metric | Old note: Q2FY27E | **Actual Q2FY27** | Δ | Old note: FY27E (Sec 6 base) | H1FY27 actual | % of old FY27E already done |
+|---|---|---|---|---|---|---|
+| Revenue | 310 | **389** (371 ex-one-off refund) | +25% (+20% ex-refund) | 1,310 | 694 | 53% |
+| Operating EBITDA | 70 | **94** (~78 ex-refund) | +34% | 282 | 163 | 58% |
+| EBITDA margin | 22.6% | **24.2%** (~21% ex-refund) | +160 bps | 21.5% | 23.5% | — |
+| PAT | 47 | **74** | +57% | 142 | 134 | **94%** |
+
+**Scenario check:** The old note's base and bear cases were both too pessimistic. Q2FY27 tracked **above the old bull case**: the old bull FY27 revenue was ₹1,350 Cr, while H1 + H2 at the Q2 run-rate already points to about ₹1,440 Cr. The main forecasts came true:
+- **US recovery:** US component revenue more than doubled YoY to ₹92 Cr in Q2. The major CV-transmission customer is back at FY25 levels.
+- **Labour normalisation:** Q2 volumes were up 18% QoQ.
+- **Auto-component mix shift:** auto components were 54% of component sales in Q2, up from 42% a year earlier.
+
+**What disappointed:**
+- Ocean freight ran at about 3x normal and was not passed through: H1 freight cost was **>₹25 Cr vs ₹10 Cr** a year earlier.
+- Working capital absorbed ₹74 Cr, so H1 OCF was only ₹68 Cr.
+- Bearing-ring exports were flat because European industrial demand is still weak.
+- Domestic bearing rings grew ~10% vs ~20% for the listed bearing majors.
+
+**Probability changes vs. old note:** The old note had Bull 25 / Base 50 / Bear 25 on different (broken) numbers. The new weights are **Bull 25 / Base 55 / Bear 20**. Bear goes down because the tariff overhang has been resolved, the refunds have been received and the US customer has recovered. It does not go lower because the stock has already re-rated (+~17% since Aug at ₹179 → ₹209, and roughly double the ₹99 low). The market is now paying for the recovery.
 
 ---
 
 ## 1. Business Model Overview
 
-### Core Business
+### Core business
+Rolex Rings is India's largest hot-forging and precision-machining supplier of **bearing rings** and **auto components** (transmission, driveline and chassis parts) to global bearing majors, automotive OEMs and Tier-1s. It runs a single integrated campus at Rajkot with **26+ forging lines and 625+ CNC spindles**. About 85% of component revenue is machined (near-net-shape) parts and 15% is forged-only (*per Q4FY26 concall*). The company reports a single Ind-AS segment ("diversified auto components"); the segment split below is from management's call disclosures.
 
-Rolex Rings is a precision hot forging and machining company specializing in two primary segments:
+| Segment | FY25 | FY26 | H1FY27 | Q2FY27 | Notes |
+|---|---|---|---|---|---|
+| Bearing rings – domestic | 329 | 386 | 201 | 115 | ~30–35% share of the addressable hot-forged domestic market (50–1,000 mm) |
+| Bearing rings – export | 155 | 154 | 70 | 38 | Mostly European industrial; one customer group (Timken-linked) has shrunk sharply |
+| Auto components – domestic | 177 | 170 | 93 | 48 | Few domestic buyers; volatile with OEM programme timing |
+| Auto components – export | 399 | 350 | 247 | 129 | US (CV transmissions) and Europe/Mexico new plants |
+| **Component sales** | **1,060** | **1,060** | **611** | **330** | |
+| Scrap | 78 | 71 | ~43 | 23 | |
+| Export incentives | 16 | 13 | ~7 | 4.4 | |
+| US tariff refund (one-off) | — | — | ~21 | ~18 | IEEPA refunds; "marginal amount" still pending |
+| Customer duty reimbursement (recurring pass-through) | — | — | n/d | ~15 | 25% Sec-232 duty recovered from customers on lifting; ~₹15 Cr/qtr expected in Q3/Q4 |
+| **Revenue from operations** | **1,154** | **1,144** | **694** | **389** | |
 
-1. **Bearing Rings** – 45-55% of revenue
-   - Forged steel components for bearings used in automotive, industrial, and EV applications
-   - Domestic market: ~72-73% of bearing ring revenue
-   - Export markets: ~27-28%, primarily Europe and North America
-   - Typical EBITDA margins: 18-22% (lower than auto components due to simpler processing)
+*Sources: FY25/FY26 per Q4FY26 concall; Q1FY27 split per Q1FY27 concall; Q2FY27 split per Q2FY27 concall. H1 = Q1 + Q2. In the Q2 call management quoted H1 auto components as ₹318 Cr, but Q1 + Q2 = ₹340 Cr (data gap, see §7). A small residual in Q1 is unallocated.*
 
-2. **Auto Components** – 45-55% of revenue (growing share)
-   - Precision forged and machined parts for automotive OEMs and Tier 1 suppliers
-   - Products: transmission gears, pinions, gear blanks, shafts, steering components, CVT parts
-   - Predominantly export-oriented: ~72% of segment revenue (up from ~65% historically)
-   - End-use markets: 50% passenger vehicles, 20-21% commercial vehicles, 14-16% industrial, 7% EV/hybrid
-   - Typical EBITDA margins: 20-25% (superior to bearing rings due to value-added processing)
+- **Mix:** Auto components rose to **54% of component sales in Q2FY27** (from 42% in Q2FY26). Management expects FY27 auto-component revenue of ₹575–600 Cr (FY26: ~₹520 Cr) and bearing rings up ~8–10% (*per Q2FY27 concall*).
+- **Export share:** Exports were 51% of component sales in Q2FY27, up 55% YoY to ₹167 Cr. In FY26 the export share fell to ~46% because of the US tariff shock.
+- **Geography (FY26):** Domestic ~54%, US ~23%, Europe ~22%, Mexico/Canada/others ~1–2% (*per Q4FY26 concall*). Europe is back to ~23–24% of business, and **60% of new programme nominations are European** (*per Q2FY27 concall*).
+- **End-use (Q2FY27):** PV ~47%, CV/heavy vehicles ~30% (up from ~20–21% as the US CV-transmission customer recovered), industrial 17–19%, EV/hybrid ~7%.
 
-### Manufacturing Capabilities
-
-- **Production Capacity:** 105,000-115,000 MT per annum (achievable)
-- **Facility Scale:** 
-  - 26+ hot forging lines (largest in India for hot forging of bearing rings and auto components)
-  - 625+ CNC spindles for precision machining and finishing
-  - ~85% of output is machined components (near net-shape finishing)
-  - ~15% pure forged products
-- **Geographic Presence:** Single integrated facility in Rajkot, Gujarat
-- **Capacity Utilization (FY26):** 62-63%; Target for FY27: 70-72%
-
-### Revenue Geography (FY26)
-
-- **Domestic India:** 54% (INR 618 Cr)
-  - Bearing rings: INR 386 Cr (automotive 60%, industrial 40%)
-  - Auto components: INR 170 Cr (primarily OEM suppliers and export-oriented Tier 1s)
-  - Scrap/other: INR 62 Cr
-
-- **US Exports:** 23% (INR 263 Cr)
-  - Affected by 30% revenue decline in FY26 due to US tariff escalation (peaked at 53%)
-  - Major customers: Allison (MHCV transmissions), Getrag, Magna Powertrain
-  - Currently normalizing at 25% tariff rate (down from 53% mid-FY26)
-
-- **Europe Exports:** 22% (INR 251 Cr)
-  - Growth driver: +25% YoY in FY26 despite tariff headwinds
-  - New customer wins for auto component platforms at multiple plants
-  - Strong technical relationship with global bearing and automotive Tier 1 players
-
-- **Other Markets (Mexico, Canada, Thailand, etc.):** 1% (INR 11 Cr)
-
-### Customer Base & Concentration
-
-- **Top 5 Customer Groups:** 65-70% of revenue
-  - Diversified across bearing manufacturers (SKF, Timken, NSK, etc.), automotive OEMs, and Tier 1 suppliers
-  - Each customer group operates multiple plants (US, Europe, Mexico, India)
-  - Wallet share with major bearing customers: 45-50%
-  - Wallet share with major auto component customers: 35-40%
-- **Stickiness:** Long-standing relationships (2+ decades with most customers); no customer losses despite tariff disruptions
-- **Product Complexity:** Components require 15-18 months minimum for supplier qualification/validation, creating high switching costs
-
-### Competitive Positioning
-
-- **Market Share:** ~30% of domestic bearing ring market (addressable segment: 1,600-1,800 Cr, hot forged rings 20mm-900mm diameter)
-- **Differentiation:**
-  - Largest hot forging capacity in India; versatile product range (150+ different auto component SKUs)
-  - Precision & quality: Zero PPM awards from global customers for 2 consecutive years
-  - Ability to produce components ranging from 10,000+ per month (small size) to critical large components (50+ kg)
-  - Integrated hot forging + precision machining under single roof (competitors typically offer only one capability)
-- **Competitive Set:** Limited direct competition; next-tier competitors have 2-5 forging lines vs. Rolex's 26+ lines; no other Indian player matches Rolex's technical versatility
+### Customers and moat
+- Customers are long-standing global bearing majors and auto Tier-1s. Rolex holds 45–50% wallet share with the three major bearing customers and 35–40% with key auto-component customers (*per Q4FY26 concall*).
+- Qualification takes **15–18 months minimum**, which creates high switching costs. **No customer was lost** through the FY26 tariff disruption (*reiterated in Q1 and Q2FY27 concalls*).
+- Contracts pass through raw material (steel) and FX, usually with a quarterly lag. **Freight is not passed through** contractually; it is negotiated case by case.
+- Management says competitors have only 10–20% of Rolex's capability range (*per Q4FY26 concall*).
 
 ---
 
 ## 2. Financial Performance Trajectory
 
-### Historical Quarterly Performance (Last 8 Quarters)
+### Quarterly (₹ Cr; operating EBITDA excludes other income)
 
-| Metric | Q1 FY26 | Q2 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27 | Q2 FY27E | Q3 FY27E | Q4 FY27E |
-|--------|---------|---------|---------|---------|---------|----------|----------|----------|
-| **Revenue (Cr)** | 304 | 272 | 275 | 292 | 304 | 310 | 340 | 356 |
-| **EBITDA (Cr)** | 77 | 69 | 75 | 73 | 69 | 70 | 80 | 92 |
-| **EBITDA Margin %** | 25.3% | 25.4% | 27.2% | 25.0% | 22.6% | 22.6% | 23.5% | 25.8% |
-| **PAT (Cr)** | 49 | 44 | 48 | 49 | 60 | 47 | 55 | 63 |
-| **PAT Margin %** | 16.1% | 16.2% | 17.5% | 16.8% | 19.8%* | 15.2% | 16.2% | 17.7% |
+| Metric | Q1FY26 | Q2FY26 | Q3FY26 | Q4FY26 | Q1FY27 | **Q2FY27** |
+|---|---|---|---|---|---|---|
+| Revenue from ops | 291.6 | 272 | 275 | 305.7 | 304.3 | **389** |
+| YoY growth | -6% | -9% | +6% | +8% | +4.4% | **+43%** (+36% ex-refund) |
+| Operating EBITDA | 61.6 | ~55 | ~57 | 56.2 | 68.7 | **94** |
+| EBITDA margin | 21.1% | 20.2% | ~21.0% | 18.4%* | 22.6% | **24.2%** (~21% ex-refund) |
+| Other income | 15.6 | ~16 | ~16 | 2.9 | 19.8 | ~15 (est.) |
+| Exceptional items | — | — | ~(2.5) labour code | (49.2) RoR + labour | — | — |
+| **PAT (reported)** | 49.2 | 44 | 48 | **(0.15)** | 60.1 | **74** |
+| PAT margin | 16.9% | 16.2% | 17.5% | ~0% | 19.8% | 19.1% |
+| EPS (₹, FV ₹1) | 1.81 | ~1.6 | ~1.8 | (0.01) | 2.21 | 2.82 |
 
-*Q1 FY27 elevated PAT margin (19.8%) includes INR 19.8 Cr other income (investment gains, forex) and benefit from favorable product mix; normalized ongoing margin expected 14-15%
+*Sources: Q1FY26, Q4FY26 and Q1FY27 from the Q1FY27 results statement. Q2FY26 and Q3FY26 operating margins (20.2%, ~21%) per Q3FY26 concall. Q2FY27 per Q2FY27 concall and screener.in. Q2FY27 other income is back-solved from PAT.*
+*\*Q4FY26 operating EBITDA was depressed by ~₹22 Cr of US customs duty fully expensed (customer recovery deferred to FY27 revenue) and ~₹6 Cr of RoR legal fees (per Q4FY26 concall). Adding back the still-unrecovered ~₹11 Cr of duty and the ₹6 Cr of legal fees gives a normalised Q4 margin of ~24%.*
 
-### Full-Year Performance
+**Q2FY27 quality of earnings:**
+- Revenue of ₹389 Cr includes **₹18 Cr of one-off IEEPA tariff refund** booked as revenue. That refund is effectively 100% margin.
+- Excluding it, revenue was ~₹371 Cr (+36% YoY) and EBITDA margin was ~21%. That margin was achieved with ocean freight at ~3x normal, fuel gas +40% and higher consumables.
+- Volume grew 18% QoQ.
+- Clean (ex-refund) PAT was ≈ ₹60–61 Cr (74 − ~13.5 post-tax refund), still +37% YoY.
+- Separately, ~₹15 Cr of recurring customer duty reimbursement sits in revenue. It is a pass-through: Rolex pays the 25% Sec-232 duty on clearance and recovers it when the customer lifts the goods. It inflates revenue but adds no margin. About ₹10 Cr of Q2 duty is still to be recovered.
 
-| Metric | FY25 | FY26 | FY27E |
-|--------|------|------|-------|
-| **Revenue (Cr)** | 1,154 | 1,144 | 1,310 |
-| **Revenue Growth %** | — | (0.9%) | 14.5% |
-| **EBITDA (Cr)** | 269 | 254 | 282 |
-| **EBITDA Margin %** | 23.3% | 22.2% | 21.5% |
-| **PAT (Cr)** | 174 | 141 | 180 |
-| **PAT Margin %** | 15.1% | 12.3% | 13.7% |
-| **Operating Cash Flow (Cr)** | — | 190 | 220 |
-| **Capex (Cr)** | — | 36 | 35 |
-| **Free Cash Flow (Cr)** | — | 154 | 185 |
-| **ROE %** | 21.5% | 15.1% | 18.2% |
-| **ROCE %** | 17.0% | 15.8% | 17.5% |
+### Annual (₹ Cr)
 
-### Margin Evolution Analysis
+| Metric | FY25 | FY26 | H1FY26 | **H1FY27** | FY27E (Base) |
+|---|---|---|---|---|---|
+| Revenue | 1,154 | 1,144 | 563 | **694** (+23%) | 1,438 |
+| Operating EBITDA | ~240 | 230 | ~117 | **163** (+40%) | 323 |
+| Op. EBITDA margin | ~20.8% | 20.1% | 20.7% | **23.5%** | 22.5% |
+| Other income | n/a | 50 | ~32 | ~35 | ~46 |
+| Depreciation | n/a | 37 | 18 | ~19 | 38 |
+| Exceptional | (RoR interest) | (51.6) | — | — | — |
+| **PAT (reported)** | 174 | 141 | 93.5 | **134** (+44%) | 246 |
+| PAT (ex-exceptional, approx.) | ~190 | ~180 | 93.5 | 134 | ~232 ex-refund |
+| OCF | ~225 avg | 190 | 87 | **68** | ~200 |
+| Capex | ~50 | 36 | 13 | n/d | 35–40 |
+| Net cash (period-end) | — | 367 (after ₹101 Cr RoR paid) | — | **~260** (after ₹180 Cr buyback) | ~330 |
 
-**Gross Margin Expansion:**
-- FY25: 49.4% → FY26: 51.5% (+210 bps)
-- Drivers: Shift toward higher value-added auto components (48% of FY26 revenue vs. 45% FY25); improved raw material sourcing (transition from overseas to domestic steel for certain products); better production efficiency
+*Sources: FY26 P&L per Q1FY27 results (year column). FY25 op. margin ~20.8% per Q3FY26 concall. OCF, capex and cash per Q4FY26 and Q2FY27 concalls. ROE FY24/FY25/FY26E ≈ 17% / 16% / 15–16% (per Q3FY26 concall).*
 
-**EBITDA Margin Compression (FY25 → FY26):**
-- FY25: 23.3% → FY26: 22.2% (-110 bps)
-- Despite higher gross margin, offset by:
-  - Ocean freight inflation (Hormuz/Iran geopolitical disruptions 2-3x normal rates)
-  - Factory overhead absorption challenges due to capacity underutilization (62-63% vs. 65-70% normal)
-  - ROR/CDR settlement costs (INR 22 Cr customs duty refund receivable recognized in expenses; revenue recognition deferred)
-  
-**PAT Margin Compression (FY25 → FY26):**
-- FY25: 15.1% → FY26: 12.3% (-280 bps)
-- Factors:
-  - One-time ROR settlement exceptional charge (INR 50.4 Cr in Q4 FY26)
-  - Labor law implementation cost (INR 12.4 Cr in Q4 FY26)
-  - Normalized core PAT margin: ~14% (excluding one-time items)
-
-**FY27 Margin Outlook (Guidance & Analysis):**
-- EBITDA margin: 21-22% (management guided, conservative given freight normalization and volume ramp)
-- Gross margin: 50-52% (expected to remain elevated due to auto components mix)
-- PAT margin: 14-15% (tax-adjusted operating margin)
-- Confidence: Medium-High (dependent on tariff stability and new program ramp)
-
-### Key Balance Sheet Metrics
-
-| Metric | FY25 | FY26 |
-|--------|------|------|
-| **Net Debt (Cr)** | (118) | (367) |
-| **Debt/Equity Ratio** | Negative | Negative |
-| **Current Ratio** | 2.1x | 2.3x |
-| **Working Capital Days** | 155 | 160 |
-| **Inventory Days** | 150 | 160 |
-| **Receivables Days** | 45 | 50 |
-| **Payables Days** | 35 | 50 |
-
-**Capital Structure (Current - Aug 2026):**
-- Paid-up Equity Shares: 26.2 Cr shares
-- Current Market Cap: ₹4,709 Cr
-- Current Price: ₹179/share
-- Current P/E: 24.3x
-- Implied PAT: ₹193 Cr
-- Promoter Holding: ~63%
-- Free Float: ~37%
+**Margin notes:**
+- **Gross margin** was ~58% in H1FY27 (+680 bps YoY). Drivers were mix, the refund, and switching some steel from imported to domestic. Management's normalised range is **49–53%** (≥50% at a 50:50 mix) (*per Q2FY27 concall*). Treat the 58% as inflated.
+- **EBITDA margin guidance:** 21–22% for FY27 (conservative), with **FY28 +50–75 bps** over FY27 (*per Q1 and Q2FY27 concalls*).
+- **Working capital:** Inventory is ~150–160 days including goods in transit and US consignment stock, or 70–85 days excluding them (*per Q4FY26 concall*). H1FY27 WC rose by ₹74 Cr. Management expects a partial unwind in H2 as freight transit times normalise.
 
 ---
 
-## 3. Capacity Roadmap & Capital Expenditure
+## 3. Capacity Roadmap
 
-### Current Capacity State (FY26)
+| Item | Status | Source |
+|---|---|---|
+| Installed base | 26+ hot-forging lines, 625+ CNC spindles, single Rajkot campus; fungible between rings and auto components | Q4FY26 concall |
+| Utilisation | FY26: 62–63% → H1FY27: ~65% → last couple of months: **67–68%** → FY27-end target **70–72%** | Q4FY26, Q1FY27, Q2FY27 concalls |
+| Volume | Q2FY27 volume +18% QoQ | Q2FY27 concall |
+| Capex | **₹30–40 Cr/yr** growth/debottleneck (≈₹50 Cr incl. maintenance); some product ranges already at 80–85% equipment utilisation | Q4FY26, Q2FY27 concalls |
+| Solar plant (9 MW) | Repeatedly deferred; last guided "by Dec 2025". **No update in 2026 calls; status unknown** | Q2FY26 concall |
+| Large-ring / wind capability | Domestic enquiries for larger bearing rings (wind, industrial); revenue expected in FY28; constrained by raw-material availability for large sizes | Q2FY27 concall |
+| Value-added JV | Global agency appointed to find an overseas partner for value-added processes (heat treatment, finishing) in India. Still early stage; would need investment | Q1 and Q2FY27 concalls |
 
-- **Installed Capacity:** 105,000–115,000 MT per annum
-- **Utilized Capacity:** 62-63% (corresponding to INR 1,144 Cr revenue)
-- **Utilization Gap:** 37-38% (~39,000-44,000 MT) available headroom
-- **Assessment:** Significant spare capacity; no capacity constraints anticipated for next 2-3 years
-
-### Capex Plan (FY27-FY28)
-
-**Annual Capex Budget:** INR 30-40 Cr per annum (maintenance + selective growth)
-
-**Allocation:**
-- Forging Equipment & Setup: 70-75% (new forging lines for high-capacity auto components)
-- Machining (CNC, precision tooling): 25-30%
-- Maintenance & Replacement: ~INR 15-20 Cr annually
-- Growth Initiatives: ~INR 15-20 Cr annually (for new product capabilities, capacity debottlenecking)
-
-**Strategic Capex Priorities:**
-1. **New Customer Program Ramp-Up Support** – Dedicated tooling and fixtures for 2-3 new customer programs launching in Q3/Q4 FY27 (particularly Europe- and Mexico-based platforms)
-2. **Forging Line Optimization** – Enhanced flexibility to reduce changeover times for mixed high-volume/low-volume production
-3. **Solar Power Plant** – 9 MW capacity addition (was deferred; now expected operationalization by Dec 2025, though timeline may slip further)
-
-### Future Capacity Needs (FY28-FY29)
-
-- **No Major Capex Expected** if mid-teen revenue growth is achieved through utilization improvements (target: 70-72% by FY28)
-- **Potential Inorganic Growth** – Management exploring JV/partnerships with overseas players for value-added process integration (e.g., heat treatment, advanced machining) in India; still early stage (6-9 months to clarity)
-- **Capex Flexibility** – Company has capacity to absorb 40-50% incremental revenue volume without significant additional capex (implies 2-3 year runway at 12-15% annual growth)
+**Headroom assessment:** At 65–68% utilisation, about 30% of capacity is unused. The step from 65% to ~85% supports roughly ₹400–500 Cr of additional revenue on maintenance-plus capex, which covers about **2.5–3 years at 15–18% growth**. Beyond FY29, the next growth leg (large rings, defence, JV processes) will need a fresh capex cycle. That cycle is not in guidance yet.
 
 ---
 
-## 4. Key Catalysts & DNA Shift
+## 4. Key Catalysts / DNA Shift
 
-### Near-Term Catalysts (FY27-FY28)
+### Status of catalysts from the previous note
 
-**1. US Tariff Normalization & Market Recovery**
-- **Timeline:** Ongoing (baseline 25% tariff from Nov 2025)
-- **Impact:** Q1 FY26 US revenue was down 30% annualized vs. FY25; recovery of 50% in H1 FY27 expected
-- **Upside:** INR 75-80 Cr incremental revenue if full recovery achieved; high probability
-- **Key Customer:** Allison transmissions (MHCV) – was down to INR 160 Cr in FY26 (from INR 290 Cr pre-tariff), now recovering to INR 200-220 Cr run-rate in Q1 FY27
+| Catalyst | Status (Nov 2026) | Evidence |
+|---|---|---|
+| **US tariff normalisation / US recovery** | ✅ **Materialised** | US component revenue >2x YoY to ₹92 Cr in Q2; key CV-transmission customer back at FY25 level; "US tariffs are no longer impacting our business". 25% Sec-232 duty accepted and recovered from customers (*per Q2FY27 concall*) |
+| **IEEPA duty refunds** | ✅ **Materialised (one-off, done)** | ~₹21 Cr recognised in revenue (₹18 Cr in Q2); only a "very marginal amount" pending. **Does not recur in FY28** |
+| **Labour normalisation after Q1** | ✅ Materialised | July 2026 was the highest-revenue month ever; run-rate held through Aug–Sep |
+| **New programme ramp (₹160–165 Cr guided FY27 contribution)** | 🟡 On track | European/Mexico/US new-plant programmes ramping from 10–20% toward 50–60% of peak. One or two new customer plants start supply in Q3/early Q4FY27. A couple of US programmes still on OEM hold |
+| **Europe growth** | 🟡 Steady | Back to 23–24% of business; auto strong; bearing-ring exports flat because of European industrial weakness |
+| **Freight normalisation** | 🟡 Started | Ocean rates declining since Oct 2026; container availability resolved. Customers (esp. US) in discussion on cost-sharing, which they also did after the Red Sea episode |
+| **Domestic bearing import substitution** | 🟡 Slower than hoped | Domestic BR +10% H1 vs ~20% for bearing majors; one customer group declining. New domestic customer diversifying into industrial bearings (samples submitted) |
+| **EV/hybrid** | ⚪ Faded / non-driver | EV/hybrid steady at ~7% of mix. Overseas customers still focused on ICE/hybrid; management sees no meaningful EV traction for 5–7 years (*per Q4FY26 concall*) |
+| **Defence and aerospace** | ⚪ Optional, delayed | Registrations and initial approvals received; "difficult to have considerable number in next 12 months" (*per Q2FY27 concall*) |
+| **Allison–Dana (CV) cross-sell** | ⚪ Optional | Senior-level talks; 12–18 months before any revenue (*per Q1FY27 concall*). Not in guidance |
 
-**2. Europe Growth Acceleration**
-- **Baseline:** +25% YoY growth in FY26 (INR 190 Cr FY25 → INR 238 Cr FY26)
-- **Driver:** New auto component customer wins at European OEM and Tier 1 plants; China+1 sourcing strategy favoring India
-- **FY27-FY28 Outlook:** Expected to sustain 12-15% CAGR growth reaching INR 300+ Cr by FY28
-- **Catalysts:** EU-India FTA (favorable for Indian auto suppliers); European industry recovery from post-COVID/energy crisis lows
-- **Customer Feedback:** Majority of new program wins (60%+) now from European customers; strong technical validation
+### Forward guidance (Q2FY27 concall, Nov 2026)
+- **FY27:** Revenue guidance of 15–17% growth reiterated; H1 is already +23%. H2 is expected to be stronger than H1, and Q4 stronger than Q3. Monthly product order book is ₹120–125 Cr (Q2 ran at ~₹110 Cr/month).
+- **FY27 auto components:** ≥₹575–600 Cr. Bearing rings +8–10%.
+- **FY28:** Growth "moving towards high teens". Auto components ≥20–22% YoY. Order book expected to rise 5–7% a month in FY28. Management talked about **25–30% potential** with new customers starting FY28–29. We treat that as bull-case only.
+- **Margins:** FY27 21–22% core EBITDA (conservative). **FY28 +50–75 bps.**
+- **Capital allocation:** "Buyback was the first of many steps." The board is evaluating dividends or another buyback, while keeping cash for growth and the JV.
 
-**3. New Customer Program Ramp-Up**
-- **SOPs Achieved:** 175 Cr of new programs nominated in FY25/FY26
-  - Status: ~60% have commenced (at low volumes 10-20% of peak)
-  - Timeline: Full ramp to 50-70% of peak capacity by Q2/Q3 FY27
-  - Additional Contribution: INR 80-100 Cr incremental to FY27 (conservative; FY28 upside if accelerated)
-- **Recently Won:** INR 50-60 Cr annualized new order (announced in Nov 2025) from existing customer; SOP expected Feb 2026 onwards
-- **Expected FY27 New Program Contribution:** INR 160-165 Cr (management guidance)
-
-**4. Domestic Bearing Ring Market Expansion**
-- **Market Tailwind:** Major global bearing manufacturers (SKF, Timken, NSK, Schaffler) expanding/upgrading India facilities
-  - SKF commissioned INR 900 Cr facility in Ahmedabad (bearing rings 150mm+); Rolex already qualified as preferred supplier, 3-4 new components in trial
-  - Timken expansion ongoing (capacity underutilized); new orders expected to flow as utilization improves
-  - Schaffler facility expansion; localization focus
-- **Import Substitution:** 13% of previously imported bearing components now being manufactured locally in India; Rolex positioned to capture majority of this migration
-- **Market Share Opportunity:** Current 30% share; conservative target: +10-15 percentage point gain to 40-45% by FY28 (incremental INR 150-200 Cr revenue)
-
-**5. Cost Headwinds Resolution**
-- **Ocean Freight:** Peaked at 2.5-3x normal rates due to Hormuz/Iran geopolitical disruptions; expected to normalize to 1.2-1.5x by H2 FY27
-- **Margin Tailwind:** INR 15-20 Cr quarterly benefit as freight normalizes = INR 60-80 Cr annual impact
-- **Customs Duty Refunds:** INR 22 Cr U.S. customs duty overpayment (paid 53%, now 25%) in receivables; U.S. government refunds beginning (partial received in Q1 FY27); expect INR 15-20 Cr by H1 FY27
-- **Customer Negotiations:** Shipping line negotiations underway for cost-sharing on Hormuz freight premium; early indications positive
-
-### Medium-Term Catalysts (FY28-FY29)
-
-**1. Capacity Utilization Ramp**
-- **FY27 Target:** 70-72% (from 62-63% in FY26)
-- **FY28 Target:** 75-80% (if new programs and U.S. recovery materialize)
-- **EBITDA Leverage:** 1% utilization increment = ~INR 8-10 Cr EBITDA due to fixed cost absorption
-- **Implication:** 10 percentage point utilization gain = INR 80-100 Cr incremental EBITDA (25-28% incremental to base FY27 EBITDA)
-
-**2. Product Mix Shift Completion**
-- **Current Mix:** Auto components approaching 50% of revenue (vs. 45% in bearing rings); trend toward higher-margin products
-- **Target Mix:** 65-70% auto components by FY28 (from current 50%)
-- **Margin Implication:** 1% shift toward auto components = ~10-15 bps EBITDA margin improvement
-- **Magnitude:** If auto comp mix reaches 65%, blended EBITDA margin could improve to 22-23% (vs. current 21-22% guided)
-
-**3. Defense & Aerospace Entry**
-- **Status:** Early stage (initiated 1.5 months back as of Aug 2026 call); working with senior defense consultants
-- **Timeline:** 12+ months to first meaningful revenue (components will be hot forged/machine parts suitable for existing facility)
-- **Upside:** Non-core but potential for INR 30-50 Cr revenue by FY29 (defensively assuming 1-2% of total revenue)
-- **Risk Level:** High uncertainty; not to be factored into base case
-
-**4. JV/Partnership for Value-Added Services**
-- **Concept:** Rolex exploring JV with overseas player to establish India-based value-added processing (e.g., heat treatment, advanced surface finishing) to capture higher margins on existing products
-- **Status:** Global agency appointed; exploring partners (6-9 months to decision)
-- **Rationale:** Overseas production costs (labor + energy) are 2-3x higher than India; customers willing to source higher value-added components from India under this model
-- **Upside Potential:** INR 100-150 Cr incremental revenue at 25-30% EBITDA margins by FY29 if realized
-
-### Strategic DNA Shifts
-
-**Shift #1: From Pure Bearing Ring Supplier to Diversified Precision Auto Components Manufacturer**
-- Rolex has historically been known as a bearing ring specialist (80-85% of revenue pre-2022)
-- FY26 milestone: Auto components now 48% of revenue (was 35% in FY23)
-- Implication: Higher growth potential (auto segment 15-20% CAGR vs. bearing rings 8-10%), better margins (20-25% vs. 18-22%), and superior customer diversity (auto OEM ecosystem is 10x larger than bearing manufacturers)
-
-**Shift #2: From Domestic-Focused to Globally Export-Oriented**
-- FY25: Exports 53% (still significant domestic), U.S. contribution 31.5%
-- FY26: Exports 46% (tariff impact), U.S. contribution 23%
-- FY27 Guidance: Expect reversion to 48-50% export mix as U.S. tariffs normalize
-- Strategic Intent: Build China+1 sourcing relationships in Europe; develop Mexico/Canada presence; diversify away from single-geography dependency
-
-**Shift #3: From Volume-Centric to Precision-Centric Value Engineering**
-- Investment in CNC spindle base (625+) and multi-operation capability allows Rolex to compete for complex, high-precision components (transmission gears, critical steering parts, EV/hybrid drivetrains)
-- Margin uplift 300-500 bps vs. simple forged rings
-- Customer validation: Zero PPM awards from global Tier 1s; increasing wallet share with existing customers (from 25-30% to 35-50%)
+### Structural DNA shifts (still valid)
+1. **From bearing-ring specialist to precision auto-component exporter.** Auto components are now >50% of sales, and value-added rings (EV/hybrid, critical rings) earn auto-component-like margins.
+2. **Clean balance sheet.** The CDR (2013) chapter closed with the RoR settled in full (₹101 Cr paid Mar 31, 2026). The company has no covenants or debt, net cash of ~₹260 Cr, and has started returning capital (₹180 Cr buyback with promoters not tendering).
+3. **Geographic diversification proven.** In FY26 Europe grew +25% and domestic grew strongly, which offset a ~30% US decline. Revenue was flat in the worst tariff year.
 
 ---
 
 ## 5. Red Flags & Risk Analysis
 
-### Risk Summary Table
+| # | Risk | Severity (1–10) | Trend vs Aug-26 note | Comment |
+|---|---|---|---|---|
+| 1 | **Valuation / expectations risk** | **7** | ⬆ **Escalated (new)** | At ₹209 (21x FY28E base PAT) the recovery is priced in. FY28 loses the ~₹21 Cr refund, so headline growth will look slower |
+| 2 | Customer concentration (top-5 groups ~65–70%; one US CV-transmission customer large) | 7 | ↔ | One customer's FY26 volume fell 35–40% and swung the whole P&L. Same exposure on the way up |
+| 3 | US trade policy (Sec-232 25% duty; future changes) | 6 | ⬇ **De-risked** (was 8) | Customers accepted 25%; duty recovered; refunds in. Policy remains volatile |
+| 4 | Freight / West-Asia logistics (not contractually passed through) | 6 | ⬆ Escalated (was 5) | H1 freight >₹25 Cr vs ₹10 Cr; ~3x normal; rates easing since Oct-26 |
+| 5 | Bearing-ring stagnation (European industrial; one customer group shrinking; domestic lagging industry) | 6 | ↔ | Export BR flat; domestic BR +10% vs peers ~20% |
+| 6 | Earnings-quality noise (one-off refunds, duty pass-through in revenue, gross margin 58% vs 49–53% normal) | 5 | ⬆ New | Requires adjusting headline numbers; risk that the market extrapolates Q2 |
+| 7 | Working capital / cash conversion | 5 | ⬆ Escalated (was 3) | H1 OCF ₹68 Cr; WC +₹74 Cr; consignment model + duty pre-payment (₹10 Cr Q2 unrecovered) |
+| 8 | Seasonal labour shortage (Apr–Jun) | 4 | ↔ | Recurs every Q1; Q1FY27 revenue only +4%. Expect a soft Q1FY28 |
+| 9 | Capital-allocation / JV execution (unknown partner, unknown cheque size) | 4 | ↔ | Could absorb the cash pile into a low-return venture; early stage |
+| 10 | FX (INR appreciation) | 3 | ↔ | FX passed through in contracts, but with a lag |
+| 11 | Technology (EV transition, cold/warm forging gap) | 3 | ⬇ | Management sees no EV threat for 5–7 years; 100% hot forging |
+| 12 | RoR / CDR legacy | 1 | ✅ Resolved | Fully settled Mar 2026 |
 
-| Risk Factor | Severity (1-10) | Probability | Trend | Mitigation |
-|-------------|------------------|------------|-------|-----------|
-| Geopolitical tariff escalation (US) | 8 | Medium | Elevated | Diversified geography; U.S. customer cost-sharing arrangements |
-| Major customer loss (Timken, Allison) | 7 | Low | Stable | 20+ year relationships; switching costs high due to qualification time |
-| Industrial segment weakness | 6 | Medium | Improving | Diversifying toward automotive & EV; one customer loss already factored in |
-| Ocean freight volatility | 5 | Medium-High | Elevated | Freight normalization expected H2 FY27; customer negotiations underway |
-| Capacity underutilization | 5 | Low | Improving | New programs ramping; mid-teen guidance implies 70%+ utilization |
-| Export-oriented mix decline | 6 | Medium | Monitoring | Auto component exports growing; bearing export stability improving |
-| Labor seasonality (Q1) | 4 | High | Recurring | One-time occurrence; well-understood; managed via overtime/temp labor |
-| Forex volatility | 3 | High | Recurring | 72% of auto exports hedged; 27% of bearing exports unhedged |
-| Cold forging capability gap | 4 | Medium | Static | Not yet pursued; warm/cold forging market emerging but small |
-| Working capital management | 3 | Low | Stable | Consignment model with U.S. customers; 160 days inventory normalized |
-
-### Detailed Risk Analysis
-
-**1. Geopolitical Tariff & Trade Policy Risk (Severity: 8/10)**
-
-- **Nature:** U.S. tariff regime remains highly volatile; peak 53% in Sept 2025, currently 25%, but subject to political shifts
-- **Exposure:** 23% of FY26 revenue (INR 263 Cr) from U.S.; auto components are most tariff-exposed segment (100% of auto component exports to U.S. face 25% duty)
-- **Historical Impact:** FY26 saw INR 75-80 Cr revenue loss due to tariffs; customer plant temporary shutdown cost INR 100+ Cr annualized opportunity lost in peak tariff months
-- **Downside Scenario:** If tariffs re-escalate to 40-50%, repeat of FY26 with INR 60-80 Cr revenue decline (-5-7% annualized)
-- **Mitigation Effectiveness:** Moderate
-  - Customer cost-sharing arrangements in place for freight premium (but not for tariffs)
-  - Diversification to Europe (22% revenue) and domestic (54% revenue) reduces single-geography risk
-  - Allison transmission business is critical path; currently recovering but still at only 70% of pre-tariff levels
-  - Management has demonstrated ability to pivot to Europe/domestic when U.S. falters (FY26 Europe +25% while U.S. -30%)
-
-**2. Major Customer Concentration & Dependency Risk (Severity: 7/10)**
-
-- **Concentration:** Top 5 customer groups = 65-70% of revenue
-  - Single customer risk: One major OEM (Timken-based bearing business) contributed ~22-23% of revenue in FY24, now down to 10-11% due to industrial segment weakness
-  - Allison alone = 15-18% of revenue (in recovery phase)
-  - SKF, other bearing manufacturers = 20-25% combined
-- **Dependency on Few Platforms:** 175 Cr of new orders won in FY25/FY26 are concentrated in 3-4 large customers and 1-2 major vehicle platforms (Europe-based)
-- **Switching Cost Protection:** High (15-18 months to qualify new supplier on critical components); Rolex retains 45-50% wallet share with major bearing customers and 35-40% with major auto component customers
-- **Historical Resilience:** Despite tariff shocks and geopolitical disruptions, Rolex has NOT lost a single customer (management explicitly confirmed in Q4 FY26 call)
-- **Downside Scenario:** Loss of one top-3 customer (e.g., major bearing manufacturer shifting 50% volume to internal production or competitor) = INR 100-120 Cr revenue loss (-8-10%)
-- **Mitigation:** Moderate-to-High
-  - 30% market share in domestic bearing rings provides resilience
-  - Auto component diversification reduces bearing customer dependency
-  - New customer wins (Mexico, Europe) in progress; early stage but supportive
-
-**3. Industrial Segment Weakness & Timken Legacy Risk (Severity: 6/10)**
-
-- **Historical Context:** Timken-based industrial bearing business was once 22-23% of revenue; now <5% due to Timken's own industrial portfolio contraction post-2022
-- **Remaining Exposure:** Industrial end-use applications now only 14-16% of total revenue (vs. 22-26% in FY22-FY24)
-- **Market Dynamics:** Global industrial bearing demand remains soft; recovery expected only when energy/manufacturing cycles pick up
-- **Upside Opportunity (Not Risk):** Management is actively developing new industrial customers in Europe and U.S.; early traction expected in FY27-FY28
-- **Mitigation:** High
-  - Mix shift toward automotive (50%) and EV/hybrid (7%) reduces industrial dependency
-  - Active new customer development underway
-
-**4. Ocean Freight & Logistics Volatility (Severity: 5/10)**
-
-- **Current Environment:** Hormuz/Iran geopolitical conflict causing 2.5-3x inflation in ocean freight to U.S. (Jan-Aug 2026)
-- **Impact:** INR 15-20 Cr quarterly headwind on gross margin for export-heavy auto components business
-- **Duration:** Expected to normalize by H2 FY27 as alternative shipping routes/conditions stabilize
-- **Customer Negotiation:** Shipping costs negotiated quarterly with major customers; partial cost-sharing achieved on one major customer (already reflected in May 2026 call comments); discussions underway with Europe customers
-- **Mitigation:** Medium-High
-  - Temporary nature; management confidence in normalization
-  - Partial customer reimbursement mechanisms in place
-  - Backward-looking only; expected resolution by Q2-Q3 FY27
-
-**5. Capacity Underutilization (Severity: 5/10)**
-
-- **Current State:** 62-63% utilization in FY26; significant spare capacity (37-38%)
-- **Implication:** Fixed cost absorption challenges; EBITDA margin compression risk if utilization doesn't improve
-- **Path to Resolution:**
-  - FY27 Target: 70-72% (via new program ramps + U.S. recovery)
-  - FY28 Target: 75-80%
-  - Dependent on mid-teen growth realization and new order ramps staying on track
-- **Downside Scenario:** If new programs slip 2-3 quarters and U.S. recovery is slower, utilization could hover at 65-68% through FY27; implies EBITDA margin compression of 100-150 bps
-- **Mitigation:** High
-  - Sufficient order book visibility (INR 115-125 Cr monthly in H1 FY27)
-  - New customer programs already 60% initiated
-  - Management has demonstrated ability to acquire incremental business (domestic bearing expansion, new customers)
-
-**6. Export-Oriented Business Model Risk (Severity: 6/10)**
-
-- **Mix Exposure:** 46-50% of revenue is exports; volatile to macro/geopolitical shocks
-- **FX Volatility:** INR depreciation helpful (8-10% depreciation post-Aug 2025 benefited realized pricing); appreciation risk if INR strengthens
-- **Hedging:** 72% of auto component exports hedged via currency forwards; bearing exports (72% domestic content) unhedged; EBITDA exposure estimated at 50-100 bps per 1% INR move
-- **Supply Chain Risk:** Freight cost inflation, container availability, and vessel routing disruptions add operational friction
-- **Mitigation:** Medium
-  - Hedging program covers majority of auto export exposure
-  - Diversified customer base across U.S., Europe reduces concentration
-  - Domestic segment (54% revenue) provides INR-denominated stability
-
-**7. Labor Seasonality & Productivity Risk (Severity: 4/10)**
-
-- **Nature:** Q1 FY27 saw 4-5% revenue shortfall due to seasonal labor shortage (Apr-May hot weather, wedding season, agricultural harvest, semi-skilled workers visiting native towns for 15-30 days)
-- **Impact:** One-time in Q1; resolved by June onwards; Q1 FY27 revenue was only 4.3% above Q1 FY26 despite order book strength
-- **Management Response:** No intention to hire permanent excess labor; instead utilizing overtime, temporary labor, and 3-shift operations during 2-2.5 month peak season
-- **Cost Implication:** Temporary labor premiums offset by better-trained permanent workforce retention
-- **Mitigation:** High
-  - Well-understood seasonal pattern; not a new risk
-  - Proven resolution approach in place
-  - Expected to be non-recurring in frequency
-
-**8. Working Capital & Inventory Management Risk (Severity: 3/10)**
-
-- **Current State:** 160 days inventory (normalized including transit inventory); 150-155 days historical
-- **Consignment Model:** U.S. customers operate consignment inventory at Rolex's warehouse; revenue recognized on customer lift (creates payment lag of 30-45 days)
-- **Customs Duty Refund Lag:** INR 22 Cr in U.S. customs duties paid ahead of customer reimbursement; cash outflow Q3-Q4 FY26, inflow expected Q1-Q2 FY27
-- **Management:** Proactive; free cash flow in FY26 was strong (INR 154 Cr) despite working capital stretch
-- **Mitigation:** High
-  - No structural cash flow risk; seasonal working capital management well-established
-  - Positive operating cash flow in all years (INR 190+ Cr in FY26)
-
-**9. Cold Forging & Product Capability Gaps (Severity: 4/10)**
-
-- **Gap:** Rolex is 100% hot forging; cold forging and warm forging remain unexplored
-- **Market Opportunity:** Some emerging demand in precision auto components (e.g., spur gears, some transmission parts) for cold-forged near-net-shape components with superior material properties
-- **Risk:** If major customers shift to cold-forging processes, Rolex would need significant capex/R&D to remain competitive
-- **Upside:** Large potential investment required by competitors also; not an immediate near-term risk
-- **Mitigation:** Medium
-  - Rolex pursuing warm/cold forging investigation as part of JV partnerships (to be outsourced rather than built in-house)
-  - Current hot forging + precision machining approach already delivers near-net-shape quality (near-competitive to cold forging)
-  - Customers have not yet demanded cold forging; hybrid warm forging may emerge as middle ground
-
-**10. RoR Settlement & Legacy Obligations (Severity: 2/10 - RESOLVED)**
-
-- **Status:** FULLY RESOLVED as of March 31, 2026
-- **Settlement:** INR 101 Cr full payment to consortium lenders; all CDR obligations cleared; RoR (Right of Recompense) matter settled with full finality
-- **Impact:** Removed existential overhang; company now debt-free with net cash of INR 367 Cr
-- **Going Forward:** No legacy restrictions on capital deployment; full strategic flexibility
+**Detail on the top risks**
+- **Customer concentration (7/10).** FY26 showed what happens when one US CV-transmission customer shuts a plant: the auto-export line fell ₹49 Cr and the US was down ~30%. The same customer's recovery drove most of Q2's +89% auto-export growth. A further share of the pipeline sits with one European customer group's new plants. **Watch:** concentration disclosures in the AR, and any hold-ups at Allison/Dana-linked programmes.
+- **Freight (6/10).** The pass-through clauses cover steel and FX, not freight. Every additional ₹10 Cr/half-year of freight costs ~140 bps of half-year margin. Management's 21–22% guidance already absorbs elevated freight, so normalisation is upside. Re-escalation in West Asia is the risk.
+- **Bearing-ring lag (6/10).** Bearing rings are still ~45% of component sales but grew 0% in H1FY27 (flat at ₹271 Cr). The domestic bearing industry is growing ~20%, but Rolex is tied to a few customer groups. Large-ring and wind enquiries are FY28+ and limited by raw-material availability.
+- **Expectations (7/10).** The stock went from ₹99 at the low to ₹209. Even in the base case, FY28 PAT grows only ~4–5% (₹246 Cr → ₹257 Cr). That is because ~₹21 Cr of one-off refund revenue drops out and other income falls (smaller cash pile after the buyback). Q1FY28 will also carry the usual labour-season dip.
 
 ---
 
-## 6. Future Financial Projections & Valuation Framework
+## 6. Future Financial Projections & Valuation
 
-### Base Case Assumptions
+### Key modelling assumptions (all scenarios)
+- **Share count:** 26.23 Cr (post-split, post-buyback). No further buyback assumed.
+- **Depreciation:** ₹38 Cr in FY27, rising ₹2–3 Cr/yr with capex.
+- **Other income:** Lower after the buyback (~₹260 Cr cash, versus ₹50 Cr of OI in FY26 that included forex gains).
+- **Tax:** 25–25.5%.
+- **FY27 build:** H1 actual (₹694 Cr revenue, ₹163 Cr EBITDA, ₹134 Cr PAT) plus scenario-specific H2.
+- **FY28 base:** Excludes the ~₹21 Cr one-off refund.
+- **Valuation basis:** Because H1FY27 is already reported, fair value uses **FY28E PAT** (the 12–18-month forward year) × justified P/E. FY27E is shown for tracking.
 
-- **Revenue Growth Path:** Mid-teen growth (15-17% guided for FY27); normalizes to 12-14% by FY28 as new program ramp matures
-- **Margin Assumptions:**
-  - Gross Margin: 50-52% (auto component mix sustains 48-50% of revenue; bearing rings remain 50-52%)
-  - EBITDA Margin: 21-22% (FY27); 21.5-23% (FY28) as freight normalizes and volume ramps
-  - PAT Margin: 14-15% (normalized, excluding one-time items)
-  - Tax Rate: 25% effective (normalized from 24% in FY26; assumes no additional tax breaks)
-- **Capex:** INR 30-40 Cr annually (maintenance + selective growth)
-- **Working Capital:** No incremental working capital headwind; 160 days inventory normalized
-- **Share Count:** 2.72 Cr shares (post-10:1 split, post-INR 180 Cr buyback)
+### Scenario projections (₹ Cr)
 
-### Probability-Weighted Valuation
+| | **Bull (25%)** | | | **Base (55%)** | | | **Bear (20%)** | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | FY27E | FY28E | FY29E | FY27E | FY28E | FY29E | FY27E | FY28E | FY29E |
+| Revenue | 1,500 | 1,804 | 2,165 | 1,438 | 1,644 | 1,890 | 1,364 | 1,424 | 1,537 |
+| Growth | +31% | +22%* | +20% | +26% | +16%* | +15% | +19% | +6%* | +8% |
+| Op. EBITDA | 344 | 406 | 498 | 323 | 360 | 420 | 297 | 285 | 315 |
+| EBITDA margin | 23.0% | 22.5% | 23.0% | 22.5% | 21.9% | 22.2% | 21.8% | 20.0% | 20.5% |
+| PAT | 263 | **292** | 363 | 246 | **257** | 302 | 226 | **199** | 222 |
+| EPS (₹) | 10.0 | 11.1 | 13.8 | 9.4 | 9.8 | 11.5 | 8.6 | 7.6 | 8.5 |
 
-#### **Scenario 1: BULL CASE (25% Probability)**
+*\*FY28 growth is computed on FY27 revenue excluding the ₹21 Cr one-off refund.*
 
-**Assumptions:**
-- All positive catalysts materialize: U.S. tariffs stay ≤25%, U.S. market recovers strongly (Allison reaches INR 250+ Cr), Europe sustains 15-20% growth, new programs ramp perfectly on schedule
-- Capacity utilization reaches 72-75% by FY27 end
-- Freight normalizes by Q2 FY27; margin headwind eliminated
-- Auto component mix reaches 52-55% of revenue (from 48% in FY26)
-- No major customer loss; market share gains in domestic bearing rings (31-32%)
+**Scenario definitions**
+- **Bull (25%):**
+  - H2FY27 product revenue at the guided ₹120 Cr/month (H2 revenue ₹806 Cr) at 22.5% margin.
+  - Freight normalises fully and customers reimburse part of H1's excess.
+  - FY28 growth of 22% (auto components +25%, new US/Europe customers start early, large rings/wind start).
+  - Margin 22.5–23%: FY27 core 21.5% plus the guided 50–75 bps, plus mix and freight relief.
+  - Second buyback or dividend not modelled (upside).
+- **Base (55%):**
+  - H2FY27 holds the Q2 product run-rate (~₹110 Cr/month; H2 revenue ₹744 Cr) at 21.5% margin.
+  - FY28 grows 16% ("towards high teens" guidance, slightly haircut), with core margin +60 bps to ~21.9%.
+  - FY29 grows 15% as programmes reach peak.
+  - Bearing rings grow ~8–10% a year; auto components ~20%.
+- **Bear (20%):**
+  - H2FY27 slips to ₹670 Cr at 20% margin (freight stays high, US programme holds persist).
+  - FY28 grows only 6%: US/Europe CV slowdown or a new trade action, Q1 labour dip, refund base effect, European industrial still weak.
+  - Margin falls to ~20%; utilisation stalls at ~66%.
 
-**Financial Projections:**
+### Fair value per scenario (FY28E PAT basis)
 
-| Metric | FY27E | FY28E | FY29E |
-|--------|-------|-------|-------|
-| **Revenue (Cr)** | 1,350 | 1,620 | 1,850 |
-| **Revenue Growth %** | 18.0% | 20.0% | 14.2% |
-| **EBITDA (Cr)** | 304 | 379 | 425 |
-| **EBITDA Margin %** | 22.5% | 23.4% | 23.0% |
-| **Depreciation (Cr)** | 95 | 100 | 105 |
-| **EBIT (Cr)** | 209 | 279 | 320 |
-| **PAT (Cr)** | 157 | 209 | 240 |
-| **PAT Margin %** | 11.6% | 12.9% | 13.0% |
-| **ROIC %** | 20.5% | 22.1% | 21.8% |
+| Scenario | FY28E PAT (₹ Cr) | Justified P/E | Implied mcap (₹ Cr) | FV / share (₹) | Probability | Weighted (₹) |
+|---|---|---|---|---|---|---|
+| **Bull** | 292 | 26x | 7,592 | **289** | 25% | 72.4 |
+| **Base** | 257 | 22x | 5,654 | **216** | 55% | 118.5 |
+| **Bear** | 199 | 15x | 2,985 | **114** | 20% | 22.8 |
+| **Probability-weighted** | | | **~5,605** | | 100% | **₹214** |
 
-*Note: PAT margin lower than typical 14-15% due to higher depreciation from capex inflection; normalized PAT margin 14-15%, but ROIC remains strong.*
+*Calculations: per-share value = mcap / 26.2333 Cr. Bull 7,592 / 26.2333 = ₹289.4; Base 5,654 / 26.2333 = ₹215.5; Bear 2,985 / 26.2333 = ₹113.8. Weighted value = 289.4 × 0.25 + 215.5 × 0.55 + 113.8 × 0.20 = 72.35 + 118.54 + 22.76 = **₹213.6, rounded to ₹214**.*
 
-**Valuation:**
-- FY27 PAT: INR 157 Cr → Justified P/E: 20x (high-growth, strong execution) → Fair Value: INR 3,140 Cr market cap
-- Per Share: 3,140 / 26.2 = **INR 120 per share**
+**How the P/E multiples were chosen:**
+- **Bull 26x:** 20%+ EPS CAGR, ROE moving toward 20%+, net cash, and continued buybacks. This is in line with mid-cap auto-component exporters showing visible high-teens growth.
+- **Base 22x:** ~16% EPS CAGR (FY27–29), ROE of ~18–19%, debt-free, about 10% of mcap in cash. This sits slightly below the current trailing 24.5x because FY28 growth is optically low (refund base effect).
+- **Bear 15x:** De-rating back toward the trough multiple. The ₹99 low equals about 14x FY26 normalised PAT of ~₹180 Cr.
 
-#### **Scenario 2: BASE CASE (50% Probability)**
+At the weighted FV of ₹214, the implied multiples are ~22.8x FY27E base EPS (₹9.37) and ~21.8x FY28E (₹9.80).
 
-**Assumptions:**
-- Mid-teen guidance (15-17% growth) realized; mid-point 16% assumed
-- U.S. tariffs remain at 25%; moderate U.S. recovery (Allison reaches INR 200-220 Cr); Europe grows 12-15%
-- New programs ramp 80% of planned; one program slips 1-2 quarters
-- Capacity utilization reaches 70-72% by FY27 end
-- Auto component mix remains ~50% of revenue; bearing rings 50%
-- Freight partially normalizes; 50% of headwind resolved by Q2 FY27
+### Entry-point recommendation (weighted FV ₹214)
 
-**Financial Projections:**
+| Price (₹) | vs weighted FV | Expected return to FV | Recommendation |
+|---|---|---|---|
+| ≤ 170 | ≥ 20% discount | +26% or more | **BUY** |
+| 190 | 11% discount | +12.6% | **BUY** |
+| < 192.6 | > 10% discount | > +11.1% | **BUY** (threshold) |
+| 192.6 – 214 | 0–10% discount | 0 to +11.1% | **ACCUMULATE** |
+| 200 | 6.5% discount | +7.0% | ACCUMULATE |
+| **209 (CMP, Nov 11, 2026)** | **2.3% discount** | **+2.4%** | **ACCUMULATE (bottom of band)** |
+| 214 – 224.7 | 0–5% premium | 0 to −4.8% | **HOLD** |
+| 220 | 2.8% premium | −2.7% | HOLD |
+| > 224.7 | > 5% premium | worse than −4.8% | **REDUCE** |
+| 240 | 12% premium | −10.8% | REDUCE |
+| 260 | 21% premium | −17.7% | REDUCE |
 
-| Metric | FY27E | FY28E | FY29E |
-|--------|-------|-------|-------|
-| **Revenue (Cr)** | 1,310 | 1,475 | 1,650 |
-| **Revenue Growth %** | 14.5% | 12.6% | 11.8% |
-| **EBITDA (Cr)** | 282 | 317 | 356 |
-| **EBITDA Margin %** | 21.5% | 21.5% | 21.6% |
-| **Depreciation (Cr)** | 92 | 95 | 98 |
-| **EBIT (Cr)** | 190 | 222 | 258 |
-| **PAT (Cr)** | 142 | 167 | 194 |
-| **PAT Margin %** | 10.8% | 11.3% | 11.8% |
-| **ROIC %** | 18.5% | 19.2% | 19.8% |
+### Probability shifters
+**Bull probability goes up if:**
+- Q3FY27 product revenue is ≥₹350 Cr (≥₹117 Cr/month) and Q4 ≥ ₹370 Cr. This would confirm the ₹120–125 Cr/month order book.
+- Core EBITDA margin (excluding refunds/one-offs) is ≥22% in Q3/Q4 as freight falls, or customers reimburse past freight.
+- Auto components come in at ≥₹600 Cr for FY27 and new US/European customer SOPs are confirmed for FY28.
+- Domestic bearing-ring growth reaches ≥15% YoY, or first large-ring/wind orders arrive.
+- A second buyback or a meaningful dividend is announced, or a JV partner is named on sensible terms.
 
-**Valuation:**
-- FY27 PAT: INR 142 Cr → Justified P/E: 16x (mid-teen growth, stable margin) → Fair Value: INR 2,272 Cr market cap
-- Per Share: 2,272 / 26.2 = **INR 87 per share**
+**Bear probability goes up if:**
+- Core margin falls below 20% for two quarters, i.e. freight is not shared and fuel/consumables keep rising.
+- Q3 revenue is below ₹340 Cr, or management cuts FY28 growth below 12%.
+- New US trade action changes the Sec-232 rate, or the US CV-transmission customer slows again.
+- Bearing-ring exports keep shrinking or there is a loss of share at a top-3 bearing customer.
+- WC days keep rising (OCF/EBITDA below 60% in FY27), or a large, low-return JV/acquisition is announced.
 
-#### **Scenario 3: BEAR CASE (25% Probability)**
-
-**Assumptions:**
-- Tariff escalation resurfaces (40-50% on auto components); U.S. market slowdown; Allison recovery delayed to FY28
-- Europe growth slows to single-digit (5-7%); macro headwinds (recessionary environment)
-- New programs launch but ramp slower than expected; 2-3 quarter delays
-- Capacity utilization stagnates at 65-68%
-- Freight remains elevated through FY27; sequential margin compression
-- Domestic bearing ring market share gains slower than expected
-
-**Financial Projections:**
-
-| Metric | FY27E | FY28E | FY29E |
-|--------|-------|-------|-------|
-| **Revenue (Cr)** | 1,180 | 1,310 | 1,450 |
-| **Revenue Growth %** | 3.2% | 11.0% | 10.7% |
-| **EBITDA (Cr)** | 224 | 250 | 290 |
-| **EBITDA Margin %** | 19.0% | 19.1% | 20.0% |
-| **Depreciation (Cr)** | 88 | 90 | 93 |
-| **EBIT (Cr)** | 136 | 160 | 197 |
-| **PAT (Cr)** | 102 | 120 | 148 |
-| **PAT Margin %** | 8.6% | 9.2% | 10.2% |
-| **ROIC %** | 13.2% | 14.5% | 15.8% |
-
-**Valuation:**
-- FY27 PAT: INR 102 Cr → Justified P/E: 12x (low growth, higher risk) → Fair Value: INR 1,224 Cr market cap
-- Per Share: 1,224 / 26.2 = **INR 47 per share**
-
-### Probability-Weighted Fair Value Calculation
-
-**FY27 PAT-Based Valuation:**
-
-| Scenario | PAT (Cr) | P/E Multiple | Market Cap (Cr) | Per Share | Probability | Weighted Value |
-|----------|----------|--------------|-----------------|-----------|-------------|-----------------|
-| **Bull** | 157 | 20x | 3,140 | ₹120 | 25% | ₹30 |
-| **Base** | 142 | 16x | 2,272 | ₹87 | 50% | ₹43 |
-| **Bear** | 102 | 12x | 1,224 | ₹47 | 25% | ₹12 |
-| **WEIGHTED FAIR VALUE** | — | — | ₹2,227 Cr | **₹85** | 100% | **₹85/share** |
-
-### Entry-Point Recommendations
-
-**Current Market Price:** ₹179 per share (Aug 2026)  
-**Probability-Weighted Fair Value:** ₹85 per share
-
-| Price Level | Discount/Premium to Weighted Fair Value | Recommendation | Expected Return to Fair Value |
-|-------------|------------------------------------------|-----------------|--------------------------------|
-| **Below ₹50** (20% below Bear) | >40% discount | BUY AGGRESSIVELY | +70% upside |
-| **₹50 – 72** (Bear FV ±margin) | 15-40% discount | STRONG BUY | +18-70% upside |
-| **₹72 – 85** (toward Base FV) | 0-15% discount | BUY | 0-18% upside |
-| **₹85 – 95** (Fair Value range) | 0-12% premium | HOLD | -5% to +5% |
-| **₹95 – 120** (toward Bull FV) | 12-42% premium | REDUCE | -12% to -42% downside |
-| **Above ₹120** (>40% premium) | >40% premium | SELL | >-40% downside risk |
-
-**⚠️ CRITICAL FINDING: Current Price ₹179 vs. Fair Value ₹85**
-- **Premium to Fair Value: 110%**
-- **Rating: STRONG SELL / AVOID**
-- Stock is trading at 2.1x weighted fair value; this represents extreme overvaluation given execution risks on tariffs and capacity ramp
-- Implied Upside: 355% to fair value
-- **Rating:** **BUY** (with high conviction)
-- **Risk-Reward:** Exceptionally favorable (3.5:1 upside/downside)
-
-### Sensitivity Analysis
-
-**FY27E Revenue Sensitivity to EBITDA Margin & Valuation:**
-
-| Revenue | 19% EBITDA | 21% EBITDA | 23% EBITDA |
-|---------|------------|------------|------------|
-| **1,200 Cr** | INR 646/sh | INR 746/sh | INR 845/sh |
-| **1,310 Cr (Base)** | INR 747/sh | INR 835/sh | INR 947/sh |
-| **1,450 Cr** | INR 896/sh | INR 1,003/sh | INR 1,134/sh |
-
-**Key Takeaway:** Valuation is robust across reasonable sensitivity ranges. Even at 19% EBITDA margin and FY27 revenue of INR 1,200 Cr (bear case lower bound), fair value is INR 646/share, representing 259% upside from INR 180.
+### FY30+ terminal value (base case)
+- **FY30E:** Revenue ₹2,136 Cr (+13%), EBITDA ₹476 Cr (22.3%), PAT **₹344 Cr** (EPS ₹13.1).
+- **Terminal P/E 18x** (mature, mid-teens growth, net-cash industrial) gives mcap ₹6,192 Cr, or **₹236/share at Mar 2030**.
+- **Discounted to today** at 12% over ~3.4 years (factor 1.470): ₹4,212 Cr, or **₹161/share**. Adding cumulative FY27–30 free cash of roughly ₹700–800 Cr (~₹28/share, if retained or returned) gives about ₹190/share.
+- **Interpretation:** The DCF-style value (₹190) is below CMP, while the forward-multiple value (₹214) is just above it. Today's price already assumes the market keeps paying ~22x through FY28. The long-term IRR from ₹209 is roughly 10–12% (EPS CAGR ~13–15% minus some de-rating, plus cash returns). That is adequate, not compelling.
 
 ---
 
-## 7. Key Metrics to Monitor Quarterly
+## 7. Key Metrics to Monitor
 
-### Leading Indicators (Monitor Every Quarter)
+| Metric | Latest | Green | Yellow | Red | Source/when |
+|---|---|---|---|---|---|
+| Product revenue per month (ex-scrap/incentive/duty) | ~₹110 Cr (Q2FY27) | ≥ ₹120 Cr | ₹105–120 Cr | < ₹105 Cr | Q3FY27 call (Feb 2027) |
+| Core EBITDA margin (ex-refund/one-offs) | ~21% (Q2FY27) | ≥ 22% | 20.5–22% | < 20.5% | Quarterly |
+| Auto components share of component sales | 54% | ≥ 55% and growing ≥20% YoY | 50–55% | < 50% | Quarterly split |
+| Auto-component exports | ₹129 Cr/qtr | ≥ ₹135 Cr | ₹115–135 Cr | < ₹115 Cr | Quarterly split |
+| Domestic bearing rings YoY | +10% (Q2) | ≥ 15% | 5–15% | < 5% | Quarterly split |
+| Bearing-ring exports | ₹38 Cr flat | > ₹42 Cr | ₹34–42 Cr | < ₹34 Cr | Quarterly split |
+| US component revenue | ₹92 Cr/qtr | ≥ ₹90 Cr | ₹75–90 Cr | < ₹75 Cr | Concall |
+| Utilisation | 65% H1; 67–68% recent | ≥ 70% by Q4FY27 | 66–70% | < 66% | Concall |
+| Ocean freight cost | >₹25 Cr in H1FY27 | < ₹15 Cr/half or customer reimbursement | ₹15–25 Cr | > ₹25 Cr | Concall |
+| OCF / EBITDA | 42% H1FY27 | ≥ 70% FY27 | 55–70% | < 55% | H2 / AR FY27 |
+| Gross margin | ~58% H1 (inflated) | 51–53% | 49–51% | < 49% | Quarterly |
+| Capital return | ₹180 Cr buyback done | 2nd buyback/dividend ≥ ₹100 Cr | Token dividend | Cash hoarded or large unclear JV | Board meetings |
+| New programme SOPs | 1–2 plants in Q3/early Q4FY27 | On time | 1-quarter slip | > 2-quarter slip or cancellation | Concall |
 
-**1. Order Book & Order Inflow Metrics**
-- **Monthly Order Book:** Target INR 115-125 Cr (H1 FY27) growing to INR 140-150 Cr by Q3 FY27
-  - Monitor separately for bearing rings vs. auto components
-  - Track export (US, Europe, others) vs. domestic order mix
-  - Watch for any large order cancellations or deferrals
-- **New Program SOP Milestones:** Expect 4-6 new customer programs to commence in FY27
-  - Track timing vs. guidance; any 1+ quarter slip is warning sign
-  - Monitor ramp trajectory (should reach 50-70% of peak by Q3-Q4)
-- **Customer Feedback & Forecasts:** Direct line with top 5 customer groups for Q-ahead forecasting
-  - Watch for demand slowdown signals; leading indicator of top-line miss
-
-**2. Segment Revenue & Mix Tracking**
-- **Bearing Rings vs. Auto Components:** Target 50-50 split by end of FY27
-  - Auto components should be 48-50% of revenue (up from 48% in FY26); monitor for mix shift stalling
-  - Bearing rings should grow at 10-12% CAGR, auto components at 15-18% CAGR
-- **Geographic Revenue Mix:**
-  - Domestic: Monitor for continued growth (target 52-55% of revenue)
-  - U.S. Exports: Target recovery to 24-26% of revenue (from 23% in FY26)
-  - Europe Exports: Target sustained growth to 23-25% of revenue
-  - Watch for any sharp deterioration in any one geography
-
-**3. Capacity Utilization Trajectory**
-- **Achievable Capacity Utilization:**
-  - Q1 FY27: 62-63% (noted in call)
-  - Q2-Q3 FY27: 65-68% (new programs ramping)
-  - Q4 FY27: 70-72% (full impact of new programs + U.S. recovery)
-  - Any quarter below target utilization (-2-3% points) requires investigation
-- **Per-Forging-Line Efficiency:** Implies ~5.4-5.8 MT per forging line per day; track if hours/output metrics slip
-- **Workforce Utilization:** Monitor Q1 labor seasonal impact vs. prior year
-
-**4. Gross Margin & Product Mix**
-- **Target Gross Margin:** 50-52% (auto components @ 52-55%, bearing rings @ 48-50%)
-- **Key Drivers to Monitor:**
-  - Raw material cost per unit (track steel input prices; domestic vs. imported sourcing mix)
-  - Scrap yield rate (should be 95-97% conversion; any slip below 95% is red flag)
-  - Freight cost as % of revenue (currently inflated at 2-3x normal; expect normalization to 1.2-1.5x by Q2-Q3 FY27)
-  - Currency impact on import costs (INR depreciation beneficial; watch for sharp INR strength)
-
-**5. EBITDA Margin & Profitability Progression**
-- **Target EBITDA Margin (ex-other income):** 21-22% for FY27 (guided by management)
-  - Q1 FY27: 22.6% (elevated due to mix + freight effect not yet fully negative)
-  - Q2-Q3 FY27: Target 21-22% (freight headwind persists; new programs ramp)
-  - Q4 FY27: Target 22.5-23% (freight normalizes; volume leverage from utilization ramp)
-- **Red Flags:**
-  - EBITDA margin below 20% = underperformance signal
-  - EBITDA margin stalling below 21% in Q3-Q4 despite volume growth = operational issue
-- **PAT Margin:** Should normalize to 14-15% as other income & one-time items fade; monitor tax rate (target 25%)
-
-### Quarterly Monitoring Template
-
-| Metric | Q1 FY27 Actual | Q2 FY27 Target | Q3 FY27 Target | Q4 FY27 Target |
-|--------|--------|--------|--------|--------|
-| **Revenue (Cr)** | 304 | 310 | 340 | 356 |
-| **Revenue Growth YoY %** | 4.3% | 8-10% | 12-14% | 15-17% |
-| **EBITDA Margin %** | 22.6% | 21.5-22% | 21.5-22% | 22.5-23% |
-| **PAT Margin % (ex-OI)** | 14-15% | 14-15% | 14-15% | 14-15% |
-| **Capacity Util %** | 62-63% | 65-68% | 68-70% | 70-72% |
-| **Order Book (Cr)** | 115-125 | 125-135 | 135-150 | 150-160 |
-| **Auto Comp % of Revenue** | 54% | 51-52% | 50-51% | 50-51% |
-
-### Red Flags & Circuit Breakers
-
-1. **Revenue Miss >5% vs. guidance** – Investigate demand vs. execution issues
-2. **EBITDA margin compression >100 bps vs. prior quarter** – Check for freight/mix/competitive pricing issues
-3. **Order book decline >10% sequentially** – Early warning of demand slowdown
-4. **New program SOP delays >1 quarter** – Reassess full-year ramp trajectory
-5. **Capacity utilization declining** – Indicates demand deterioration or execution issues
-6. **Customer feedback warning signals** – Reduced forecasts, longer payment terms, reduced orders
-7. **Tariff escalation announcement** – Potential revenue loss; scenario plan immediately
-8. **Major customer loss or significant order reduction** – Existential risk; requires urgent response
+**Data gaps / items to verify in the next update:**
+- Q2FY27 standalone results PDF (other income, depreciation, tax, balance sheet, receivable/inventory days) was not in the folder. Q2 other income (~₹15 Cr) is back-solved.
+- H1FY27 auto-component total: management said ₹318 Cr, but the quarterly splits sum to ₹340 Cr. H1 exports: management said ₹296 Cr, but the splits sum to ₹317 Cr.
+- No annual report in the folder: FY26 ROCE/ROE, customer concentration and related-party transactions are unverified (FY26 ROE guided at ~15–16%).
+- Solar (9 MW) commissioning status.
+- Exact quantum of the recurring duty reimbursement in Q1FY27 revenue.
+- Size and terms of the value-added JV.
 
 ---
 
 ## Investment Verdict & Rating
 
-### Summary
+**Probability-weighted fair value: ₹214/share** (FY28E PAT basis; 26.23 Cr shares)
+**CMP: ₹209 (Nov 11, 2026). Expected return to weighted FV: +2.4%**
 
-Rolex Rings Limited is a precision hot forging and machining company with a rare combination of:
-- **Largest installed hot forging capacity in India** (26+ forging lines, 625+ CNC spindles)
-- **30% market share in domestic bearing ring market** with expansion opportunity to 40-50%
-- **Successful strategic pivot to auto components** (now 50% of revenue vs. 35% in FY23), driving higher margins and growth
-- **Global customer base** with exposure to U.S., Europe, and emerging domestic markets
-- **Strong balance sheet** with INR 367 Cr net cash post-buyback; fully debt-free; resolved all legacy CDR/RoR obligations
+### Rating: **ACCUMULATE** (at the bottom of the band; turns HOLD above ₹214 and REDUCE above ~₹225; BUY below ~₹193)
 
-### Upside Catalysts (Next 2-3 Years)
+**Bull case (25%) – FV ₹289 (+38%).**
+- H2FY27 runs at the guided ₹120–125 Cr/month product order book, and freight relief lifts core margins to 22.5–23%.
+- Auto components compound above 20% as European and US new-plant programmes peak in FY28–29, with new customers starting.
+- Large-ring/wind and defence orders open a third leg, and surplus cash goes back to shareholders.
+- FY28E PAT is ₹292 Cr, valued at 26x.
 
-1. **U.S. tariff normalization** – Potential INR 75-80 Cr revenue recovery from depressed FY26 levels
-2. **Europe growth acceleration** – 25% FY26 growth expected to sustain at 12-15% CAGR; 60% of new programs from European customers
-3. **New program ramp** – INR 160-165 Cr incremental from 175 Cr nominated programs in FY27; full ramp by FY28
-4. **Domestic bearing market expansion** – Capture of import substitution opportunity; SKF/Timken/NSK capacity additions benefit Rolex
-5. **Capacity utilization leverage** – 70-72% utilization implies INR 80-100 Cr incremental EBITDA via fixed cost absorption
-6. **Freight normalization** – INR 60-80 Cr annual margin benefit as ocean freight returns to normal by H2 FY27
+**Base case (55%) – FV ₹216 (+3%).**
+- Management delivers what it has guided: FY27 revenue of about ₹1,440 Cr (+26%, beating the "mid-teens" guide thanks to H1).
+- FY28 grows ~16% on a refund-adjusted base, with core EBITDA ~22% (+50–75 bps).
+- Bearing rings grow high-single-digit; auto components ~20%.
+- FY28E PAT is ₹257 Cr at 22x. The business is in good shape, but the share price already reflects it.
 
-### Downside Risks (Manageable)
+**Bear case (20%) – FV ₹114 (−45%).**
+- Freight stays high without customer sharing, and a US CV slowdown or new trade action hits the concentrated US transmission business again.
+- European industrial bearings keep shrinking and the Q1 labour dip recurs.
+- FY28 growth slows to ~6% and margins fall to ~20%. PAT drops to about ₹199 Cr and the multiple de-rates to the trough level of ~15x.
 
-1. **Tariff re-escalation** – 25-30% probability; containment via customer cost-sharing and geographic diversification
-2. **Macro slowdown** – FY27-FY28 revenue would decelerate but margin structural support remains
-3. **New program delays** – Risk of 1-2 quarter slips; not full cancellation
-4. **Ocean freight persistence** – Unlikely but possible; most cost shared with customers
+**Bottom line:** Q2FY27 was the best quarter in the company's history and confirmed the thesis. Tariffs are resolved, US volumes are back, the mix shift is real and the balance sheet is clean. The weak spots are ocean freight, working capital and bearing rings. At ₹209, though, the stock trades at ~22x FY27E and ~21x FY28E base EPS, almost exactly the weighted fair value, so there is little margin of safety. **Accumulate only in small amounts at current levels. Add meaningfully below ~₹193 (BUY zone)**, which is likely after a soft, seasonal Q1FY28 or when the refund base effect shows up in FY28 growth. **Trim above ~₹225.**
 
-### Valuation & Recommendation
-
-**Probability-Weighted Fair Value (FY27E):** INR 820 per share
-- Bull Case (25%): INR 1,154/share
-- Base Case (50%): INR 835/share
-- Bear Case (25%): INR 450/share
-
-**Current Price (Aug 15, 2026):** INR 180/share  
-**Upside:** 355% to fair value  
-**Risk-Reward Ratio:** 3.5:1 (favorable)
-
-### Investment Rating: **STRONG SELL / AVOID**
-
-**Corrected Valuation (with 26.2 Cr shares):**
-- **Probability-Weighted Fair Value:** ₹85/share
-- **Current Price:** ₹179/share
-- **Premium to Fair Value:** 110% (EXTREME OVERVALUATION)
-- **Implied Downside:** -52% to fair value
-
-**Valuation by Scenario:**
-- **Bull Case (₹120/share):** Still -33% downside from current price
-- **Base Case (₹87/share):** -51% downside from current price
-- **Bear Case (₹47/share):** -74% downside from current price
-
-**Risk Rating:** HIGH (tariff sensitivity, capacity execution risk, massively overvalued)
-**Conviction Level:** HIGH on bearish view (stock offers poor risk-reward)
-
-**Why AVOID at ₹179:**
-- Trading at 2.1x probability-weighted fair value
-- Zero margin of safety for tariff or execution risks
-- Current P/E of 24.3x is unjustified for a cyclical industrial company with tariff exposure
-- Any negative news (tariff escalation, missed guidance, Allison recovery delays) would trigger 30-50% correction
-
-**Who Should Own at Current Price:** Nobody. Even bull case scenario (₹120) offers 33% downside.
-
-**Key Milestones to Track:**
-- Q2 FY27 (Nov 2026): Confirm revenue momentum (INR 310+ Cr); order book health
-- Q3 FY27 (Feb 2027): New program ramp trajectory; utilization progression to 68-70%
-- Q4 FY27 (May 2027): FY27 guidance confirmation; FY28 outlook revision upward
-- FY28 Initiation: Revenue breakout to INR 1,500+ Cr; margin stabilization at 22%+
+**Next update:** after Q3FY27 results (Feb 2027). Key checks: core margin ≥21.5% excluding one-offs, product revenue ≥₹350 Cr per quarter, freight trend, and the capital-return decision.
 
 ---
 
-**Analysis Date:** August 15, 2026  
-**Data as of:** August 5, 2026 (Q1 FY27 unaudited financial results)  
-**Next Update:** Post Q2 FY27 results (expected Nov 2026)
+**Analysis Date:** November 11, 2026
+**Sources:** Concall transcripts Q1FY26 (Aug 2025), Q2FY26 (Nov 2025), Q3FY26 (Feb 2026), Q4FY26 (May 2026), Q1FY27 (Aug 2026), Q2FY27 (Nov 5, 2026); Q1FY27 standalone results (Aug 5, 2026); screener.in (price and shareholding as of Nov 11, 2026).
