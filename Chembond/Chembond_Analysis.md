@@ -1,9 +1,12 @@
 # Chembond Chemicals Limited – Equity Research Analysis
 
-**Company:** Chembond Chemicals Limited (formerly Chembond Chemical Specialties Limited)  
-**Listing:** BSE (544450), NSE (CHEMBONDCH)  
-**FY26 Consolidated Revenue:** ₹326 Cr | **PAT:** ₹35 Cr | **Market Cap:** TBD (Shares: 2.69 Cr @ ₹5 FV)  
-**Date of Analysis:** August 2026 | **Analysis Period:** FY25–FY26 with FY27–FY29E projections
+**Company:** Chembond Chemicals Limited (formerly Chembond Chemical Specialties Limited)
+**Listing:** BSE (544450), NSE (CHEMBONDCH)
+**FY26 Consolidated Revenue:** ₹326 Cr | **PAT:** ₹35 Cr | **H1 FY27 Revenue:** ₹182 Cr (+32% YoY)
+**CMP:** ~₹222 (9 Nov 2026) | **Market Cap:** ~₹598 Cr | **Shares:** 2.69 Cr (₹5 FV) | **52W range:** ₹105–₹290
+**Date of Analysis:** November 2026 (Q2 FY27 update; previous version Aug 2026) | **Analysis Period:** FY25–H1 FY27 actuals, FY27E–FY29E projections
+
+> **Q2 FY27 update in one line:** Revenue is running well ahead of what we projected (+32% YoY in H1, water volumes +44%). Margins have collapsed, though: EBITDA was 8.8% in Q2 against 16% in FY26, because input costs tied to the Iran war rose faster than Chembond could pass them on. FY27E PAT is cut ~22% to ₹31 Cr. Weighted fair value falls from ₹278 to **₹245**. At ₹222 the stock is an **ACCUMULATE**, just above the BUY threshold.
 
 ---
 
@@ -11,45 +14,44 @@
 
 **Company Profile & Heritage**
 
-Chembond Chemicals Limited is a 51-year-old specialty chemicals manufacturer founded in 1975. Post-demerger (completed May 2025), the company now focuses exclusively on specialty chemical solutions for water treatment, construction chemicals, distribution, and industrial hygiene. The demerger separated Chembond Materials Technologies (which houses commodity chemicals) to allow each entity focused execution.
+Chembond Chemicals Limited is a specialty chemicals and water-treatment solutions company. The parent business was founded in 1975, and FY27 is its 51st year. The demerger completed in May 2025 put the commodity/materials business into Chembond Material Technologies. The listed entity now focuses on water technologies, construction chemicals, specialty chemical distribution and industrial hygiene. Headcount is about 940 (Sep 2026). There are 3 manufacturing sites, and the head office and R&D centre are in Navi Mumbai *(per Oct 2026 investor meet)*.
 
-**Business Segments & Revenue Mix (FY26 Consolidated)**
+**Business Segments & Revenue Mix**
 
-| Segment | Revenue (₹ Cr) | % of Total | Key Products/Services |
-|---------|---|---|---|
-| **Water Technologies** | ~283 | 87% | Cooling tower treatment, boiler water treatment, effluent remediation, RO/membrane protection, chlorine dioxide systems, online monitoring, bioremediation |
-| **Construction Chemicals** | ~23 | 7% | Admixtures, sealants (polysulfide, PU), waterproofing, repair mortars, curing agents, grouts |
-| **Chemical Distribution** | ~20 | 6% | Specialty chemical imports & trading (additives for water, construction, paints, polymers) |
-| **Cleaning & Hygiene** | ~0.5 | 1% | CIP systems, disinfection, institutional cleaners (JV with German co. Calvatis GmbH) |
-| **Total Consolidated** | **326.15** | **100%** | — |
+| Segment | FY26 Revenue (₹ Cr) | FY26 Mix | H1 FY27 Mix | H1 FY27 YoY | Key Products/Services |
+|---|---|---|---|---|---|
+| **Water Technologies** | ~283 | 87% | **82%** | **+28%** | Cooling/boiler water, raw water clarification, ETP & recovery, RO membrane treatment, ClO₂ systems, online monitoring & feed control, bioremediation |
+| **Construction Chemicals** | ~23 | 7% | **8%** | **+30%** | Polysulfide & acrylic sealants, admixtures, waterproofing, repair mortars, grouts, tile adhesives |
+| **Chemical Distribution** | ~20 | 6% | **9%** | **+86%** | Imported specialty additives (construction chemicals, paints & inks, water, PU coatings) |
+| **Cleaning & Hygiene** | ~0.5 | <1% | **1%** | **+59%** | JV with Calvatis GmbH (Germany): CIP for beverage/dairy/brewing, institutional kitchens & laundries |
+| **Total Consolidated** | **326.15** | 100% | 100% | **+32%** | — |
+
+*H1 FY27 mix and growth per Oct 2026 investor meet. Chembond reports a single Ind AS 108 segment (specialty chemicals), so the segment revenue split comes from management commentary only.*
+
+**Revenue model (new disclosure):** About 80% of revenue comes from businesses that need technical manpower on customer sites. These are service-led chemical programmes where Chembond's chemists and engineers monitor and treat water around the clock. About 15–16% is pure product sale, and the rest is a hybrid *(per Oct 2026 investor meet)*. Chemicals make up about 90% of the water business and are consumables sold on 1–2 year contracts. Equipment is the other ~10%.
 
 **Competitive Positioning**
 
-Chembond is among the top 2 domestic players in specialty water treatment chemicals (peer: Vasu Chemicals, now acquired by Dorf Ketal). International competitors include Ecolab, Nalco, Solenis, Suez/Veolia, Ion Exchange, and Thermax. Chembond's differentiation lies in:
-- 45+ years of domain expertise and customer relationships in niche sub-segments
-- High customer stickiness due to technical complexity and risk-averse buyer behavior (downtime costs far exceed chemical spend)
-- No single customer >6% of revenue (highly diversified base)
-- Deployment of on-site technical teams for complex water systems (20% employee cost to sales, vs 14% for peers)
+- Peers: Ecolab/Nalco, Solenis, Veolia, Ion Exchange, Thermax, and Vasu Chemicals, which was acquired by Dorf Ketal. Management expects that competitor's integration to take a few more quarters and sees it as a net positive for Chembond *(per Oct 2026 investor meet)*.
+- **Stickiness:** Customer attrition is "extremely low". Two or three accounts lost last year have come back at better prices and higher margins after competitors performed poorly *(per Oct 2026 investor meet)*.
+- **Versus integrated EPC/water players:** EPC companies that don't make chemicals prefer not to give chemicals business to competitors who do everything themselves. Chembond has formal and informal preferred-supplier partnerships with large equipment companies.
+- Employee cost is about 17–20% of sales, structurally high because the business is service-heavy. Management sees no scope to cut technical headcount because the number of staff is written into customer orders.
 
-**Customer Segments & End-Markets**
+**End-Markets**
 
-Water Technologies (87% of revenue) serves:
-- **Fertilizers:** ~30% (major end-user given treatment needs for recycled water in production)
-- **Petrochemicals & Refining:** ~50% (IOCL, HPCL, BPCL, Reliance refineries; power plants NTPC, NPC)
-- **Metals & Steel:** ~8–10%
-- **Other industrial, data centers, semiconductor fabs, solar panel manufacturers:** ~10%
-
-Public sector (PSU-led contracts via tenders): ~28–30% of water business; Private sector: ~70%
+- Refining & petrochemicals ~50% and fertilizers ~30% of water revenue. The remainder is metals, power, cement, agrochem and others.
+- **"New-age" industries** (data centres, solar panels, copper plants, semiconductors) are **7–8% of water revenue today**, and management expects **12–15% within 3 years** *(per Oct 2026 investor meet)*. Data-centre customers include the largest Indian telecom company, NTT, Yotta and CtrlS. They buy automated online-monitoring and feed-control systems plus make-up chemicals.
+- PSU share of water revenue is **25–30%**, all on fixed-price contracts *(per Oct 2026 investor meet)*.
 
 ---
 
 ## 2. Financial Performance Trajectory
 
-### Consolidated Income Statement (FY25–FY26)
+### Consolidated Income Statement (FY25–FY26, ₹ Lakh)
 
 | Metric | FY25 | FY26 | YoY Growth |
 |---|---|---|---|
-| **Revenue from Operations** | 29,227 | 32,615 | 11.59% |
+| **Revenue from Operations** | 29,227 | 32,615 | 11.6% |
 | **Other Income** | 583 | 396 | (32.1)% |
 | **Total Revenue** | 29,810 | 33,011 | 10.7% |
 | **COGS & Inventory Changes** | 14,344 | 16,283 | 13.5% |
@@ -57,162 +59,137 @@ Public sector (PSU-led contracts via tenders): ~28–30% of water business; Priv
 | **Finance Costs** | 67 | 68 | 1.5% |
 | **Depreciation & Amortisation** | 493 | 535 | 8.5% |
 | **Other Expenses** | 5,501 | 5,488 | (0.2)% |
-| **Total Expenses** | 25,593 | 28,485 | 11.3% |
-| **PBT (Profit Before Tax)** | 4,217 | 4,526 | 7.3% |
+| **PBT** | 4,217 | 4,526 | 7.3% |
 | **Tax Expense** | 1,126 | 1,048 | (7.0)% |
-| **PAT (Profit for Year)** | 3,092 | 3,478 | 12.5% |
-| | | | |
-| **EBITDA** | 4,777 | 5,130 | 7.39% |
-| **Standalone Revenue** | 6,940 | 7,365 | 6.12% |
-| **Standalone PAT** | — | 1,039 | — |
+| **PAT** | 3,092 | 3,478 | 12.5% |
+| **EBITDA (incl. other income)** | 4,777 | 5,130 | 7.4% |
 
-### Quarterly Performance Trajectory (FY26)
+*Per AR FY26.*
 
-| Quarter | Revenue (₹ Cr) | EBITDA (₹ Cr) | EBITDA % | PAT (₹ Cr) | EPS (₹) |
-|---|---|---|---|---|---|
-| Q1 FY26 | 65.4 | 8.4 | 12.9% | 6.3 | 2.34 |
-| Q2 FY26 | 73.0 | 10.7 | 14.6% | 7.2 | 2.68 |
-| Q3 FY26 | 86.1 | 14.5 | 16.8% | 8.9 | 3.31 |
-| Q4 FY26 | 101.4 | 15.7 | 15.5% | 11.6 | 4.36 |
-| **FY26 Full Year** | **326.15** | **51.30** | **16.34%** | **34.78** | **13.00** |
+### Quarterly Performance Trajectory (₹ Cr)
 
-### Q1 FY27 Performance (Jun 2026)
+| Quarter | Revenue | YoY | EBITDA | EBITDA % | PBT | PAT | EPS (₹) |
+|---|---|---|---|---|---|---|---|
+| Q1 FY26 | 65.4 | — | 8.4 | 12.9% | 9.8 | 6.3 | 2.33 |
+| Q2 FY26 | 73.0 | — | 10.7 | 14.6% | 9.6 | 7.2 | 2.68 |
+| Q3 FY26 | 86.1 | — | 14.5 | 16.8% | — | 8.9 | 3.31 |
+| Q4 FY26 | 101.4 | — | 15.7 | 15.5% | 14.0 | 11.6 | 4.36 |
+| **FY26** | **326.2** | **+11.6%** | **51.3** | **15.7%** | **45.3** | **34.8** | **13.00** |
+| Q1 FY27 | 86.5 | +32% | ~14.1 | ~16.3% | 12.8 | 9.55 | 3.54 |
+| **Q2 FY27** | **95.8** | **+31%** | **8.4** | **8.8%** | **7.0** | **~3.3E** | **~1.2E** |
+| **H1 FY27** | **182.3** | **+32%** | **22.6** | **12.4%** | **19.8** | **~12.9E** | **~4.8E** |
 
-| Metric | Jun2026 (Q1 FY27) | Mar2026 (Q4 FY26) | Prior Year Jun2025 |
+*Q1 FY27 per Jun2026 results: tax ₹3.23 Cr, a 25% effective rate. Q2 FY27 revenue, EBITDA and PBT per Oct 2026 investor meet. Q2/H1 PAT is our estimate from the ~35% H1 effective tax rate management cited. The Q2 FY27 results filing was not in the folder, so replace these with reported PAT when available. Quarterly EBITDA definitions in older filings differ slightly from management's "operating EBITDA" (H1 FY26 = ₹22.2 Cr per management).*
+
+### H1 FY27 Deep-Dive *(per Oct 2026 investor meet)*
+
+| Metric | H1 FY26 | H1 FY27 | Change |
 |---|---|---|---|
-| **Consolidated Revenue** | 86.48 | 101.38 | 65.38 |
-| **PBT** | 12.78 | 13.95 | 9.80 |
-| **PAT** | 9.55 | 11.63 | 6.27 |
-| **EPS** | 3.54 | 4.36 | 2.33 |
+| Revenue (₹ Cr) | 138.0 | 182.25 | +32% |
+| Operating EBITDA (₹ Cr) | 22.20 (16%) | 22.55 (12%) | +2% abs / −400 bps |
+| PBT (₹ Cr) | 19.39 (14%) | 19.79 (11%) | +2% abs / −300 bps |
+| Material cost % of sales | 46% | **56%** | **+1,000 bps** |
+| Employee cost % of sales | 20% | 17% | −300 bps (operating leverage) |
+| Other expenses % of sales | 18% | 15% | −300 bps |
+| Water treatment volume (MT) | 9,268 | 13,343 | **+44%** |
+| Construction chem volume (MT) | 1,988 | 1,330 | −33% (mix shift to sealants) |
+| Trading & hygiene volume (MT) | 690 | 1,367 | +98% |
+| Effective tax rate | ~25% | ~35% | Capital gains on investment redemption (mgmt) |
 
 **Key Observations:**
-- Strong sequential growth in FY26: Each quarter improved YoY; Q4 was strongest (₹101 Cr revenue)
-- Margin expansion despite cost pressures: EBITDA margin moved from 15.7% (FY25) to 16.3% (FY26)
-- Water Technologies drove growth (87% of revenue, +12% YoY)
-- Q1 FY27 shows moderation (₹86 Cr vs ₹101 Cr in Q4), which is seasonal (Q1 typically slower)
+- **The top line is very strong.** Q2 was +31% YoY and +11% QoQ, and growth came mostly from volume, with price increases a smaller contributor. Management says every end-market is growing: refining, petchem, agrochem, fertilizer, power, steel and cement.
+- **Margins are badly squeezed.** Material cost rose from 46% to 56% of sales. Q1's increases came from solvents. Q2's came from Chinese-sourced inputs, hit by currency, availability and price together, plus higher freight. Management estimates that **gross profit would have been ~₹20 Cr higher** for the half if Q1-level margins had held.
+- **Q2 also saw other expenses jump QoQ** from ~₹11 Cr to ~₹16.5 Cr: contract labour on new technical-service orders, freight and travel. Q2 gross margin fell only ~1 ppt QoQ (43.7% to 42.7%), so the sequential EBITDA drop was mostly operating costs.
+- **⚠ Water realisation per tonne fell about 11%.** Volume grew 44% but revenue only 28%, which points to a mix shift toward lower-value-per-tonne products even with price increases. This needs explaining in coming calls.
+- **Cash flow was good in H1.** Management said "we've done a credible enough job" and is open to a **buyback or a higher dividend payout** if the cash isn't needed. The FY26 final dividend was ₹1.25/share.
+
+### 📊 Performance Tracker vs. Previous Analysis (Aug 2026)
+
+| Metric | Aug 2026 Base FY27E | Current Tracking (FY27E) | Verdict |
+|---|---|---|---|
+| Revenue | ₹361 Cr | **~₹405 Cr** (H1 ₹182 Cr already) | ✅ **Beat**: even the old Bull (₹373 Cr) is being exceeded |
+| EBITDA margin | 16.0% | **~12.5%** (H1 12.4%, Q2 8.8%) | ❌ **Big miss**: below the old Bear (14.0%) |
+| PAT | ₹39.9 Cr | **~₹31 Cr** | ❌ **−22%**: tracking near the old Bear (₹32 Cr) |
+| Tax rate | 23% | ~29% (H1 35%) | ❌ One-off capital gains |
+| Water volume growth | +10–15% | **+44%** (H1) | ✅ Far ahead |
+| Construction chem revenue | ₹27 Cr | ~₹30 Cr run-rate (+30%) | ✅ Ahead |
+| Bear trigger "EBITDA <14.5%" | — | **Triggered** | ⚠ Bear probability ↑ near term |
+
+**Read-through:** The demand side of the thesis looks stronger than we assumed. The pricing-power/margin side has failed its first real test. The open question is whether the margin damage is temporary (input-cost lag) or structural, i.e. growth bought at lower prices. Management's view is that it's temporary: new business has been won at the higher prices, and past cycles have given "a couple of quarters of tailwind" once costs fall, because prices are not cut back. We give this partial credit.
 
 ### Balance Sheet Strength (As at 31 March 2026)
 
-| Asset | Amount (₹ Cr) |
+| Item | Amount (₹ Cr) |
 |---|---|
-| **Non-Current Assets** | |
 | PPE & Intangibles (net) | 22.74 |
-| Investments (subsidiaries) | — |
-| Financial assets & tax | 7.88 |
-| | |
-| **Current Assets** | |
+| Other non-current financial assets & tax | 7.88 |
 | Inventories | 23.45 |
 | Trade Receivables | 114.36 |
 | Cash & equivalents | 12.10 |
-| Investments (mutual funds, quoted) | 30.50 |
+| Current investments (MFs, quoted) | 30.50 |
 | Other current assets | 3.58 |
-| **Total Assets** | ~215 |
+| **Total Assets** | **~215** |
+| **Equity** | **193.94** |
+| **Debt** | **~0** |
+| Current Liabilities | ~21 |
 
-| Liability | Amount (₹ Cr) |
-|---|---|
-| **Equity** | 193.94 |
-| **Debt (Long-term + Short-term)** | ~0 |
-| **Current Liabilities** | ~21 |
-| **Total Liabilities & Equity** | ~215 |
-
-**Balance Sheet Highlights:**
-- **Zero debt** across short-term and long-term
-- **Current Ratio:** 5.10x (extremely healthy)
-- **Return on Net Worth:** 16.80% (strong ROCE)
-- **Liquidity:** ₹12 Cr cash + ₹31 Cr in mutual funds + ₹24 Cr receivables = ₹67 Cr liquid assets
-- Post-demerger allocation of PPE & working capital still settling; asset base lean relative to revenue scale
+**Highlights:** No debt. Current ratio 5.1x. RoNW 16.8% *(AR FY26)*. Cash plus liquid investments of **~₹43 Cr (~7% of market cap)** at Mar 2026, before part of the investments were redeemed in H1 FY27 (the source of the capital-gains tax). Receivables of ₹114 Cr are about 128 days of FY26 sales, the main use of capital and something to watch as revenue grows 30%.
 
 ---
 
 ## 3. Capacity Roadmap & Capital Intensity
 
-**Manufacturing Footprint**
+**Manufacturing Footprint:** 3 plants. Gujarat (Dudhwada) is the main hub and has 350 kVA rooftop solar. The others are in Himachal Pradesh and Tamil Nadu.
 
-Chembond operates 3 primary manufacturing locations:
-1. **Gujarat (Dudhwada):** Main specialty chemicals manufacturing hub; upgraded with 350 kVA rooftop solar (2025)
-2. **Himachal Pradesh:** Secondary production facility
-3. **Tamil Nadu:** Tertiary facility for regional supply
+**Capacity is not a constraint** *(per Oct 2026 investor meet)*:
+- Products are formulations with short processing cycles. Plants are modular, so a warehouse section or 2 reactors can expand capacity "multi-fold" within **~2 months** without disrupting operations.
+- A line at the Gujarat plant was **repurposed for sealants** in H1 FY27 to meet construction chemicals demand.
+- Equipment (ClO₂ generators, dosing systems) is contract-manufactured, so it needs little capex.
 
-Production is currently **asset-light** given the specialty chemical nature (formulation-driven, not capital-intensive bulk production).
+**Capex & Intensity**
+- FY26 capex was ₹21 Cr, which included post-demerger reallocation. Normalised capex is about ₹7–8 Cr/yr (~2% of revenue).
+- **No major capex is planned for FY27–FY29.** Management: "that's the least of our concerns; our concerns are profitability management and cash flow management."
 
-**Capex & Utilization**
+**Order Book / Visibility**
+- **Equipment order book is ₹15–20 Cr for FY27** *(per Oct 2026 investor meet)*, up from ₹10–12 Cr *(May 2026 concall)*.
+- The chemicals business runs on continuous annual or biennial contracts, and continuing orders "go well into the next financial year".
+- Management expects H2 to be stronger than H1 and Q4 to again be the peak quarter for sales and profit.
 
-- **FY26 Capex:** ₹21 Cr (includes post-demerger asset reallocation; normalised ~₹7–8 Cr annually)
-- **Capex Intensity:** ~2.1% of revenue (low relative to industrial chemical peers at 3–5%)
-- **Capacity Utilization:** Not explicitly disclosed, but management implies 60–70% utilization with headroom for volume growth without major capex
-- **Construction chemicals:** Outsourced toll manufacturing for repair mortars to reduce capex footprint
+**₹1,000 Cr Aspiration: Reality Check**
 
-**Future Capex Plan**
+Management repeated the ₹1,000 Cr target, now framed as **"in three years"** *(Oct 2026)*, against "about four years" in Nov 2025. Management calls it "aspirational" *(May 2026)*. There are three levers: organic growth, scaling the smaller businesses (construction, distribution, hygiene), and **synergistic, digestible M&A**.
 
-- **No major capex announced** for FY27–FY29
-- Gradual network expansion into high-margin markets (Maharashtra, Gujarat, South India)
-- Potential toll manufacturing partnerships for construction chemicals scale-up
-- Equipment business (chlorine dioxide generators, dosing systems) is **contract-manufactured** via third parties; capex minimal
-
-**Key Catalyst: FY30+ Aspiration**
-
-Management has publicly stated a target of **₹1,000 Cr revenue within 4 years** (by FY30), implying **~12–15% annual growth from FY26 base**. This would require:
-- Organic expansion of construction chemicals (huge TAM, currently <10% of revenue)
-- Scaling equipment/systems business (currently ~10–15% of water BU)
-- Geographic and customer diversification (currently ~80% India-focused)
-- Potential M&A to accelerate in non-core areas (distribution, hygiene)
-
-No capex guidance provided; likely to remain asset-light with selective outsourcing.
+> ⚠ **Correction to previous version:** The Aug 2026 note said ₹1,000 Cr by FY30 implied "12–15% CAGR". That was wrong. From FY26's ₹326 Cr it needs **~32% CAGR over 4 years**. From our FY27E base of ₹405 Cr it needs **~35% CAGR to FY30**. Even with the current +32% run-rate, getting there organically is unlikely, and M&A would almost certainly be needed. We do not put the target into any scenario.
 
 ---
 
 ## 4. Key Catalysts & DNA Shift
 
-**Structural Growth Drivers**
+**A. Broad-Based Volume Growth in Water (NEW, strongest signal)**
+- Water treatment volumes were up 44% YoY in H1 FY27. Management attributes this to (i) customers in every segment expanding production, and (ii) more water reuse and recovery, which needs better-designed treatment programmes. Regulation (PSUs moving from elemental chlorine to other oxidants) adds only about 4–5% *(per Oct 2026 investor meet)*.
+- Management describes this as a multi-year manufacturing build-out in India, supported by free-trade agreements and new industries being localised.
 
-**A. Water Treatment Market Tailwinds**
+**B. New-Age Industries: Data Centres, Solar, Copper, Semis**
+- These are 7–8% of water revenue now, targeted at 12–15% in 3 years. Customers typically start on contracts tied to the technology supplier and later move to bid contracts. Incumbents who have performed tend to keep the business, though not always at better prices.
+- The product is automated online monitoring plus remote feed control. Make-up chemical volume per site is small, but the number of sites in concentrated locations makes the service economics work.
 
-- **TAM Expansion:** Indian water treatment specialty chemicals market ~₹9,500 Cr; growing at 5.2% CAGR (5-year forecast)
-- **Core Segment Growth:** Cooling water treatment, boiler treatment, effluent remediation—Chembond's focus—growing at 7–8% CAGR, above market average
-- **Driver:** Rising environmental compliance (zero liquid discharge mandates), reuse/recycling adoption in water-stressed regions, PSU/industrial capex momentum (NHAI, power, fertilizer plants)
+**C. Margin Recovery Optionality (when input costs normalise)**
+- Recently won business is priced at the current high input costs. When costs fall, Chembond historically gets **"a couple of quarters of tailwind"** because it doesn't cut prices.
+- PSU contracts (25–30% of water revenue) are fixed price, so recovery there comes only at renewal, over 1–2 years. Private-sector customers accept partial pass-through.
+- If Q2 FY27 margin (8.8%) goes back to FY26 levels (~15.7%) on a ~₹400 Cr base, EBITDA rises by about ₹27 Cr a year. This is the main source of upside in the stock.
 
-**B. New Product Technologies & Equipment Business**
+**D. Construction Chemicals: Sealants Pivot**
+- Revenue was +30% in H1 FY27 while volume fell 33%. Admixture project orders ended, and the team replaced them with regular-moving polysulfide sealant customers, where Chembond is regarded as the "T1" industry benchmark. A Gujarat line was repurposed to add sealant capacity.
+- Construction chemicals carries about a 20% PBT margin against roughly 8–10% in water, so mix shift adds to margins.
 
-- **Bioremediation:** Microbial cultures + enzyme formulations for wastewater—proof-of-concept completed with large customers; commercialization pipeline for FY27+
-- **Equipment Systems:** Chlorine dioxide generators, dosing systems, RO/DM plants—currently ~10–15% of water BU; repositioning as higher-margin offering
-- **Online Monitoring & Remote Control:** IoT-enabled cloud data logging and automated feed control; integrated into water treatment contracts; emerging revenue stream
-- **Expected Impact:** Equipment business to grow 15–20% CAGR as PSUs mandate modernisation
+**E. Distribution Turnaround (Confirmed)**
+- Distribution grew 86% YoY in H1 FY27, following +40% in H2 FY26. The product-basket restructuring is working, and the segment is now 9% of revenue, up from 6%.
 
-**C. Order Book & Pipeline Visibility**
+**F. Competitive Disruption at Vasu Chemicals**
+- The integration of a key domestic competitor (Vasu, acquired by Dorf Ketal) "will last for a few more quarters". That could give Chembond a window to win share.
 
-*Per May 2026 concall (Management Commentary):*
-- **Outstanding Water Order Book:** ₹100+ Cr (as of Q4 FY26)
-  - Chemicals: ₹85–90 Cr (1-year contracts, mostly renewed)
-  - Equipment: ₹10–12 Cr (2–3 year project cycles)
-- **Expected FY27 Recognition:** 40–50% of new order book (₹40–45 Cr incremental)
-- **Volume Growth Guidance:** Water chemicals expected 10% volume CAGR; Construction chemicals 15–20% CAGR
-- **Second-half FY26 Performance:** H2 revenue up 35% YoY; all segments showed traction (Water +36%, Construction +18%, Distribution +40%)
-
-**D. Construction Chemicals Expansion**
-
-- **Market Opportunity:** ₹10,000+ Cr TAM in India; only ~2–3% penetrated by Chembond
-- **Strategy Shift:** Post-demerger, renewed focus on MSIDC approval for infrastructure projects; sealants (polysulfide, PU) and admixtures now approved for major tenders
-- **Margin Profile:** Construction segment operating at 20% PBT margin (vs 8–10% for water), indicating strong unit economics
-- **Execution:** Team ramp-up resumed after 6-year consolidation phase; dealer/distributor network expanded in Maharashtra & Gujarat
-
-**E. Distribution Business Pivot**
-
-- **Previous Pain:** H1 FY26 saw 30% revenue decline due to team restructuring & product mix shift
-- **New Strategy:** Phased introduction of unique product basket (shifted away from commoditised products)
-- **Expected Recovery:** H2 FY26 showed +40% YoY growth; trajectory expected to continue into FY27
-- **Contribution:** Currently 6% of revenue; potential to double with right product positioning
-
-**F. Digital & Service Infrastructure**
-
-- **O&M (Operations & Maintenance) Contracts:** 6 sites added in FY26; new recurring revenue stream with higher customer stickiness
-- **Customer Portfolio Diversification:** Entry into data centers, semiconductor fabs, solar manufacturers—emerging high-growth end-markets
-- **Competitive Moat:** 45-year customer relationship base + technical service team deployment (40+ people on largest sites) creates switching costs
-
-**G. Post-Demerger Strategic Focus**
-
-- **Separated Identity:** No longer distracted by commodity chemical unit; can pursue specialty chemical margins
-- **Capital Allocation Freedom:** Able to direct profits to construction chemicals expansion, R&D, geographic growth
-- **Board Calibre:** Mix of industry veterans (ICT Vice Chancellor, marketing/HR, tax expertise, legal) + founder family ensuring oversight
+**G. Capital Return**
+- Debt-free with good H1 cash generation. Management is open to a **buyback or a higher dividend** if cash isn't needed for M&A. A buyback would be a near-term rerating trigger.
 
 ---
 
@@ -220,320 +197,208 @@ No capex guidance provided; likely to remain asset-light with selective outsourc
 
 | Risk | Severity (1–10) | Description & Mitigation |
 |---|---|---|
-| **Input Cost Volatility** | **7** | Zinc, molybdenum, and other metal-based raw materials have spiked 120–140% post-Russia-Ukraine tensions (Feb 2025+). Management disclosed 3% EBITDA margin impact in near term. Mitigation: Fixed-price contracts with 90+ days DSO buffer; cost pass-through to private sector (25–30% price increase accepted); public sector constraints (force majeure declared June 2025). **Watchpoint:** Margin pressure could persist 2–3 quarters; monitor commodity prices and contract renewal cycles. |
-| **Public Sector Revenue Stickiness** | **6** | ~28–30% of water revenue tied to tender-based PSU contracts (IOCL, HPCL, BPCL, NTPC); bidding is highly competitive with razor-thin margins. Force majeure clauses not widely accepted; public sector often rigid on pricing. Mitigation: Private sector provides pricing flexibility; new customer acquisition in PSU base (4–5 new contracts post-MSIDC approval). **Watchpoint:** Loss of key PSU contract (1 customer at 5–6% max) could temporarily impact growth. |
-| **Competitive Intensity & Pricing Pressure** | **6** | Rise of startup competitors & employee spinouts from multinationals triggering price wars. Management noted small players willing to operate at <5% margins. Chembond currently 8–10% EBITDA margin on water business (vs construction 20%). Mitigation: Service differentiation (on-site teams, technical expertise, equipment integration) creates stickiness; tender business only 30–35% of water revenue (bulk is recurring). **Watchpoint:** Tender loss rate >10% YoY or margin compression beyond 50 bps quarterly would signal structural pricing pressure. |
-| **Top-Line Growth Stagnation (FY25–FY26)** | **5** | Revenue grew 11.6% YoY in FY26, but base was flat 2 years prior (₹280–292 Cr). First-half FY26 was weak (+0.7% HoY). Q1 FY27 seasonality evident. Mitigation: H2 growth (+35% YoY) and strong order book signal acceleration into FY27; management aspiration ₹1,000 Cr / 4 years implies 12–15% CAGR (credible if water +10%, construction +15–20%, distribution recovers). **Watchpoint:** If FY27 revenue <300 Cr or organic growth slows <8%, re-evaluate execution capability. |
-| **Industrial Capex Cycle Dependency** | **5** | Water treatment demand tied to PSU & industrial capital projects (refineries, power plants, fertilizer plants). Macro slowdown or project delays would impact chemicals and equipment orders. Mitigation: Diversification into data centers, semiconductors, solar—less cyclical; private sector (70% of revenue) less subject to govt budget cuts. **Watchpoint:** Quarterly order book commentary; any <10% new order inflow vs historical 15–20% would indicate cyclical headwind. |
-| **Demerger Integration & Execution Risk** | **4** | Post-demerger (May 2025), overlapping roles, asset reallocation, and tax compliance still settling. FY26 capex includes normalisation charges. Mitigation: Management has published results within compliance deadlines; no auditor qualifications. Demerger legally complete; ongoing adjustments are operational. **Watchpoint:** Any regulatory push-back on demerger terms or extended tax disputes could create unexpected costs. |
-| **Geographic Concentration** | **4** | ~80% revenue from India; only Malaysia & Thailand international operations (minimal <5% collective). Limited FX hedging disclosed. Mitigation: India's industrial capex tailwind strong through FY27–FY28; PSU focus (NTPC, IOC) capital-intensive. No imminent need for geographic diversification (TAM expansion at home). **Watchpoint:** INR depreciation vs USD could marginally reduce margin on imported raw materials; monitor INR/USD >83–84 level. |
-| **Customer Concentration (Residual)** | **3** | No single customer >6% of revenue; top 3 customers ~15–18% estimated. Order book widely distributed. Mitigation: Diversified end-market exposure (fertilizer 30%, petrochem 50%, metals 8%, others 12%); Chembond actively signing new customers (50% volume growth H1 FY26). **Watchpoint:** Loss of 1 customer >5% should not impact >3% consolidated revenue. |
-| **Margin Sustainability** | **4** | EBITDA margin jumped from 15.7% (FY25) to 16.3% (FY26) due to lower raw material costs and product mix (20% PBT construction chemicals included). If commodity input costs normalise higher, margins could compress. Mitigation: Construction chemicals mix (higher margin) likely to grow faster than water (lower margin), offsetting commodity headwinds over 3–5 year horizon. **Watchpoint:** If consolidated EBITDA margin slips <15% YoY sustained, signal of underlying volume/mix deterioration. |
-| **Working Capital Inflation** | **3** | DSO (Days Sales Outstanding) ~85–90 days for construction/distribution, ~45–60 days for water (mix ~65 days). If credit sales expand faster than collections, working capital could tighten. Mitigation: Management explicitly focused on credit quality; current ratio 5.10x provides ample buffer. **Watchpoint:** DSO expansion >100 days sustained would indicate loosening credit discipline. |
-| **Litigation & Environmental Compliance** | **2** | No significant litigation disclosed; environmental compliance (wastewater, emissions) tightly monitored post-demerger. Solar installation underway. Mitigation: Chembond's business is *enabling* compliance (not creating pollutant risk); regulatory scrutiny on suppliers of compliance products is low. **Watchpoint:** Any Ministry environmental notices or consent revocation would be material. |
+| **Input Cost Volatility / Margin Compression** | **8** ↑ (was 7) | Material cost rose from 46% to 56% of sales in H1 FY27. Causes: the Iran war (solvents in Q1; Chinese inputs, currency and freight in Q2), plus domestic plant shutdowns. Q2 EBITDA margin fell to 8.8%. Management: "more volatile than COVID", there is sales-team "fatigue" from repeated price-hike rounds, and Q3 so far looks like Q2. It hopes for normalisation by end-FY27 but "can't give any assurance". **Mitigation:** new contracts priced at current costs, and past cycles gave a tailwind after costs fell. **Watchpoint:** Q3 FY27 EBITDA margin. Below 10% means the bear case. |
+| **Growth Quality: Volume Bought at Lower Realisation?** | **6** (NEW) | Water volume rose 44% but revenue only 28%, so realisation per tonne fell about 11% despite price increases. This could be product mix, or new business won on thin margins. Q2 other expenses jumped about 50% QoQ on contract labour for new technical-service orders. **Watchpoint:** realisation per tonne and gross margin once input costs stabilise. |
+| **PSU Fixed-Price Contracts** | **6** | 25–30% of water revenue is on fixed-price PSU contracts, with no revision allowed during the contract period unless Chembond terminates. These take the full input-cost hit until renewal (1–2 years). |
+| **Competitive Intensity & Pricing** | **5** (was 6) | Startups and spin-outs are pricing aggressively. Customer stickiness is proven, though: lost accounts are returning at higher prices, and Vasu's integration is distracting a key rival. |
+| **Disclosure Quality** | **5** (NEW) | There is no segment reporting (single Ind AS 108 segment). Management declined to give top-10 customer concentration and wouldn't quantify the margin trajectory. A results upload problem delayed the Q2 call. Investors depend on management's verbal segment data. |
+| **₹1,000 Cr Aspiration / Capital Allocation** | **5** (NEW) | The target needs ~35% CAGR from FY27E and is not achievable organically. There is a risk of a stretched acquisition to get there. **Mitigation:** management's stated M&A filter is synergistic, digestible and nothing "fancy". |
+| **Working Capital** | **4** (was 3) | FY26 receivables were ₹114 Cr (~128 days). At 30%+ growth, the receivables build can absorb cash. H1 cash flow was reportedly good. **Watchpoint:** DSO over 130 days. |
+| **Industrial Capex Cycle Dependency** | **4** (was 5) | Demand currently has no weak segment, and new-age industries diversify the base. Still cyclical through refining and fertilizer. |
+| **Elevated Tax Rate** | **3** (NEW) | The H1 effective tax rate was about 35% because of capital gains on investment redemptions. This should normalise to ~25% under the Section 200 regime adopted for FY27. |
+| **Demerger Execution** | **2** (was 4) | Legally complete, with clean auditor limited-review reports. The risk has largely gone. |
+| **Geographic Concentration** | **3** | Revenue is mostly India, with small Malaysia and Thailand subsidiaries. INR weakness raises the cost of Chinese-sourced inputs. |
+| **Litigation & Environmental** | **2** | Nothing material disclosed. |
 
-**Summary Risk Profile:** Mid-stage growth company with **Moderate-to-High execution risk** given the ₹1,000 Cr / 4-year aspiration (requires 12–15% CAGR vs historical 2–5% post-demerger). Input cost volatility and tender competitiveness are near-term headwinds (next 2–3 quarters). Longer-term (FY28+), structural water treatment tailwinds and construction chemicals TAM should support growth.
+**Summary Risk Profile:** Execution risk on demand has fallen sharply, because volumes are excellent. Margin risk has risen sharply. The investment case is now mostly a bet that FY27's margin compression is a 2–4 quarter cost-lag event and not a permanent reset.
 
 ---
 
 ## 6. Future Financial Projections (FY27E–FY29E)
 
-### Valuation Framework & Scenario Assumptions
-
-**Key Modelling Assumptions:**
+### Key Modelling Assumptions
 
 | Metric | Bull | Base | Bear |
 |---|---|---|---|
-| **Water Revenue CAGR FY26–FY29** | 13% | 10% | 6% |
-| **Construction Chem. Revenue CAGR** | 25% | 18% | 10% |
-| **Distribution CAGR** | 15% | 10% | 5% |
-| **Hygiene Growth** | 20% | 12% | 5% |
-| **Consolidated Revenue CAGR** | 13.5% | 10.5% | 6.8% |
-| **EBITDA Margin** | 17.5% | 16.0% | 14.0% |
-| **Tax Rate** | 22% | 23% | 24% |
-| **Working Capital as % Rev** | 28% | 30% | 32% |
+| **H2 FY27 revenue growth YoY** | +24% | +19% | +14% |
+| **H2 FY27 PBT margin** | 13% (fast cost relief) | 11% | 8% (Q2 persists) |
+| **FY27E effective tax** | ~27% | ~29% | ~30% |
+| **FY28E revenue growth** | +20% | +15% | +7.5% |
+| **FY29E revenue growth** | +18% | +13% | +7% |
+| **FY28E/FY29E PBT margin** | 14.5% / 15.0% | 12.5% / 13.0% | 9.5% / 10.0% |
+| **Normalised tax (FY28+)** | 25% | 25.5% | 26% |
+| **Shares (Cr)** | 2.69 | 2.69 | 2.69 |
 
-**Revenue Build-Up (₹ Cr)**
-
-| Segment | FY26A | FY27E | FY28E | FY29E |
-|---|---|---|---|---|
-| **Bull Case** | | | | |
-| Water Tech | 283 | 320 | 362 | 409 |
-| Construction Chem | 23 | 29 | 36 | 45 |
-| Distribution | 20 | 23 | 26 | 30 |
-| Hygiene | 0.5 | 0.6 | 0.7 | 0.8 |
-| **Bull Total Revenue** | 326 | **373** | **424** | **484** |
-| | | | | |
-| **Base Case** | | | | |
-| Water Tech | 283 | 311 | 342 | 376 |
-| Construction Chem | 23 | 27 | 32 | 38 |
-| Distribution | 20 | 22 | 24 | 27 |
-| Hygiene | 0.5 | 0.6 | 0.7 | 0.8 |
-| **Base Total Revenue** | 326 | **361** | **399** | **442** |
-| | | | | |
-| **Bear Case** | | | | |
-| Water Tech | 283 | 300 | 318 | 337 |
-| Construction Chem | 23 | 25 | 28 | 31 |
-| Distribution | 20 | 21 | 22 | 23 |
-| Hygiene | 0.5 | 0.5 | 0.6 | 0.6 |
-| **Bear Total Revenue** | 326 | **346** | **368** | **392** |
-
-### Financial Projections by Scenario
+*EBITDA below includes other income, matching the FY26 ₹51.3 Cr definition. D&A is ~₹5.8–6.5 Cr and finance cost ~₹0.7 Cr.*
 
 #### **BULL CASE (25% Probability)**
-*Assumption: Water market consolidation around Chembond; management executes construction chemicals scale-up; equipment business reaches 15% of water revenue; private sector growth outpaces PSU headwinds.*
+*Iran-war cost pressure eases by Q4 FY27, and the "couple-quarter tailwind" plays out in FY28. Volume momentum continues, new-age industries hit 12%+ of water revenue, and construction/distribution mix lifts margins above FY26 levels.*
 
 | Metric (₹ Cr) | FY27E | FY28E | FY29E |
 |---|---|---|---|
-| **Revenue** | 373 | 424 | 484 |
-| **EBITDA** | 65.3 | 74.1 | 84.7 |
-| **EBITDA %** | 17.5% | 17.5% | 17.5% |
-| **Depreciation** | 5.5 | 5.8 | 6.1 |
-| **EBIT (PBT pre-interest)** | 59.8 | 68.3 | 78.6 |
-| **Finance Costs** | 0.5 | 0.5 | 0.5 |
-| **PBT** | 59.3 | 67.8 | 78.1 |
-| **Tax @ 22%** | 13.0 | 14.9 | 17.2 |
-| **PAT** | 46.3 | 52.9 | 60.9 |
-| **EPS (₹)** | 17.20 | 19.66 | 22.63 |
-| **P/E Multiple** | 20x | 18x | 16x |
-| **Implied Fair Value Per Share (₹)** | 344 | 354 | 362 |
-| **Bull FV (FY29 discounted to today @ 10% WACC)** | | | **362** |
+| **Revenue** | 415 | 500 | 590 |
+| **EBITDA** | 56.6 | 79.2 | 95.5 |
+| **EBITDA %** | 13.6% | 15.8% | 16.2% |
+| **PBT** | 50.1 | 72.5 | 88.5 |
+| **PAT** | 36.7 | 54.4 | 66.4 |
+| **EPS (₹)** | 13.6 | 20.2 | 24.7 |
 
-**Bull Case Narrative:** Chembond achieves 13.5% revenue CAGR, driven by:
-- Water business sustains 13% growth via new PSU wins (fertilizer, power) + private sector expansion
-- Construction chemicals reaches ₹45 Cr by FY29 (6x from FY26) via MSIDC/infrastructure tailwind
-- Equipment/systems business becomes 15% of water revenue (highest-margin offering)
-- EBITDA margin expands to 17.5% as construction/equipment mix improves (higher-margin segments)
-- Tax rate benefits from Section 115BAA lower rate (recently adopted)
-
----
+**Valuation:** 20x FY28E EPS = ₹404 (12-month forward target, Nov 2027). Discounted 1 year at 12% gives a **Bull FV of ₹361/share**.
 
 #### **BASE CASE (50% Probability)**
-*Assumption: Steady-state execution; water segment 10% CAGR (in line with historical post-demerger); construction chemicals 18% CAGR (moderate expansion); commodity cost pressures persist 2–3 more quarters but offset by pricing.*
+*Costs stay high through Q3 and ease gradually from Q4 FY27. PSU contracts reprice at renewal through FY28. Margins recover to about 13–14% EBITDA, short of FY26's 15.7%, because part of the growth was won at lower realisation. Revenue growth normalises to the mid-teens.*
 
 | Metric (₹ Cr) | FY27E | FY28E | FY29E |
 |---|---|---|---|
-| **Revenue** | 361 | 399 | 442 |
-| **EBITDA** | 57.8 | 63.8 | 70.7 |
-| **EBITDA %** | 16.0% | 16.0% | 16.0% |
-| **Depreciation** | 5.5 | 5.7 | 6.0 |
-| **EBIT (PBT pre-interest)** | 52.3 | 58.1 | 64.7 |
-| **Finance Costs** | 0.5 | 0.5 | 0.5 |
-| **PBT** | 51.8 | 57.6 | 64.2 |
-| **Tax @ 23%** | 11.9 | 13.2 | 14.8 |
-| **PAT** | 39.9 | 44.4 | 49.4 |
-| **EPS (₹)** | 14.84 | 16.51 | 18.36 |
-| **P/E Multiple** | 18x | 17x | 16x |
-| **Implied Fair Value Per Share (₹)** | 267 | 281 | 294 |
-| **Base FV (FY29 discounted to today @ 10% WACC)** | | | **292** |
+| **Revenue** | 405 | 466 | 527 |
+| **EBITDA** | 50.8 | 65.0 | 75.6 |
+| **EBITDA %** | 12.5% | 13.9% | 14.3% |
+| **PBT** | 44.3 | 58.3 | 68.5 |
+| **PAT** | 31.3 | 43.4 | 51.0 |
+| **EPS (₹)** | 11.6 | 16.1 | 19.0 |
 
-**Base Case Narrative:** Steady execution; no major surprises:
-- Water revenue grows 10% CAGR (reflecting PSU tender competitiveness; private sector ~12–13%)
-- Construction chemicals 18% CAGR (consistent with FY26 momentum; reaches ₹38 Cr by FY29)
-- EBITDA margin holds at 16.0% (commodity cost headwinds offset by mix shift & pricing)
-- No material capex required; working capital efficient
-- ₹1,000 Cr / 4-year aspiration requires acceleration to 13–15% CAGR post-FY29
-
----
+**Valuation:** 17x FY28E EPS = ₹274 (Nov 2027). Discounted 1 year at 12% gives a **Base FV of ₹245/share**.
 
 #### **BEAR CASE (25% Probability)**
-*Assumption: Industrial capex slowdown; PSU tender losses accelerate; commodity costs remain elevated; construction chemicals execution stumbles; competition intensifies.*
+*Input-cost volatility lasts into FY28. Q2's ~8–9% EBITDA margin becomes the norm because the volume growth was won on price. Growth slows to high single digits as the industrial cycle cools and the business is de-rated.*
 
 | Metric (₹ Cr) | FY27E | FY28E | FY29E |
 |---|---|---|---|
-| **Revenue** | 346 | 368 | 392 |
-| **EBITDA** | 48.4 | 51.5 | 54.9 |
-| **EBITDA %** | 14.0% | 14.0% | 14.0% |
-| **Depreciation** | 5.4 | 5.5 | 5.7 |
-| **EBIT (PBT pre-interest)** | 43.0 | 46.0 | 49.2 |
-| **Finance Costs** | 0.5 | 0.5 | 0.5 |
-| **PBT** | 42.5 | 45.5 | 48.7 |
-| **Tax @ 24%** | 10.2 | 10.9 | 11.7 |
-| **PAT** | 32.3 | 34.6 | 37.0 |
-| **EPS (₹)** | 12.01 | 12.86 | 13.75 |
-| **P/E Multiple** | 14x | 13x | 12x |
-| **Implied Fair Value Per Share (₹)** | 168 | 167 | 165 |
-| **Bear FV (FY29 discounted to today @ 10% WACC)** | | | **165** |
+| **Revenue** | 395 | 425 | 455 |
+| **EBITDA** | 43.3 | 47.1 | 52.4 |
+| **EBITDA %** | 11.0% | 11.1% | 11.5% |
+| **PBT** | 36.8 | 40.4 | 45.5 |
+| **PAT** | 25.6 | 29.9 | 33.7 |
+| **EPS (₹)** | 9.5 | 11.1 | 12.5 |
 
-**Bear Case Narrative:** Execution challenges manifest:
-- Water revenue growth slows to 6% CAGR (PSU tender losses + industrial slowdown)
-- Construction chemicals growth stalls (team execution issues, competitive pressure)
-- EBITDA margin compresses to 14.0% (commodity costs persist, pricing power weak)
-- P/E de-rates as growth narrative breaks (₹1,000 Cr target pushed out)
-- ₹65 Cr+ cash balance still provides downside support
+**Valuation:** 13x FY28E EPS = ₹144 (Nov 2027). Discounted 1 year at 12% gives a **Bear FV of ₹129/share**. Debt-free status plus about ₹40 Cr of liquid assets (~₹15/share) gives some support below this level.
 
----
+### Projection Changes vs. Aug 2026 Version
+
+| | Old FY27E Base | New FY27E Base | Old FV | New FV |
+|---|---|---|---|---|
+| Revenue | ₹361 Cr | ₹405 Cr (+12%) | — | — |
+| EBITDA % | 16.0% | 12.5% | — | — |
+| PAT | ₹39.9 Cr | ₹31.3 Cr (−22%) | — | — |
+| Bull / Base / Bear FV | — | — | ₹362 / ₹292 / ₹165 | ₹361 / ₹245 / ₹129 |
+| **Weighted FV** | — | — | **₹278** | **₹245** |
 
 ### Probability-Weighted Fair Value Calculation
 
-**Fair Value Per Share (FY29E Base Year, Discounted @ 10% WACC to Today)**
-
-| Scenario | Probability | FY29E Fair Value (₹) | PV Contribution |
+| Scenario | Probability | Fair Value (₹/share) | Contribution (₹) |
 |---|---|---|---|
-| Bull | 25% | 362 | 90.50 |
-| Base | 50% | 292 | 146.00 |
-| Bear | 25% | 165 | 41.25 |
-| | | | |
-| **Weighted Fair Value** | **100%** | — | **277.75 ≈ ₹278** |
+| Bull | 25% | 361 | 90.25 |
+| Base | 50% | 245 | 122.50 |
+| Bear | 25% | 129 | 32.25 |
+| **Weighted Fair Value** | **100%** | — | **₹245/share** (~₹659 Cr market cap) |
 
-**Current Market Price Assumption:** Not provided in PDFs; analysis uses FV as benchmark for entry/exit.
+At CMP ₹222 the stock trades at **~19x FY27E EPS** (a margin-trough year) and **~13.8x FY28E base EPS**.
 
----
+### Entry-Point Recommendation Table (Weighted FV ₹245)
 
-### Entry-Point Recommendation Framework
+| Price Level | Discount/Premium to FV | Rating | Expected Return to FV |
+|---|---|---|---|
+| **Below ₹220** | >10% discount | **BUY** | >11% |
+| **₹220–₹245** ← *CMP ₹222* | 0–10% discount | **ACCUMULATE** | 0–11% (**+10.4% at CMP**) |
+| **₹245–₹257** | 0–5% premium | **HOLD** | 0 to −5% |
+| **Above ₹257** | >5% premium | **REDUCE** | <−5% (e.g. −12.5% at ₹280) |
 
-Assuming **Current Market Price (CMP) Range: ₹250–300** (illustrative based on post-IPO trading)
+**Illustrative returns:** ₹190 gives +29%, ₹200 gives +22.5%, ₹222 gives +10.4%, ₹290 (52W high) gives −15.5%.
 
-| Price Level | Discount/Premium to FV | Rating | Action | Expected Return to FV |
-|---|---|---|---|---|
-| **Below ₹250** | >10% discount | **BUY** | Accumulate aggressively | >11% |
-| **₹250–₹265** | 5–10% discount | **ACCUMULATE** | Build position | 5–11% |
-| **₹265–₹292** | 0–5% discount to fair value | **HOLD** | Maintain position | 0–5% |
-| **₹292–₹310** | 0–5% premium | **HOLD** | No fresh buying | 0% (fair value reached) |
-| **Above ₹310** | >5% premium | **REDUCE** | Trim on strength | (1)–(3)% |
+### Probability Shifters
 
----
+**Bull probability ↑ if:**
+- Q3 FY27 EBITDA margin recovers to ≥13%, or Q4 FY27 to ≥15%
+- Management confirms input costs are falling (solvents, Chinese intermediates, freight) and price increases have stuck
+- Water revenue growth stays above 20% YoY while realisation per tonne stabilises or rises
+- A buyback is announced, or new-age industries reach ≥10% of water revenue
+- A synergistic, digestible acquisition is made at a sensible valuation
 
-### Probability Shifters: Events That Move Bull/Base/Bear Odds
+**Bear probability ↑ if:**
+- Q3 FY27 EBITDA margin is ≤10% (a second straight quarter at Q2 levels)
+- Water realisation per tonne falls further (growth being bought)
+- Revenue growth slows below 15% YoY while margins stay compressed
+- Receivables days exceed 130 or operating cash flow turns negative
+- A large, unrelated or debt-funded acquisition is made in pursuit of ₹1,000 Cr
+- PSU contract renewals don't reprice to cover costs
 
-**Bull Probability ↑ If:**
-- Water business secures ₹50+ Cr new PSU order inflow in FY27 (fertilizer, power segments)
-- Construction chemicals revenue reaches ₹30 Cr+ in FY27 (confirms 20%+ CAGR execution)
-- Equipment/systems business reaches ₹40+ Cr (validates higher-margin pivot)
-- Management announces successful M&A in non-core segment (distribution, hygiene) at reasonable valuation
-- Commodity input costs (zinc, moly) normalize downward by >20% from current levels
-- Announces geographic expansion (international JV, new market entry)
+### FY30+ Terminal Value
 
-**Base Probability ↑ If:** (Current baseline)
-- Water revenue growth 8–12% YoY sustained
-- EBITDA margin holds 15.5–16.5%
-- No major customer loss (>5% revenue)
-- Working capital DSO <90 days maintained
-- No regulatory/litigation surprises
+| Scenario | FY30E Revenue (₹ Cr) | FY30E PAT Margin | FY30E PAT (₹ Cr) | EPS (₹) | Terminal P/E | FV at FY30 (₹) | PV @ 12%, 3.4 yrs (₹) |
+|---|---|---|---|---|---|---|---|
+| **Bull** | 690 | 11.5% | 79.4 | 29.5 | 18x | 531 | 361 |
+| **Base** | 590 | 10.0% | 59.0 | 21.9 | 16x | 351 | 239 |
+| **Bear** | 487 | 7.5% | 36.5 | 13.6 | 12x | 163 | 111 |
 
-**Bear Probability ↑ If:**
-- Water business revenue growth drops <6% YoY for 2+ consecutive quarters
-- EBITDA margin compresses below 14.5% and narrows further (>100 bps YoY)
-- Loss of 1 customer representing >5% revenue OR top 5 customers collectively lose >10% orders
-- DSO expands >100 days (working capital deterioration)
-- Capex required for capacity (signals margin compression or fixed cost absorption challenges)
-- Dividend cut or suspension (signals cash flow strain)
+**Weighted terminal PV:** (361 × 25%) + (239 × 50%) + (111 × 25%) = **₹238/share**. This is in line with the ₹245 FY28E-based weighted FV, which supports the valuation. Even the base case gets to about ₹590 Cr by FY30, well short of the ₹1,000 Cr aspiration.
 
 ---
 
-### Terminal Value & Long-Term Fair Value (FY30+)
+## 7. Investment Verdict & Key Metrics to Monitor
 
-**FY30 Normalized Assumptions (Extrapolated from FY29E)**
+### Verdict: **ACCUMULATE** at ₹222 (Weighted FV ₹245, +10% upside; BUY below ₹220)
 
-Assuming steady-state growth resumes post-FY29 compression phase:
+**Bull Case (25%): ₹361.** Input costs normalise by Q4 FY27. The "couple of quarters of tailwind" plus a better mix (sealants, distribution, data centres) take margins back above 15%. On a base 50%+ larger than FY26, FY28E PAT reaches about ₹54 Cr. What needs to go right: the Iran-war supply shock fades, price increases stick, and volume momentum holds.
 
-| Scenario | FY30E Revenue (₹ Cr) | FY30E PAT (₹ Cr) | Terminal P/E | Terminal Value | PV @ 10% Discount |
-|---|---|---|---|---|---|
-| **Bull** | 547 | 68.8 | 18x | 1,238.4 | 757 |
-| **Base** | 486 | 54.3 | 16x | 868.8 | 532 |
-| **Bear** | 430 | 40.8 | 12x | 489.6 | 300 |
+**Base Case (50%): ₹245.** Demand stays strong and margins recover gradually to about 14% by FY28–29, held back by PSU fixed-price lag and some lower-priced volume. PAT goes from ₹31 Cr (FY27E) to ₹43 Cr (FY28E) to ₹51 Cr (FY29E). This matches management's track record: strong on demand and execution, but historically capped at about 16% margin.
 
-**Long-term Fair Value (Terminal):**
-- **Bull:** ₹757 Cr market cap ÷ 2.69 Cr shares = **₹281/share** (mid-point FY30)
-- **Base:** ₹532 Cr ÷ 2.69 Cr = **₹197/share** (mid-point FY30)
-- **Bear:** ₹300 Cr ÷ 2.69 Cr = **₹111/share** (mid-point FY30)
+**Bear Case (25%): ₹129.** Q2 FY27's ~9% margin turns out to be closer to the new normal: input volatility persists and the 44% volume growth came from aggressive pricing. Growth slows, the narrative breaks and the stock de-rates to about 13x. The debt-free balance sheet and liquid assets limit the downside somewhat.
 
-**Weighted Terminal Fair Value (FY30):**  
-(281 × 25%) + (197 × 50%) + (111 × 25%) = **₹189/share**
-
-*Note: Terminal fair value lower than FY29E base case (₹292) due to normalization of growth to 5–6% long-term industrial sector CAGR post-FY29.*
-
----
-
-## 7. Key Metrics to Monitor Quarterly
+**Bottom line:** The market has already cut the stock about 23% from its 52-week high of ₹290. At ₹222, the price implies roughly a base-case recovery at a slight discount. The demand story is the best it has been since listing. The margin story is the worst. The **Q3 FY27 margin print is the decisive data point**. Build positions in tranches and add below ₹220. Don't average down aggressively until margins show they've stabilised.
 
 ### Leading Indicators (Watch Each Quarter)
 
-| Metric | FY26A | FY27E Target | Red Flag Threshold |
-|---|---|---|---|
-| **Water Revenue Growth (YoY %)** | +12% | +8% to +12% | <5% sustained (2+ qtrs) |
-| **Water Volume Growth (YoY %)** | +30% H1→H2 | +10% to +15% | <5% (suggests pricing power erosion) |
-| **Order Book (₹ Cr)** | ₹100+ | ₹80–120 | <₹60 (execution issues or demand slowdown) |
-| **New Customer Wins (# of accounts)** | ~50+ (est.) | ~30–40 | <20 (market share loss) |
-| **Days Sales Outstanding (DSO)** | ~65 days | <75 days | >90 days (credit discipline break) |
-| **Tender Revenue as % of Water** | 30–35% | 30–35% | >40% (margin compression signal) |
+| Metric | FY26A | H1 FY27A | FY27E Target | Red Flag Threshold |
+|---|---|---|---|---|
+| **Consolidated EBITDA margin** | 15.7% | 12.4% (Q2: 8.8%) | ~12.5% (H2 ~13%) | Q3 FY27 ≤10% |
+| **Material cost % of sales** | ~46–50% | 56% | Trending to 50% by Q4 | >56% in Q3/Q4 |
+| **Revenue growth YoY** | +11.6% | +32% | +24% (FY27E ₹405 Cr) | <15% with no margin recovery |
+| **Water volume growth (MT)** | — | +44% | +25–30% | <10% |
+| **Water realisation per tonne** | — | −11% YoY | Stabilise | Further decline >5% |
+| **Equipment order book** | ₹10–12 Cr | ₹15–20 Cr | ₹20 Cr+ | <₹10 Cr |
+| **New-age industries % of water** | — | 7–8% | 8–9% | Stagnant |
+| **Effective tax rate** | 23% | ~35% | ~29% | >30% in FY28 |
 
-### Profitability & Efficiency Metrics
-
-| Metric | FY26A | FY27E Target | Red Flag |
-|---|---|---|---|
-| **Consolidated EBITDA Margin %** | 16.3% | 16.0% | <15.0% sustained |
-| **Water EBITDA Margin %** | ~12% | 11.5–12.5% | <11% (commodity cost pass-through failure) |
-| **Construction Chem PBT Margin %** | 20% | 18–20% | <15% (loses differentiation) |
-| **PAT Margin %** | 10.7% | 11.0% | <9.5% (operational deterioration) |
-| **Return on Equity (RONW)** | 16.8% | 15–18% | <12% (capital inefficiency) |
-
-### Balance Sheet & Liquidity Metrics
+### Profitability, Balance Sheet & Capital Allocation
 
 | Metric | FY26A | FY27E Target | Red Flag |
 |---|---|---|---|
-| **Current Ratio** | 5.10x | 3.5–4.5x | <2.5x (liquidity stress) |
-| **Debt-to-Equity** | 0.0x | 0.0x | >0.2x (new borrowing) |
-| **Interest Coverage Ratio** | >50x | >20x | <5x (covenant violation risk) |
-| **Operating Cash Flow (₹ Cr)** | — | >₹40 | <₹25 (working capital deterioration) |
+| **PAT margin** | 10.7% | ~7.7% | <6% |
+| **Construction chem PBT margin** | ~20% | 18–20% | <15% |
+| **Employee cost % of sales** | 19% | ~17% | >20% (no operating leverage) |
+| **Other expenses % of sales** | 17% | ~15–16% | >17% (labour/freight creep) |
+| **Receivable days** | ~128 | <120 | >130 |
+| **Debt-to-equity** | 0.0x | 0.0x | >0.2x (especially for M&A) |
+| **RoNW** | 16.8% | ~15% | <12% |
+| **Buyback / dividend** | ₹1.25 DPS | Buyback or higher payout | Cash hoarding with no M&A |
 
-### Strategic Execution Metrics
+### Strategic Execution Milestones
 
-| Milestone | Target | Status / Expected Timing |
+| Milestone | Target | Status (Nov 2026) |
 |---|---|---|
-| **₹1,000 Cr Revenue** | By FY30 | Management aspiration; requires 13–15% CAGR post-FY27 |
-| **Construction Chemicals Scale** | ₹45+ Cr (FY29E) | Critical to margin expansion; 20% PBT target |
-| **Equipment/Systems Business** | ₹60+ Cr (15% of water biz by FY29E) | Proof-of-concept complete; commercialization ramp FY27–FY28 |
-| **Bioremediation Commercial Traction** | ₹10+ Cr revenue (FY29E) | POC signed with large customers; FY27 commercialization |
-| **O&M (Operations & Maintenance) Contracts** | ₹20+ Cr (FY29E) | Currently 6 sites; recurring revenue model |
-| **Geographic Expansion** | India 85%, Intl 15% (FY29E) | Malaysia/Thailand stabilized; potential JV exploration for new markets |
-| **Distribution Business Recovery** | ₹27+ Cr (FY29E) | H2 FY26 +40% YoY growth; product mix normalized |
+| **Margin normalisation** | EBITDA ≥15% | Management hopes by end-FY27, no assurance. **Key test** |
+| **₹1,000 Cr revenue** | "3 years" (mgmt) | Needs ~35% CAGR. Unrealistic organically; M&A needed |
+| **New-age industries share** | 12–15% of water in 3 yrs | 7–8% today. Data-centre wins with large telecom, NTT, Yotta, CtrlS |
+| **Construction chem scale** | ₹35+ Cr FY28E | +30% H1. Sealants pivot, Gujarat line repurposed |
+| **Distribution** | ₹30+ Cr FY27E | +86% H1. Turnaround confirmed |
+| **Hygiene JV (Calvatis)** | Revive after 7 subpar years | +59% H1 on a small base. Early traction via water-team integration |
+| **Inorganic growth** | Synergistic, digestible | Evaluating inbound opportunities, nothing announced |
 
 ### Market & Competitive Dynamics
 
 | Indicator | Monitor For | Implication |
 |---|---|---|
-| **Competitor Margin Compression** | Ecolab, Nalco, Ion Exchange EBITDA margin trends | If peers' margins narrow >150 bps, indicates pricing power erosion across industry |
-| **PSU Tender Win Rate** | % of bids won vs. submitted | <50% win rate sustained → market share loss; >60% → pricing confidence |
-| **Employee Turnover in Sales/Tech** | Quarterly attrition rate | >15% annualized → team instability; loss of customer relationships |
-| **Commodity Input Prices** | Zinc, molybdenum, key chemical indices | Monitor INR-adjusted price impact on COGS; breakeven price for cost pass-through |
-| **Industrial Capex Cycle** | PSU & industrial capital project announcements (NHAI, Power, Refineries) | If capex cycle softens, expect water business growth to lag 2–3 quarters |
+| **Crude / solvent prices, Middle East situation** | De-escalation of the Iran war, freight normalisation | The main swing factor for margins (management: 1–2 quarters to recover after de-escalation) |
+| **Chinese intermediates & INR/CNY** | Price and availability of imported key components | Drove the Q2 cost spike |
+| **Vasu (Dorf Ketal) integration** | Account churn from the competitor | Share-gain window over the next few quarters |
+| **PSU tender renewals** | Repricing at renewal | 25–30% of water revenue is locked at old prices |
+| **Data-centre capex pipeline** | New DC commissioning in Maharashtra and elsewhere | Drives the new-age mix toward 12–15% |
 
 ---
 
-## Summary Investment Thesis
+**Report Date:** November 12, 2026 (Q2 FY27 update)
+**Analysis Based On:** Oct 2026 Q2 FY27 Analyst/Investor Meet transcript (24 Oct 2026), Jun2026 Q1 FY27 results, May2026 concall, Nov2025 concall, FY26 Annual Report. CMP and market cap are from public market-data sites as of 9 Nov 2026.
+**Note:** The Q2 FY27 results filing was not available. Q2/H1 FY27 PAT and EPS are estimates from management's ~35% H1 tax-rate comment, so update them once the filing is added.
+**Recommendation Horizon:** 12–18 months (FY28E-based)
 
-### Bull Case (25% Probability)
-Chembond is **transitioning from commodity water treatment supplier to specialty chemical solution provider** with emerging equipment & bioremediation businesses. Post-demerger focus, management execution on construction chemicals expansion, and strong PSU/industrial tailwind through FY28 could drive 13.5% revenue CAGR to ₹484 Cr by FY29E. EBITDA margin expansion to 17.5% (via higher-margin construction/equipment mix) and 20x forward P/E multiple support **₹362/share fair value**. **Catalyst:** Successful order book conversion (₹100+ Cr); construction chemicals reaching ₹45 Cr.
-
-### Base Case (50% Probability)
-Steady execution of 10.5% revenue CAGR to ₹442 Cr by FY29E, with EBITDA margin stable at 16%. Tender competitiveness and commodity cost pressures persist through FY27–FY28 but offset by pricing and mix. PAT grows 8–10% CAGR to ₹49 Cr. **Weighted fair value ₹292/share** reflects disciplined management and strong balance sheet (zero debt). **Entry point:** ₹250–265 (5–10% discount provides margin of safety).
-
-### Bear Case (25% Probability)
-Industrial capex slowdown, PSU tender losses, and commodity cost pressure not offset by pricing result in 6.8% revenue CAGR to ₹392 Cr. EBITDA margin contracts to 14% (100 bps below base). **Fair value ₹165/share**; downside protected by ₹65+ Cr cash balance. **Watchpoint:** Revenue growth <8% YoY sustained signals this scenario.
-
-### Rating & Entry Point (Current Market: ₹250–300 assumed)
-- **At ₹250–265:** **ACCUMULATE** — 5–10% discount to FV; expected return 5–11% to base case
-- **At ₹265–292:** **HOLD** — Fair value range; no margin of safety
-- **Above ₹310:** **REDUCE** — Premium to FV; wait for pullback
-
-### Key Catalysts (Next 12–24 Months)
-1. **Q1–Q2 FY27 results** — Water order book conversion, construction chemicals traction
-2. **Commodity input price normalization** — Margin upside if zinc/moly soften >20%
-3. **Major PSU or Equipment order wins** — ₹20+ Cr order announces upside to guidance
-4. **Construction chemicals milestone** — Revenue ₹30+ Cr signals 3x potential by FY29E
-5. **M&A announcement** — Distribution or hygiene business bolt-on to accelerate portfolio
-
-### Investment Risks
-- Tender competitiveness & pricing pressure (near-term)
-- Input cost inflation persistence (2–3 quarter headwind)
-- Industrial capex cycle slowdown (macro risk)
-- Execution on ₹1,000 Cr / 4-year aspiration (requires board/management discipline)
-
----
-
-**Report Date:** August 10, 2026  
-**Analysis Based On:** FY26 Annual Report, Jun2026 Q1 Results, May2026 Concall Transcript, Nov2025 Concall Transcript  
-**Recommendation Horizon:** 12–18 months to FY28E
-
-*Disclaimer: This analysis reflects estimates and management guidance as of Aug 2026. Actual results may vary materially. Conduct own due diligence before investing.*
+*Disclaimer: This analysis reflects estimates and management commentary as of Nov 2026. Actual results may vary materially. Conduct own due diligence before investing.*
